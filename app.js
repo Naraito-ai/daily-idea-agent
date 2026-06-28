@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", () => {
   // Application State
   let appData = null;
   let activeDifficulty = "all";
+  let chatHistory = [];
 
   // Elements
   const lastUpdatedEl = document.getElementById("last-updated");
@@ -11,6 +12,17 @@ document.addEventListener("DOMContentLoaded", () => {
   const dailyProgress = document.getElementById("daily-progress");
   const progressPercentage = document.getElementById("progress-percentage");
   
+  // Chat Elements
+  const chatSetupPane = document.getElementById("chat-setup-pane");
+  const chatActivePane = document.getElementById("chat-active-pane");
+  const keyInput = document.getElementById("client-api-key-input");
+  const saveKeyBtn = document.getElementById("save-key-btn");
+  const disconnectKeyBtn = document.getElementById("disconnect-key-btn");
+  const chatMessagesContainer = document.getElementById("chat-messages-container");
+  const chatUserInput = document.getElementById("chat-user-input");
+  const chatSendBtn = document.getElementById("chat-send-btn");
+  const chatTyping = document.getElementById("chat-typing");
+
   // Tab filtering
   const filterBtns = document.querySelectorAll(".tab-btn");
   filterBtns.forEach(btn => {
@@ -62,7 +74,6 @@ document.addEventListener("DOMContentLoaded", () => {
     })
     .catch(error => {
       console.warn("Could not load data.json, using mock data:", error);
-      // Fetch mock fallback or show warning
       loadFallbackData();
     });
 
@@ -75,10 +86,11 @@ document.addEventListener("DOMContentLoaded", () => {
     // 2. Set trend summary
     trendTextEl.textContent = appData.trends || "No trends summary available today.";
 
-    // 3. Render ideas & actions
+    // 3. Render items
     renderIdeas();
     renderQuickActions();
     renderRawFeeds();
+    initializeChatUI();
 
     // Re-initialize Lucide Icons
     if (window.lucide) {
@@ -115,7 +127,6 @@ document.addEventListener("DOMContentLoaded", () => {
       const difficultyClass = idea.difficulty.toLowerCase();
       const techTagsHtml = idea.tech_stack.map(tag => `<span class="tech-tag">${tag}</span>`).join("");
       
-      // Load tasks state from localStorage
       const ideaId = `idea-${idea.title.replace(/\s+/g, '-').toLowerCase()}`;
       
       const tasksHtml = idea.steps.map((step, stepIndex) => {
@@ -158,7 +169,6 @@ document.addEventListener("DOMContentLoaded", () => {
         </div>
       `;
 
-      // Add event listeners to task check-boxes
       ideaCard.querySelectorAll(".task-item").forEach(item => {
         item.addEventListener("click", () => {
           const key = item.dataset.key;
@@ -229,13 +239,12 @@ document.addEventListener("DOMContentLoaded", () => {
     progressPercentage.textContent = `${percentage}%`;
   }
 
-  // Render raw feed logs at the bottom
+  // Render raw feed logs
   function renderRawFeeds() {
     if (!appData || !appData.scraped_sources) return;
 
     const sources = appData.scraped_sources;
 
-    // Render GitHub Repos
     const ghList = document.getElementById("github-feed-list");
     ghList.innerHTML = "";
     if (sources.github && sources.github.length > 0) {
@@ -251,7 +260,6 @@ document.addEventListener("DOMContentLoaded", () => {
       ghList.innerHTML = `<p class="loading-state">No repositories fetched today.</p>`;
     }
 
-    // Render Hacker News
     const hnList = document.getElementById("hn-feed-list");
     hnList.innerHTML = "";
     if (sources.hacker_news && sources.hacker_news.length > 0) {
@@ -267,7 +275,6 @@ document.addEventListener("DOMContentLoaded", () => {
       hnList.innerHTML = `<p class="loading-state">No relevant Hacker News articles fetched today.</p>`;
     }
 
-    // Render arXiv Papers
     const arxivList = document.getElementById("arxiv-feed-list");
     arxivList.innerHTML = "";
     if (sources.arxiv && sources.arxiv.length > 0) {
@@ -283,7 +290,6 @@ document.addEventListener("DOMContentLoaded", () => {
       arxivList.innerHTML = `<p class="loading-state">No arXiv papers fetched today.</p>`;
     }
 
-    // Render Dev.to Articles
     const devtoList = document.getElementById("devto-feed-list");
     devtoList.innerHTML = "";
     if (sources.devto && sources.devto.length > 0) {
@@ -316,6 +322,186 @@ document.addEventListener("DOMContentLoaded", () => {
       </div>
     `;
     return item;
+  }
+
+  // ----------------------------------------------------
+  // Chat Bot Controller Logic
+  // ----------------------------------------------------
+  function initializeChatUI() {
+    const savedKey = localStorage.getItem("gemini_client_key");
+    if (savedKey) {
+      showActiveChat();
+    } else {
+      showChatSetup();
+    }
+
+    // Save key action
+    saveKeyBtn.addEventListener("click", () => {
+      const key = keyInput.value.trim();
+      if (key) {
+        localStorage.setItem("gemini_client_key", key);
+        showActiveChat();
+        keyInput.value = "";
+      }
+    });
+
+    // Disconnect key action
+    disconnectKeyBtn.addEventListener("click", () => {
+      localStorage.removeItem("gemini_client_key");
+      chatHistory = [];
+      chatMessagesContainer.innerHTML = `
+        <div class="message system-msg">
+          Hello! I've loaded today's tech trends. Ask me to refine any idea, draft some code, or brainstorm more projects!
+        </div>
+      `;
+      showChatSetup();
+    });
+
+    // Send chat text triggers
+    chatSendBtn.addEventListener("click", sendUserMessage);
+    chatUserInput.addEventListener("keypress", (e) => {
+      if (e.key === "Enter") {
+        sendUserMessage();
+      }
+    });
+  }
+
+  function showChatSetup() {
+    chatSetupPane.classList.remove("hidden");
+    chatActivePane.classList.add("hidden");
+  }
+
+  function showActiveChat() {
+    chatSetupPane.classList.add("hidden");
+    chatActivePane.classList.remove("hidden");
+  }
+
+  async function sendUserMessage() {
+    const query = chatUserInput.value.trim();
+    if (!query) return;
+
+    // Render User Message bubble
+    appendMessage(query, "user");
+    chatUserInput.value = "";
+    
+    // Add to Gemini History
+    chatHistory.push({
+      role: "user",
+      parts: [{ text: query }]
+    });
+
+    // Show Typing Indicator
+    chatTyping.classList.remove("hidden");
+    chatMessagesContainer.scrollTop = chatMessagesContainer.scrollHeight;
+
+    const apiKey = localStorage.getItem("gemini_client_key");
+    const systemPrompt = `You are a helpful software development mentor, project manager, and tech architect.
+    
+    Here is the scraped data and brain recommendations generated for the user today:
+    ---
+    General Trend Summary: ${appData.trends}
+    Recommended Project Ideas: ${JSON.stringify(appData.ideas, null, 2)}
+    Habit checklist: ${JSON.stringify(appData.quick_actions)}
+    ---
+
+    Provide suggestions, write boilerplate files, explain technical articles/repos, and answer questions.
+    Keep your explanations concise, action-focused, and write clean code blocks inside markdown markdown blocks where appropriate.`;
+
+    const endpoint = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${apiKey}`;
+    
+    try {
+      const response = await fetch(endpoint, {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json"
+        },
+        body: JSON.stringify({
+          contents: chatHistory,
+          systemInstruction: {
+            parts: [{ text: systemPrompt }]
+          }
+        })
+      });
+
+      const result = await response.json();
+      chatTyping.classList.add("hidden");
+
+      if (response.ok && result.candidates && result.candidates[0].content.parts[0].text) {
+        const replyText = result.candidates[0].content.parts[0].text;
+        appendMessage(replyText, "assistant");
+        
+        chatHistory.push({
+          role: "model",
+          parts: [{ text: replyText }]
+        });
+      } else {
+        const errMsg = result.error ? result.error.message : "API Call failed. Check key settings.";
+        appendMessage(`System Error: ${errMsg}`, "system-msg");
+      }
+    } catch (e) {
+      chatTyping.classList.add("hidden");
+      appendMessage(`Network Connection error: ${e.message}`, "system-msg");
+    }
+
+    chatMessagesContainer.scrollTop = chatMessagesContainer.scrollHeight;
+  }
+
+  function appendMessage(text, role) {
+    const bubble = document.createElement("div");
+    bubble.className = `message ${role}`;
+    
+    if (role === "system-msg") {
+      bubble.textContent = text;
+    } else {
+      bubble.innerHTML = renderMarkdown(text);
+    }
+    
+    chatMessagesContainer.appendChild(bubble);
+  }
+
+  // Basic client-side Markdown rendering (handles code blocks, headers, lists, and bold text)
+  function renderMarkdown(md) {
+    let html = md
+      // Escaping HTML entities to prevent script injection
+      .replace(/&/g, "&amp;")
+      .replace(/</g, "&lt;")
+      .replace(/>/g, "&gt;");
+
+    // Code blocks
+    html = html.replace(/```([\s\S]*?)```/g, (match, code) => {
+      const parts = code.trim().split("\n");
+      let lang = "";
+      let actualCode = code;
+      if (parts[0].length < 15 && !parts[0].includes(" ") && !parts[0].includes(":") && parts[0].toLowerCase() !== parts[0].toUpperCase()) {
+        lang = parts[0];
+        actualCode = parts.slice(1).join("\n");
+      }
+      return `<pre><code class="language-${lang}">${actualCode.trim()}</code></pre>`;
+    });
+
+    // Inline Code
+    html = html.replace(/`([^`\n]+)`/g, "<code>$1</code>");
+
+    // Headers
+    html = html.replace(/^### (.*?)$/gm, "<h5>$1</h5>");
+    html = html.replace(/^## (.*?)$/gm, "<h4>$1</h4>");
+    html = html.replace(/^# (.*?)$/gm, "<h3>$1</h3>");
+
+    // Bullet Lists
+    html = html.replace(/^\* (.*?)$/gm, "<li>$1</li>");
+    html = html.replace(/^- (.*?)$/gm, "<li>$1</li>");
+
+    // Bold text
+    html = html.replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>");
+    html = html.replace(/\*([^*]+)\*/g, "<em>$1</em>");
+
+    // Replace linebreaks with paragraph/breaks
+    html = html.split("\n\n").map(para => {
+      if (para.startsWith("<li>") || para.startsWith("<pre>")) return para;
+      return `<p>${para.replace(/\n/g, "<br>")}</p>`;
+    }).join("");
+
+    return html;
   }
 
   function loadFallbackData() {

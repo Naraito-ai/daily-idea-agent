@@ -65,7 +65,6 @@
         </div>
         
         <div id="ideas-container" class="ideas-grid">
-          <!-- Ideas will be dynamically generated here -->
           <div class="loading-state">
             <div class="spinner"></div>
             <p>Aggregating and brainstorming ideas...</p>
@@ -73,30 +72,75 @@
         </div>
       </section>
 
-      <!-- Quick Actions (Right/Sidebar Column) -->
-      <section class="actions-section">
-        <div class="section-title">
-          <i data-lucide="check-square"></i>
-          <h2>Today's Developer Habits</h2>
-        </div>
-        <div class="actions-card glass">
-          <p class="actions-intro">Immediate actionable next steps based on productivity & automation trends:</p>
-          <ul id="quick-actions-list" class="checklist">
-            <!-- Actions will be dynamically generated here -->
-            <li class="loading-placeholder"></li>
-            <li class="loading-placeholder"></li>
-            <li class="loading-placeholder"></li>
-            <li class="loading-placeholder"></li>
-          </ul>
-          <div class="progress-container">
-            <div class="progress-text">Daily Completion</div>
-            <div class="progress-bar-bg">
-              <div id="daily-progress" class="progress-bar-fill" style="width: 0%"></div>
-            </div>
-            <div id="progress-percentage" class="progress-num">0%</div>
+      <!-- Sidebar (Right Column) -->
+      <div class="sidebar-container">
+        <!-- Quick Actions -->
+        <section class="actions-section">
+          <div class="section-title">
+            <i data-lucide="check-square"></i>
+            <h2>Today's Developer Habits</h2>
           </div>
-        </div>
-      </section>
+          <div class="actions-card glass">
+            <p class="actions-intro">Immediate actionable next steps based on productivity & automation trends:</p>
+            <ul id="quick-actions-list" class="checklist">
+              <li class="loading-placeholder"></li>
+              <li class="loading-placeholder"></li>
+              <li class="loading-placeholder"></li>
+              <li class="loading-placeholder"></li>
+            </ul>
+            <div class="progress-container">
+              <div class="progress-text">Daily Completion</div>
+              <div class="progress-bar-bg">
+                <div id="daily-progress" class="progress-bar-fill" style="width: 0%"></div>
+              </div>
+              <div id="progress-percentage" class="progress-num">0%</div>
+            </div>
+          </div>
+        </section>
+
+        <!-- AI Assistant Chat Section -->
+        <section class="chat-section">
+          <div class="section-title">
+            <i data-lucide="message-square"></i>
+            <h2>Discuss Ideas with AI Agent</h2>
+          </div>
+          <div class="chat-card glass">
+            <!-- Setup State: Ask for API Key if not saved -->
+            <div id="chat-setup-pane" class="chat-setup-pane">
+              <i data-lucide="key" class="setup-key-icon"></i>
+              <h3>Connect Gemini API</h3>
+              <p>To talk with the agent, enter your Gemini API Key. It is saved locally in your browser and never uploaded.</p>
+              <div class="setup-input-group">
+                <input type="password" id="client-api-key-input" placeholder="AIzaSy... or API Key">
+                <button id="save-key-btn">Connect</button>
+              </div>
+            </div>
+
+            <!-- Active Chat State -->
+            <div id="chat-active-pane" class="chat-active-pane hidden">
+              <div class="chat-messages" id="chat-messages-container">
+                <div class="message system-msg">
+                  Hello! I've loaded today's tech trends. Ask me to refine any idea, draft some code, or brainstorm more projects!
+                </div>
+              </div>
+              
+              <!-- Typing indicator -->
+              <div id="chat-typing" class="chat-typing hidden">
+                <span></span><span></span><span></span>
+              </div>
+
+              <div class="chat-input-area">
+                <input type="text" id="chat-user-input" placeholder="Ask about today's trends...">
+                <button id="chat-send-btn"><i data-lucide="send"></i></button>
+              </div>
+              <div class="chat-settings-row">
+                <span>Connected</span>
+                <button id="disconnect-key-btn">Disconnect Key</button>
+              </div>
+            </div>
+          </div>
+        </section>
+      </div>
 
     </div>
 
