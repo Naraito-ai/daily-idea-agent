@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-28 22:40:07",
+  "last_updated": "2026-06-28 17:18:30",
   "scraped_sources": {
     "github": [
       {
@@ -46,7 +46,7 @@
         "name": "qwencloud-generator",
         "owner": "Vanszs",
         "description": " Automated QwenCloud account registration & API key harvester with multi-threading, TUI dashboard, proxy rotation, and Gmail OAuth",
-        "stars": 178,
+        "stars": 179,
         "url": "https://github.com/Vanszs/qwencloud-generator",
         "category": "Automation / Productivity"
       },
@@ -85,14 +85,14 @@
     ],
     "hacker_news": [
       {
-        "title": "Daisugi the Japanese Technique of Trees Out of Trees, Making Exact Straight Wood",
+        "title": "Daisugi the Japanese Technique of Trees Out of Trees, Making Exact Straight Wood (2020)",
         "url": "https://www.openculture.com/2020/10/daisugi.html",
-        "score": 27
+        "score": 32
       },
       {
         "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
         "url": "https://github.com/openai/codex/issues/2847",
-        "score": 120
+        "score": 122
       }
     ],
     "arxiv": [
