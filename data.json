@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-28 17:18:30",
+  "last_updated": "2026-06-28 17:21:46",
   "scraped_sources": {
     "github": [
       {
@@ -87,12 +87,12 @@
       {
         "title": "Daisugi the Japanese Technique of Trees Out of Trees, Making Exact Straight Wood (2020)",
         "url": "https://www.openculture.com/2020/10/daisugi.html",
-        "score": 32
+        "score": 36
       },
       {
         "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
         "url": "https://github.com/openai/codex/issues/2847",
-        "score": 122
+        "score": 123
       }
     ],
     "arxiv": [
