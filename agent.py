@@ -191,7 +191,7 @@ def generate_ideas_and_actions(github_data, hn_data, arxiv_data, devto_data):
     """
     
     try:
-        model = genai.GenerativeModel('gemini-1.5-flash')
+        model = genai.GenerativeModel('gemini-2.5-flash')
         response = model.generate_content(
             prompt,
             generation_config={"response_mime_type": "application/json"}
