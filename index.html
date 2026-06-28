@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Daily Tech Idea Engine</title>
+  <!-- Google Fonts: Outfit & Inter -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;600;800&display=swap" rel="stylesheet">
+  <!-- Lucide Icons -->
+  <script src="https://unpkg.com/lucide@latest"></script>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body class="dark-mode">
+  <div class="glow-bg"></div>
+  
+  <header>
+    <div class="header-container container">
+      <div class="logo-area">
+        <div class="logo-icon"><i data-lucide="sparkles"></i></div>
+        <div>
+          <h1>IdeaEngine<span>.io</span></h1>
+          <p class="subtitle">Autonomous AI Trend & Idea Generator</p>
+        </div>
+      </div>
+      <div class="timestamp-badge">
+        <i data-lucide="calendar"></i>
+        <span>Last updated: </span><strong id="last-updated">Loading...</strong>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <!-- Trend Summary Section -->
+    <section class="trend-summary-section">
+      <div class="section-title">
+        <i data-lucide="trending-up"></i>
+        <h2>Today's Technical Insights</h2>
+      </div>
+      <div class="trend-card glass">
+        <div class="trend-card-border"></div>
+        <div class="trend-content">
+          <p id="trend-text">Analyzing today's tech developments across GitHub, Hacker News, arXiv, and Dev.to...</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Main Content Grid -->
+    <div class="dashboard-grid">
+      
+      <!-- Implementation Ideas (Left/Main Column) -->
+      <section class="ideas-section">
+        <div class="section-header">
+          <div class="section-title">
+            <i data-lucide="lightbulb"></i>
+            <h2>3 Implementation Projects for Today</h2>
+          </div>
+          <div class="filter-tabs">
+            <button class="tab-btn active" data-difficulty="all">All</button>
+            <button class="tab-btn" data-difficulty="easy">Easy</button>
+            <button class="tab-btn" data-difficulty="medium">Medium</button>
+            <button class="tab-btn" data-difficulty="hard">Hard</button>
+          </div>
+        </div>
+        
+        <div id="ideas-container" class="ideas-grid">
+          <!-- Ideas will be dynamically generated here -->
+          <div class="loading-state">
+            <div class="spinner"></div>
+            <p>Aggregating and brainstorming ideas...</p>
+          </div>
+        </div>
+      </section>
+
+      <!-- Quick Actions (Right/Sidebar Column) -->
+      <section class="actions-section">
+        <div class="section-title">
+          <i data-lucide="check-square"></i>
+          <h2>Today's Developer Habits</h2>
+        </div>
+        <div class="actions-card glass">
+          <p class="actions-intro">Immediate actionable next steps based on productivity & automation trends:</p>
+          <ul id="quick-actions-list" class="checklist">
+            <!-- Actions will be dynamically generated here -->
+            <li class="loading-placeholder"></li>
+            <li class="loading-placeholder"></li>
+            <li class="loading-placeholder"></li>
+            <li class="loading-placeholder"></li>
+          </ul>
+          <div class="progress-container">
+            <div class="progress-text">Daily Completion</div>
+            <div class="progress-bar-bg">
+              <div id="daily-progress" class="progress-bar-fill" style="width: 0%"></div>
+            </div>
+            <div id="progress-percentage" class="progress-num">0%</div>
+          </div>
+        </div>
+      </section>
+
+    </div>
+
+    <!-- Scraped Feeds (Bottom/Accordion Section) -->
+    <section class="feeds-section">
+      <div class="section-title toggle-feeds">
+        <i data-lucide="database"></i>
+        <h2>View Raw Sources Scraped Today</h2>
+        <i data-lucide="chevron-down" class="chevron-icon"></i>
+      </div>
+      
+      <div id="feeds-wrapper" class="feeds-wrapper collapsed">
+        <div class="feed-tabs">
+          <button class="feed-tab active" data-feed="github">
+            <i data-lucide="github"></i> GitHub Repos
+          </button>
+          <button class="feed-tab" data-feed="hn">
+            <i data-lucide="award"></i> Hacker News
+          </button>
+          <button class="feed-tab" data-feed="arxiv">
+            <i data-lucide="book-open"></i> arXiv Papers
+          </button>
+          <button class="feed-tab" data-feed="devto">
+            <i data-lucide="terminal"></i> Dev.to
+          </button>
+        </div>
+
+        <div class="feed-content-panes">
+          <!-- GitHub Pane -->
+          <div class="feed-pane active" id="pane-github">
+            <div class="feed-list" id="github-feed-list"></div>
+          </div>
+          <!-- HN Pane -->
+          <div class="feed-pane" id="pane-hn">
+            <div class="feed-list" id="hn-feed-list"></div>
+          </div>
+          <!-- arXiv Pane -->
+          <div class="feed-pane" id="pane-arxiv">
+            <div class="feed-list" id="arxiv-feed-list"></div>
+          </div>
+          <!-- Dev.to Pane -->
+          <div class="feed-pane" id="pane-devto">
+            <div class="feed-list" id="devto-feed-list"></div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="container footer-content">
+      <p>© 2026 IdeaEngine.io. Generated autonomously using GitHub Actions & Gemini AI.</p>
+      <div class="footer-links">
+        <a href="https://github.com" target="_blank"><i data-lucide="github"></i> GitHub Repo</a>
+        <a href="https://ai.google.dev" target="_blank"><i data-lucide="cpu"></i> Powered by Gemini</a>
+      </div>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
