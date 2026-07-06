@@ -1,68 +1,68 @@
 {
-  "last_updated": "2026-07-05 08:39:00",
+  "last_updated": "2026-07-06 09:53:05",
   "scraped_sources": {
     "github": [
       {
-        "name": "haxiv",
-        "owner": "luojieLLMaaS",
-        "description": "Deep learning framework for LLMs (Llama/Gemma/Qwen) on CPU, Apple MLX, Metal, CUDA. Load PyTorch/ONNX/TF/GGUF with zero conversion. PyTorch alternative with native Apple Silicon, ONNX Runtime alternative with autograd, llama.cpp alternative with backprop. FlashAttention, tensor parallel, INT4 quant.",
-        "stars": 21,
-        "url": "https://github.com/luojieLLMaaS/haxiv",
+        "name": "Cognitive-Core-Skills",
+        "owner": "eli-labz",
+        "description": "A universal, industry-neutral taxonomy of cognitive core skills (perception, memory, reasoning, planning, action, verification, learning, governance) for LLMs, SLMs, AI agents, and world models — with schemas, 159 skill cards, benchmarks, and CI.",
+        "stars": 22,
+        "url": "https://github.com/eli-labz/Cognitive-Core-Skills",
         "category": "AI / ML"
       },
       {
         "name": "Efficient-LLM-Inference-Serving-Systems",
         "owner": "jiahongsigma",
         "description": "Why is LLM inference slow — and how do you make it fast? A hands-on, first-principles course: roofline → KV cache → quantization → parallelism → vLLM/SGLang, with GPU labs on open models.",
-        "stars": 18,
+        "stars": 19,
         "url": "https://github.com/jiahongsigma/Efficient-LLM-Inference-Serving-Systems",
-        "category": "AI / ML"
-      },
-      {
-        "name": "EKAM_",
-        "owner": "neha23jk",
-        "description": "AI-powered platform for intelligent event orchestration, automated team formation, judge assignment, evaluation integrity, and multi-round competition management.",
-        "stars": 17,
-        "url": "https://github.com/neha23jk/EKAM_",
-        "category": "AI / ML"
-      },
-      {
-        "name": "qwen-lora-finetune",
-        "owner": "chrisipanaque",
-        "description": "Fine-tune Qwen2.5-Coder for code generation on your own dataset using QLoRA. Train on JSONL instruction-response pairs and produce a shareable ~16 MB LoRA adapter.",
-        "stars": 9,
-        "url": "https://github.com/chrisipanaque/qwen-lora-finetune",
         "category": "AI / ML"
       },
       {
         "name": "Awesome-Scientific-LLM-Benchmarks",
         "owner": "subinium",
         "description": "A curated, accuracy-first list of benchmarks for evaluating LLMs on scientific reasoning and discovery — math, physics, chemistry, materials, biology, and agentic science.",
-        "stars": 8,
+        "stars": 12,
         "url": "https://github.com/subinium/Awesome-Scientific-LLM-Benchmarks",
         "category": "AI / ML"
       },
       {
-        "name": "open-connector",
-        "owner": "oomol-lab",
-        "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
-        "stars": 167,
-        "url": "https://github.com/oomol-lab/open-connector",
-        "category": "Automation / Productivity"
+        "name": "qwen-lora-finetune",
+        "owner": "chrisipanaque",
+        "description": "Fine-tune Qwen2.5-Coder for code generation on your own dataset using QLoRA. Train on JSONL instruction-response pairs and produce a shareable ~16 MB LoRA adapter.",
+        "stars": 10,
+        "url": "https://github.com/chrisipanaque/qwen-lora-finetune",
+        "category": "AI / ML"
+      },
+      {
+        "name": "Framegen",
+        "owner": "MONZikWasTaken",
+        "description": "Real-time neural frame interpolation in the browser: hand-written WGSL runtime on raw WebGPU, 2.9 MB model, 2x-6x any <video> at 3-4 ms per frame. Chrome extension.",
+        "stars": 8,
+        "url": "https://github.com/MONZikWasTaken/Framegen",
+        "category": "AI / ML"
       },
       {
         "name": "fortress",
         "owner": "tiliondev",
         "description": "Stealth Chromium engine that stops scrapers and browser agents from getting blocked, with one line of code change.",
-        "stars": 38,
+        "stars": 45,
         "url": "https://github.com/tiliondev/fortress",
+        "category": "Automation / Productivity"
+      },
+      {
+        "name": "OmniPost-AI",
+        "owner": "wanglinsaputra",
+        "description": "AI-powered Chrome extension for generating and publishing posts to Facebook, Threads, and X using ChatGPT or Gemini.",
+        "stars": 42,
+        "url": "https://github.com/wanglinsaputra/OmniPost-AI",
         "category": "Automation / Productivity"
       },
       {
         "name": "Napaxi",
         "owner": "antgroup",
         "description": "Mobile-native agent SDK for building on-device AI agents with sandboxed execution, extensible tools, and x-app / x-agent / x-channel connectivity.",
-        "stars": 25,
+        "stars": 26,
         "url": "https://github.com/antgroup/Napaxi",
         "category": "Automation / Productivity"
       },
@@ -75,19 +75,34 @@
         "category": "Automation / Productivity"
       },
       {
-        "name": "EKAM_",
-        "owner": "neha23jk",
-        "description": "AI-powered platform for intelligent event orchestration, automated team formation, judge assignment, evaluation integrity, and multi-round competition management.",
-        "stars": 17,
-        "url": "https://github.com/neha23jk/EKAM_",
+        "name": "K-12-reverse",
+        "owner": "ahmdd4vd",
+        "description": "K12-Reverse ChatGPT Creator: Otomatisasi Registrasi Akun ChatGPT Skala Besar dengan Fitur K12 Invite dan Multi-Gmail IMAP.",
+        "stars": 23,
+        "url": "https://github.com/ahmdd4vd/K-12-reverse",
         "category": "Automation / Productivity"
       }
     ],
     "hacker_news": [
       {
-        "title": "Atomic Force Microscope high-speed video, stainless etching, bacteria, and more",
-        "url": "https://www.youtube.com/watch?v=DyIQkqBXhS0",
-        "score": 65
+        "title": "Generate parametric, manufacturable 3D models in seconds",
+        "url": "https://kyrall.com/",
+        "score": 28
+      },
+      {
+        "title": "Does code cleanliness affect coding agents? A controlled minimal-pair study",
+        "url": "https://arxiv.org/abs/2605.20049",
+        "score": 125
+      },
+      {
+        "title": "When AI Costs More Than the Engineer",
+        "url": "https://tomtunguz.com/ai-spend-breakeven-2029/",
+        "score": 82
+      },
+      {
+        "title": "Zuckerberg says AI agent development going slower than expected",
+        "url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/",
+        "score": 228
       }
     ],
     "arxiv": [
@@ -122,13 +137,7 @@
         "title": "My First Year at DEV Recap",
         "description": "I heard about DEV a while back from a former colleague who was posting regularly back then. She won a...",
         "url": "https://dev.to/javz/my-first-year-at-dev-recap-3na2",
-        "reactions": 64
-      },
-      {
-        "title": "After a long journey, I've reached a deep burnout",
-        "description": "Hi everyone, I've been rarely posting on dev, or even being active at all. I've started thinking...",
-        "url": "https://dev.to/embernoglow/after-a-long-journey-ive-reached-a-deep-burnout-1o4b",
-        "reactions": 60
+        "reactions": 68
       },
       {
         "title": "Pragmatism in an Age of Infinite Code and Unavoidable Bottlenecks",
@@ -146,81 +155,89 @@
         "title": "You're Not Lazy — You're Time Blind. Here's How Lock In Fixes It.",
         "description": "I sat down to work for 2 hours. I actually worked for 45 minutes.  Sound familiar?  You open your...",
         "url": "https://dev.to/harsh2644/youre-not-lazy-youre-time-blind-heres-how-lock-in-fixes-it-57ej",
-        "reactions": 39
+        "reactions": 41
+      },
+      {
+        "title": "A New Personal Best: What Six Months of Locking In Can Do",
+        "description": "Table of Contents    Setting a New Benchmark for Myself My Most Productive Six Months Yet  2...",
+        "url": "https://dev.to/georgekobaidze/a-new-personal-best-what-six-months-of-locking-in-can-do-p3k",
+        "reactions": 36
       }
     ]
   },
-  "trends": "The current tech landscape is profoundly shaped by the practical deployment and optimization of Large Language Models (LLMs), with a strong emphasis on achieving efficiency through local execution, quantization, and hardware-specific acceleration (e.g., Apple MLX, CUDA). A parallel surge is seen in agentic AI systems, focusing on intelligent automation, complex workflow orchestration, and robust integration across diverse SaaS platforms and mobile environments. Simultaneously, the industry is grappling with crucial aspects of AI safety, security, and ethical deployment, including effective unlearning methods, online safety monitoring, and robust evaluation benchmarks. AI is also evolving as a new programming paradigm for handling 'fuzzy functions' and complex, non-rule-based tasks, impacting how developers approach problem-solving. Amidst this rapid innovation, developer experience and well-being, encompassing challenges like burnout, pragmatic code generation, and effective time management, remain significant points of discussion and focus.",
+  "trends": "The current tech landscape is dominated by the rapid, yet challenging, evolution of AI agents, with significant efforts directed at defining their cognitive capabilities and ensuring their secure, ethical deployment. Concurrently, there's a strong emphasis on optimizing LLM performance and cost, alongside their specialization through fine-tuning for niche applications and efficient inference at the edge. AI-powered automation is pervasive, from content generation and social media management to bypassing traditional scraping hurdles. Underpinning these advancements are critical discussions around AI safety, privacy (unlearning), and long-context reasoning. Developers are also increasingly focusing on pragmatic application of AI tools and personal productivity techniques to navigate this fast-paced environment.",
   "ideas": [
     {
-      "title": "Local LLM Performance Advisor",
+      "title": "Cognitive Agent Skill Evaluator & Benchmark Dashboard",
+      "difficulty": "Hard",
+      "estimated_hours": 40,
+      "description": "Develop a web-based platform that allows users to define or select 'cognitive skills' (e.g., reasoning, planning, memory) for AI agents, upload custom test cases, and then evaluate various Large Language Models (LLMs) or fine-tuned agents against these benchmarks. The platform would visualize performance across different skills, compare models, and potentially offer insights into areas where an agent underperforms, suggesting targeted fine-tuning strategies. This addresses the growing need for robust, standardized evaluation of agentic AI capabilities beyond simple task completion.",
+      "tech_stack": [
+        "Python (FastAPI or Django)",
+        "LLM APIs (OpenAI, Anthropic, open-source via vLLM/SGLang)",
+        "React/Vue/Svelte (Frontend)",
+        "PostgreSQL (Database)",
+        "Chart.js/D3.js (Data Visualization)"
+      ],
+      "source_inspiration": "Cognitive-Core-Skills, Awesome-Scientific-LLM-Benchmarks, Napaxi, Does code cleanliness affect coding agents?",
+      "steps": [
+        "Research existing cognitive skill taxonomies and LLM evaluation benchmarks (e.g., from 'Cognitive-Core-Skills').",
+        "Design a robust database schema to store skills, test datasets, LLM configurations, and evaluation results.",
+        "Build a Python backend API to manage skills, test cases, orchestrate LLM calls, and process evaluation metrics.",
+        "Integrate with multiple LLM providers (e.g., OpenAI, local models via vLLM/Ollama) to allow comparison.",
+        "Develop a responsive frontend dashboard for users to define skills, upload data, run evaluations, and visualize comparative performance metrics.",
+        "Implement a reporting feature to generate detailed performance summaries for each evaluated agent/LLM."
+      ]
+    },
+    {
+      "title": "Adaptive AI Content & Multi-Platform Publisher",
       "difficulty": "Medium",
       "estimated_hours": 30,
-      "description": "Develop a cross-platform desktop application that empowers developers and users to understand and optimize local LLM inference. It would allow users to load different quantized versions of popular open-source LLMs (e.g., Llama, Qwen, Gemma via GGUF/MLX/llama.cpp compatible formats), run comprehensive benchmarks on their specific hardware (CPU, GPU, Apple Silicon), and visualize performance metrics like tokens/second, first-token-latency, and memory usage. The advisor would analyze benchmark results and user hardware specifications to recommend optimal quantization levels and backend configurations, directly leveraging insights from repositories like 'haxiv' and 'Efficient-LLM-Inference-Serving-Systems'. This tool would demystify local LLM performance tuning, making advanced techniques accessible.",
+      "description": "Create a service that intelligently generates tailored content (e.g., social media posts, blog snippets, marketing copy) using an LLM and then automatically publishes it across multiple target platforms. The 'adaptive' aspect involves two key features: (1) dynamic content adjustments based on real-time feedback or A/B testing insights, and (2) integration of 'stealth' automation techniques (inspired by 'fortress') to minimize detection and blocking on platforms that are sensitive to automated interactions. This tool would significantly boost productivity for marketers and content creators.",
       "tech_stack": [
-        "Python",
-        "llama-cpp-python",
-        "haxiv (or similar bindings)",
-        "PyQt / Electron (for GUI)",
-        "Plotly / Matplotlib (for visualizations)"
+        "Python (Flask or FastAPI)",
+        "LLM API (ChatGPT, Gemini, or fine-tuned Qwen2.5-Coder)",
+        "Chromium Automation (Playwright/Puppeteer for stealth features)",
+        "Social Media APIs (Facebook Graph API, X API, etc.)",
+        "Frontend (Simple web UI with HTML/CSS/JS or Streamlit)"
       ],
-      "source_inspiration": "haxiv, Efficient-LLM-Inference-Serving-Systems",
+      "source_inspiration": "OmniPost-AI, fortress, qwen-lora-finetune, Generate parametric, manufacturable 3D models in seconds",
       "steps": [
-        "Task 1: Set up a core Python backend capable of loading and running GGUF/MLX models using `llama-cpp-python` or `haxiv`.",
-        "Task 2: Implement a robust benchmarking module to measure inference speed (tokens/sec), latency, and memory footprint for various quantization levels and backends.",
-        "Task 3: Develop a recommendation engine that analyzes benchmark data against user hardware profiles to suggest optimal configurations and model choices.",
-        "Task 4: Design and build a user-friendly graphical interface (using PyQt or Electron) to allow model selection, benchmark execution, result visualization, and recommendation display.",
-        "Task 5: Package the application for easy distribution across Windows, macOS, and Linux."
+        "Set up a backend service to interface with a chosen LLM for generating diverse content based on user prompts and target platform requirements.",
+        "Implement platform-specific publishing modules, utilizing official APIs where available and robust headless browser automation (e.g., Playwright) for others.",
+        "Research and integrate 'stealth' techniques into the automation layer (e.g., randomized delays, dynamic user-agent rotation, custom browser fingerprints) inspired by 'fortress'.",
+        "Develop a user interface for configuring content types, target platforms, publishing schedules, and monitoring content performance.",
+        "Add a basic A/B testing framework or feedback loop to allow content to be iteratively refined based on engagement metrics.",
+        "Include a content scheduling and queue management system for automated publishing workflows."
       ]
     },
     {
-      "title": "FuzzyLog: AI-Powered Log Anomaly Detector",
-      "difficulty": "Hard",
-      "estimated_hours": 60,
-      "description": "Create a real-time system that monitors application logs, moving beyond traditional regex-based alerts to identify subtle, 'fuzzy' anomalies or patterns indicating emerging issues or potential security threats. Inspired by the 'Program-as-Weights' concept, this tool would utilize a small, fine-tuned language model or a specialized ML classifier to understand log semantics and detect deviations from normal behavior, rather than merely matching predefined error codes. It could flag unusual user access patterns, unexpected system states, hard-to-pinpoint application failures, or even misaligned LLM outputs (tying into online safety monitoring). This enables proactive problem identification in complex systems.",
-      "tech_stack": [
-        "Python",
-        "FastAPI / Flask",
-        "PyTorch / Hugging Face Transformers",
-        "Kafka / Redis (for log streaming)",
-        "Elasticsearch / OpenSearch (for log storage and search)",
-        "Prometheus / Grafana (for visualization and alerting)"
-      ],
-      "source_inspiration": "Program-as-Weights, Online Safety Monitoring for LLMs",
-      "steps": [
-        "Task 1: Develop a log ingestion pipeline to stream real-time logs from various sources (e.g., files, stdout, Docker containers) into a central processing system.",
-        "Task 2: Implement data preprocessing modules to clean, parse, and structure raw log entries into a format suitable for machine learning models.",
-        "Task 3: Train or fine-tune a small language model or sequence classifier on a dataset of 'normal' log entries from your applications to learn expected patterns and identify statistical deviations.",
-        "Task 4: Integrate the trained model for continuous, real-time inference on incoming log streams, classifying anomalies based on semantic understanding rather than explicit rules.",
-        "Task 5: Build an alerting mechanism that triggers notifications (e.g., Slack, email, PagerDuty) when fuzzy anomalies are detected, and integrate with a dashboard for visualization."
-      ]
-    },
-    {
-      "title": "DevDesk AI: Personal Agent for Workflow Automation",
+      "title": "On-Device 'Time-Blindness' Productivity Agent",
       "difficulty": "Medium",
-      "estimated_hours": 40,
-      "description": "Build a personal AI agent designed to streamline a developer's daily workflow by orchestrating tasks across various SaaS applications. Drawing inspiration from 'open-connector' and 'Napaxi', this agent would integrate with tools like project management (e.g., Jira, Asana), communication (Slack, Gmail), and calendar (Google Calendar) to automate routine, time-consuming activities. Examples include: summarizing daily stand-up meeting transcripts into concise bullet points, auto-generating draft responses to common email queries (e.g., 'when will feature X be ready?'), intelligently scheduling focus blocks on the calendar based on open tickets and scheduled meetings, or cross-referencing information across systems for quick answers. The goal is to significantly reduce cognitive load and improve deep work focus, directly addressing themes of developer burnout and time management.",
+      "estimated_hours": 30,
+      "description": "Build a desktop application that acts as a personalized productivity agent, leveraging a small, local Large Language Model (LLM) or an efficient cloud LLM. This agent would help users combat 'time blindness' by gently monitoring active applications and browser tabs (with explicit user consent), understanding user-defined 'lock-in' tasks, and providing non-intrusive, context-aware interventions. Examples include smart notifications about task drift, summaries of current progress, or suggestions for breaks. The agent could also analyze usage patterns over time to suggest optimal work/break durations, directly addressing modern productivity challenges.",
       "tech_stack": [
-        "Python",
-        "LangChain / LlamaIndex (for agentic capabilities)",
-        "FastAPI / Flask (for local API and UI backend)",
-        "OAuth2 (for secure SaaS authentication)",
-        "SaaS SDKs/APIs (Google Calendar API, Slack API, GitHub API, Jira API)"
+        "Electron (for cross-platform desktop app)",
+        "Python (for backend logic and local LLM interaction via API)",
+        "Ollama / Hugging Face Transformers (for local LLM inference)",
+        "SQLite (for local data storage)",
+        "React/Vue/Svelte (for UI components within Electron)"
       ],
-      "source_inspiration": "open-connector, Napaxi, EKAM_, Dev.to articles on productivity and burnout",
+      "source_inspiration": "Napaxi, You're Not Lazy — You're Time Blind. Here's How Lock In Fixes It., A New Personal Best: What Six Months of Locking In Can Do",
       "steps": [
-        "Task 1: Set up a foundational agent framework using LangChain or LlamaIndex, enabling tool use and prompt-driven reasoning.",
-        "Task 2: Implement secure API connectors for 2-3 common developer tools (e.g., Google Calendar, Slack, GitHub) using OAuth2 for authentication.",
-        "Task 3: Define specific 'tools' for the agent, mapping to key actions within the connected SaaS applications (e.g., `get_calendar_events`, `post_slack_message`, `create_jira_ticket`).",
-        "Task 4: Develop initial workflow automation logic based on specific use cases, such as 'summarize daily stand-up' or 'propose meeting slots based on availability and priority tasks'.",
-        "Task 5: Create a simple command-line interface or a local web UI for users to interact with the agent, provide instructions, and review automated actions."
+        "Develop the core Electron application structure capable of monitoring active windows/applications and browser tab titles (with user permissions).",
+        "Integrate a local LLM (e.g., via `ollama` or a small model from Hugging Face Transformers) to interpret user-defined tasks and current activity contextually.",
+        "Implement a 'lock-in' timer and a dynamic notification system that delivers context-aware prompts or progress summaries based on LLM insights.",
+        "Design a local database (e.g., SQLite) to store usage patterns, task durations, and user-defined productivity goals.",
+        "Build a dashboard within the application to visualize 'time spent' vs. 'intended time' and highlight patterns associated with time blindness.",
+        "Add an 'AI suggestions' feature that proposes optimal work/break intervals or workflow adjustments based on historical personal productivity data."
       ]
     }
   ],
   "quick_actions": [
-    "Action 1: Locally host a small LLM (e.g., Llama 3 8B) using `llama.cpp` or explore `haxiv` to understand its resource usage and inference speed on your personal hardware.",
-    "Action 2: Implement a basic Python script that passes any LLM-generated output through a simple keyword or regex filter to flag potentially sensitive or off-topic content before display.",
-    "Action 3: Pick one highly repetitive digital task in your daily or weekly routine (e.g., file organization, data extraction, boilerplate code generation) and dedicate an hour to automating it with a small script.",
-    "Action 4: Today, schedule and commit to a 60-90 minute 'Deep Focus' block on your calendar, eliminating all distractions (notifications, social media) to concentrate on a single, high-priority task."
+    "Action 1: Clone `qwen-lora-finetune` and fine-tune a small open-source LLM (like Qwen2.5-Coder) on a small, custom dataset (e.g., 50-100 JSONL instruction-response pairs) to understand the practical aspects of LLM specialization.",
+    "Action 2: Schedule and commit to at least one 60-90 minute 'Lock In' deep work session today or tomorrow, actively eliminating distractions and focusing on a single high-priority task, as highlighted in the Dev.to productivity articles.",
+    "Action 3: Install `ollama` or explore a small, on-device AI agent SDK like `Napaxi`'s concepts. Brainstorm 2-3 personal automation tasks (e.g., local file summarization, intelligent file organization) that such an agent could perform locally.",
+    "Action 4: Spend 30 minutes reviewing the core concepts from `Efficient-LLM-Inference-Serving-Systems`, focusing on techniques like KV cache, quantization, and parallelism. Understanding these will be crucial for any future LLM deployment."
   ]
 }
