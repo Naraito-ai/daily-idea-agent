@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-07 09:21:33",
+  "last_updated": "2026-07-08 08:06:04",
   "scraped_sources": {
     "github": [
       {
         "name": "Cognitive-Core-Skills",
         "owner": "eli-labz",
         "description": "A universal, industry-neutral taxonomy of cognitive core skills (perception, memory, reasoning, planning, action, verification, learning, governance) for LLMs, SLMs, AI agents, and world models — with schemas, 159 skill cards, benchmarks, and CI.",
-        "stars": 267,
+        "stars": 274,
         "url": "https://github.com/eli-labz/Cognitive-Core-Skills",
         "category": "AI / ML"
       },
@@ -14,7 +14,7 @@
         "name": "Awesome-Scientific-LLM-Benchmarks",
         "owner": "subinium",
         "description": "A curated, accuracy-first list of benchmarks for evaluating LLMs on scientific reasoning and discovery — math, physics, chemistry, materials, biology, and agentic science.",
-        "stars": 16,
+        "stars": 17,
         "url": "https://github.com/subinium/Awesome-Scientific-LLM-Benchmarks",
         "category": "AI / ML"
       },
@@ -35,27 +35,43 @@
         "category": "AI / ML"
       },
       {
-        "name": "Framegen",
-        "owner": "MONZikWasTaken",
-        "description": "Real-time neural frame interpolation in the browser: hand-written WGSL runtime on raw WebGPU, 2.9 MB model, 2x-6x any <video> at 3-4 ms per frame. Chrome extension.",
+        "name": "Machine-Learning",
+        "owner": "nousheentabassum",
+        "description": "Collection of Machine Learning, Statistics, and Data Science notebooks covering EDA, hypothesis testing, regression, classification, clustering, ensemble learning, and association rule mining using Python.",
         "stars": 8,
-        "url": "https://github.com/MONZikWasTaken/Framegen",
+        "url": "https://github.com/nousheentabassum/Machine-Learning",
         "category": "AI / ML"
-      },
-      {
-        "name": "creatorhub",
-        "owner": "3441293738",
-        "description": "多平台内容监控·采集·搬运 —— 纯 Python(FastAPI + Playwright),一个 Web 面板管起抖音 / 小红书 / 快手",
-        "stars": 47,
-        "url": "https://github.com/3441293738/creatorhub",
-        "category": "Automation / Productivity"
       },
       {
         "name": "fortress",
         "owner": "tiliondev",
         "description": "Stealth Chromium engine that stops scrapers and browser agents from getting blocked, with one line of code change.",
-        "stars": 46,
+        "stars": 129,
         "url": "https://github.com/tiliondev/fortress",
+        "category": "Automation / Productivity"
+      },
+      {
+        "name": "creatorhub",
+        "owner": "3441293738",
+        "description": "多平台内容监控·采集·搬运 —— 纯 Python(FastAPI + Playwright),一个 Web 面板管起抖音 / 小红书 / 快手",
+        "stars": 93,
+        "url": "https://github.com/3441293738/creatorhub",
+        "category": "Automation / Productivity"
+      },
+      {
+        "name": "9router-v2",
+        "owner": "ahwanulm",
+        "description": "Self-hosted AI gateway — one endpoint, many providers, auto-fallback. OpenAI-compatible REST API with Cloudflare Workers AI automation.",
+        "stars": 67,
+        "url": "https://github.com/ahwanulm/9router-v2",
+        "category": "Automation / Productivity"
+      },
+      {
+        "name": "Homekit",
+        "owner": "bolivestilo",
+        "description": "Homekit gives any AI agent direct, physical control over Apple Home. Flip lights. Lock doors. Read sensors. Through a single open interface.",
+        "stars": 59,
+        "url": "https://github.com/bolivestilo/Homekit",
         "category": "Automation / Productivity"
       },
       {
@@ -65,76 +81,55 @@
         "stars": 42,
         "url": "https://github.com/wanglinsaputra/OmniPost-AI",
         "category": "Automation / Productivity"
-      },
-      {
-        "name": "a-fable-of-codexes",
-        "owner": "jvogan",
-        "description": "Claude Code skills that make Claude (Fable) the conductor of AI worker fleets: many parallel OpenAI Codex workers plus Opus design agents, organized into campaigns, waves, squads, and review gates.",
-        "stars": 35,
-        "url": "https://github.com/jvogan/a-fable-of-codexes",
-        "category": "Automation / Productivity"
-      },
-      {
-        "name": "K-12-reverse",
-        "owner": "ahmdd4vd",
-        "description": "K12-Reverse ChatGPT Creator: Otomatisasi Registrasi Akun ChatGPT Skala Besar dengan Fitur K12 Invite dan Multi-Gmail IMAP.",
-        "stars": 32,
-        "url": "https://github.com/ahmdd4vd/K-12-reverse",
-        "category": "Automation / Productivity"
       }
     ],
     "hacker_news": [
       {
-        "title": "GLM 5.2 and the coming AI margin collapse",
-        "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
-        "score": 404
+        "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
+        "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
+        "score": 91
       },
       {
-        "title": "Small AI Models Gain Traction In places with unreliable networks",
-        "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
-        "score": 135
+        "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
+        "url": "https://kb.cert.org/vuls/id/213560",
+        "score": 178
       },
       {
-        "title": "Ternlight – 7 MB embedding model that runs in browser (WASM)",
-        "url": "https://ternlight-demo.vercel.app/",
-        "score": 216
+        "title": "Chat Control 1.0 and 2.0 Explained",
+        "url": "https://fightchatcontrol.eu/chat-control-overview",
+        "score": 605
       },
       {
-        "title": "A global workspace in language models",
-        "url": "https://www.anthropic.com/research/global-workspace",
-        "score": 367
-      },
-      {
-        "title": "In Praise of Observational Evidence",
-        "url": "https://asteriskmag.com/issues/14/in-praise-of-observational-evidence",
-        "score": 9
+        "title": "Show HN: Davit, a Apple Containers UI",
+        "url": "https://davit.app",
+        "score": 291
       }
     ],
     "arxiv": [
       {
-        "title": "From Fixed to Free Cameras: Calibration-Free View-Robust Vision-Language-Action Model",
-        "summary": "Real-world robot deployment rarely maintains the training-stage camera setup, where cameras often experience repositioning or remounting depending on actual scenarios. Existing view-robust Vision-Lang...",
-        "url": "http://arxiv.org/abs/2607.05396v1"
+        "title": "ELSA3D: Elastic Semantic Anchoring for Unified 3D Understanding and Generation",
+        "summary": "Unified 3D foundation models aspire to generate 3D assets and reason about them in language within a single backbone, but their text-3D interaction remains largely implicit. Existing methods concatena...",
+        "url": "http://arxiv.org/abs/2607.06565v1"
       },
       {
-        "title": "Weak-to-Strong Generalization via Direct On-Policy Distillation",
-        "summary": "Reinforcement learning with verifiable rewards (RLVR) is a powerful recipe for improving language-model reasoning, but it is expensive to repeat on every new strong model because the target model must...",
-        "url": "http://arxiv.org/abs/2607.05394v1"
+        "title": "Graph Convolutional Attention: A Spectral Perspective on Graph Denoising and Diffusion",
+        "summary": "Denoising graphs is a fundamental problem in graph learning and the core operation of graph diffusion models. Attention-based architectures like graph transformers have recently shown promise in denoi...",
+        "url": "http://arxiv.org/abs/2607.06546v1"
       },
       {
-        "title": "Interpretable Human-Label-Free Deep Learning for Real-Bogus Classification with Uncertainty Quantification",
-        "summary": "Time-domain surveys generate many transient candidates, making Real-Bogus classification a critical step in automated discovery pipelines. Reliable labels are costly, while community labels can be noi...",
-        "url": "http://arxiv.org/abs/2607.05393v1"
+        "title": "Rethinking Indic AI from a Lens of Cultural Heritage Preservation",
+        "summary": "As Artificial Intelligence (AI) makes inroads into different parts of the Indian subcontinent, there is significant interest in studying how AI impacts the linguistic and cultural foundations of this ...",
+        "url": "http://arxiv.org/abs/2607.06544v1"
       },
       {
-        "title": "LLM-as-a-Verifier: A General-Purpose Verification Framework",
-        "summary": "Scaling pre-training, post-training, and test-time compute have become the central paradigms for improving the capabilities of LLMs. In this work, we identify verification, the ability to determine th...",
-        "url": "http://arxiv.org/abs/2607.05391v1"
+        "title": "On the feasibility of dependency parsing of non-human sequences without a gold standard. Is evaluation possible in other species?",
+        "summary": "Dependency parsing consists of finding a tree representation for a sequence. Unsupervised dependency parsing aims to develop parsing methods without a gold standard during model training. In human lan...",
+        "url": "http://arxiv.org/abs/2607.06542v1"
       },
       {
-        "title": "Search Beyond What Can Be Taught: Evolving the Knowledge Boundary in Agentic Visual Generation",
-        "summary": "Visual generators excel at rendering, but they confidently fabricate what they do not know. User requests are unbounded, evolving, and deeply long-tailed: new characters, trending entities, post-cutof...",
-        "url": "http://arxiv.org/abs/2607.05382v1"
+        "title": "Hierarchical Acoustic-Semantic Modeling: Modality Separation and Semantic Coherence for Full-Duplex SLMs",
+        "summary": "Developing seamless, high-performance, native intelligent full-duplex Spoken Language Models (SLMs) remains a critical challenge and long-standing goal for the speech and NLP community. Despite notabl...",
+        "url": "http://arxiv.org/abs/2607.06540v1"
       }
     ],
     "devto": [
@@ -148,105 +143,106 @@
         "title": "It's You.",
         "description": "To start off, I appreciate the community support I have received on the post about being behind.     ...",
         "url": "https://dev.to/francistrdev/its-you-29k0",
-        "reactions": 66
-      },
-      {
-        "title": "A New Personal Best: What Six Months of Locking In Can Do",
-        "description": "Table of Contents    Setting a New Benchmark for Myself My Most Productive Six Months Yet  2...",
-        "url": "https://dev.to/georgekobaidze/a-new-personal-best-what-six-months-of-locking-in-can-do-p3k",
-        "reactions": 49
+        "reactions": 92
       },
       {
         "title": "Your Career Matters. So Does the Person Building It.",
         "description": "TL;DR  Tech has taught me many things over the years. It taught me how to learn new technologies,...",
         "url": "https://dev.to/hemapriya_kanagala/your-career-matters-so-does-the-person-building-it-2jle",
-        "reactions": 54
+        "reactions": 71
       },
       {
-        "title": "Loop Engineering: Do Frontend and Fullstack Devs Actually Need It?",
-        "description": "Introduction   I keep hearing the term loop engineering. It's all over my feed, every AI...",
-        "url": "https://dev.to/erikch/loop-engineering-do-frontend-and-fullstack-devs-actually-need-it-48eb",
-        "reactions": 43
+        "title": "A New Personal Best: What Six Months of Locking In Can Do",
+        "description": "Table of Contents    Setting a New Benchmark for Myself My Most Productive Six Months Yet  2...",
+        "url": "https://dev.to/georgekobaidze/a-new-personal-best-what-six-months-of-locking-in-can-do-p3k",
+        "reactions": 72
+      },
+      {
+        "title": "You're Not Lazy — You're Time Blind. Here's How Lock In Fixes It.",
+        "description": "I sat down to work for 2 hours. I actually worked for 45 minutes.  Sound familiar?  You open your...",
+        "url": "https://dev.to/harsh2644/youre-not-lazy-youre-time-blind-heres-how-lock-in-fixes-it-57ej",
+        "reactions": 45
       }
     ]
   },
-  "trends": "Today's tech landscape is dominated by the rapid evolution of AI, particularly in agentic systems and efficient model deployment. We're seeing a strong shift towards multi-agent orchestration frameworks where AIs collaborate to perform complex tasks, often incorporating built-in verification and reasoning capabilities to ensure reliability and explainability. Simultaneously, there's a significant focus on making AI more accessible and performant at the 'edge' – evidenced by the rise of small, specialized models and browser-based machine learning (WebGPU/WASM) that enable real-time, on-device processing. This efficiency drive, partly fueled by the 'AI margin collapse' discussion, also extends to practical, high-impact applications like real-time fraud detection and robust content automation. Developers are leveraging AI to create sophisticated productivity tools that automate multi-platform content generation, data collection, and even large-scale system setup, while also grappling with the need for resilient scraping techniques. Underlying these advancements is an increasing emphasis on defining and benchmarking fundamental AI cognitive skills, paving the way for more sophisticated and adaptable AI solutions in real-world, dynamic environments like robotics.",
+  "trends": "The current tech landscape is heavily characterized by the rapid evolution and deployment of advanced AI, particularly Large Language Models (LLMs) and intelligent agents. There's a strong emphasis on evaluating and enhancing the 'cognitive core skills' of these AI systems, extending beyond basic text generation to complex reasoning, scientific discovery, and specialized tasks like code generation and 3D understanding. Agentic AI, capable of interacting with the physical world (smart homes) and digital environments (browser automation, content publishing), is gaining significant traction. This rise in agentic capabilities also brings critical security and privacy concerns, as evidenced by vulnerabilities leading to data leaks and broader discussions around digital surveillance. Alongside AI's proliferation, there's a strong parallel trend in developer productivity and automation, focusing on streamlining multi-platform content management, building flexible AI service routing (AI gateways), and personal effectiveness strategies like 'locking in' to combat 'time blindness'. Overall, the ecosystem is moving towards more intelligent, autonomous, and integrated systems, while simultaneously grappling with the ethical and security implications of such powerful technologies.",
   "ideas": [
     {
-      "title": "Agentic Multi-Platform Content Orchestrator",
+      "title": "Cognitive Skills Playground for AI Agents",
       "difficulty": "Medium",
-      "estimated_hours": 80,
-      "description": "Develop an AI-powered system that acts as an orchestrator for content generation and multi-platform publishing. It will take a high-level content brief (e.g., 'promote a new feature for Project X on social media this week'), break it down into platform-specific tasks (e.g., LinkedIn post, Twitter thread, Instagram story concept), generate content drafts using a fine-tuned small LLM (e.g., Qwen2.5-Coder for specific tone/style), perform a 'self-verification' step (using an LLM-as-a-verifier logic) for tone, accuracy, and platform guidelines, and then schedule or directly publish the content via API integrations (e.g., Facebook Graph API, X API, Instagram API, etc.). It would feature a dashboard to monitor publishing success and content engagement.",
+      "estimated_hours": 25,
+      "description": "Develop a web-based platform where developers can upload or integrate their AI agent's API and evaluate its 'cognitive core skills' against a predefined taxonomy (perception, memory, reasoning, planning, action, verification, learning, governance). The platform would provide a suite of standardized tests and scenarios for each skill, giving granular feedback and a score. This helps developers understand their agent's strengths and weaknesses, allowing for targeted improvements. It could also include a leaderboard for different agent architectures or fine-tuned LLMs.",
+      "tech_stack": [
+        "Python (FastAPI/Django)",
+        "React/Vue.js (for frontend UI)",
+        "LLM APIs (OpenAI, Anthropic, Qwen via custom interface)",
+        "Docker (for containerizing agent environments)",
+        "PostgreSQL (for storing results and user data)",
+        "LangChain/LlamaIndex (for agent orchestration/evaluation hooks)"
+      ],
+      "source_inspiration": "Cognitive-Core-Skills, Awesome-Scientific-LLM-Benchmarks",
+      "steps": [
+        "Design and implement a database schema for skill taxonomies, test cases, and evaluation results.",
+        "Build a backend API (FastAPI) to manage user agents, run evaluations, and store outcomes.",
+        "Develop a module for each cognitive skill category, including specific test prompts and expected outputs/validation logic.",
+        "Integrate with popular LLM APIs (e.g., OpenAI, Qwen) and provide an interface for users to register their custom agent endpoints.",
+        "Create a frontend (React/Vue) for users to upload/configure agents, trigger evaluations, and view detailed reports/benchmarks.",
+        "Implement a scoring and reporting mechanism to visualize agent performance across different skills."
+      ]
+    },
+    {
+      "title": "AI-Enhanced Multi-Platform Content Orchestrator with Stealth Browser Automation",
+      "difficulty": "Hard",
+      "estimated_hours": 50,
+      "description": "Build a self-hosted or SaaS application that streamlines content creation, scheduling, and multi-platform publishing. Users can define content strategies, and the integrated AI generates text, image prompts, or even video script ideas. The system then uses 'stealth browser automation' (leveraging techniques from 'fortress') to publish this content across platforms like Facebook, X, Threads, TikTok, and other Chinese social media sites (like those mentioned in 'creatorhub'), bypassing common bot detection mechanisms. It could also monitor basic engagement metrics and feed them back to the AI for iterative content improvement.",
       "tech_stack": [
         "Python (FastAPI)",
-        "LLM APIs (e.g., Qwen2.5-Coder via Hugging Face/LoRA, OpenAI/Gemini for verification)",
-        "Containerization (Docker)",
-        "Task Queue (Celery/Redis)",
-        "Database (PostgreSQL)",
-        "Frontend (React/Vue.js)",
-        "Social Media APIs"
+        "Playwright/Selenium (with custom anti-detection layers)",
+        "OpenAI/Gemini APIs (or a custom AI gateway like '9router-v2' for flexibility)",
+        "OAuth/API keys for social media integrations",
+        "Redis/Celery (for task queueing and scheduling)",
+        "Vue.js/React (for a comprehensive dashboard UI)"
       ],
-      "source_inspiration": "OmniPost-AI, creatorhub, a-fable-of-codexes, qwen-lora-finetune, LLM-as-a-Verifier, Cognitive-Core-Skills",
+      "source_inspiration": "creatorhub, OmniPost-AI, fortress, 9router-v2",
       "steps": [
-        "1. Set up FastAPI backend with endpoints for content brief submission and publishing status.",
-        "2. Implement a multi-agent system: a 'Planner Agent' to break down the brief, a 'Generator Agent' (using fine-tuned LLM) for drafts, and a 'Verifier Agent' (using a more powerful LLM) for quality checks.",
-        "3. Integrate social media APIs for target platforms (e.g., Facebook, X, LinkedIn) for publishing and scheduling.",
-        "4. Develop a simple web UI for submitting briefs, monitoring agent progress, and reviewing/approving content.",
-        "5. Explore and implement QLoRA fine-tuning for Qwen2.5-Coder on a custom dataset of brand-specific social media content to improve generation quality.",
-        "6. Implement a task queue (Celery) for asynchronous content generation and publishing to handle long-running operations."
+        "Set up a Python backend with FastAPI for API endpoints and business logic.",
+        "Integrate with multiple social media platform APIs for publishing and basic analytics.",
+        "Develop a core AI generation module using OpenAI/Gemini, allowing users to define content types and tones.",
+        "Implement a robust 'stealth browser automation' layer using Playwright/Selenium, incorporating strategies to avoid bot detection, possibly drawing inspiration from 'fortress'.",
+        "Create a content scheduling and queueing system using Redis/Celery.",
+        "Design and build a user-friendly web interface for content management, scheduling, and performance monitoring.",
+        "Add a proxy or gateway layer similar to '9router-v2' to allow users to specify their preferred AI model provider or even local LLMs."
       ]
     },
     {
-      "title": "Real-time Browser-based AI Video Utility",
+      "title": "Privacy-First Local AI Home Assistant with Agent Action Governance",
       "difficulty": "Medium",
-      "estimated_hours": 60,
-      "description": "Create a browser extension that enhances online video consumption using real-time, on-device AI. The primary feature would be dynamic frame interpolation (similar to Framegen) for smoother video playback on any HTML5 video element. As an advanced feature, integrate a small, browser-optimized embedding model (like Ternlight) to detect and highlight key moments or objects within the video in real-time, providing an interactive overlay. This could also include basic on-device summarization of video segments (e.g., 'action scene detected', 'dialogue-heavy part'). The goal is to offload computationally intensive AI tasks to the user's browser, leveraging WebGPU and WebAssembly for performance.",
+      "estimated_hours": 35,
+      "description": "Develop a privacy-focused, self-hosted AI assistant that extends 'Homekit' capabilities. Instead of relying purely on cloud LLMs, it uses a local Small Language Model (SLM) for sensitive commands and offers a 'permission gateway' for AI actions. This gateway, inspired by security concerns like 'GitLost', would require explicit user confirmation for critical actions (e.g., 'unlock door', 'disable alarm') or provide clear logging and undo capabilities. It would integrate seamlessly with existing smart home ecosystems (like Apple Home) but place user control and data privacy at its core.",
       "tech_stack": [
-        "JavaScript",
-        "Chrome/Firefox Extension API",
-        "WebGPU",
-        "WebAssembly (WASM)",
-        "TensorFlow.js / ONNX Runtime Web",
-        "Pre-trained small ML models (e.g., frame interpolation model, object detection model converted for browser use)"
+        "Python",
+        "Homekit API / Homebridge (for smart home integration)",
+        "Local SLM/LLM (e.g., Llama.cpp for inference on Raspberry Pi/local server)",
+        "Custom API Gateway (similar to '9router-v2' concept, for routing requests to local/external LLMs)",
+        "Web interface (minimalist React/Vue or even a TUI) for configuration and action approval",
+        "SQLite (for local data storage, logs, and preferences)"
       ],
-      "source_inspiration": "Framegen, Ternlight, Small AI Models Gain Traction In places with unreliable networks",
+      "source_inspiration": "Homekit, GitLost, 9router-v2, Hierarchical Acoustic-Semantic Modeling",
       "steps": [
-        "1. Develop a basic browser extension (manifest, background script, content script) to inject functionality into video pages.",
-        "2. Research and integrate a WebGPU-optimized frame interpolation model to process video frames in real-time.",
-        "3. Implement the frame interpolation logic in a content script, rendering processed frames back into the video element.",
-        "4. Explore small embedding models (e.g., MobileNet SSD for object detection) suitable for WASM/TensorFlow.js inference.",
-        "5. Develop an interactive overlay using standard web technologies (HTML/CSS/JS) to display detected events or objects.",
-        "6. Optimize model loading and inference for minimal impact on browser performance, focusing on user experience."
-      ]
-    },
-    {
-      "title": "Contextual Anomaly Explanation and Verification Workbench",
-      "difficulty": "Hard",
-      "estimated_hours": 100,
-      "description": "Build a workbench that augments traditional anomaly detection systems (e.g., fraud, system errors, unusual user behavior) with an LLM-as-a-Verifier agent. When an anomaly is flagged, the system feeds relevant contextual data (e.g., transaction logs, user activity history, system metrics) to a specialized LLM. This LLM agent is tasked with generating a human-readable explanation for the anomaly, identifying potential root causes, suggesting next steps for investigation, and scoring the 'suspicion level' based on a predefined 'cognitive core skills' framework (e.g., reasoning, verification). A user interface would allow human operators to review these AI-generated insights, provide feedback, and confirm/reject anomalies, effectively creating a human-in-the-loop verification process to improve both AI and human analyst performance.",
-      "tech_stack": [
-        "Python (Flask/Django)",
-        "LLM APIs (OpenAI/Anthropic)",
-        "Vector Database (e.g., ChromaDB, Pinecone for context retrieval)",
-        "Stream processing (e.g., Apache Kafka / Redis Streams for simulated anomaly input)",
-        "Graph Database (Neo4j for relationship mapping if applicable)",
-        "Frontend (Dash/Streamlit for rapid prototyping or React/Vue.js)"
-      ],
-      "source_inspiration": "mpesa_safaricom-fraud_anomaly_detection, LLM-as-a-Verifier, Cognitive-Core-Skills, Awesome-Scientific-LLM-Benchmarks",
-      "steps": [
-        "1. Define a schema for anomaly alerts and associated contextual data (e.g., user ID, timestamps, event type, relevant logs).",
-        "2. Set up a data ingestion pipeline (simulated via Kafka/Redis or flat files) to receive anomaly alerts.",
-        "3. Implement a 'Context Retrieval' module to fetch relevant historical data based on the anomaly (e.g., from a database or vector store).",
-        "4. Design and implement the 'LLM-as-a-Verifier' agent: craft prompts to analyze context, generate explanations, identify root causes, and suggest actions.",
-        "5. Develop a web-based user interface for displaying anomalies, AI-generated explanations, and allowing human feedback/verification.",
-        "6. Implement a feedback loop mechanism to log human decisions and use this data to refine LLM prompts or even fine-tune smaller models for specific verification tasks over time."
+        "Set up a base environment on a local device (e.g., Raspberry Pi) capable of running a local SLM/LLM.",
+        "Integrate with the Homekit API or a Homebridge instance to control smart home devices.",
+        "Implement a local LLM inference server (e.g., using `llama.cpp` Python bindings) for processing commands.",
+        "Develop an 'Action Governance' module that intercepts AI-generated commands, categorizes their risk, and triggers user confirmation for high-risk actions.",
+        "Create a simple user interface (web-based or mobile app) for configuring the assistant, viewing action logs, and approving critical commands.",
+        "Build a custom 'AI Gateway' proxy that intelligently routes natural language queries to either the local SLM (for privacy/speed) or an external LLM (for complex queries).",
+        "Focus on robust error handling and clear logging for all AI interactions and device controls."
       ]
     }
   ],
   "quick_actions": [
-    "Dedicate one hour this week to experiment with a small, open-source LLM (e.g., Qwen2.5-Coder) and try a basic QLoRA fine-tuning tutorial on a simple custom dataset.",
-    "Spend 30 minutes researching WebGPU and WebAssembly (WASM) for machine learning, focusing on how models can be deployed and run directly in the browser.",
-    "Build a minimal Python script leveraging an LLM API to simulate a multi-step agentic workflow – for instance, asking it to plan a simple project, then writing a short description for each step.",
-    "Schedule a recurring 'deep work' block (e.g., 60-90 minutes, 3 times a week) in your calendar specifically for focused learning on a new technology or tackling a complex coding challenge without interruptions."
+    "Experiment with fine-tuning a small, domain-specific LLM (e.g., Qwen2.5-Coder using QLoRA) on your own codebase or project documentation to generate contextual code snippets or explanations.",
+    "Allocate a dedicated 'lock-in' block of 90 minutes tomorrow, free from distractions and notifications, to tackle a complex coding problem or learn a new tech, and reflect on its productivity impact.",
+    "Research and set up a local AI gateway (like `9router-v2`) or a simple API proxy for your personal projects to manage multiple LLM providers, implement fallback mechanisms, or route requests to a local LLM.",
+    "Spend 30 minutes conceptualizing how you would implement a 'permission system' for an AI agent if it had access to your sensitive files or smart home devices, identifying potential safeguards."
   ]
 }
