@@ -1,7 +1,15 @@
 {
-  "last_updated": "2026-07-10 08:58:24",
+  "last_updated": "2026-07-11 07:30:28",
   "scraped_sources": {
     "github": [
+      {
+        "name": "texts-to-transformer",
+        "owner": "Doriandarko",
+        "description": "Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac.",
+        "stars": 324,
+        "url": "https://github.com/Doriandarko/texts-to-transformer",
+        "category": "AI / ML"
+      },
       {
         "name": "Cognitive-Core-Skills",
         "owner": "eli-labz",
@@ -11,35 +19,27 @@
         "category": "AI / ML"
       },
       {
-        "name": "texts-to-transformer",
-        "owner": "Doriandarko",
-        "description": "Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac.",
-        "stars": 229,
-        "url": "https://github.com/Doriandarko/texts-to-transformer",
-        "category": "AI / ML"
-      },
-      {
-        "name": "Awesome-Scientific-LLM-Benchmarks",
-        "owner": "subinium",
-        "description": "A curated, accuracy-first list of benchmarks for evaluating LLMs on scientific reasoning and discovery — math, physics, chemistry, materials, biology, and agentic science.",
-        "stars": 22,
-        "url": "https://github.com/subinium/Awesome-Scientific-LLM-Benchmarks",
-        "category": "AI / ML"
-      },
-      {
         "name": "100-days-of-ai",
         "owner": "amitshekhariitbhu",
         "description": "Take the 100 Days of AI challenge - learn one AI concept a day, from machine learning basics to AI agents in production, in 100 days.",
-        "stars": 10,
+        "stars": 29,
         "url": "https://github.com/amitshekhariitbhu/100-days-of-ai",
         "category": "AI / ML"
       },
       {
-        "name": "fucina",
-        "owner": "matteo-grella",
-        "description": "CPU-first tensor/autograd runtime and LLM inference engine in pure Zig — eager execution, GGUF in and out, LoRA training on CPU, benchmarked pairwise against llama.cpp.",
-        "stars": 8,
-        "url": "https://github.com/matteo-grella/fucina",
+        "name": "world-cup-2026-predictor",
+        "owner": "cnemri",
+        "description": "Calibrated ML system forecasting the 2026 FIFA World Cup from 150+ years of matches: leakage-free Elo/form features, time-decayed XGBoost + Poisson models, walk-forward backtesting, and a 50k-run Monte-Carlo tournament simulator.",
+        "stars": 9,
+        "url": "https://github.com/cnemri/world-cup-2026-predictor",
+        "category": "AI / ML"
+      },
+      {
+        "name": "topological-ml-toolkit",
+        "owner": "teerthsharma",
+        "description": "Rust + Python Topological ML Toolkit for persistent homology, Betti-curve features, manifold embeddings, topology docs, backend contracts, and E2E benchmarks for sklearn/PyTorch/TensorFlow-style pipelines.",
+        "stars": 6,
+        "url": "https://github.com/teerthsharma/topological-ml-toolkit",
         "category": "AI / ML"
       },
       {
@@ -51,19 +51,19 @@
         "category": "Automation / Productivity"
       },
       {
+        "name": "ClaudeX",
+        "owner": "huey1in",
+        "description": "ClaudeX 是一个用于自动化创建 Claude 账号，并保存账号的会话状态等数据的Cli工具",
+        "stars": 64,
+        "url": "https://github.com/huey1in/ClaudeX",
+        "category": "Automation / Productivity"
+      },
+      {
         "name": "OmniPost-AI",
         "owner": "wanglinsaputra",
         "description": "AI-powered Chrome extension for generating and publishing posts to Facebook, Threads, and X using ChatGPT, CLAUDE and Gemini.",
         "stars": 42,
         "url": "https://github.com/wanglinsaputra/OmniPost-AI",
-        "category": "Automation / Productivity"
-      },
-      {
-        "name": "a-fable-of-codexes",
-        "owner": "jvogan",
-        "description": "Claude Code skills that make Claude (Fable) the conductor of AI worker fleets: many parallel OpenAI Codex workers plus Opus design agents, organized into campaigns, waves, squads, and review gates.",
-        "stars": 38,
-        "url": "https://github.com/jvogan/a-fable-of-codexes",
         "category": "Automation / Productivity"
       },
       {
@@ -75,24 +75,29 @@
         "category": "Automation / Productivity"
       },
       {
-        "name": "hh-ai-agent",
-        "owner": "fikstt2",
-        "description": "hh.ru аи бот для откликов",
-        "stars": 21,
-        "url": "https://github.com/fikstt2/hh-ai-agent",
+        "name": "pocket-browser",
+        "owner": "Shitsuten",
+        "description": "Protected remote debugging bridge for an existing iOS WKWebView",
+        "stars": 16,
+        "url": "https://github.com/Shitsuten/pocket-browser",
         "category": "Automation / Productivity"
       }
     ],
     "hacker_news": [
       {
-        "title": "AI-generated videos to maximally drive a target brain region",
-        "url": "https://nevo-project.epfl.ch/",
-        "score": 28
+        "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+        "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
+        "score": 945
       },
       {
-        "title": "Train sim created by just one person is being called the best ever made",
-        "url": "https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429",
-        "score": 555
+        "title": "AI 2040: Plan A",
+        "url": "https://ai-2040.com/",
+        "score": 228
+      },
+      {
+        "title": "Good Tools Are Invisible",
+        "url": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/",
+        "score": 403
       }
     ],
     "arxiv": [
@@ -127,112 +132,111 @@
         "title": "It's You.",
         "description": "To start off, I appreciate the community support I have received on the post about being behind.     ...",
         "url": "https://dev.to/francistrdev/its-you-29k0",
-        "reactions": 120
-      },
-      {
-        "title": "Your Career Matters. So Does the Person Building It.",
-        "description": "TL;DR  Tech has taught me many things over the years. It taught me how to learn new technologies,...",
-        "url": "https://dev.to/hemapriya_kanagala/your-career-matters-so-does-the-person-building-it-2jle",
-        "reactions": 84
+        "reactions": 132
       },
       {
         "title": "Should I quit IT or just live through the burnout?",
         "description": "Some of you may have noticed I disappeared a bit from the community over the last couple of weeks....",
         "url": "https://dev.to/klaudiagrz/should-i-quit-it-or-just-live-through-the-burnout-1gng",
-        "reactions": 55
+        "reactions": 74
+      },
+      {
+        "title": "Your Career Matters. So Does the Person Building It.",
+        "description": "TL;DR  Tech has taught me many things over the years. It taught me how to learn new technologies,...",
+        "url": "https://dev.to/hemapriya_kanagala/your-career-matters-so-does-the-person-building-it-2jle",
+        "reactions": 95
       },
       {
         "title": "A New Personal Best: What Six Months of Locking In Can Do",
         "description": "Table of Contents    Setting a New Benchmark for Myself My Most Productive Six Months Yet  2...",
         "url": "https://dev.to/georgekobaidze/a-new-personal-best-what-six-months-of-locking-in-can-do-p3k",
-        "reactions": 101
+        "reactions": 103
       },
       {
         "title": "you stopped reading the docs. now you don't understand the systems.",
         "description": "I didn't go to a university for computer science. I have a B.Tech in Geophysics.  What I know about...",
         "url": "https://dev.to/dannwaneri/you-stopped-reading-the-docs-now-you-dont-understand-the-systems-go1",
-        "reactions": 54
+        "reactions": 59
       }
     ]
   },
-  "trends": "Today's tech trends reveal a strong push towards highly capable, proactive AI agents that can not only reason complexly but also interact with and control the physical world. There's significant interest in optimizing AI for efficiency and local deployment, enabling personalized models and privacy-preserving applications, moving beyond cloud-only solutions. Concurrently, AI's role in automating digital tasks, orchestrating content creation across platforms, and enhancing scientific discovery through advanced reasoning and knowledge lineage is rapidly expanding. Alongside these technical advancements, the developer community is keenly focused on personal growth, combatting burnout, fostering deep understanding of systems (rather than superficial knowledge), and leveraging continuous learning for career longevity and well-being.",
+  "trends": "Today's tech landscape is heavily shaped by the rapid advancement and deployment of **agentic AI**, moving beyond mere chat interfaces to systems capable of proactive reasoning, planning, and real-world interaction. This includes automating complex tasks and bridging digital AI with physical IoT devices. There's a strong parallel emphasis on **personalization and localization of AI**, enabling models to run on personal data and devices to enhance privacy and tailored experiences. Significant effort is also being directed towards establishing **robust benchmarks and universal taxonomies** to evaluate, standardize, and improve these advanced AI capabilities and ensure numerical stability in evolving models. Concurrently, **AI-powered automation tools** are flourishing, streamlining workflows from content generation across multiple platforms to internal development processes, directly enhancing overall productivity. Underpinning these technical shifts, there's a growing community focus on **developer well-being, sustainable productivity, continuous learning paths (e.g., '100 days of AI'), and the creation of seamless, 'invisible' tools** that minimize friction and combat burnout.",
   "ideas": [
     {
-      "title": "Proactive Home Intelligence Agent",
+      "title": "SmartAgent Personal Workflow Orchestrator",
       "difficulty": "Medium",
-      "estimated_hours": 50,
-      "description": "Develop an AI agent that integrates with smart home platforms (e.g., Home Assistant, Apple HomeKit via bridge). Unlike standard voice assistants, this agent uses local sensor data (presence, temperature, light, calendar events) and a small, personalized LLM to learn user routines and proactively manage home settings. For example, it could adjust lighting based on natural light levels and user activity patterns, or pre-heat water based on morning calendar events, without explicit commands. It should offer explanations for its actions and allow user feedback to refine its model, promoting a more intuitive and responsive smart home experience.",
+      "estimated_hours": 60,
+      "description": "Develop an AI agent that observes and learns a user's common digital workflows across various applications (e.g., summarizing emails, drafting social media posts, organizing files, recurring data entry). The agent will then proactively suggest automations or even execute tasks on behalf of the user, aiming to make digital tools 'invisible' and seamless. It will prioritize local processing of personal data for enhanced privacy, only using external APIs for general knowledge or public-facing content generation. This project directly addresses the rise of agentic AI and personalized productivity, making AI a more integrated part of daily work.",
       "tech_stack": [
-        "Python",
-        "Home Assistant API / HomeKit API (via bridge)",
-        "Locally runnable LLM (e.g., Llama.cpp via `llama-cpp-python` or Ollama)",
-        "MQTT / REST for sensor data ingestion",
-        "Flask/FastAPI for a simple web UI/API"
+        "Python (for agent logic, LLM orchestration)",
+        "FastAPI/Flask (for a local server/API)",
+        "Browser Automation Library (e.g., Selenium, Playwright)",
+        "Local LLM Inference Engine (e.g., Ollama, Llama.cpp for privacy)",
+        "Desktop Notification System (e.g., Electron for cross-platform GUI)",
+        "OAuth2/API integration for various web services (Gmail, Slack, Social Media)"
       ],
-      "source_inspiration": "GitHub Repositories: 'Homekit', 'Cognitive-Core-Skills', 'texts-to-transformer', 'fucina'; arXiv Papers: 'UniClawBench'",
+      "source_inspiration": "OmniPost-AI (AI-powered publishing automation), Homekit (AI agent physical control), texts-to-transformer (local data processing), Cognitive-Core-Skills (agent reasoning taxonomies), Good Tools Are Invisible (philosophy of seamless tools).",
       "steps": [
-        "Set up a local LLM environment using `llama-cpp-python` or Ollama for inference.",
-        "Integrate with a smart home platform's API (e.g., Home Assistant REST API) to read sensor data and send commands.",
-        "Develop an agent logic core in Python that ingests sensor data and calendar events.",
-        "Use the local LLM to interpret context, learn routines, and suggest/generate proactive actions.",
-        "Implement a feedback mechanism (e.g., via a simple web interface or notification) for users to approve/deny agent actions, refining the agent's behavior.",
-        "Add a module to provide concise explanations for the agent's decisions and actions."
+        "Task 1: Design a modular agent architecture for observing user actions and integrating with different applications (e.g., browser, email client).",
+        "Task 2: Implement a local data capture and storage mechanism for user workflow patterns, ensuring data privacy and local storage.",
+        "Task 3: Integrate a local LLM for intent recognition, task decomposition, and content generation based on observed patterns.",
+        "Task 4: Develop a GUI (e.g., Electron-based desktop app) for user interaction, task suggestions, and approval workflows.",
+        "Task 5: Implement initial automations for 2-3 common user tasks (e.g., 'draft email response', 'summarize web article', 'post social media update').",
+        "Task 6: Add robust error handling and user feedback loops for continuous agent improvement and trust."
       ]
     },
     {
-      "title": "OmniCampaign AI Agent Fleet Commander",
+      "title": "AI SkillForge & Benchmark Hub",
+      "difficulty": "Medium",
+      "estimated_hours": 45,
+      "description": "Create a web platform designed to help developers and AI enthusiasts systematically learn and benchmark their understanding of AI concepts, particularly focusing on 'cognitive core skills' for LLMs and agents. Users can embark on learning paths (inspired by '100 Days of AI'), engage with conceptual explanations, and then test their comprehension or the performance of small AI models against community-contributed or predefined benchmarks for specific skills like 'reasoning', 'perception', or 'planning'. The platform would track individual progress and offer insights into areas needing improvement, fostering a structured approach to AI education and agent development.",
+      "tech_stack": [
+        "Python (Django/FastAPI for backend API and task execution)",
+        "PostgreSQL (database for user data, learning paths, benchmark results)",
+        "React/Vue.js (for a dynamic, interactive frontend)",
+        "Markdown/MDX (for content delivery of AI concepts)",
+        "Containerization (Docker) for isolated benchmark execution",
+        "Unit testing frameworks (e.g., Pytest) for benchmark validation"
+      ],
+      "source_inspiration": "Cognitive-Core-Skills (taxonomy for AI agent skills), 100-days-of-ai (structured learning challenge), UniClawBench (universal benchmark for agents).",
+      "steps": [
+        "Task 1: Set up a web framework (e.g., Django) and database to manage users, learning modules, and benchmark definitions.",
+        "Task 2: Design and implement a core set of 'cognitive skill' categories and associated conceptual content, drawing from the Cognitive-Core-Skills taxonomy.",
+        "Task 3: Develop a mechanism for users to submit code snippets or prompts for evaluation against predefined benchmark tasks (e.g., simple reasoning puzzles, pattern recognition).",
+        "Task 4: Implement an execution environment (e.g., using Docker containers) to run user-submitted code/prompts safely and score them.",
+        "Task 5: Create a user dashboard to track progress through learning modules and display benchmark performance over time.",
+        "Task 6: Add features for community contribution of new skill definitions, learning content, and benchmark challenges."
+      ]
+    },
+    {
+      "title": "ResearchLineage Pro: Local Semantic Knowledge Graph",
       "difficulty": "Hard",
-      "estimated_hours": 120,
-      "description": "Build a system that acts as an orchestrator for a 'fleet' of specialized AI agents to execute multi-platform content campaigns. The user provides a high-level campaign goal (e.g., 'Launch a 3-day awareness campaign for our new product X on all social media'). The main orchestrating agent, drawing inspiration from systems like 'a-fable-of-codexes', breaks down the goal, assigns sub-tasks to specialized worker agents (e.g., a text generation agent, an image generation agent, a video snippet agent), manages the content creation process (text, image, short video clips), and schedules posts across various social media platforms (e.g., Facebook, X, Threads) using a unified interface, similar to 'OmniPost-AI'.",
+      "estimated_hours": 90,
+      "description": "Build a desktop application that empowers researchers and developers to create a local, private 'knowledge graph' from their personal documents (research papers, codebases, meeting notes, chat logs, email archives, even iMessage exports). Utilizing local embedding models and semantic search, the tool will automatically identify relationships and trace the 'lineage' of ideas across disparate sources, inspired by how scientific ideas evolve. Users can semantically query their entire knowledge base, discover implicit connections, and get suggestions for new research directions or problem-solving approaches based on their unique, private data, fostering a deeper understanding of their own intellectual ecosystem.",
       "tech_stack": [
-        "Python (with LangChain or similar agent framework)",
-        "OpenAI API / Claude API / Gemini API (for different agent types)",
-        "Image generation APIs (e.g., DALL-E, Stability AI)",
-        "Video generation APIs (e.g., RunwayML, Pika Labs if available, or simple `ffmpeg` orchestration)",
-        "Social media APIs (Facebook Graph API, X API, Threads API)",
-        "Message queue (e.g., RabbitMQ, Celery) for task management",
-        "Web framework (e.g., Django, Next.js) for user interface"
+        "Python (main application logic, data ingestion, NLP)",
+        "Electron/PyQt (for cross-platform desktop GUI)",
+        "Local Embedding Models (e.g., Sentence-BERT, instructor-xl run via Hugging Face Transformers/Ollama)",
+        "Vector Database (e.g., ChromaDB, LanceDB for local storage and retrieval)",
+        "Graph Database (e.g., Neo4j embedded, or custom graph representation for relationships)",
+        "PDF/Docx parsers (e.g., PyPDF2, python-docx) for document ingestion",
+        "Local file system monitoring"
       ],
-      "source_inspiration": "GitHub Repositories: 'a-fable-of-codexes', 'OmniPost-AI'; Hacker News: 'AI-generated videos to maximally drive a target brain region'; arXiv Papers: 'OpenCoF'",
+      "source_inspiration": "Ideas Have Genomes (scientific lineage reasoning), texts-to-transformer (personal data analysis), Good Tools Are Invisible (seamless integration), UniClawBench (agents processing real-world data).",
       "steps": [
-        "Design the core orchestrator agent logic using an agent framework like LangChain to manage campaign goals and sub-tasks.",
-        "Integrate various generative AI APIs for text (LLMs), images, and potentially short video clips.",
-        "Develop specialized 'worker' agents (e.g., `TextGenerationAgent`, `ImageGenerationAgent`, `VideoSnippetAgent`, `SocialMediaPostingAgent`).",
-        "Implement task decomposition, delegation, and result aggregation mechanisms between the orchestrator and worker agents.",
-        "Integrate social media publishing APIs for the target platforms (Facebook, X, Threads).",
-        "Create a user interface where users can define campaign objectives, monitor content generation, and approve/schedule posts.",
-        "Implement error handling and retry mechanisms for API calls and agent failures."
-      ]
-    },
-    {
-      "title": "DocPilot: Context-Aware Developer Learning Agent",
-      "difficulty": "Medium",
-      "estimated_hours": 70,
-      "description": "Create an IDE extension or desktop application that acts as a personalized learning companion and documentation navigator. It ingests a developer's local codebase, project-specific documentation, and optionally external library documentation. When the developer is working on a specific code file, the agent uses a locally runnable LLM to provide context-aware summaries of relevant documentation, explain complex system parts, or generate tailored code examples based on the developer's *current project context*. It also analyzes implicit knowledge gaps (e.g., based on code patterns or frequent lookup queries) and suggests targeted 'deep dives' or '100-days-of-AI'-style learning modules from general resources, encouraging a deeper understanding of systems and preventing superficial knowledge.",
-      "tech_stack": [
-        "Python (for backend logic)",
-        "Locally runnable LLM (e.g., Ollama or custom `llama.cpp` integration)",
-        "IDE extension framework (e.g., VS Code Extension API)",
-        "Code parsing libraries (e.g., Tree-sitter, AST)",
-        "Vector database (e.g., FAISS, ChromaDB) for local document embeddings",
-        "Markdown/RST parsers for documentation ingestion"
-      ],
-      "source_inspiration": "GitHub Repositories: '100-days-of-ai', 'texts-to-transformer', 'fucina'; Dev.to Articles: 'you stopped reading the docs. now you don't understand the systems.', 'Your Career Matters. So Does the Person Building It.'",
-      "steps": [
-        "Set up a local LLM server (e.g., Ollama) or integrate `llama.cpp` directly for contextual understanding.",
-        "Develop parsers to ingest local codebase (AST, Tree-sitter) and project/external documentation (Markdown, RST).",
-        "Implement document chunking and embedding generation for a local vector store to enable semantic search.",
-        "Build an IDE extension (e.g., for VS Code) to detect the current file, cursor position, and selected code context.",
-        "Develop agent logic to query the LLM and vector store based on the developer's active context, providing summaries, explanations, or code examples.",
-        "Implement a 'knowledge gap identifier' that suggests relevant learning resources or 'deep dives' based on contextual analysis.",
-        "Design a user-friendly interface within the IDE extension for interaction, displaying insights, and managing learning paths."
+        "Task 1: Develop robust document ingestion modules to parse various file types (PDF, Markdown, .txt, code files, iMessage exports) and extract text.",
+        "Task 2: Implement a local embedding pipeline to convert ingested text into vector representations, ensuring all processing stays on the user's machine.",
+        "Task 3: Design and implement a local vector database for efficient semantic search across the personal knowledge base.",
+        "Task 4: Develop a knowledge graph component to identify and store relationships between ideas, concepts, and documents, forming 'lineages'.",
+        "Task 5: Create an intuitive desktop GUI for uploading/indexing documents, performing semantic queries, visualizing connections, and exploring idea lineages.",
+        "Task 6: Implement a 'suggestion engine' that leverages the knowledge graph to propose new connections or research avenues based on the user's existing content."
       ]
     }
   ],
   "quick_actions": [
-    "Dedicate 30 minutes daily to deep documentation review: Instead of quick searches, pick a core technology or framework you use and read a section of its official documentation or specification. Focus on understanding underlying principles.",
-    "Implement a small AI agent for a personal micro-automation task: Identify one simple, repetitive digital task (e.g., categorizing screenshots, generating meeting summaries, drafting email replies) and build a tiny, script-based AI agent using a local LLM (like Ollama) to automate or semi-automate it.",
-    "Schedule 15 minutes weekly for 'AI Trend Synthesis' reading: Set aside dedicated time each week to review high-level AI/ML news, summaries, or analyses (like this one!) to stay abreast of agentic AI advancements without getting bogged down in every technical detail.",
-    "Practice mindful disengagement from tech for 30 minutes before bed: Actively put away all devices and engage in a non-screen activity (e.g., reading a physical book, light stretching, journaling). This habit supports mental well-being and helps prevent burnout, fostering sustainable productivity."
+    "Action 1: Dedicate 15-30 minutes daily to experiment with a new AI agent framework (e.g., AutoGen, LangChain agents) or learn about LLM agent architectures, leveraging resources like 'Cognitive-Core-Skills' for skill understanding.",
+    "Action 2: Identify one small, repetitive digital task you perform regularly (e.g., organizing screenshots, drafting a specific type of email) and spend an hour this week building a simple script or configuring an existing tool to automate it, aiming for an 'invisible' solution.",
+    "Action 3: Schedule 15 minutes at the end of each workday for a 'mental health check-in' – step away from screens, engage in a quick non-work activity, or practice mindfulness to combat burnout, inspired by recent Dev.to discussions.",
+    "Action 4: Choose a core tool or language you frequently use but haven't deeply explored in a while (e.g., a specific database, a JavaScript framework). Revisit its official documentation for 30 minutes this week, focusing on advanced features or overlooked fundamental concepts."
   ]
 }
