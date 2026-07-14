@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-13 08:44:24",
+  "last_updated": "2026-07-14 07:45:12",
   "scraped_sources": {
     "github": [
       {
         "name": "texts-to-transformer",
         "owner": "Doriandarko",
         "description": "Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac.",
-        "stars": 373,
+        "stars": 389,
         "url": "https://github.com/Doriandarko/texts-to-transformer",
         "category": "AI / ML"
       },
@@ -14,127 +14,109 @@
         "name": "100-days-of-ai",
         "owner": "amitshekhariitbhu",
         "description": "Take the 100 Days of AI challenge - learn one AI concept a day, from machine learning basics to AI agents in production, in 100 days.",
-        "stars": 47,
+        "stars": 52,
         "url": "https://github.com/amitshekhariitbhu/100-days-of-ai",
-        "category": "AI / ML"
-      },
-      {
-        "name": "Zer0Fit",
-        "owner": "porespellar",
-        "description": "Zero-shot forecasting, tabular classification, and regression via MCP — exposes Google TimesFM 2.5 and TabFM v1.0.0 to AI assistants. Just attach a CSV and describe what you want to predict.",
-        "stars": 17,
-        "url": "https://github.com/porespellar/Zer0Fit",
         "category": "AI / ML"
       },
       {
         "name": "Research-Grant-Finder-Agent",
         "owner": "Quazi-07",
         "description": "An agentic AI tool for searching, screening, and ranking NIH funding opportunities based on research interests and proposal relevance.",
-        "stars": 16,
+        "stars": 21,
         "url": "https://github.com/Quazi-07/Research-Grant-Finder-Agent",
         "category": "AI / ML"
       },
       {
-        "name": "world-cup-2026-predictor",
-        "owner": "cnemri",
-        "description": "Calibrated ML system forecasting the 2026 FIFA World Cup from 150+ years of matches: leakage-free Elo/form features, time-decayed XGBoost + Poisson models, walk-forward backtesting, and a 50k-run Monte-Carlo tournament simulator.",
-        "stars": 15,
-        "url": "https://github.com/cnemri/world-cup-2026-predictor",
+        "name": "Text-LLM-Training-from-scratch",
+        "owner": "Y0oshi",
+        "description": "A from-scratch implementation of the language-model training pipeline in PyTorch: tokenization, pretraining, SFT, and preference-based alignment.",
+        "stars": 18,
+        "url": "https://github.com/Y0oshi/Text-LLM-Training-from-scratch",
         "category": "AI / ML"
       },
       {
-        "name": "Homekit",
-        "owner": "bolivestilo",
-        "description": "Homekit gives any AI agent direct, physical control over Apple Home. Flip lights. Lock doors. Read sensors. Through a single open interface.",
-        "stars": 67,
-        "url": "https://github.com/bolivestilo/Homekit",
-        "category": "Automation / Productivity"
+        "name": "Zer0Fit",
+        "owner": "porespellar",
+        "description": "Zero-shot forecasting, tabular classification, and regression via MCP — exposes Google TimesFM 2.5 and TabFM v1.0.0 to AI assistants. Just attach a CSV and describe what you want to predict.",
+        "stars": 18,
+        "url": "https://github.com/porespellar/Zer0Fit",
+        "category": "AI / ML"
       },
       {
         "name": "ClaudeX",
         "owner": "huey1in",
         "description": "ClaudeX 是一个用于自动化创建 Claude 账号，并保存账号的会话状态等数据的Cli工具",
-        "stars": 67,
+        "stars": 72,
         "url": "https://github.com/huey1in/ClaudeX",
         "category": "Automation / Productivity"
       },
       {
-        "name": "Cisa-KEV-Threat-Intel-Orchestrator",
-        "owner": "manishrawat21",
-        "description": "Zero-touch pipeline that turns newly weaponized CVEs from the CISA Known Exploited Vulnerabilities (KEV) catalog into production-ready Sigma detection rules, automatically, every week.",
-        "stars": 20,
-        "url": "https://github.com/manishrawat21/Cisa-KEV-Threat-Intel-Orchestrator",
+        "name": "Homekit",
+        "owner": "bolivestilo",
+        "description": "Homekit gives any AI agent direct, physical control over Apple Home. Flip lights. Lock doors. Read sensors. Through a single open interface.",
+        "stars": 68,
+        "url": "https://github.com/bolivestilo/Homekit",
         "category": "Automation / Productivity"
       },
       {
         "name": "pocket-browser",
         "owner": "Shitsuten",
         "description": "Protected remote debugging bridge for an existing iOS WKWebView",
-        "stars": 18,
+        "stars": 21,
         "url": "https://github.com/Shitsuten/pocket-browser",
         "category": "Automation / Productivity"
       },
       {
-        "name": "git-commit-craft",
-        "owner": "pegasusdev18",
-        "description": "An elegant, production-ready CLI tool powered by Gemini to generate structured Conventional Commits and professional README.md files.",
-        "stars": 12,
-        "url": "https://github.com/pegasusdev18/git-commit-craft",
+        "name": "Cisa-KEV-Threat-Intel-Orchestrator",
+        "owner": "manishrawat21",
+        "description": "Zero-touch pipeline that turns newly weaponized CVEs from the CISA Known Exploited Vulnerabilities (KEV) catalog into production-ready Sigma detection rules, automatically, every week.",
+        "stars": 21,
+        "url": "https://github.com/manishrawat21/Cisa-KEV-Threat-Intel-Orchestrator",
+        "category": "Automation / Productivity"
+      },
+      {
+        "name": "agent-skills",
+        "owner": "moonlight-lupin",
+        "description": "A collection of AI agent skills for Hermes Agent — research, creative, productivity, devops, and more. Each skill is self-contained and tested.",
+        "stars": 11,
+        "url": "https://github.com/moonlight-lupin/agent-skills",
         "category": "Automation / Productivity"
       }
     ],
-    "hacker_news": [
-      {
-        "title": "Converting colors in JavaScript at 6B operations per second",
-        "url": "https://dkryaklin.com/blog/colordx-gpu",
-        "score": 22
-      }
-    ],
+    "hacker_news": [],
     "arxiv": [
       {
-        "title": "PHINN-EEG: Topological Time-Series Analysis of Dream-State EEG -- Dynamic Betti Curves for Dream Content Classification and Topology-Conditioned Neural Signal Synthesis",
-        "summary": "Current electroencephalography (EEG)-based dream detection relies on power spectral density (PSD) and statistical moment features, achieving a state-of-the-art area under the receiver operating charac...",
-        "url": "http://arxiv.org/abs/2607.09662v1"
+        "title": "Requential Coding: Pushing the Limits of Model Compression with Self-Generated Training Data",
+        "summary": "Compression is fundamental to intelligence. A model that can represent its training data as a short code has discovered regularities that enable generalization. Large neural networks may learn functio...",
+        "url": "http://arxiv.org/abs/2607.11883v1"
       },
       {
-        "title": "Scalable Visual Pretraining for Language Intelligence",
-        "summary": "The rapid progress of large foundation models has been driven predominantly by pretraining on large-scale text corpora. However, many forms of knowledge are conveyed through visual representations, wh...",
-        "url": "http://arxiv.org/abs/2607.09657v1"
+        "title": "Metacognition in LLMs: Foundations, Progress, and Opportunities",
+        "summary": "Metacognition is a foundational component of intelligence critical to effective learning, problem solving, decision-making, communication, and more. In recent years, it has become increasingly recogni...",
+        "url": "http://arxiv.org/abs/2607.11881v1"
       },
       {
-        "title": "Evolution of Accuracy and Visual-Cognitive Errors in a Decade of Vision-Language AI Models",
-        "summary": "Vision language models (VLMs) have made remarkable progress in visual reasoning during the last decade. Most evaluations have used simple scenes (MS-COCO) that do not showcase complex human interactio...",
-        "url": "http://arxiv.org/abs/2607.09654v1"
+        "title": "Invariant Learning Dynamics of Transformers in Inductive Reasoning Tasks",
+        "summary": "We present a theoretical framework to explain the emergence of inductive reasoning abilities in Transformer language models. While previous works on Transformer learning dynamics have so far been most...",
+        "url": "http://arxiv.org/abs/2607.11875v1"
       },
       {
-        "title": "VEXAIoT: Autonomous IoT Vulnerability EXploitation using AI Agents",
-        "summary": "Internet of Things (IoT) systems are inherently vulnerable due to constrained hardware, outdated firmware, and insecure default configurations, creating a need for scalable and adaptive security testi...",
-        "url": "http://arxiv.org/abs/2607.09653v1"
+        "title": "A Minimalist Retargeting-Guided Reinforcement Learning Recipe for Dexterous Manipulation",
+        "summary": "Recent work in humanoid whole-body control has found success with a simple recipe: retarget human motion to robot kinematic references, then train policies via reinforcement learning (RL) to track the...",
+        "url": "http://arxiv.org/abs/2607.11874v1"
       },
       {
-        "title": "ConceptSMILE: Auditing the Trustworthiness of Concept-Based Explainable AI",
-        "summary": "Concept-based explainable artificial intelligence (AI) can make model reasoning more human-understandable, but concept-level outputs are not automatically trustworthy. We introduce ConceptSMILE, a mod...",
-        "url": "http://arxiv.org/abs/2607.09649v1"
+        "title": "A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol",
+        "summary": "Institutions collect far more open-ended teaching-evaluation feedback than they read. A prior study introduced a validated protocol for classifying such comments by thematic category and sentiment, bu...",
+        "url": "http://arxiv.org/abs/2607.11873v1"
       }
     ],
     "devto": [
       {
-        "title": "It's You.",
-        "description": "To start off, I appreciate the community support I have received on the post about being behind.     ...",
-        "url": "https://dev.to/francistrdev/its-you-29k0",
-        "reactions": 148
-      },
-      {
         "title": "Should I quit IT or just live through the burnout?",
         "description": "Some of you may have noticed I disappeared a bit from the community over the last couple of weeks....",
         "url": "https://dev.to/klaudiagrz/should-i-quit-it-or-just-live-through-the-burnout-1gng",
-        "reactions": 115
-      },
-      {
-        "title": "Your Career Matters. So Does the Person Building It.",
-        "description": "TL;DR  Tech has taught me many things over the years. It taught me how to learn new technologies,...",
-        "url": "https://dev.to/hemapriya_kanagala/your-career-matters-so-does-the-person-building-it-2jle",
-        "reactions": 103
+        "reactions": 146
       },
       {
         "title": "you stopped reading the docs. now you don't understand the systems.",
@@ -147,83 +129,93 @@
         "description": "Intro   AI Avatar is a completely free app that lets your VRoid (VRM) 3D avatar animate in...",
         "url": "https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec",
         "reactions": 62
+      },
+      {
+        "title": "Return on Attention: Why AI Code Reviews Are Wearing Us Out",
+        "description": "PR volume went up, ticket quality didn't, and the gap got filled with LLMs on both sides of the review: bots reviewing, bots replying, bots occasionally arguing with bots about priorities that only existed in a teammate's head. Our CEO named the actual problem, and it's bigger than code review.",
+        "url": "https://dev.to/cseeman/return-on-attention-why-ai-code-reviews-are-wearing-us-out-2hh0",
+        "reactions": 33
+      },
+      {
+        "title": "Ownership: do \"temos um rojão na mão\" até \"não precisa mais pensar nisso\"",
+        "description": "É aquele famoso \"ou faz direito ou não faz\" que todo dev deveria respeitar desde o inicio dos seus...",
+        "url": "https://dev.to/he4rt/ownership-do-temos-um-rojao-na-mao-ate-nao-precisa-mais-pensar-nisso-3ki7",
+        "reactions": 199
       }
     ]
   },
-  "trends": "Today's tech landscape is dominated by the rapid expansion of AI agents, moving beyond simple chatbots to autonomous systems capable of complex decision-making and physical interaction. There's a strong emphasis on personalized, localized AI solutions, allowing users to train and operate models on their own data for enhanced privacy and customization. 'Zero-shot' capabilities are democratizing advanced machine learning, enabling non-experts to tackle tasks like forecasting and research grant identification with minimal setup. Furthermore, AI is increasingly integrated into developer tooling and security automation, enhancing productivity and proactive threat intelligence. Underlying these advancements, there's a crucial awareness within the developer community about mental well-being, combating burnout, and the enduring importance of fundamental practices like thorough documentation review.",
+  "trends": "Today's tech landscape is significantly shaped by the rapid evolution of AI, particularly in two key areas: the burgeoning field of **Agentic AI** and the demand for **personalized, localized ML solutions**. We're seeing a strong trend towards specialized AI agents that automate complex tasks, from finding research grants to controlling smart home devices, often emphasizing modularity and extensibility. Concurrently, there's a growing interest in training and running smaller, custom-tuned models on personal data and local hardware, making advanced ML more accessible and privacy-preserving. This move towards practical, deployable AI is also extending into critical infrastructure like cybersecurity and business analytics through zero-shot models. However, this acceleration brings challenges, including concerns about developer burnout, cognitive load from AI tools (like code reviews), and the foundational need for understanding systems and documentation amidst rapid innovation. Efficiency, metacognition in LLMs, and a deeper theoretical understanding of transformer models remain active research frontiers, underpinning future advancements.",
   "ideas": [
     {
-      "title": "Local-First Conversational Data Organizer Agent (PDAR)",
+      "title": "Personalized Digital Well-being Agent",
       "difficulty": "Medium",
-      "estimated_hours": 24,
-      "description": "Develop a desktop application that acts as a Personal Digital Archivist Agent (PDAR). Leveraging on-device, open-source language models, this agent will intelligently scan user-specified local directories (e.g., downloads, old chat histories, document folders) to identify and suggest organization, summarization, or archival actions. It will engage in a conversational interface, explaining its suggestions (e.g., 'This document appears to be a receipt from X, should I move it to 'Finance/2024' and summarize its key details?'). The core value lies in privacy (all processing is local) and personalized, proactive digital decluttering, reducing cognitive load for users.",
+      "estimated_hours": 30,
+      "description": "Develop a privacy-first AI agent that runs locally on a user's machine (e.g., Mac) to analyze their digital activity patterns (app usage, communication frequency, focus time vs. distractions). Leveraging this personal data, the agent provides actionable insights and gentle nudges to improve digital well-being, combat burnout, and enhance focus. It could identify peak distraction times, suggest short breaks after long coding sessions, or summarize daily digital interactions to reduce cognitive overhead, all without sending personal data to the cloud. The value lies in its personalized, private approach to mental and productivity optimization.",
       "tech_stack": [
         "Python",
-        "Hugging Face Transformers (for local LLMs)",
-        "Faiss or ChromaDB (for local vector embeddings)",
-        "Tkinter or Streamlit (for UI)",
-        "Operating System File System APIs"
+        "Local SQLite DB",
+        "OS-level activity monitoring APIs (e.g., macOS Screen Time API, Windows Activity History)",
+        "Streamlit (for GUI)",
+        "Small local LLM (e.g., Llama.cpp for contextual nudges)"
       ],
-      "source_inspiration": "texts-to-transformer (local ML), Research-Grant-Finder-Agent (agentic behavior), Dev.to productivity articles (need for organization/reducing cognitive load).",
+      "source_inspiration": "texts-to-transformer (local ML on personal data), Should I quit IT or just live through the burnout? (developer well-being), Return on Attention: Why AI Code Reviews Are Wearing Us Out (cognitive load from AI), agent-skills (modular agent design).",
       "steps": [
-        "Task 1: Research and integrate a compact, open-source LLM (e.g., a quantized Llama-2 or Mistral variant) that can run efficiently on a local machine.",
-        "Task 2: Develop Python scripts to interact with the local file system, recursively scanning user-defined directories and extracting file metadata and content.",
-        "Task 3: Implement a local vector database to store embeddings of file content for semantic search and classification by the LLM.",
-        "Task 4: Design the agentic loop: LLM analyzes file content, proposes an action (rename, move, summarize, delete), and presents it to the user via a conversational interface.",
-        "Task 5: Build a simple graphical user interface (GUI) or a robust command-line interface (CLI) for user interaction, allowing approval, modification, or rejection of suggestions.",
-        "Task 6: Add features such as custom categorization rules, 'ignore list' for directories/file types, and multi-turn conversational capabilities for refining suggestions."
+        "Task 1: Research and integrate OS-specific APIs to collect anonymized digital activity data (e.g., active application, duration, window titles).",
+        "Task 2: Design and implement a local SQLite database to securely store aggregated usage patterns, ensuring no sensitive content is stored.",
+        "Task 3: Develop core agent logic in Python to analyze usage patterns, identify potential stressors or inefficiencies, and derive personalized insights.",
+        "Task 4: Build a user interface (e.g., with Streamlit) to display insights, allow user configuration, and receive feedback on suggestions.",
+        "Task 5: Implement a notification system for 'gentle nudges' (e.g., 'Consider a 5-minute break after 2 hours of focused coding') and explore integrating a small, local LLM for more context-aware suggestions."
       ]
     },
     {
-      "title": "Smart Home Guardian Agent with Proactive Maintenance & Security",
+      "title": "Zero-Shot Tabular Data Analyst Agent for SMBs",
       "difficulty": "Medium",
-      "estimated_hours": 32,
-      "description": "Create an AI agent that integrates with existing smart home platforms (e.g., Home Assistant) to provide proactive device health monitoring and security vulnerability alerts. This agent will analyze sensor data (e.g., battery levels, network connectivity, power consumption, temperature) from connected IoT devices to detect anomalies and predict potential failures. It will also cross-reference device firmware versions with public vulnerability databases (like CISA KEV) to flag outdated or compromised devices, offering actionable advice for maintenance or security patches. This extends the 'Homekit' concept by adding intelligent monitoring and threat intelligence.",
+      "estimated_hours": 40,
+      "description": "Create a localized AI agent that empowers small to medium-sized business (SMB) owners or non-technical analysts to gain immediate insights from their tabular data (e.g., sales, inventory, customer feedback CSVs) using natural language. Users upload a CSV and simply describe what they want to predict, classify, or analyze (e.g., 'forecast next quarter's sales,' 'classify customer sentiment,' 'identify factors affecting churn'). The agent leverages zero-shot capabilities, potentially via integrated open-source models (like adapted versions of Google TimesFM or TabFM if open) or robust rule-based systems, to provide instant visualizations and summaries without requiring traditional ML model training expertise.",
       "tech_stack": [
-        "Python",
-        "Home Assistant API",
-        "MQTT (optional, for direct device interaction)",
-        "Scikit-learn (for basic anomaly detection)",
-        "CVE/NVD API (for vulnerability lookups)",
-        "Flask/Streamlit (for simple web-based reporting)"
+        "Python (backend)",
+        "Flask/FastAPI (API for data upload)",
+        "Pandas (data manipulation)",
+        "Scikit-learn (for feature engineering/basic models if zero-shot not applicable)",
+        "Streamlit/Plotly (for interactive visualizations)",
+        "Open-source zero-shot tabular models (if available and adaptable) or advanced NLP for query interpretation."
       ],
-      "source_inspiration": "Homekit (AI control over smart home), Cisa-KEV-Threat-Intel-Orchestrator (automated security intelligence), VEXAIoT (IoT vulnerability focus).",
+      "source_inspiration": "Zer0Fit (zero-shot forecasting, tabular data, AI assistants), Research-Grant-Finder-Agent (specialized agent for data tasks), Metacognition in LLMs (for robust understanding of user intent).",
       "steps": [
-        "Task 1: Set up a local Home Assistant instance and develop Python scripts to interface with its API to retrieve sensor data from connected devices.",
-        "Task 2: Implement data collection and storage for historical sensor readings, enabling time-series analysis.",
-        "Task 3: Develop anomaly detection models (e.g., statistical outliers, simple regression) to identify unusual patterns in device behavior (e.g., abnormal battery drain, sudden temperature spikes).",
-        "Task 4: Integrate with a public CVE database API (e.g., NVD, CISA KEV) to automatically check if identified IoT device models/firmware versions have known security vulnerabilities.",
-        "Task 5: Create an AI agent module that synthesizes anomaly reports and vulnerability findings, generating human-readable alerts and specific, actionable recommendations for the user.",
-        "Task 6: Develop a custom Home Assistant add-on or a dedicated dashboard (e.g., a simple Flask app) to display device health, security alerts, and maintenance suggestions within or alongside the smart home UI."
+        "Task 1: Develop a web interface (e.g., Streamlit, Dash) for secure CSV file uploads and a natural language input field for user queries.",
+        "Task 2: Implement a backend API (Flask/FastAPI) to handle data ingestion, preprocessing, and query interpretation.",
+        "Task 3: Create an NLP module (using a smaller LLM or rule-based parser) to translate natural language queries into executable data analysis tasks (forecasting, classification, correlation).",
+        "Task 4: Integrate or develop logic for zero-shot tabular data analysis, potentially leveraging open-source forecasting libraries or adapting methodologies from models like TimesFM.",
+        "Task 5: Design and implement dynamic visualization components to present insights, predictions, and classifications in an easily digestible format for business users."
       ]
     },
     {
-      "title": "Zero-Shot Contextual Code Explainer & Docu-Bot (VS Code Extension)",
+      "title": "Modular AI Agent Orchestrator for Home Automation",
       "difficulty": "Hard",
-      "estimated_hours": 48,
-      "description": "Build a VS Code extension that functions as a 'Zero-Shot' Contextual Code Explainer and Docu-Bot. Inspired by the idea of 'zero-shot' capabilities and the need for better documentation, this tool will, with minimal input, analyze selected code segments or entire files to provide natural language explanations, identify implicit dependencies, generate detailed docstrings/comments, and even suggest refactoring improvements. It aims to bridge the gap identified by the 'stopped reading the docs' article by providing on-demand, context-aware code understanding and documentation, leveraging advanced embeddings and LLMs to 'read' and interpret code structure and intent deeply.",
+      "estimated_hours": 60,
+      "description": "Build an extensible, local AI agent platform that acts as a central brain for a smart home, moving beyond simple 'if-then' rules to context-aware, proactive automation. This orchestrator would connect to various smart home devices and platforms (e.g., Home Assistant, Philips Hue, custom IoT sensors) through a modular 'skill' system, similar to how human agents acquire new abilities. Users could issue natural language commands or define high-level goals (e.g., 'optimize energy consumption,' 'prepare for my morning routine'). The agent would learn preferences, interpret sensor data, and execute complex sequences of actions, potentially incorporating elements of reinforcement learning to adapt and improve over time.",
       "tech_stack": [
-        "TypeScript/JavaScript (for VS Code Extension)",
-        "Python (for backend LLM processing, code parsing)",
-        "Language Server Protocol (LSP) for code analysis",
-        "OpenAI API or local LLM (e.g., Ollama or custom local model)",
-        "Vector database (e.g., Qdrant, Pinecone) for codebase embeddings"
+        "Python (core agent logic, asyncio)",
+        "Home Assistant API/MQTT (for device integration)",
+        "Flask/FastAPI (local configuration/monitoring interface)",
+        "Local LLM (for natural language command parsing)",
+        "Docker (for skill containerization)",
+        "Raspberry Pi/ESP32 (for custom sensor integration)"
       ],
-      "source_inspiration": "Zer0Fit (zero-shot idea), git-commit-craft (AI for dev productivity), 'you stopped reading the docs' article, arXiv papers on Vision-Language/Scalable Pretraining (applying deep understanding to new domains).",
+      "source_inspiration": "Homekit (AI agent physical control), agent-skills (modular agent abilities), Cisa-KEV-Threat-Intel-Orchestrator (zero-touch pipeline for automation), Minimalist Retargeting-Guided Reinforcement Learning (for learning optimal behaviors).",
       "steps": [
-        "Task 1: Develop the core VS Code extension, allowing users to select code snippets or files and trigger analysis actions.",
-        "Task 2: Implement a backend service (e.g., FastAPI in Python) that receives code from the extension and performs processing.",
-        "Task 3: Integrate a code parsing library (e.g., `tree-sitter` or `ast` module) to build a robust Abstract Syntax Tree (AST) of the codebase, extracting function signatures, variable usages, and structural information.",
-        "Task 4: Generate embeddings for code snippets and comments, storing them in a vector database to enable semantic search and context retrieval within the codebase.",
-        "Task 5: Integrate with a powerful LLM (via API like OpenAI/Anthropic or a robust local model) to process code context and generate: 1) natural language explanations, 2) detailed docstrings for functions/classes, 3) dependency insights, and 4) refactoring suggestions.",
-        "Task 6: Implement 'zero-shot' prompting techniques, allowing the LLM to infer the user's intent and provide relevant information without extensive prompt engineering, directly within the VS Code UI (e.g., as comments, tooltips, or a dedicated panel)."
+        "Task 1: Design and implement a robust, asynchronous core agent framework in Python, supporting a plug-and-play 'skill' architecture.",
+        "Task 2: Develop initial 'skills' for integrating with common smart home protocols (e.g., Home Assistant API, MQTT for custom IoT devices, Philips Hue API).",
+        "Task 3: Implement a natural language processing component (using a local LLM or rule-based parser) to interpret user commands and high-level goals.",
+        "Task 4: Create a 'context engine' that aggregates data from various sensors and device states to understand the current home environment and user presence.",
+        "Task 5: Develop a 'planning and execution engine' that, based on context and user goals, orchestrates sequences of actions across different skills. Explore simple reinforcement learning to optimize routines based on user feedback (implicit/explicit)."
       ]
     }
   ],
   "quick_actions": [
-    "Action 1: Dedicate 15-30 minutes this week to deeply read and understand the official documentation for a core library, framework, or tool you frequently use, rather than just skimming or relying on quick searches.",
-    "Action 2: Experiment with running a small, open-source AI agent or language model locally on your development machine (e.g., via Ollama, or a simple Python script). Explore its capabilities and limitations to understand on-device AI firsthand.",
-    "Action 3: Identify one small, repetitive task in your daily coding or system administration workflow (e.g., generating boilerplate, committing changes, file organization) and spend 1 hour automating it with a custom script or a new CLI tool.",
-    "Action 4: Integrate a non-work-related 'mental health check-in' into your daily routine. This could be a 10-minute walk, a guided breathing exercise, or simply stepping away from your screen to stretch and clear your mind, consciously combating burnout."
+    "Action 1: Dedicate 30 minutes daily to 'deep documentation diving' – actively read the official docs for a core library or framework you use, focusing on understanding underlying principles rather than just 'how-to's'.",
+    "Action 2: Conduct a personal 'AI utility audit' for one week: track every instance an AI tool (e.g., ChatGPT, Copilot) assists you. At the end of the week, critically evaluate if it truly saved time or added to cognitive load, and adjust your usage patterns.",
+    "Action 3: Block out 15-20 minutes at the start or end of your workday to research one trending AI agent project or concept from GitHub, familiarizing yourself with its purpose and basic implementation ideas.",
+    "Action 4: Implement an 'intentional disconnect' habit: for at least 30 minutes during lunch or after work, put away all work-related devices and engage in a non-digital activity to recharge and prevent burnout."
   ]
 }
