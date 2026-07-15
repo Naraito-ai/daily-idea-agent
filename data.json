@@ -1,114 +1,49 @@
 {
-  "last_updated": "2026-07-14 07:45:12",
+  "last_updated": "2026-07-15 07:48:24",
   "scraped_sources": {
-    "github": [
+    "github": [],
+    "hacker_news": [
       {
-        "name": "texts-to-transformer",
-        "owner": "Doriandarko",
-        "description": "Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac.",
-        "stars": 389,
-        "url": "https://github.com/Doriandarko/texts-to-transformer",
-        "category": "AI / ML"
+        "title": "Jurassic Park computers in excruciating detail",
+        "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
+        "score": 327
       },
       {
-        "name": "100-days-of-ai",
-        "owner": "amitshekhariitbhu",
-        "description": "Take the 100 Days of AI challenge - learn one AI concept a day, from machine learning basics to AI agents in production, in 100 days.",
-        "stars": 52,
-        "url": "https://github.com/amitshekhariitbhu/100-days-of-ai",
-        "category": "AI / ML"
+        "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
+        "url": "https://tailscale.com/security-bulletins",
+        "score": 129
       },
       {
-        "name": "Research-Grant-Finder-Agent",
-        "owner": "Quazi-07",
-        "description": "An agentic AI tool for searching, screening, and ranking NIH funding opportunities based on research interests and proposal relevance.",
-        "stars": 21,
-        "url": "https://github.com/Quazi-07/Research-Grant-Finder-Agent",
-        "category": "AI / ML"
-      },
-      {
-        "name": "Text-LLM-Training-from-scratch",
-        "owner": "Y0oshi",
-        "description": "A from-scratch implementation of the language-model training pipeline in PyTorch: tokenization, pretraining, SFT, and preference-based alignment.",
-        "stars": 18,
-        "url": "https://github.com/Y0oshi/Text-LLM-Training-from-scratch",
-        "category": "AI / ML"
-      },
-      {
-        "name": "Zer0Fit",
-        "owner": "porespellar",
-        "description": "Zero-shot forecasting, tabular classification, and regression via MCP — exposes Google TimesFM 2.5 and TabFM v1.0.0 to AI assistants. Just attach a CSV and describe what you want to predict.",
-        "stars": 18,
-        "url": "https://github.com/porespellar/Zer0Fit",
-        "category": "AI / ML"
-      },
-      {
-        "name": "ClaudeX",
-        "owner": "huey1in",
-        "description": "ClaudeX 是一个用于自动化创建 Claude 账号，并保存账号的会话状态等数据的Cli工具",
-        "stars": 72,
-        "url": "https://github.com/huey1in/ClaudeX",
-        "category": "Automation / Productivity"
-      },
-      {
-        "name": "Homekit",
-        "owner": "bolivestilo",
-        "description": "Homekit gives any AI agent direct, physical control over Apple Home. Flip lights. Lock doors. Read sensors. Through a single open interface.",
-        "stars": 68,
-        "url": "https://github.com/bolivestilo/Homekit",
-        "category": "Automation / Productivity"
-      },
-      {
-        "name": "pocket-browser",
-        "owner": "Shitsuten",
-        "description": "Protected remote debugging bridge for an existing iOS WKWebView",
-        "stars": 21,
-        "url": "https://github.com/Shitsuten/pocket-browser",
-        "category": "Automation / Productivity"
-      },
-      {
-        "name": "Cisa-KEV-Threat-Intel-Orchestrator",
-        "owner": "manishrawat21",
-        "description": "Zero-touch pipeline that turns newly weaponized CVEs from the CISA Known Exploited Vulnerabilities (KEV) catalog into production-ready Sigma detection rules, automatically, every week.",
-        "stars": 21,
-        "url": "https://github.com/manishrawat21/Cisa-KEV-Threat-Intel-Orchestrator",
-        "category": "Automation / Productivity"
-      },
-      {
-        "name": "agent-skills",
-        "owner": "moonlight-lupin",
-        "description": "A collection of AI agent skills for Hermes Agent — research, creative, productivity, devops, and more. Each skill is self-contained and tested.",
-        "stars": 11,
-        "url": "https://github.com/moonlight-lupin/agent-skills",
-        "category": "Automation / Productivity"
+        "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
+        "url": "https://prismml.com/news/bonsai-27b",
+        "score": 556
       }
     ],
-    "hacker_news": [],
     "arxiv": [
       {
-        "title": "Requential Coding: Pushing the Limits of Model Compression with Self-Generated Training Data",
-        "summary": "Compression is fundamental to intelligence. A model that can represent its training data as a short code has discovered regularities that enable generalization. Large neural networks may learn functio...",
-        "url": "http://arxiv.org/abs/2607.11883v1"
+        "title": "Do AI Agents Know When a Task Is Simple? Toward Complexity-Aware Reasoning and Execution",
+        "summary": "Large language model (LLM) agents increasingly automate multi-step engineering and informatics workflows, yet they rarely ask how much effort a task actually requires. They often follow a maximum-cont...",
+        "url": "http://arxiv.org/abs/2607.13034v1"
       },
       {
-        "title": "Metacognition in LLMs: Foundations, Progress, and Opportunities",
-        "summary": "Metacognition is a foundational component of intelligence critical to effective learning, problem solving, decision-making, communication, and more. In recent years, it has become increasingly recogni...",
-        "url": "http://arxiv.org/abs/2607.11881v1"
+        "title": "The Seriality Gap in Video Diffusion Models",
+        "summary": "When one ball strikes another, then another, video models should predict the consequences of each bounce. In controlled experiments on multi-ball hard-sphere dynamics, we find that the performance of ...",
+        "url": "http://arxiv.org/abs/2607.13031v1"
       },
       {
-        "title": "Invariant Learning Dynamics of Transformers in Inductive Reasoning Tasks",
-        "summary": "We present a theoretical framework to explain the emergence of inductive reasoning abilities in Transformer language models. While previous works on Transformer learning dynamics have so far been most...",
-        "url": "http://arxiv.org/abs/2607.11875v1"
+        "title": "TerraZero: Procedural Driving Simulation for Zero-Demonstration Self-Play at Scale",
+        "summary": "Training robust autonomous driving agents requires a simulator that is fast enough for reinforcement learning at scale, realistic enough to ground behavior in real-world map structure, and diverse eno...",
+        "url": "http://arxiv.org/abs/2607.13028v1"
       },
       {
-        "title": "A Minimalist Retargeting-Guided Reinforcement Learning Recipe for Dexterous Manipulation",
-        "summary": "Recent work in humanoid whole-body control has found success with a simple recipe: retarget human motion to robot kinematic references, then train policies via reinforcement learning (RL) to track the...",
-        "url": "http://arxiv.org/abs/2607.11874v1"
+        "title": "PalmClaw: A Native On-Device Agent Framework for Mobile Phones",
+        "summary": "Large Language Model (LLM) agents have moved beyond generating responses to executing multi-step tasks by calling tools, observing the results, and iteratively deciding the next action. Most agent sys...",
+        "url": "http://arxiv.org/abs/2607.13027v1"
       },
       {
-        "title": "A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol",
-        "summary": "Institutions collect far more open-ended teaching-evaluation feedback than they read. A prior study introduced a validated protocol for classifying such comments by thematic category and sentiment, bu...",
-        "url": "http://arxiv.org/abs/2607.11873v1"
+        "title": "A Shortcut to Statistically Steady-State Turbulence with Flow Matching",
+        "summary": "Many nonlinear physical systems exhibit an initial transient phase in which perturbations grow before nonlinear interactions lead to a statistically steady state. While this saturated regime is of pri...",
+        "url": "http://arxiv.org/abs/2607.13022v1"
       }
     ],
     "devto": [
@@ -116,106 +51,107 @@
         "title": "Should I quit IT or just live through the burnout?",
         "description": "Some of you may have noticed I disappeared a bit from the community over the last couple of weeks....",
         "url": "https://dev.to/klaudiagrz/should-i-quit-it-or-just-live-through-the-burnout-1gng",
-        "reactions": 146
-      },
-      {
-        "title": "you stopped reading the docs. now you don't understand the systems.",
-        "description": "I didn't go to a university for computer science. I have a B.Tech in Geophysics.  What I know about...",
-        "url": "https://dev.to/dannwaneri/you-stopped-reading-the-docs-now-you-dont-understand-the-systems-go1",
-        "reactions": 71
+        "reactions": 161
       },
       {
         "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
         "description": "Intro   AI Avatar is a completely free app that lets your VRoid (VRM) 3D avatar animate in...",
         "url": "https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec",
-        "reactions": 62
+        "reactions": 65
       },
       {
         "title": "Return on Attention: Why AI Code Reviews Are Wearing Us Out",
         "description": "PR volume went up, ticket quality didn't, and the gap got filled with LLMs on both sides of the review: bots reviewing, bots replying, bots occasionally arguing with bots about priorities that only existed in a teammate's head. Our CEO named the actual problem, and it's bigger than code review.",
         "url": "https://dev.to/cseeman/return-on-attention-why-ai-code-reviews-are-wearing-us-out-2hh0",
-        "reactions": 33
+        "reactions": 42
       },
       {
         "title": "Ownership: do \"temos um rojão na mão\" até \"não precisa mais pensar nisso\"",
         "description": "É aquele famoso \"ou faz direito ou não faz\" que todo dev deveria respeitar desde o inicio dos seus...",
         "url": "https://dev.to/he4rt/ownership-do-temos-um-rojao-na-mao-ate-nao-precisa-mais-pensar-nisso-3ki7",
         "reactions": 199
+      },
+      {
+        "title": "Stop Saying You Want Ownership Mindset",
+        "description": "My 2nd article this week, I'm supposed to keep it to just once per week but whateverrr, I've had this...",
+        "url": "https://dev.to/adamthedeveloper/stop-saying-you-want-ownership-mindset-34nf",
+        "reactions": 27
       }
     ]
   },
-  "trends": "Today's tech landscape is significantly shaped by the rapid evolution of AI, particularly in two key areas: the burgeoning field of **Agentic AI** and the demand for **personalized, localized ML solutions**. We're seeing a strong trend towards specialized AI agents that automate complex tasks, from finding research grants to controlling smart home devices, often emphasizing modularity and extensibility. Concurrently, there's a growing interest in training and running smaller, custom-tuned models on personal data and local hardware, making advanced ML more accessible and privacy-preserving. This move towards practical, deployable AI is also extending into critical infrastructure like cybersecurity and business analytics through zero-shot models. However, this acceleration brings challenges, including concerns about developer burnout, cognitive load from AI tools (like code reviews), and the foundational need for understanding systems and documentation amidst rapid innovation. Efficiency, metacognition in LLMs, and a deeper theoretical understanding of transformer models remain active research frontiers, underpinning future advancements.",
+  "trends": "Today's tech landscape is marked by the rapid advancement and deployment of on-device AI, particularly large language models (LLMs) and agentic frameworks capable of complex, multi-step task execution directly on mobile devices. Concurrently, there's a significant focus on improving the intelligence and efficiency of AI agents, with research exploring complexity-aware reasoning and advanced simulation for training autonomous systems. The developer community is actively discussing the double-edged sword of AI in productivity, specifically the potential for AI-driven tools (like code reviews) to contribute to 'attention fatigue' and broader concerns about developer burnout and the meaning of 'ownership' in a rapidly automating world. Security remains a critical concern, especially within widely adopted distributed systems.",
   "ideas": [
     {
-      "title": "Personalized Digital Well-being Agent",
+      "title": "Local-First LLM Agent for Personal Knowledge Management",
       "difficulty": "Medium",
-      "estimated_hours": 30,
-      "description": "Develop a privacy-first AI agent that runs locally on a user's machine (e.g., Mac) to analyze their digital activity patterns (app usage, communication frequency, focus time vs. distractions). Leveraging this personal data, the agent provides actionable insights and gentle nudges to improve digital well-being, combat burnout, and enhance focus. It could identify peak distraction times, suggest short breaks after long coding sessions, or summarize daily digital interactions to reduce cognitive overhead, all without sending personal data to the cloud. The value lies in its personalized, private approach to mental and productivity optimization.",
+      "estimated_hours": 60,
+      "description": "Develop a privacy-focused personal knowledge management (PKM) tool that utilizes an on-device large language model (LLM) to act as an intelligent agent. This agent will help users summarize documents, answer questions about their local files (notes, PDFs, articles), and even suggest connections between disparate pieces of information, all without sending data to external cloud services. The core value is enhanced productivity and privacy by keeping all sensitive data on the user's device. The agent should be 'complexity-aware' enough to know when to delegate a task to a simple search vs. requiring deeper LLM processing.",
       "tech_stack": [
-        "Python",
-        "Local SQLite DB",
-        "OS-level activity monitoring APIs (e.g., macOS Screen Time API, Windows Activity History)",
-        "Streamlit (for GUI)",
-        "Small local LLM (e.g., Llama.cpp for contextual nudges)"
+        "Python (e.g., with Llama.cpp bindings)",
+        "Rust (for performance-critical parts or WASM deployment)",
+        "Electron / Tauri (for cross-platform desktop UI)",
+        "Local Vector Database (e.g., LanceDB, ChromaDB)",
+        "Open-source on-device LLM (e.g., Llama.cpp compatible models like Bonsai 27B variants)"
       ],
-      "source_inspiration": "texts-to-transformer (local ML on personal data), Should I quit IT or just live through the burnout? (developer well-being), Return on Attention: Why AI Code Reviews Are Wearing Us Out (cognitive load from AI), agent-skills (modular agent design).",
+      "source_inspiration": "Bonsai 27B: A 27B-Class model that runs on a phone, PalmClaw: A Native On-Device Agent Framework for Mobile Phones, Do AI Agents Know When a Task Is Simple? Toward Complexity-Aware Reasoning and Execution",
       "steps": [
-        "Task 1: Research and integrate OS-specific APIs to collect anonymized digital activity data (e.g., active application, duration, window titles).",
-        "Task 2: Design and implement a local SQLite database to securely store aggregated usage patterns, ensuring no sensitive content is stored.",
-        "Task 3: Develop core agent logic in Python to analyze usage patterns, identify potential stressors or inefficiencies, and derive personalized insights.",
-        "Task 4: Build a user interface (e.g., with Streamlit) to display insights, allow user configuration, and receive feedback on suggestions.",
-        "Task 5: Implement a notification system for 'gentle nudges' (e.g., 'Consider a 5-minute break after 2 hours of focused coding') and explore integrating a small, local LLM for more context-aware suggestions."
+        "1. Research and select a suitable open-source LLM model that can run efficiently on desktop/mobile (e.g., GGUF models).",
+        "2. Set up a local inference engine (e.g., Llama.cpp or equivalent) to load and run the chosen LLM.",
+        "3. Implement document ingestion and embedding pipeline using a local embedding model (e.g., MiniLM) into a local vector database.",
+        "4. Develop the agentic reasoning loop: User query -> Complexity assessment (heuristic/simple LLM call) -> Tool calling (local vector search, summarization, etc.) -> LLM response generation.",
+        "5. Design and build a cross-platform desktop UI (Electron/Tauri) for user interaction, allowing file uploads and chat interface.",
+        "6. Add 'tool' integrations for the agent: local file summarization, Q&A over specific documents, and basic task management commands (e.g., 'add this to my to-do list')."
       ]
     },
     {
-      "title": "Zero-Shot Tabular Data Analyst Agent for SMBs",
+      "title": "Developer Workflow 'Attention Budget' Monitor",
       "difficulty": "Medium",
       "estimated_hours": 40,
-      "description": "Create a localized AI agent that empowers small to medium-sized business (SMB) owners or non-technical analysts to gain immediate insights from their tabular data (e.g., sales, inventory, customer feedback CSVs) using natural language. Users upload a CSV and simply describe what they want to predict, classify, or analyze (e.g., 'forecast next quarter's sales,' 'classify customer sentiment,' 'identify factors affecting churn'). The agent leverages zero-shot capabilities, potentially via integrated open-source models (like adapted versions of Google TimesFM or TabFM if open) or robust rule-based systems, to provide instant visualizations and summaries without requiring traditional ML model training expertise.",
+      "description": "Create a VS Code extension or standalone desktop application that acts as an 'Attention Budget' monitor for developers. Inspired by the 'Return on Attention' problem, this tool would unobtrusively track developer interactions with AI-assisted tools (e.g., AI code suggestions, automated review comments) and context-switching events. It would provide a personalized dashboard illustrating 'attention spend' and highlight patterns where AI tools might be causing cognitive overload rather than reducing it. The goal is to help developers optimize their workflow for deep work and minimize 'AI fatigue', ultimately improving productivity and preventing burnout.",
       "tech_stack": [
-        "Python (backend)",
-        "Flask/FastAPI (API for data upload)",
-        "Pandas (data manipulation)",
-        "Scikit-learn (for feature engineering/basic models if zero-shot not applicable)",
-        "Streamlit/Plotly (for interactive visualizations)",
-        "Open-source zero-shot tabular models (if available and adaptable) or advanced NLP for query interpretation."
+        "TypeScript/JavaScript (for VS Code Extension)",
+        "VS Code Extension API",
+        "Local storage / IndexedDB for data persistence",
+        "Charting library (e.g., Chart.js) for visualization",
+        "Optional: Python for more complex local analytics scripts"
       ],
-      "source_inspiration": "Zer0Fit (zero-shot forecasting, tabular data, AI assistants), Research-Grant-Finder-Agent (specialized agent for data tasks), Metacognition in LLMs (for robust understanding of user intent).",
+      "source_inspiration": "Return on Attention: Why AI Code Reviews Are Wearing Us Out, Should I quit IT or just live through the burnout?",
       "steps": [
-        "Task 1: Develop a web interface (e.g., Streamlit, Dash) for secure CSV file uploads and a natural language input field for user queries.",
-        "Task 2: Implement a backend API (Flask/FastAPI) to handle data ingestion, preprocessing, and query interpretation.",
-        "Task 3: Create an NLP module (using a smaller LLM or rule-based parser) to translate natural language queries into executable data analysis tasks (forecasting, classification, correlation).",
-        "Task 4: Integrate or develop logic for zero-shot tabular data analysis, potentially leveraging open-source forecasting libraries or adapting methodologies from models like TimesFM.",
-        "Task 5: Design and implement dynamic visualization components to present insights, predictions, and classifications in an easily digestible format for business users."
+        "1. Initialize a new VS Code extension project.",
+        "2. Implement listeners for relevant VS Code events: file edits, AI completion requests/acceptances (if API allows), active window changes, debugging sessions.",
+        "3. Develop a local data collection module to anonymously store interaction metrics (timestamps, tool usage, duration) without sending data externally.",
+        "4. Create a VS Code Webview or separate UI to display a dashboard of 'attention spend' metrics, such as time spent reviewing AI suggestions, context-switching frequency, or total AI tool invocation count.",
+        "5. Implement basic analytics: calculate average interaction times, identify peak AI usage periods, and highlight potential 'fatigue' indicators.",
+        "6. Add configurable alerts or nudges (e.g., 'You've reviewed X AI suggestions in Y minutes, consider a short break' or 'Switching projects frequently today')."
       ]
     },
     {
-      "title": "Modular AI Agent Orchestrator for Home Automation",
-      "difficulty": "Hard",
-      "estimated_hours": 60,
-      "description": "Build an extensible, local AI agent platform that acts as a central brain for a smart home, moving beyond simple 'if-then' rules to context-aware, proactive automation. This orchestrator would connect to various smart home devices and platforms (e.g., Home Assistant, Philips Hue, custom IoT sensors) through a modular 'skill' system, similar to how human agents acquire new abilities. Users could issue natural language commands or define high-level goals (e.g., 'optimize energy consumption,' 'prepare for my morning routine'). The agent would learn preferences, interpret sensor data, and execute complex sequences of actions, potentially incorporating elements of reinforcement learning to adapt and improve over time.",
+      "title": "Micro-Simulation Sandbox for AI Agent Tooling",
+      "difficulty": "Medium",
+      "estimated_hours": 50,
+      "description": "Develop a lightweight, procedural content generation framework specifically designed for creating diverse 'micro-simulation' environments to test the robustness and complexity-awareness of small AI agents or complex business logic. Instead of full-scale simulations like autonomous driving, this framework would focus on generating varied but controlled scenarios (e.g., different API responses, varying database states, diverse user input sequences) for agents that interact with tools. This allows developers to quickly generate edge cases, test error handling, and ensure agents can adapt to unforeseen complexities, aligning with research on making agents aware of task simplicity/complexity.",
       "tech_stack": [
-        "Python (core agent logic, asyncio)",
-        "Home Assistant API/MQTT (for device integration)",
-        "Flask/FastAPI (local configuration/monitoring interface)",
-        "Local LLM (for natural language command parsing)",
-        "Docker (for skill containerization)",
-        "Raspberry Pi/ESP32 (for custom sensor integration)"
+        "Python (for generation logic and agent interaction)",
+        "JSON Schema / Pydantic (for defining simulation parameters)",
+        "Faker library (for synthetic data generation)",
+        "Docker (for isolated agent environments)",
+        "Optional: Web UI (e.g., Streamlit, Flask) for configuration"
       ],
-      "source_inspiration": "Homekit (AI agent physical control), agent-skills (modular agent abilities), Cisa-KEV-Threat-Intel-Orchestrator (zero-touch pipeline for automation), Minimalist Retargeting-Guided Reinforcement Learning (for learning optimal behaviors).",
+      "source_inspiration": "TerraZero: Procedural Driving Simulation for Zero-Demonstration Self-Play at Scale, Do AI Agents Know When a Task Is Simple? Toward Complexity-Aware Reasoning and Execution, PalmClaw: A Native On-Device Agent Framework for Mobile Phones",
       "steps": [
-        "Task 1: Design and implement a robust, asynchronous core agent framework in Python, supporting a plug-and-play 'skill' architecture.",
-        "Task 2: Develop initial 'skills' for integrating with common smart home protocols (e.g., Home Assistant API, MQTT for custom IoT devices, Philips Hue API).",
-        "Task 3: Implement a natural language processing component (using a local LLM or rule-based parser) to interpret user commands and high-level goals.",
-        "Task 4: Create a 'context engine' that aggregates data from various sensors and device states to understand the current home environment and user presence.",
-        "Task 5: Develop a 'planning and execution engine' that, based on context and user goals, orchestrates sequences of actions across different skills. Explore simple reinforcement learning to optimize routines based on user feedback (implicit/explicit)."
+        "1. Design a declarative configuration system (e.g., using YAML/JSON Schema) to define parameters for different types of 'micro-scenarios' (e.g., API response structures, database record counts, user persona details).",
+        "2. Implement a 'scenario generator' module that uses the configurations and libraries like Faker to procedurally generate diverse data and conditions for a given scenario.",
+        "3. Create a 'sandbox executor' that can load a generated scenario, initialize a target AI agent (or a piece of business logic), and run it against the simulated environment.",
+        "4. Develop an observation and logging system within the sandbox to capture agent actions, tool calls, and outcomes for each simulation run.",
+        "5. Integrate assertion capabilities to define expected behaviors or outcomes for different scenario complexities, allowing automated testing.",
+        "6. Provide a reporting mechanism to summarize simulation results, highlighting scenarios where the agent failed or performed suboptimally, indicating a lack of complexity awareness."
       ]
     }
   ],
   "quick_actions": [
-    "Action 1: Dedicate 30 minutes daily to 'deep documentation diving' – actively read the official docs for a core library or framework you use, focusing on understanding underlying principles rather than just 'how-to's'.",
-    "Action 2: Conduct a personal 'AI utility audit' for one week: track every instance an AI tool (e.g., ChatGPT, Copilot) assists you. At the end of the week, critically evaluate if it truly saved time or added to cognitive load, and adjust your usage patterns.",
-    "Action 3: Block out 15-20 minutes at the start or end of your workday to research one trending AI agent project or concept from GitHub, familiarizing yourself with its purpose and basic implementation ideas.",
-    "Action 4: Implement an 'intentional disconnect' habit: for at least 30 minutes during lunch or after work, put away all work-related devices and engage in a non-digital activity to recharge and prevent burnout."
+    "Action 1: Dedicate 30 minutes to exploring local LLM options (e.g., running `ollama` or `llama.cpp` locally on a sample model) to understand their performance and capabilities firsthand.",
+    "Action 2: For one day this week, consciously monitor your personal 'attention budget' during coding. Note every time an AI tool (Copilot, ChatGPT, etc.) intervenes and reflect on whether it truly saved time or introduced a new cognitive burden. Jot down observations.",
+    "Action 3: Block out a dedicated 2-hour 'uninterrupted deep work' slot tomorrow. Turn off all AI assistants and non-essential notifications to practice focused problem-solving without external prompts, fostering true 'ownership' of the task.",
+    "Action 4: Reflect on a recent task or project where you felt 'burnout' or 'attention fatigue.' Spend 15 minutes journaling potential root causes and brainstorm one small, actionable change you could implement to mitigate it in the future."
   ]
 }
