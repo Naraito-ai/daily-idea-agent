@@ -1,49 +1,135 @@
 {
-  "last_updated": "2026-07-15 07:48:24",
+  "last_updated": "2026-07-16 07:53:13",
   "scraped_sources": {
-    "github": [],
+    "github": [
+      {
+        "name": "100-days-of-ai",
+        "owner": "amitshekhariitbhu",
+        "description": "Take the 100 Days of AI challenge - learn one AI concept a day, from machine learning basics to AI agents in production, in 100 days.",
+        "stars": 53,
+        "url": "https://github.com/amitshekhariitbhu/100-days-of-ai",
+        "category": "AI / ML"
+      },
+      {
+        "name": "Text-LLM-Training-from-scratch",
+        "owner": "Y0oshi",
+        "description": "A from-scratch implementation of the language-model training pipeline in PyTorch: tokenization, pretraining, SFT, and preference-based alignment.",
+        "stars": 26,
+        "url": "https://github.com/Y0oshi/Text-LLM-Training-from-scratch",
+        "category": "AI / ML"
+      },
+      {
+        "name": "Zer0Fit",
+        "owner": "porespellar",
+        "description": "Zero-shot forecasting, tabular classification, and regression via MCP — exposes Google TimesFM 2.5 and TabFM v1.0.0 to AI assistants. Just attach a CSV and describe what you want to predict.",
+        "stars": 20,
+        "url": "https://github.com/porespellar/Zer0Fit",
+        "category": "AI / ML"
+      },
+      {
+        "name": "10-ai-careers-roadmap",
+        "owner": "Moh4696",
+        "description": "Free, structured learning library for 10 AI careers paying $135K-$1M+ in 2026. Companion to the @exploraX_ article.",
+        "stars": 14,
+        "url": "https://github.com/Moh4696/10-ai-careers-roadmap",
+        "category": "AI / ML"
+      },
+      {
+        "name": "ai-engineering-school",
+        "owner": "amirmasoud-iravani",
+        "description": "A beginner-friendly AI Engineering school from Python fundamentals to ML, Deep Learning, MLOps, and AI applications.",
+        "stars": 8,
+        "url": "https://github.com/amirmasoud-iravani/ai-engineering-school",
+        "category": "AI / ML"
+      },
+      {
+        "name": "ClaudeX",
+        "owner": "huey1in",
+        "description": "ClaudeX 是一个用于自动化创建 Claude 账号，并保存账号的会话状态等数据的Cli工具",
+        "stars": 84,
+        "url": "https://github.com/huey1in/ClaudeX",
+        "category": "Automation / Productivity"
+      },
+      {
+        "name": "grok-register-win",
+        "owner": "lingxiaoyiyu-hub",
+        "description": "Windows local Grok (xAI) auto register / bot panel - Chromium headed / Camoufox headless, batch account creation, auto SSO to CPA OAuth conversion",
+        "stars": 35,
+        "url": "https://github.com/lingxiaoyiyu-hub/grok-register-win",
+        "category": "Automation / Productivity"
+      },
+      {
+        "name": "Cisa-KEV-Threat-Intel-Orchestrator",
+        "owner": "manishrawat21",
+        "description": "Zero-touch pipeline that turns newly weaponized CVEs from the CISA Known Exploited Vulnerabilities (KEV) catalog into production-ready Sigma detection rules, automatically, every week.",
+        "stars": 21,
+        "url": "https://github.com/manishrawat21/Cisa-KEV-Threat-Intel-Orchestrator",
+        "category": "Automation / Productivity"
+      },
+      {
+        "name": "app-store-connect-skill",
+        "owner": "JeremyLai99",
+        "description": "Claude Code skill that scans an iOS project and auto-generates a copyable App Store Connect submission report.",
+        "stars": 12,
+        "url": "https://github.com/JeremyLai99/app-store-connect-skill",
+        "category": "Automation / Productivity"
+      },
+      {
+        "name": "paleo",
+        "owner": "mocasus",
+        "description": "🦴 paleo — token-saving skills for LLM agents: compress output, trim context, cap budget (Claude Code / Codex / Gemini / Hermes)",
+        "stars": 12,
+        "url": "https://github.com/mocasus/paleo",
+        "category": "Automation / Productivity"
+      }
+    ],
     "hacker_news": [
       {
-        "title": "Jurassic Park computers in excruciating detail",
-        "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
-        "score": 327
+        "title": "Inkling: Our Open-Weights Model",
+        "url": "https://thinkingmachines.ai/news/introducing-inkling/",
+        "score": 921
       },
       {
-        "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
-        "url": "https://tailscale.com/security-bulletins",
-        "score": 129
+        "title": "Grok Build is open source",
+        "url": "https://github.com/xai-org/grok-build",
+        "score": 413
       },
       {
-        "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
-        "url": "https://prismml.com/news/bonsai-27b",
-        "score": 556
+        "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+        "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+        "score": 165
+      },
+      {
+        "title": "Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers",
+        "url": "https://arxiv.org/abs/2607.11859",
+        "score": 39
       }
     ],
     "arxiv": [
       {
-        "title": "Do AI Agents Know When a Task Is Simple? Toward Complexity-Aware Reasoning and Execution",
-        "summary": "Large language model (LLM) agents increasingly automate multi-step engineering and informatics workflows, yet they rarely ask how much effort a task actually requires. They often follow a maximum-cont...",
-        "url": "http://arxiv.org/abs/2607.13034v1"
+        "title": "Leveraging unlabelled data for generalizable neural population decoding",
+        "summary": "Robust and accurate neural decoders are integral to neurotechnologies such as brain-computer interfaces and closed-loop experiments. Recent work has shown that tokenizing neural data at the spike leve...",
+        "url": "http://arxiv.org/abs/2607.14086v1"
       },
       {
-        "title": "The Seriality Gap in Video Diffusion Models",
-        "summary": "When one ball strikes another, then another, video models should predict the consequences of each bounce. In controlled experiments on multi-ball hard-sphere dynamics, we find that the performance of ...",
-        "url": "http://arxiv.org/abs/2607.13031v1"
+        "title": "Linear Independent Component Analysis via Optimal Transport",
+        "summary": "Linear Independent Component Analysis (ICA) recovers jointly independent source signals from their linear mixtures. To achieve this, classical ICA algorithms attempt to maximize non-Gaussianity, measu...",
+        "url": "http://arxiv.org/abs/2607.14081v1"
       },
       {
-        "title": "TerraZero: Procedural Driving Simulation for Zero-Demonstration Self-Play at Scale",
-        "summary": "Training robust autonomous driving agents requires a simulator that is fast enough for reinforcement learning at scale, realistic enough to ground behavior in real-world map structure, and diverse eno...",
-        "url": "http://arxiv.org/abs/2607.13028v1"
+        "title": "MetaPerch: Learning from metadata for bioacoustics foundation models",
+        "summary": "Bioacoustic foundation models rely on large-scale citizen science platforms like Xeno-Canto for geographically and ecologically diverse data. Recent work has shown that supervision alone can produce S...",
+        "url": "http://arxiv.org/abs/2607.14072v1"
       },
       {
-        "title": "PalmClaw: A Native On-Device Agent Framework for Mobile Phones",
-        "summary": "Large Language Model (LLM) agents have moved beyond generating responses to executing multi-step tasks by calling tools, observing the results, and iteratively deciding the next action. Most agent sys...",
-        "url": "http://arxiv.org/abs/2607.13027v1"
+        "title": "Screening of Biosecurity Features in Metagenomic Data with Evo 2 Probes",
+        "summary": "Genomic foundation models such as Evo 2 learn rich sequence representations, but their value for biosecurity screening is largely unexplored. We ask how much biosecurity-relevant signal is linearly ac...",
+        "url": "http://arxiv.org/abs/2607.14070v1"
       },
       {
-        "title": "A Shortcut to Statistically Steady-State Turbulence with Flow Matching",
-        "summary": "Many nonlinear physical systems exhibit an initial transient phase in which perturbations grow before nonlinear interactions lead to a statistically steady state. While this saturated regime is of pri...",
-        "url": "http://arxiv.org/abs/2607.13022v1"
+        "title": "Hindcast: Replaying Prediction Markets to Evaluate LLM Forecasters",
+        "summary": "Forecasters are evaluated by backtesting, which replays resolved questions and grades the probability the system would have assigned before the outcome was known. For LLMs, two channels leak the answe...",
+        "url": "http://arxiv.org/abs/2607.14051v1"
       }
     ],
     "devto": [
@@ -51,107 +137,110 @@
         "title": "Should I quit IT or just live through the burnout?",
         "description": "Some of you may have noticed I disappeared a bit from the community over the last couple of weeks....",
         "url": "https://dev.to/klaudiagrz/should-i-quit-it-or-just-live-through-the-burnout-1gng",
-        "reactions": 161
-      },
-      {
-        "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
-        "description": "Intro   AI Avatar is a completely free app that lets your VRoid (VRM) 3D avatar animate in...",
-        "url": "https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec",
-        "reactions": 65
+        "reactions": 169
       },
       {
         "title": "Return on Attention: Why AI Code Reviews Are Wearing Us Out",
         "description": "PR volume went up, ticket quality didn't, and the gap got filled with LLMs on both sides of the review: bots reviewing, bots replying, bots occasionally arguing with bots about priorities that only existed in a teammate's head. Our CEO named the actual problem, and it's bigger than code review.",
         "url": "https://dev.to/cseeman/return-on-attention-why-ai-code-reviews-are-wearing-us-out-2hh0",
-        "reactions": 42
+        "reactions": 44
       },
       {
-        "title": "Ownership: do \"temos um rojão na mão\" até \"não precisa mais pensar nisso\"",
-        "description": "É aquele famoso \"ou faz direito ou não faz\" que todo dev deveria respeitar desde o inicio dos seus...",
-        "url": "https://dev.to/he4rt/ownership-do-temos-um-rojao-na-mao-ate-nao-precisa-mais-pensar-nisso-3ki7",
-        "reactions": 199
+        "title": "Simple Benchmark Review: Ollama on Jetson Nano",
+        "description": "Previous Related Post: Part 1      This particular rabbit hole was created due to a previous...",
+        "url": "https://dev.to/annavi11arrea1/simple-benchmark-review-ollama-on-jetson-nano-5gee",
+        "reactions": 37
       },
       {
         "title": "Stop Saying You Want Ownership Mindset",
         "description": "My 2nd article this week, I'm supposed to keep it to just once per week but whateverrr, I've had this...",
         "url": "https://dev.to/adamthedeveloper/stop-saying-you-want-ownership-mindset-34nf",
-        "reactions": 27
+        "reactions": 30
+      },
+      {
+        "title": "A Dash of dev.to: My Blog Stats Now Live in the Terminal",
+        "description": "Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is...",
+        "url": "https://dev.to/lovestaco/a-dash-of-devto-my-blog-stats-now-live-in-the-terminal-4l4e",
+        "reactions": 28
       }
     ]
   },
-  "trends": "Today's tech landscape is marked by the rapid advancement and deployment of on-device AI, particularly large language models (LLMs) and agentic frameworks capable of complex, multi-step task execution directly on mobile devices. Concurrently, there's a significant focus on improving the intelligence and efficiency of AI agents, with research exploring complexity-aware reasoning and advanced simulation for training autonomous systems. The developer community is actively discussing the double-edged sword of AI in productivity, specifically the potential for AI-driven tools (like code reviews) to contribute to 'attention fatigue' and broader concerns about developer burnout and the meaning of 'ownership' in a rapidly automating world. Security remains a critical concern, especially within widely adopted distributed systems.",
+  "trends": "Today's tech trends reveal a strong emphasis on the democratization and practical application of AI, particularly Large Language Models (LLMs). There's a significant focus on making AI learning accessible (e.g., '100 Days of AI', AI career roadmaps) and leveraging open-source foundation models (Inkling, Grok Build). Concurrently, developers are actively building advanced automation solutions using LLM agents, ranging from automating mundane tasks like account creation and report generation to complex zero-shot capabilities in forecasting and threat intelligence. However, this increased reliance on AI tools is also bringing to light challenges in developer productivity and well-being, specifically concerns around 'return on attention' and potential burnout from managing AI-generated content in workflows. Specialized applications of foundation models in scientific and technical domains (e.g., neurotech, biosecurity) also indicate a deepening integration of AI into complex problem-solving.",
   "ideas": [
     {
-      "title": "Local-First LLM Agent for Personal Knowledge Management",
+      "title": "AI-Powered 'Attention Filter' for Developer Communications",
       "difficulty": "Medium",
       "estimated_hours": 60,
-      "description": "Develop a privacy-focused personal knowledge management (PKM) tool that utilizes an on-device large language model (LLM) to act as an intelligent agent. This agent will help users summarize documents, answer questions about their local files (notes, PDFs, articles), and even suggest connections between disparate pieces of information, all without sending data to external cloud services. The core value is enhanced productivity and privacy by keeping all sensitive data on the user's device. The agent should be 'complexity-aware' enough to know when to delegate a task to a simple search vs. requiring deeper LLM processing.",
+      "description": "Develop a browser extension or desktop application that acts as an 'attention filter' for AI-generated content within a developer's workflow. It would integrate with platforms like GitHub (for AI code reviews), Jira (for AI-summarized tickets), and Slack/Discord (for bot messages). The tool would analyze incoming AI-generated text, provide a 'cognitive load' score, summarize lengthy AI outputs more concisely, and offer options to 'mute' or 'rephrase' bot comments that are redundant or distracting. The goal is to reduce mental fatigue and improve the signal-to-noise ratio in AI-assisted developer environments, directly addressing the 'Return on Attention' problem.",
       "tech_stack": [
-        "Python (e.g., with Llama.cpp bindings)",
-        "Rust (for performance-critical parts or WASM deployment)",
-        "Electron / Tauri (for cross-platform desktop UI)",
-        "Local Vector Database (e.g., LanceDB, ChromaDB)",
-        "Open-source on-device LLM (e.g., Llama.cpp compatible models like Bonsai 27B variants)"
+        "Python (Flask/FastAPI)",
+        "JavaScript (Browser Extension API)",
+        "LangChain / LlamaIndex",
+        "OpenAI API / Anthropic Claude API (or local LLM via Ollama)",
+        "GitHub API",
+        "Jira API",
+        "Slack API"
       ],
-      "source_inspiration": "Bonsai 27B: A 27B-Class model that runs on a phone, PalmClaw: A Native On-Device Agent Framework for Mobile Phones, Do AI Agents Know When a Task Is Simple? Toward Complexity-Aware Reasoning and Execution",
+      "source_inspiration": "Dev.to articles like 'Return on Attention: Why AI Code Reviews Are Wearing Us Out' and GitHub repo 'paleo' for token-saving LLM skills, highlighting the need for efficient AI interaction.",
       "steps": [
-        "1. Research and select a suitable open-source LLM model that can run efficiently on desktop/mobile (e.g., GGUF models).",
-        "2. Set up a local inference engine (e.g., Llama.cpp or equivalent) to load and run the chosen LLM.",
-        "3. Implement document ingestion and embedding pipeline using a local embedding model (e.g., MiniLM) into a local vector database.",
-        "4. Develop the agentic reasoning loop: User query -> Complexity assessment (heuristic/simple LLM call) -> Tool calling (local vector search, summarization, etc.) -> LLM response generation.",
-        "5. Design and build a cross-platform desktop UI (Electron/Tauri) for user interaction, allowing file uploads and chat interface.",
-        "6. Add 'tool' integrations for the agent: local file summarization, Q&A over specific documents, and basic task management commands (e.g., 'add this to my to-do list')."
+        "Task 1: Design a modular architecture for API integrations (GitHub, Jira, Slack).",
+        "Task 2: Implement data retrieval and parsing for AI-generated comments/summaries from connected platforms.",
+        "Task 3: Integrate an LLM (e.g., via LangChain) to analyze text for cognitive load, summarize, and rephrase.",
+        "Task 4: Develop a browser extension frontend (or desktop app) to display insights and provide user controls (mute, summarize, rephrase).",
+        "Task 5: Implement user settings for customization and privacy controls.",
+        "Task 6: Conduct user testing with developers to refine the 'cognitive load' metric and summarization quality."
       ]
     },
     {
-      "title": "Developer Workflow 'Attention Budget' Monitor",
+      "title": "Zero-Shot Industry-Specific Anomaly Detection Microservice",
       "difficulty": "Medium",
-      "estimated_hours": 40,
-      "description": "Create a VS Code extension or standalone desktop application that acts as an 'Attention Budget' monitor for developers. Inspired by the 'Return on Attention' problem, this tool would unobtrusively track developer interactions with AI-assisted tools (e.g., AI code suggestions, automated review comments) and context-switching events. It would provide a personalized dashboard illustrating 'attention spend' and highlight patterns where AI tools might be causing cognitive overload rather than reducing it. The goal is to help developers optimize their workflow for deep work and minimize 'AI fatigue', ultimately improving productivity and preventing burnout.",
+      "estimated_hours": 45,
+      "description": "Build a specialized microservice that allows businesses in a niche industry (e.g., e-commerce, manufacturing, healthcare) to upload their time-series data (CSV format) and instantly receive zero-shot anomaly detection, forecasting, and trend analysis tailored to their domain, without any model training from the user. Leveraging models like Google TimesFM (exposed by Zer0Fit) or a fine-tuned open-source equivalent, this service would abstract away complex ML pipelines, making advanced analytics accessible. Users would simply 'attach a CSV and describe what they want to predict' for domain-specific insights.",
       "tech_stack": [
-        "TypeScript/JavaScript (for VS Code Extension)",
-        "VS Code Extension API",
-        "Local storage / IndexedDB for data persistence",
-        "Charting library (e.g., Chart.js) for visualization",
-        "Optional: Python for more complex local analytics scripts"
+        "Python (FastAPI/Streamlit)",
+        "Pandas",
+        "Google TimesFM API (or open-source time-series models like Prophet/SARIMAX)",
+        "LLM API for natural language interface (e.g., function calling)",
+        "Docker (for deployment)"
       ],
-      "source_inspiration": "Return on Attention: Why AI Code Reviews Are Wearing Us Out, Should I quit IT or just live through the burnout?",
+      "source_inspiration": "GitHub repo 'Zer0Fit' (Zero-shot forecasting, tabular classification, and regression via MCP — exposes Google TimesFM) and the general trend towards accessible, powerful AI.",
       "steps": [
-        "1. Initialize a new VS Code extension project.",
-        "2. Implement listeners for relevant VS Code events: file edits, AI completion requests/acceptances (if API allows), active window changes, debugging sessions.",
-        "3. Develop a local data collection module to anonymously store interaction metrics (timestamps, tool usage, duration) without sending data externally.",
-        "4. Create a VS Code Webview or separate UI to display a dashboard of 'attention spend' metrics, such as time spent reviewing AI suggestions, context-switching frequency, or total AI tool invocation count.",
-        "5. Implement basic analytics: calculate average interaction times, identify peak AI usage periods, and highlight potential 'fatigue' indicators.",
-        "6. Add configurable alerts or nudges (e.g., 'You've reviewed X AI suggestions in Y minutes, consider a short break' or 'Switching projects frequently today')."
+        "Task 1: Set up a FastAPI backend to handle CSV uploads and process requests.",
+        "Task 2: Implement data ingestion and preprocessing using Pandas to handle various time-series formats.",
+        "Task 3: Integrate with Google TimesFM (or a chosen open-source time-series model) for zero-shot prediction and anomaly detection.",
+        "Task 4: Develop a natural language interface using an LLM to interpret user requests (e.g., 'predict next month's sales,' 'find unusual spikes in traffic').",
+        "Task 5: Create a web-based UI (e.g., with Streamlit) for easy CSV upload, parameter input, and visualization of results.",
+        "Task 6: Implement clear data visualization for anomalies, forecasts, and trends."
       ]
     },
     {
-      "title": "Micro-Simulation Sandbox for AI Agent Tooling",
-      "difficulty": "Medium",
-      "estimated_hours": 50,
-      "description": "Develop a lightweight, procedural content generation framework specifically designed for creating diverse 'micro-simulation' environments to test the robustness and complexity-awareness of small AI agents or complex business logic. Instead of full-scale simulations like autonomous driving, this framework would focus on generating varied but controlled scenarios (e.g., different API responses, varying database states, diverse user input sequences) for agents that interact with tools. This allows developers to quickly generate edge cases, test error handling, and ensure agents can adapt to unforeseen complexities, aligning with research on making agents aware of task simplicity/complexity.",
+      "title": "Adaptive AI Career Navigator and Resource Curator",
+      "difficulty": "Hard",
+      "estimated_hours": 80,
+      "description": "Create an AI agent that, given a user's desired tech career path (e.g., 'Senior MLOps Engineer,' 'AI Ethicist focusing on large models'), generates a dynamic, personalized learning roadmap. This agent will leverage Retrieval Augmented Generation (RAG) to continuously scan and curate relevant, trending educational resources from GitHub (repos like '100-days-of-ai', 'ai-engineering-school'), Hacker News articles, arXiv papers, and popular learning platforms. It would present a step-by-step guide with links to specific courses, tutorials, open-source projects, and research papers, dynamically updating as new trends emerge, effectively building a 'living' structured learning library.",
       "tech_stack": [
-        "Python (for generation logic and agent interaction)",
-        "JSON Schema / Pydantic (for defining simulation parameters)",
-        "Faker library (for synthetic data generation)",
-        "Docker (for isolated agent environments)",
-        "Optional: Web UI (e.g., Streamlit, Flask) for configuration"
+        "Python (FastAPI)",
+        "LangChain / LlamaIndex (for RAG)",
+        "LLM API (e.g., OpenAI, Anthropic, or fine-tuned open-source model)",
+        "Vector Database (e.g., Pinecone, ChromaDB)",
+        "Web Scraping Libraries (BeautifulSoup, Playwright)",
+        "Scheduled Jobs (Celery/Airflow for continuous data updates)"
       ],
-      "source_inspiration": "TerraZero: Procedural Driving Simulation for Zero-Demonstration Self-Play at Scale, Do AI Agents Know When a Task Is Simple? Toward Complexity-Aware Reasoning and Execution, PalmClaw: A Native On-Device Agent Framework for Mobile Phones",
+      "source_inspiration": "GitHub repos '100-days-of-ai', '10-ai-careers-roadmap', 'ai-engineering-school', reflecting a high demand for structured AI/ML learning paths.",
       "steps": [
-        "1. Design a declarative configuration system (e.g., using YAML/JSON Schema) to define parameters for different types of 'micro-scenarios' (e.g., API response structures, database record counts, user persona details).",
-        "2. Implement a 'scenario generator' module that uses the configurations and libraries like Faker to procedurally generate diverse data and conditions for a given scenario.",
-        "3. Create a 'sandbox executor' that can load a generated scenario, initialize a target AI agent (or a piece of business logic), and run it against the simulated environment.",
-        "4. Develop an observation and logging system within the sandbox to capture agent actions, tool calls, and outcomes for each simulation run.",
-        "5. Integrate assertion capabilities to define expected behaviors or outcomes for different scenario complexities, allowing automated testing.",
-        "6. Provide a reporting mechanism to summarize simulation results, highlighting scenarios where the agent failed or performed suboptimally, indicating a lack of complexity awareness."
+        "Task 1: Design a data ingestion pipeline to scrape/index resources from GitHub, Hacker News, arXiv, and other learning platforms.",
+        "Task 2: Implement a RAG system: create embeddings of scraped content and store them in a vector database.",
+        "Task 3: Develop the core AI agent logic using LangChain/LlamaIndex to interpret user queries about career paths and generate relevant learning roadmaps.",
+        "Task 4: Build a user interface (CLI or web app) for users to input their desired career path and view the generated roadmap.",
+        "Task 5: Implement a feedback mechanism to allow users to refine their roadmap and provide agent performance feedback.",
+        "Task 6: Set up automated daily/weekly updates to the RAG knowledge base to ensure the content remains current with new trends and resources."
       ]
     }
   ],
   "quick_actions": [
-    "Action 1: Dedicate 30 minutes to exploring local LLM options (e.g., running `ollama` or `llama.cpp` locally on a sample model) to understand their performance and capabilities firsthand.",
-    "Action 2: For one day this week, consciously monitor your personal 'attention budget' during coding. Note every time an AI tool (Copilot, ChatGPT, etc.) intervenes and reflect on whether it truly saved time or introduced a new cognitive burden. Jot down observations.",
-    "Action 3: Block out a dedicated 2-hour 'uninterrupted deep work' slot tomorrow. Turn off all AI assistants and non-essential notifications to practice focused problem-solving without external prompts, fostering true 'ownership' of the task.",
-    "Action 4: Reflect on a recent task or project where you felt 'burnout' or 'attention fatigue.' Spend 15 minutes journaling potential root causes and brainstorm one small, actionable change you could implement to mitigate it in the future."
+    "Action 1: Dedicate 15 minutes daily to review a trending GitHub repository related to AI agents or LLM optimization (e.g., 'paleo') to understand token management and context trimming.",
+    "Action 2: Experiment with a local LLM (e.g., Ollama) on your machine for a small, repetitive coding task like generating docstrings or writing simple test cases, leveraging the trend of accessible, local AI.",
+    "Action 3: Schedule a 30-minute 'AI-free focus block' at least twice a week for tasks requiring deep concentration, deliberately avoiding AI-assisted tools during this time to combat potential 'attention fatigue'.",
+    "Action 4: Audit your digital notification settings for AI-generated alerts (e.g., automated code review bots, Slack AI summaries) and configure them to prioritize human-authored messages, improving your 'Return on Attention'."
   ]
 }
