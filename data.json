@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17 07:50:27",
+  "last_updated": "2026-07-18 07:25:18",
   "scraped_sources": {
     "github": [
       {
@@ -11,14 +11,6 @@
         "category": "AI / ML"
       },
       {
-        "name": "ML-Executable-Malware-Detector",
-        "owner": "surajsinghm",
-        "description": "An offline, machine learning-powered static analysis tool that detects malware in Windows executables using LightGBM and the EMBER dataset.",
-        "stars": 27,
-        "url": "https://github.com/surajsinghm/ML-Executable-Malware-Detector",
-        "category": "AI / ML"
-      },
-      {
         "name": "10-ai-careers-roadmap",
         "owner": "Moh4696",
         "description": "Free, structured learning library for 10 AI careers paying $135K-$1M+ in 2026. Companion to the @exploraX_ article.",
@@ -27,11 +19,11 @@
         "category": "AI / ML"
       },
       {
-        "name": "ai-engineering-school",
-        "owner": "amirmasoud-iravani",
-        "description": "A beginner-friendly AI Engineering school from Python fundamentals to ML, Deep Learning, MLOps, and AI applications.",
+        "name": "ai-agent-architecture",
+        "owner": "Drobiazkin",
+        "description": "Build LLM systems you actually control. A free, open engineering book + course — from tokenization to serving your own models. Mechanisms, trade-offs, and numbers, not prompt tips",
         "stars": 9,
-        "url": "https://github.com/amirmasoud-iravani/ai-engineering-school",
+        "url": "https://github.com/Drobiazkin/ai-agent-architecture",
         "category": "AI / ML"
       },
       {
@@ -43,19 +35,43 @@
         "category": "AI / ML"
       },
       {
+        "name": "recon-modular",
+        "owner": "Ali-hey-0",
+        "description": "🛡️ AI-powered reconnaissance framework unifying 130+ security tools — subdomain enum, vuln scanning, cloud/IoT recon, dark web monitoring & blockchain-audited reporting. GAN-driven subdomain prediction, distributed execution post-quantum encryption. Built for bug bounty, red team & DevSecOps.",
+        "stars": 5,
+        "url": "https://github.com/Ali-hey-0/recon-modular",
+        "category": "AI / ML"
+      },
+      {
+        "name": "StrokeMouse",
+        "owner": "Licoy",
+        "description": "macOS 鼠标手势自定义工具。按住该手势的触发键（默认右键，也可中键 / 侧键）绘制轨迹，匹配后执行快捷键、打开应用、窗口操作、媒体键、Shell / AppleScript 等 ｜ A macOS mouse gesture customization tool. Hold down the trigger key to execute shortcuts, open applications, shell/AppleScript, etc. after matching.",
+        "stars": 79,
+        "url": "https://github.com/Licoy/StrokeMouse",
+        "category": "Automation / Productivity"
+      },
+      {
         "name": "raytsystem-public-os",
         "owner": "romarayt",
         "description": "Local-first agent workspace for knowledge, tasks, documents and verifiable workflows · Локальная агентная система для знаний, задач и проверяемых процессов · t.me/romarayt",
-        "stars": 46,
+        "stars": 59,
         "url": "https://github.com/romarayt/raytsystem-public-os",
         "category": "Automation / Productivity"
       },
       {
         "name": "grok-register-win",
         "owner": "lingxiaoyiyu-hub",
-        "description": "Windows local Grok (xAI) auto register / bot panel - Chromium headed / Camoufox headless, batch account creation, auto SSO to CPA OAuth conversion",
-        "stars": 43,
+        "description": "Windows 下双击即用的 Grok（xAI）账号自动注册面板 - 浏览器自动化注册、SSO→CPA 转换、多邮箱源支持、多格式导出",
+        "stars": 47,
         "url": "https://github.com/lingxiaoyiyu-hub/grok-register-win",
+        "category": "Automation / Productivity"
+      },
+      {
+        "name": "agentsmith",
+        "owner": "PromptPartner",
+        "description": "Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, …) — a lean core + work-type profiles assembled by one setup script.",
+        "stars": 47,
+        "url": "https://github.com/PromptPartner/agentsmith",
         "category": "Automation / Productivity"
       },
       {
@@ -65,46 +81,9 @@
         "stars": 35,
         "url": "https://github.com/LeoZhaorx/openclaw-desk-pet",
         "category": "Automation / Productivity"
-      },
-      {
-        "name": "StrokeMouse",
-        "owner": "Licoy",
-        "description": "macOS 鼠标手势自定义工具。按住该手势的触发键（默认右键，也可中键 / 侧键）绘制轨迹，匹配后执行快捷键、打开应用、窗口操作、媒体键、Shell / AppleScript 等 ｜ A macOS mouse gesture customization tool. Hold down the trigger key to execute shortcuts, open applications, shell/AppleScript, etc. after matching.",
-        "stars": 13,
-        "url": "https://github.com/Licoy/StrokeMouse",
-        "category": "Automation / Productivity"
-      },
-      {
-        "name": "app-store-connect-skill",
-        "owner": "JeremyLai99",
-        "description": "Claude Code skill that scans an iOS project and auto-generates a copyable App Store Connect submission report.",
-        "stars": 12,
-        "url": "https://github.com/JeremyLai99/app-store-connect-skill",
-        "category": "Automation / Productivity"
       }
     ],
-    "hacker_news": [
-      {
-        "title": "EEG shows brain can simultaneous encode two speech streams",
-        "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
-        "score": 47
-      },
-      {
-        "title": "Microsoft Comic Chat is now open source",
-        "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
-        "score": 650
-      },
-      {
-        "title": "LM Studio Bionic: the AI agent for open models",
-        "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
-        "score": 230
-      },
-      {
-        "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
-        "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
-        "score": 234
-      }
-    ],
+    "hacker_news": [],
     "arxiv": [
       {
         "title": "Partition, Prompt, Aggregate: Statistical Self-Consistency in Language Models",
@@ -149,100 +128,95 @@
         "title": "Stop Saying You Want Ownership Mindset",
         "description": "My 2nd article this week, I'm supposed to keep it to just once per week but whateverrr, I've had this...",
         "url": "https://dev.to/adamthedeveloper/stop-saying-you-want-ownership-mindset-34nf",
+        "reactions": 34
+      },
+      {
+        "title": "Every AI-Generated Line of Code Is a Small Loan — And Eventually, You Have to Pay It Back",
+        "description": "A bug showed up in my personal project last month. Nothing dramatic - a value wasn't updating the way...",
+        "url": "https://dev.to/harsh2644/every-ai-generated-line-of-code-is-a-small-loan-and-eventually-you-have-to-pay-it-back-30a6",
         "reactions": 31
       },
       {
         "title": "I Could Review It. I Couldn’t Write It.",
         "description": "...now, I pride myself on being good at my job, I'm fast at catching mistakes, I'm efficient at...",
         "url": "https://dev.to/adamthedeveloper/i-could-review-it-i-couldnt-write-it-3gfj",
-        "reactions": 30
-      },
-      {
-        "title": "Fusuma: Write Markdown, Get Slides, PDFs, and a Self-Made Social Card",
-        "description": "Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is...",
-        "url": "https://dev.to/lovestaco/fusuma-write-markdown-get-slides-pdfs-and-a-self-made-social-card-4b2k",
-        "reactions": 36
+        "reactions": 38
       }
     ]
   },
-  "trends": "The current technological landscape is heavily influenced by the rapid advancement and practical application of Artificial Intelligence across various domains. Key themes include the development and deployment of agentic AI systems for automation, particularly those designed for local-first execution to enhance productivity and security (e.g., local LLMs, malware detection). There's a strong focus on simplifying complex developer workflows through AI-powered tools, from generating code and reports to orchestrating tasks. Education and accessibility in AI engineering are also prominent, indicating a growing demand for skilled AI practitioners. Furthermore, innovations in human-computer interaction (like gesture-based automation) are merging with AI to create more intuitive and adaptive user experiences.",
+  "trends": "Today's tech landscape is significantly shaped by advancements and practical applications of AI and Machine Learning, particularly revolving around Language Models (LLMs) and intelligent agents. There's a strong emphasis on understanding and building LLM systems from the ground up, moving beyond simple prompt engineering to deep architectural control and fine-tuning. A notable trend is the deployment of AI locally, as seen with Ollama on edge devices, prioritizing privacy, performance, and accessibility. AI is increasingly applied to specialized domains like cybersecurity, robotics, and scientific research for enhanced automation and complex problem-solving. Simultaneously, developers are seeking sophisticated tools for personalized productivity and workflow optimization, often incorporating local-first principles and agentic systems. However, there's a growing critical perspective on AI-generated code, highlighting the importance of human understanding, review, and the concept of 'AI code debt,' pushing for tools that augment rather than replace developer expertise.",
   "ideas": [
     {
-      "title": "Local-First AI Diagram Editor & Knowledge Graph",
-      "difficulty": "Hard",
-      "estimated_hours": 120,
-      "description": "Develop a desktop application that allows users to import scientific diagrams (e.g., from research papers, PDFs, or image files). The AI component, leveraging local LLMs and computer vision, will analyze the diagram to identify components, text, and relationships, constructing a knowledge graph. Users can then edit these diagrams using natural language prompts (e.g., 'relabel component A to X', 'rearrange panel B below C', 'highlight data trend in graph D'). The application will also maintain a robust version history for each diagram, aligning with 'verifiable workflows' and enabling easy rollback or comparison of revisions. This tool aims to significantly reduce the manual effort involved in scientific communication and revision.",
-      "tech_stack": [
-        "Python",
-        "PyTorch/TensorFlow (for CV)",
-        "OpenCV",
-        "Electron/Tauri (for desktop UI)",
-        "Ollama/llama-cpp-python (for local LLMs)",
-        "Graph Database (e.g., Neo4j embedded or SQLite for graph storage)"
-      ],
-      "source_inspiration": "SciDiagramEdit (arXiv), raytsystem-public-os (GitHub), Ollama on Jetson Nano (Dev.to)",
-      "steps": [
-        "Task 1: Set up a desktop application framework (Electron/Tauri) with basic UI for file import/export.",
-        "Task 2: Implement PDF/Image parsing and rendering for diagrams using OpenCV and image processing libraries.",
-        "Task 3: Develop a computer vision model (or integrate pre-trained models) to detect and extract text, shapes, and components within diagrams.",
-        "Task 4: Integrate a local LLM client (e.g., Ollama) to process natural language editing commands from the user.",
-        "Task 5: Implement diagram manipulation logic based on LLM output and CV analysis (relabeling, moving, restyling).",
-        "Task 6: Design and implement a version control system for diagrams, allowing save, load, and diff of revisions.",
-        "Task 7: Create an interactive knowledge graph visualization of diagram components and their relationships."
-      ]
-    },
-    {
-      "title": "Adaptive Developer Workflow Agent",
+      "title": "Local-First AI Agent Workspace with Real-time Activity Visualization",
       "difficulty": "Medium",
-      "estimated_hours": 80,
-      "description": "Build a cross-platform desktop agent that proactively learns a developer's habits and common workflows, offering intelligent suggestions and automations. This agent would observe application usage patterns (e.g., 'after opening VS Code, you usually open the test suite and then run 'npm test''). It could integrate with system-level gestures (like `StrokeMouse`) to trigger learned or custom automations (e.g., a specific gesture to 'deploy current feature branch'). The agent would use local machine learning to identify repetitive actions and offer to script them, presenting a 'desk pet' style visualization (`openclaw-desk-pet`) for engagement and feedback.",
+      "estimated_hours": 40,
+      "description": "Build a desktop application that serves as a configurable, local-first workspace for AI agents. Users can define multi-step workflows (e.g., 'research X, summarize Y, draft Z email') that leverage local LLMs (via Ollama or similar local inference engines) for enhanced privacy and speed. The core innovation is a real-time, interactive visualization dashboard or 'desk pet' that provides transparent feedback on the agent's current task, progress, resource utilization, and decision-making process. This makes complex agentic operations more understandable, controllable, and visually engaging for the user, aligning with the need for better control over AI systems.",
       "tech_stack": [
-        "Python",
-        "macOS/Windows APIs (for system monitoring, automation)",
-        "Scikit-learn (for pattern recognition)",
-        "SQLite (for habit storage)",
-        "Electron/Tauri/PyQt (for UI & background service)",
-        "keyboard/mouse event listeners"
+        "Python (agent logic, local LLM integration)",
+        "Electron/Tauri (cross-platform desktop UI)",
+        "React/Vue (dashboard frontend)",
+        "LangChain/CrewAI (agent framework integration)",
+        "Ollama (for local LLM inference)"
       ],
-      "source_inspiration": "StrokeMouse (GitHub), openclaw-desk-pet (GitHub), raytsystem-public-os (GitHub), dev.to productivity articles (general theme)",
+      "source_inspiration": "ai-agent-architecture (control over LLM systems), raytsystem-public-os (local-first agent workspace), agentsmith (model-agnostic agent harness), openclaw-desk-pet (visualizing agent activity), Ollama on Jetson Nano (local AI deployment).",
       "steps": [
-        "Task 1: Develop a background service to monitor active applications, window titles, and file system interactions on the OS.",
-        "Task 2: Implement event capturing for keyboard shortcuts and mouse gestures.",
-        "Task 3: Design a local database schema to store user activity sequences and context.",
-        "Task 4: Implement a pattern recognition algorithm (e.g., simple sequence mining or clustering) to identify common workflows and habits.",
-        "Task 5: Develop a notification/suggestion system to proactively prompt the user with learned automation opportunities.",
-        "Task 6: Create an interface for users to define and bind custom scripts or commands to gestures/context.",
-        "Task 7: Build a lightweight 'desk pet' style UI to visualize agent activity and provide feedback."
+        "Set up a basic Electron/Tauri application structure.",
+        "Implement a Python backend service for agent orchestration using LangChain/CrewAI.",
+        "Integrate with Ollama for local LLM inference within the agent workflows.",
+        "Design a UI for defining and triggering agent workflows.",
+        "Develop a real-time visualization component (e.g., a 'desk pet' or dashboard) that streams agent activity data from the Python backend.",
+        "Add basic agent capabilities: file reading/writing, web search, simple API calls."
       ]
     },
     {
-      "title": "Open Source Contribution Co-Pilot CLI",
+      "title": "AI-Powered 'Code Debt' Analyzer and Refactoring Co-pilot",
+      "difficulty": "Hard",
+      "estimated_hours": 80,
+      "description": "Develop a tool (e.g., a VS Code extension or CLI) that helps developers mitigate 'AI code debt' identified in the Dev.to articles. This tool will analyze a codebase, focusing on identifying patterns common in LLM-generated code (e.g., verbose boilerplate, less idiomatic solutions, potential inconsistencies). It will use semantic code search (via embeddings) to find similar constructs across the codebase and suggest refactoring opportunities or highlight areas that might need deeper human review. Crucially, it will utilize a Retrieval-Augmented Generation (RAG) approach with a local LLM to provide context-aware explanations, suggest alternative implementations based on project standards, or link to relevant documentation, turning 'AI debt' into opportunities for learning and improvement rather than just blindly replacing code.",
+      "tech_stack": [
+        "Python (code parsing, AST analysis, embeddings, RAG logic)",
+        "Transformer-based models (e.g., Sentence-BERT for code embeddings)",
+        "ChromaDB/Weaviate (vector database for code snippets)",
+        "Ollama/llama.cpp (for local LLM inference within RAG)",
+        "VS Code Extension API or CLI framework (for user interface and integration)"
+      ],
+      "source_inspiration": "Every AI-Generated Line of Code Is a Small Loan — And Eventually, You Have to Pay It Back (dev.to), I Could Review It. I Couldn’t Write It. (dev.to), Text-LLM-Training-from-scratch (implies deep understanding of LLM capabilities for specific applications), Partition, Prompt, Aggregate (LLM inference strategies).",
+      "steps": [
+        "Build a Python module to parse codebases and generate Abstract Syntax Trees (ASTs).",
+        "Implement code chunking and embedding generation using a pre-trained sentence transformer model.",
+        "Set up a local vector database to store code embeddings and metadata.",
+        "Develop a semantic search capability to find similar code patterns.",
+        "Integrate with a local LLM (e.g., via Ollama) to perform RAG: retrieve relevant code snippets/docs and generate refactoring suggestions/explanations.",
+        "Create a VS Code extension or CLI interface to display analysis results and interactive suggestions."
+      ]
+    },
+    {
+      "title": "Intelligent, Context-Aware Gesture and Macro Automation System",
       "difficulty": "Medium",
       "estimated_hours": 60,
-      "description": "A command-line interface (CLI) tool designed to streamline the process of contributing to open-source projects. It leverages local AI to: 1) Analyze a repository's `README.md`, `CONTRIBUTING.md`, and issue tracker to provide a quick onboarding summary and suggest 'good first issues'. 2) Draft intelligent commit messages and pull request descriptions based on local code changes (diffs). 3) Generate boilerplate code snippets (e.g., basic test cases, documentation stubs) relevant to the project's style and existing codebase. This co-pilot aims to lower the barrier to entry for new contributors and increase productivity for experienced ones, promoting an 'ownership mindset' without the boilerplate.",
+      "description": "Create a cross-platform desktop utility that extends the concept of `StrokeMouse` by allowing users to define highly customizable mouse gestures, keyboard macros, and even natural language commands for automating complex tasks. The 'intelligence' aspect involves using a small, local LLM to interpret more nuanced commands, adapt gesture recognition based on the active application context (e.g., different actions for a browser vs. an IDE), or infer user intent from partial inputs. This system aims to significantly boost productivity by enabling a highly personalized and intuitive interaction layer, bridging the gap between simple hotkeys and full-blown agent systems for daily computer usage.",
       "tech_stack": [
-        "Python",
-        "Click (for CLI)",
-        "GitPython (for Git interaction)",
-        "Ollama/llama-cpp-python (for local LLMs)",
-        "Markdown parsing libraries"
+        "Rust/Go (for low-level system interaction, global hotkey/gesture capture, performance)",
+        "Electron/Tauri (for user interface and configuration)",
+        "Python (for local LLM integration and command interpretation)",
+        "Ollama/llama.cpp (for local LLM inference)",
+        "JavaScript/TypeScript (for UI logic)"
       ],
-      "source_inspiration": "app-store-connect-skill (GitHub), raytsystem-public-os (GitHub), 'I Could Review It. I Couldn’t Write It.' (Dev.to)",
+      "source_inspiration": "StrokeMouse (macOS mouse gestures), grok-register-win (browser automation), Ollama on Jetson Nano (local AI inference), agentsmith (configurable agents for various tasks).",
       "steps": [
-        "Task 1: Create a basic Python CLI structure using Click or argparse.",
-        "Task 2: Integrate GitPython to interact with local Git repositories (status, diff, branch info).",
-        "Task 3: Develop modules to parse project files (`README.md`, `CONTRIBUTING.md`, `package.json`, etc.) for onboarding info.",
-        "Task 4: Integrate a local LLM client (e.g., via Ollama) for text generation tasks.",
-        "Task 5: Implement functionality to analyze code diffs and generate context-aware commit message drafts.",
-        "Task 6: Add a feature to generate draft pull request descriptions based on current branch changes and project context.",
-        "Task 7: Develop a boilerplate generation module that suggests and creates common code structures based on project style and type."
+        "Develop a low-level system daemon (Rust/Go) to capture mouse gestures and keyboard events cross-platform.",
+        "Build an Electron/Tauri UI for defining and managing gestures, macros, and command mappings.",
+        "Implement a gesture recognition engine and a macro execution system.",
+        "Integrate a small, local LLM (via Ollama/llama.cpp) to process natural language commands or contextualize gesture/macro interpretation.",
+        "Add functionality for application-specific contexts to trigger different actions.",
+        "Allow users to link gestures/macros to system commands, application launches, or custom scripts."
       ]
     }
   ],
   "quick_actions": [
-    "Action 1: Install Ollama (or LM Studio) today and run a small LLM model (e.g., Phi-3-mini) locally. Experiment with simple coding prompts or summarization tasks.",
-    "Action 2: Identify one small, repetitive manual task in your daily developer workflow (e.g., creating boilerplate files, synchronizing dev environments, generating a specific report) and spend 30 minutes writing a simple script (Python, Bash, etc.) to automate it.",
-    "Action 3: Explore the 'ai-engineering-school' or '10-ai-careers-roadmap' GitHub repositories. Pick one specific module or concept that interests you and commit to spending 1-2 hours this week learning about it.",
-    "Action 4: Configure a custom mouse gesture or keyboard shortcut on your operating system (using built-in tools or a utility like Karabiner Elements/AutoHotkey) to perform a frequent action, such as launching your primary IDE, opening a specific documentation page, or switching between two core applications."
+    "Experiment with a local LLM: Download and run Ollama on your machine. Try inferring with a small model (e.g., Llama 3 8B) to understand local AI deployment capabilities and resource usage firsthand.",
+    "Automate one repetitive digital task: Identify a daily, manual task (e.g., launching a specific set of applications, organizing downloads) and automate it using system scripts, hotkeys, or a simple macro tool. Focus on saving a few minutes daily.",
+    "Practice 'AI code debt' review: For your next coding task, use an AI code assistant (if you normally do). Afterward, dedicate 20-30 minutes to critically review, refactor, and deeply understand *every* line generated by the AI, ensuring it aligns with your style and logic.",
+    "Explore AI agent framework documentation: Spend 30 minutes researching a popular AI agent framework (e.g., LangChain, AutoGen, CrewAI). Understand its core components, how agents communicate, and the concept of defining tools and goals for autonomous workflows."
   ]
 }
