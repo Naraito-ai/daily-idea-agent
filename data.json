@@ -1,28 +1,36 @@
 {
-  "last_updated": "2026-07-20 08:36:24",
+  "last_updated": "2026-07-21 08:05:18",
   "scraped_sources": {
     "github": [
+      {
+        "name": "Awesome-Spiking-Neural-Networks-Hub",
+        "owner": "haoran-zha",
+        "description": "The comprehensive bilingual (EN/中文) hub for Spiking Neural Networks — 340+ papers, models, neuromorphic hardware, datasets, tools & research groups.",
+        "stars": 24,
+        "url": "https://github.com/haoran-zha/Awesome-Spiking-Neural-Networks-Hub",
+        "category": "AI / ML"
+      },
       {
         "name": "ai-agent-architecture",
         "owner": "Drobiazkin",
         "description": "Build LLM systems you actually control. A free, open engineering book + course — from tokenization to serving your own models. Mechanisms, trade-offs, and numbers, not prompt tips",
-        "stars": 21,
+        "stars": 23,
         "url": "https://github.com/Drobiazkin/ai-agent-architecture",
         "category": "AI / ML"
       },
       {
-        "name": "10-ai-careers-roadmap",
-        "owner": "Moh4696",
-        "description": "Free, structured learning library for 10 AI careers paying $135K-$1M+ in 2026. Companion to the @exploraX_ article.",
-        "stars": 17,
-        "url": "https://github.com/Moh4696/10-ai-careers-roadmap",
+        "name": "Principia-Artificialis",
+        "owner": "holland202",
+        "description": "An open research program exploring the mathematics of artificial thought: information geometry, topology, dynamical systems, and thermodynamics applied to AI inference.",
+        "stars": 14,
+        "url": "https://github.com/holland202/Principia-Artificialis",
         "category": "AI / ML"
       },
       {
         "name": "llm-interview-questions",
         "owner": "MisterBooo",
         "description": "100 道大模型面试题与 100 张 SVG 图解，覆盖 LLM、RAG、Agent、微调、推理优化和评估。",
-        "stars": 11,
+        "stars": 13,
         "url": "https://github.com/MisterBooo/llm-interview-questions",
         "category": "AI / ML"
       },
@@ -35,18 +43,10 @@
         "category": "AI / ML"
       },
       {
-        "name": "Principia-Artificialis",
-        "owner": "holland202",
-        "description": "An open research program exploring the mathematics of artificial thought: information geometry, topology, dynamical systems, and thermodynamics applied to AI inference.",
-        "stars": 9,
-        "url": "https://github.com/holland202/Principia-Artificialis",
-        "category": "AI / ML"
-      },
-      {
         "name": "agentsmith",
         "owner": "PromptPartner",
         "description": "Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, …) — a lean core + work-type profiles assembled by one setup script.",
-        "stars": 308,
+        "stars": 315,
         "url": "https://github.com/PromptPartner/agentsmith",
         "category": "Automation / Productivity"
       },
@@ -54,7 +54,7 @@
         "name": "StrokeMouse",
         "owner": "Licoy",
         "description": "macOS 鼠标手势自定义工具。按住该手势的触发键（默认右键，也可中键 / 侧键）绘制轨迹，匹配后执行快捷键、打开应用、窗口操作、媒体键、Shell / AppleScript 等 ｜ A macOS mouse gesture customization tool. Hold down the trigger key to execute shortcuts, open applications, shell/AppleScript, etc. after matching.",
-        "stars": 101,
+        "stars": 102,
         "url": "https://github.com/Licoy/StrokeMouse",
         "category": "Automation / Productivity"
       },
@@ -62,74 +62,79 @@
         "name": "powershell-for-sysadmins",
         "owner": "socaldavis",
         "description": "Real sysadmin PowerShell scripts from the PC-Addicts YouTube channel — sanitized, parameterized, MIT. Steal these.",
-        "stars": 59,
+        "stars": 61,
         "url": "https://github.com/socaldavis/powershell-for-sysadmins",
-        "category": "Automation / Productivity"
-      },
-      {
-        "name": "grok-register-win",
-        "owner": "lingxiaoyiyu-hub",
-        "description": "Windows 下双击即用的 Grok（xAI）账号自动注册面板 - 浏览器自动化注册、SSO→CPA 转换、多邮箱源支持、多格式导出",
-        "stars": 50,
-        "url": "https://github.com/lingxiaoyiyu-hub/grok-register-win",
         "category": "Automation / Productivity"
       },
       {
         "name": "openclaw-desk-pet",
         "owner": "LeoZhaorx",
         "description": "A native macOS desktop pet that visualizes OpenClaw agent activity.",
-        "stars": 32,
+        "stars": 30,
         "url": "https://github.com/LeoZhaorx/openclaw-desk-pet",
+        "category": "Automation / Productivity"
+      },
+      {
+        "name": "graphkit",
+        "owner": "levi-qiao",
+        "description": "Graph engineering made concrete: run long coding tasks as a graph of agent nodes (executor + clean-context supervisor, more roles planned), not one drifting loop. 从 loop engineering 到 graph engineering。Claude Code skill · MIT · EN/中文",
+        "stars": 26,
+        "url": "https://github.com/levi-qiao/graphkit",
         "category": "Automation / Productivity"
       }
     ],
     "hacker_news": [
       {
-        "title": "Self-Powered Trailers Promise Leaner Freight Runs",
-        "url": "https://spectrum.ieee.org/self-powered-trailers-freight-decarbonization",
-        "score": 29
+        "title": "Who's afraid of Chinese models?",
+        "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+        "score": 585
       },
       {
-        "title": "1-Bit LLM in the Browser",
-        "url": "https://huggingface.co/spaces/webml-community/bonsai-webgpu",
-        "score": 19
+        "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
+        "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
+        "score": 240
       },
       {
-        "title": "Sealed tomb filled with paintings and inscriptions discovered in Egypt",
-        "url": "https://www.labrujulaverde.com/en/2026/07/sealed-tomb-of-a-high-official-or-priest-filled-with-paintings-and-inscriptions-discovered-on-luxors-west-bank/",
-        "score": 17
+        "title": "A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste",
+        "url": "https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/",
+        "score": 28
       },
       {
-        "title": "How proprietary formats have become Microsoft’s main tool for lock-in",
-        "url": "https://blog.documentfoundation.org/blog/2026/07/17/microsofts-main-tool-for-lock-in/",
-        "score": 65
+        "title": "Nativ: Run frontier open models locally on your Mac",
+        "url": "https://blaizzy.github.io/nativ/",
+        "score": 260
+      },
+      {
+        "title": "Agent swarms and the new model economics",
+        "url": "https://cursor.com/blog/agent-swarm-model-economics",
+        "score": 183
       }
     ],
     "arxiv": [
       {
-        "title": "PagedWeight: Efficient MoE LLM Serving with Dynamic Quality-Aware Weight Quantization",
-        "summary": "Mixture-of-Experts (MoE) is a popular class of large language models (LLMs), offering high efficiency and accuracy. However, in KV-cache-intensive serving scenarios, MoEs often exhibit a tension betwe...",
-        "url": "http://arxiv.org/abs/2607.16184v1"
+        "title": "The Many Senses of Visual Similarity: A Text-Prompted Image Perceptual Metric",
+        "summary": "Human visual similarity judgments are context-dependent. For example, two images may be similar in shape but distinct in color. Existing perceptual similarity metrics, however, collapse these nuances ...",
+        "url": "http://arxiv.org/abs/2607.18237v1"
       },
       {
-        "title": "A Blueprint for Equilibrium-Based Differentiable Continuous-Variable Thermodynamic Computing",
-        "summary": "To address the escalating energy and latency demands of machine-learning workloads, we introduce a blueprint for an energy-efficient and fast thermodynamic computing stack that leverages stochastic an...",
-        "url": "http://arxiv.org/abs/2607.16183v1"
+        "title": "Patch Policy: Efficient Embodied Control via Dense Visual Representations",
+        "summary": "Pretrained dense visual features from Vision Transformers (ViTs) are powerful yet have been underutilized in robot learning. Modern robot policies either compress each observation into a single global...",
+        "url": "http://arxiv.org/abs/2607.18236v1"
       },
       {
-        "title": "Cluster-Aware Matching via Laplacian Optimal Transport",
-        "summary": "In many applications of matching, the point clouds to be matched are not merely unstructured sets of points but rather samples from distributions with an intrinsic cluster structure. In such cases, as...",
-        "url": "http://arxiv.org/abs/2607.16178v1"
+        "title": "Automated Discovery Has No Universally Superior Harness",
+        "summary": "Autonomous discovery systems such as OpenEvolve and TTT-Discover are often used as general-purpose harnesses. However, in practice these are composite systems combining several design choices about ar...",
+        "url": "http://arxiv.org/abs/2607.18235v1"
       },
       {
-        "title": "Physics-enhanced reinforcement learning for real-time optimal control of dynamical systems",
-        "summary": "Reinforcement learning (RL) has recently emerged as a promising feedback control strategy for nonlinear and complex dynamical systems. However, RL algorithms are sample inefficient and require a large...",
-        "url": "http://arxiv.org/abs/2607.16177v1"
+        "title": "It's Not What You Say, It's How You Say It: Evaluating LLM Responses to Expressions of Belief",
+        "summary": "Users frequently express their beliefs to large language models (LLMs). In some situations, the LLM should accept these contextual beliefs as true. In others, they should stick to their prior knowledg...",
+        "url": "http://arxiv.org/abs/2607.18232v1"
       },
       {
-        "title": "Evaluating Open-Weight LLMs for Generating Structured Threat Information for Autonomous Vehicle Vulnerabilities",
-        "summary": "Connected and Autonomous Vehicles (CAVs) rely on interconnected software and hardware components, including sensors, Electronic Control Units, in-vehicle infotainment systems, and telematics units, wh...",
-        "url": "http://arxiv.org/abs/2607.16175v1"
+        "title": "Simple Domain Generalization for Strong Pixel-Level Image Tampering Detection in Modern VLMs",
+        "summary": "Modern vision-language models (VLMs) have significantly improved image generation and editing capabilities, making pixel-level image tampering detection increasingly important yet challenging under cr...",
+        "url": "http://arxiv.org/abs/2607.18230v1"
       }
     ],
     "devto": [
@@ -140,105 +145,98 @@
         "reactions": 35
       },
       {
-        "title": "Stop Saying You Want Ownership Mindset",
-        "description": "My 2nd article this week, I'm supposed to keep it to just once per week but whateverrr, I've had this...",
-        "url": "https://dev.to/adamthedeveloper/stop-saying-you-want-ownership-mindset-34nf",
-        "reactions": 41
+        "title": "Choose your Burden",
+        "description": "Hey everyone. Just an update on the Salesforce Certification. I am planning on releasing articles...",
+        "url": "https://dev.to/francistrdev/choose-your-burden-4dgl",
+        "reactions": 34
       },
       {
         "title": "Every AI-Generated Line of Code Is a Small Loan — And Eventually, You Have to Pay It Back",
         "description": "A bug showed up in my personal project last month. Nothing dramatic - a value wasn't updating the way...",
         "url": "https://dev.to/harsh2644/every-ai-generated-line-of-code-is-a-small-loan-and-eventually-you-have-to-pay-it-back-30a6",
-        "reactions": 41
+        "reactions": 47
       },
       {
         "title": "I Stopped Debugging at My Desk. Here's What Changed",
         "description": "I usually write here about Next.js, caching, and the bugs that steal your sleep. But this post is...",
         "url": "https://dev.to/shubhradev/i-stopped-debugging-at-my-desk-heres-what-changed-43n3",
-        "reactions": 46
+        "reactions": 47
       },
       {
-        "title": "Fusuma: Write Markdown, Get Slides, PDFs, and a Self-Made Social Card",
-        "description": "Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is...",
-        "url": "https://dev.to/lovestaco/fusuma-write-markdown-get-slides-pdfs-and-a-self-made-social-card-4b2k",
-        "reactions": 36
+        "title": "Kiro CLI Gets Worse After an Hour. Here's How I Fixed It.",
+        "description": "Why Kiro CLI degrades in long sessions and the context management techniques that fixed it for my daily AWS workflow.",
+        "url": "https://dev.to/aws-builders/kiro-cli-gets-worse-after-an-hour-heres-how-i-fixed-it-1l7g",
+        "reactions": 17
       }
     ]
   },
-  "trends": "Today's tech landscape is heavily dominated by advancements and practical applications of AI, particularly focusing on Large Language Models (LLMs) and intelligent agents. There's a strong emphasis on understanding and controlling these AI systems, moving beyond simple API calls to deeper architectural control and efficient deployment. Key themes include the drive for highly efficient, often localized or 'edge' LLMs (e.g., 1-bit models, quantized weights) to reduce computational overhead and enhance accessibility. Alongside this, developer productivity remains a critical area, with a surge in tools for workflow automation, personalized insights, and the critical evaluation of AI-generated code to prevent technical debt. Career development in AI is also a prominent trend, reflecting the high demand for specialized skills in this rapidly evolving field.",
+  "trends": "Today's tech landscape is significantly shaped by the rapid evolution and practical application of AI agents. There's a strong emphasis on moving beyond basic LLM prompting to building robust, controlled, and modular AI agent architectures, often leveraging graph-based approaches for complex tasks. Concurrently, there's growing interest in running advanced AI models locally for privacy and efficiency, alongside a critical assessment of AI's integration into development workflows, acknowledging both its power and its potential 'debt' through unverified code. Developer productivity remains a key focus, with trends leaning towards highly personalized automation, workflow optimization through scripting and gesture controls, and a demand for better tools to visualize and manage complex AI-driven processes.",
   "ideas": [
     {
-      "title": "Desktop Workflow Sentinel: A User-Controlled AI Assistant for Developers",
+      "title": "AgentFlow Visualizer & Debugger for Local LLMs",
       "difficulty": "Medium",
-      "estimated_hours": 25,
-      "description": "Develop a lightweight, user-controlled desktop AI agent that monitors specific developer activities and provides contextual assistance without full autonomy. For instance, it could monitor file changes in a specific project directory, detect common build errors from logs, or track newly assigned GitHub issues. Upon detecting a trigger, the agent offers a summary, suggests relevant documentation, or proposes a command/script to execute. The key differentiator is explicit user control over actions and transparent reasoning, addressing concerns about unmanageable AI-generated code and promoting developer understanding.",
+      "estimated_hours": 20,
+      "description": "Develop a desktop application (e.g., for macOS/Windows) that integrates with local LLM frameworks (like those enabling 'Nativ') and popular agent libraries (e.g., LangChain, AutoGen). This tool will allow developers to define agent workflows (sequential or graph-based) and then visualize the execution in real-time. It should display agent interactions, tool calls, intermediate thoughts/outputs, and allow for 'pausing' execution to inspect context, modify parameters, and restart from a specific point. This addresses the need for controlling and understanding complex AI systems, reducing the 'black box' effect.",
       "tech_stack": [
-        "Python (backend logic, LLM integration)",
-        "Electron/Tauri (cross-platform desktop UI)",
-        "Ollama/Llama.cpp (for local LLM inference) or LLM API (OpenAI/Anthropic)",
-        "Watchdog (file system monitoring)",
-        "GitHub API (for issue tracking)"
+        "Python",
+        "Streamlit/Panel/React (for UI)",
+        "LangChain/AutoGen",
+        "Ollama/LocalAI (for local LLMs)",
+        "Graphviz/Mermaid.js (for visualization)"
       ],
-      "source_inspiration": "ai-agent-architecture (GitHub), agentsmith (GitHub), StrokeMouse (GitHub), openclaw-desk-pet (GitHub), Every AI-Generated Line of Code Is a Small Loan — And Eventually, You Have to Pay It Back (Dev.to)",
+      "source_inspiration": "GitHub: `graphkit`, `ai-agent-architecture`, `openclaw-desk-pet`, `agentsmith`. Hacker News: `Agent swarms and the new model economics`, `Nativ: Run frontier open models locally on your Mac`. arXiv: `Automated Discovery Has No Universally Superior Harness`.",
       "steps": [
-        "Set up a basic desktop application framework (Electron/Tauri).",
-        "Implement a file system watcher using `watchdog` to monitor specified project directories for changes.",
-        "Integrate with a local LLM (e.g., via Ollama's API) or a cloud LLM service for contextual understanding and suggestion generation.",
-        "Design a simple UI to display agent insights, suggested actions, and allow user approval/rejection.",
-        "Add modules to monitor specific events: e.g., parsing build logs for errors, checking GitHub API for assigned issues.",
-        "Develop a mechanism for the agent to suggest and, upon user approval, execute shell commands or display relevant information."
+        "Task 1: Set up a local LLM environment (e.g., with Ollama) and integrate a basic agent framework (e.g., LangChain).",
+        "Task 2: Design a simple agent workflow (e.g., RAG-based document summarizer) that can be traced.",
+        "Task 3: Build a desktop UI (e.g., using Electron + React or a Python GUI framework) to define and trigger these workflows.",
+        "Task 4: Implement real-time logging and visualization of agent steps, tool calls, and output in the UI (e.g., a node-graph representation).",
+        "Task 5: Add debugging features: pause/resume, step-through, variable inspection, and ability to modify agent inputs/state mid-run."
       ]
     },
     {
-      "title": "Edge-RAG: Localized, Browser-Compatible Knowledge Assistant",
+      "title": "Contextual AI Code Review & Refinement Agent",
       "difficulty": "Medium",
-      "estimated_hours": 30,
-      "description": "Create a Retrieval-Augmented Generation (RAG) system designed for highly efficient, localized deployment. This system would allow users to ingest their own personal or project-specific documentation (e.g., READMEs, code comments, internal wikis, specific research papers) and query it in natural language. The core innovation is optimizing the RAG pipeline for in-browser execution (using WebGPU/WebAssembly for embeddings and a small, quantized LLM) or local machine execution, ensuring data privacy, low latency, and reduced reliance on external services. This project emphasizes practical, resource-constrained AI.",
+      "estimated_hours": 16,
+      "description": "Create an IDE extension (e.g., VS Code) that acts as an intelligent assistant for AI-generated code. When a developer pastes or generates code using an LLM, this agent analyzes it within the context of the current project (dependencies, coding style, existing functions, variable names). It then provides context-aware feedback, suggesting improvements, flagging potential bugs or anti-patterns, or even offering to refactor the AI-generated code to better fit the project's conventions. This directly tackles the 'AI-generated code is a loan' problem by proactively reducing technical debt.",
       "tech_stack": [
-        "JavaScript (frontend, in-browser execution)",
-        "WebGPU/WebAssembly (for running models in-browser)",
-        "Python (for initial document processing, if server-side)",
-        "Small embedding model (e.g., MiniLM, Sentence-Transformers)",
-        "Vector database (e.g., ChromaDB, LanceDB for local storage)",
-        "Quantized LLM (e.g., Phi-3-Mini via Ollama or WebLLM for browser)"
+        "TypeScript/JavaScript (for VS Code extension)",
+        "Python (for backend analysis if needed)",
+        "OpenAI API/local LLM integration",
+        "AST parsing libraries (e.g., `tree-sitter` or language-specific parsers)"
       ],
-      "source_inspiration": "1-Bit LLM in the Browser (Hacker News), PagedWeight: Efficient MoE LLM Serving... (arXiv), llm-interview-questions (GitHub, covers RAG concepts)",
+      "source_inspiration": "Dev.to: `Every AI-Generated Line of Code Is a Small Loan — And Eventually, You Have to Pay It Back`. GitHub: `git-lrc` (implied concept from article description). arXiv: `It's Not What You Say, It's How You Say It: Evaluating LLM Responses to Expressions of Belief` (applies to code as well).",
       "steps": [
-        "Develop a document ingestion pipeline to parse various formats (Markdown, text, PDF) and generate embeddings.",
-        "Integrate a local or in-browser vector database for storing document embeddings.",
-        "Set up a retrieval mechanism to fetch relevant document chunks based on a user query.",
-        "Integrate a small, quantized LLM (local or in-browser) to generate answers based on the retrieved context.",
-        "Build a user interface (web-based) allowing users to upload documents, ask questions, and view grounded answers.",
-        "Implement performance optimizations, focusing on minimizing memory footprint and CPU usage for edge deployment."
+        "Task 1: Develop a basic VS Code extension that can detect when new code is added to a file.",
+        "Task 2: Integrate a local LLM (or a remote one like OpenAI) to perform basic code analysis (syntax, simple suggestions).",
+        "Task 3: Implement functionality to extract context from the current project (e.g., parsing imports, function definitions, project-specific linting rules).",
+        "Task 4: Enhance the LLM prompt to include this project context when reviewing AI-generated code.",
+        "Task 5: Display contextual feedback and refinement suggestions directly within the IDE, allowing one-click application or manual editing."
       ]
     },
     {
-      "title": "DevFlow Insights: Automated Feedback and Workflow Optimizer",
+      "title": "Adaptive Mouse Gesture Automation Daemon",
       "difficulty": "Easy",
-      "estimated_hours": 18,
-      "description": "Build a personal developer tool that passively monitors common development activities (e.g., time spent in IDE, number of commits, frequently modified files, build/test run times, repetitive shell commands). It then processes this data to provide daily/weekly summaries, identifies 'hot spots' in workflows, and suggests actionable insights or automation opportunities. For example, it could highlight frequently typed commands that could be aliased, suggest a pre-commit hook for common file types, or indicate areas of code often touched together, hinting at potential refactoring. The goal is to provide data-driven self-improvement for developers.",
+      "estimated_hours": 8,
+      "description": "Building upon the concept of `StrokeMouse`, create a cross-platform (or at least macOS/Windows) application that not only allows custom mouse gestures but also incorporates a basic learning mechanism. Over time, it observes user actions after specific gestures (e.g., opening a browser, then a specific tab, then a specific app) and suggests 'gesture chains' or more efficient macros. It could even categorize gestures by application context, making them more intuitive and powerful for dynamic productivity.",
       "tech_stack": [
-        "Python (data collection, analysis, scripting)",
-        "Bash/Zsh (for shell hooks and command logging)",
-        "SQLite (local data storage)",
-        "CLI (for interacting with the tool)",
-        "Optional: Flask/Streamlit (for a simple web dashboard)"
+        "Python (with `pynput` or similar for mouse tracking)",
+        "Electron/Tauri (for cross-platform GUI)",
+        "SQLite (for storing user habits/gesture history)"
       ],
-      "source_inspiration": "A Dash of dev.to: My Blog Stats Now Live in the Terminal (Dev.to), Fusuma: Write Markdown, Get Slides... (Dev.to), powershell-for-sysadmins (GitHub)",
+      "source_inspiration": "GitHub: `StrokeMouse`, `powershell-for-sysadmins` (general automation), `openclaw-desk-pet` (desktop interaction). Dev.to: `I Stopped Debugging at My Desk. Here's What Changed` (personal workflow optimization).",
       "steps": [
-        "Implement data collectors for various activities: shell command history, Git commit logs, IDE activity (if feasible via plugins/API).",
-        "Set up a local database (SQLite) to store collected activity data securely.",
-        "Develop analytical scripts to process the raw data and identify patterns (e.g., frequent commands, file dependencies, time distribution).",
-        "Create a CLI interface for generating daily/weekly reports and displaying actionable suggestions.",
-        "Implement a simple notification system for insights or automation prompts.",
-        "Optionally, build a lightweight web dashboard (e.g., with Flask/Streamlit) for visualizing trends and statistics."
+        "Task 1: Implement basic mouse gesture recognition (e.g., right-click + drag patterns) using a library like `pynput`.",
+        "Task 2: Map recognized gestures to predefined system actions (e.g., open app, execute shortcut, run script).",
+        "Task 3: Build a simple UI for users to define and manage their gestures and associated actions.",
+        "Task 4: Add a background process that logs user application usage and common sequences of actions (e.g., opening multiple apps in order).",
+        "Task 5: Develop a 'suggestion engine' that periodically reviews logged data and proposes new, optimized gesture-action mappings or multi-step macros to the user."
       ]
     }
   ],
   "quick_actions": [
-    "Experiment with Local LLMs: Download and run a small, open-source LLM (e.g., 'phi-3-mini' or 'llama2') using Ollama or Llama.cpp. Use it for local tasks like summarization, rephrasing, or generating simple code snippets to understand its capabilities without cloud dependence.",
-    "Audit Your Daily Dev Workflow: Over the next day, consciously note down every manual, repetitive task you perform (e.g., `git status`, opening specific project files, running common test suites). Identify one or two prime candidates for a simple script or alias.",
-    "Investigate AI Agent Architectures: Spend an hour reviewing the 'ai-agent-architecture' and 'agentsmith' GitHub repositories. Focus on understanding the conceptual frameworks for controlling and orchestrating AI agents, not just using their outputs.",
-    "Critically Review AI-Generated Code: For any code generated by an AI assistant today, dedicate an extra 5-10 minutes to deeply review, understand, and, if necessary, refactor it to ensure it aligns with your project's standards and doesn't introduce hidden technical debt."
+    "Action 1: Download and experiment with a local LLM (e.g., using Ollama or Nativ) for simple tasks to understand its capabilities and limitations firsthand.",
+    "Action 2: Identify one repetitive task you perform daily (e.g., opening specific applications, navigating folders, data transformation) and script its automation using PowerShell, AppleScript, or Python.",
+    "Action 3: For the next week, critically evaluate any AI-generated code snippets you use. Before integrating, mentally (or actually) trace the code's logic and consider potential side effects or better alternatives within your project's context.",
+    "Action 4: Take a 15-minute 'desk-free' break today to reflect on a current coding challenge or bug. Try walking, stretching, or looking away from your screen to foster a fresh perspective."
   ]
 }
