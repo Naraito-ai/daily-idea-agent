@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-21 08:05:18",
+  "last_updated": "2026-07-22 08:06:08",
   "scraped_sources": {
     "github": [
       {
         "name": "Awesome-Spiking-Neural-Networks-Hub",
         "owner": "haoran-zha",
         "description": "The comprehensive bilingual (EN/中文) hub for Spiking Neural Networks — 340+ papers, models, neuromorphic hardware, datasets, tools & research groups.",
-        "stars": 24,
+        "stars": 44,
         "url": "https://github.com/haoran-zha/Awesome-Spiking-Neural-Networks-Hub",
         "category": "AI / ML"
       },
@@ -14,16 +14,8 @@
         "name": "ai-agent-architecture",
         "owner": "Drobiazkin",
         "description": "Build LLM systems you actually control. A free, open engineering book + course — from tokenization to serving your own models. Mechanisms, trade-offs, and numbers, not prompt tips",
-        "stars": 23,
+        "stars": 24,
         "url": "https://github.com/Drobiazkin/ai-agent-architecture",
-        "category": "AI / ML"
-      },
-      {
-        "name": "Principia-Artificialis",
-        "owner": "holland202",
-        "description": "An open research program exploring the mathematics of artificial thought: information geometry, topology, dynamical systems, and thermodynamics applied to AI inference.",
-        "stars": 14,
-        "url": "https://github.com/holland202/Principia-Artificialis",
         "category": "AI / ML"
       },
       {
@@ -32,6 +24,14 @@
         "description": "100 道大模型面试题与 100 张 SVG 图解，覆盖 LLM、RAG、Agent、微调、推理优化和评估。",
         "stars": 13,
         "url": "https://github.com/MisterBooo/llm-interview-questions",
+        "category": "AI / ML"
+      },
+      {
+        "name": "teaching-notebooks",
+        "owner": "kieranmrhunt",
+        "description": "Teaching notebooks for meteorology, machine learning, and data science.",
+        "stars": 12,
+        "url": "https://github.com/kieranmrhunt/teaching-notebooks",
         "category": "AI / ML"
       },
       {
@@ -46,7 +46,7 @@
         "name": "agentsmith",
         "owner": "PromptPartner",
         "description": "Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, …) — a lean core + work-type profiles assembled by one setup script.",
-        "stars": 315,
+        "stars": 314,
         "url": "https://github.com/PromptPartner/agentsmith",
         "category": "Automation / Productivity"
       },
@@ -54,16 +54,8 @@
         "name": "StrokeMouse",
         "owner": "Licoy",
         "description": "macOS 鼠标手势自定义工具。按住该手势的触发键（默认右键，也可中键 / 侧键）绘制轨迹，匹配后执行快捷键、打开应用、窗口操作、媒体键、Shell / AppleScript 等 ｜ A macOS mouse gesture customization tool. Hold down the trigger key to execute shortcuts, open applications, shell/AppleScript, etc. after matching.",
-        "stars": 102,
+        "stars": 107,
         "url": "https://github.com/Licoy/StrokeMouse",
-        "category": "Automation / Productivity"
-      },
-      {
-        "name": "powershell-for-sysadmins",
-        "owner": "socaldavis",
-        "description": "Real sysadmin PowerShell scripts from the PC-Addicts YouTube channel — sanitized, parameterized, MIT. Steal these.",
-        "stars": 61,
-        "url": "https://github.com/socaldavis/powershell-for-sysadmins",
         "category": "Automation / Productivity"
       },
       {
@@ -78,165 +70,168 @@
         "name": "graphkit",
         "owner": "levi-qiao",
         "description": "Graph engineering made concrete: run long coding tasks as a graph of agent nodes (executor + clean-context supervisor, more roles planned), not one drifting loop. 从 loop engineering 到 graph engineering。Claude Code skill · MIT · EN/中文",
-        "stars": 26,
+        "stars": 28,
         "url": "https://github.com/levi-qiao/graphkit",
+        "category": "Automation / Productivity"
+      },
+      {
+        "name": "video-publish-skill",
+        "owner": "sunshineLixun",
+        "description": "Local-first Codex skill for preparing and safely staging video publishing assets",
+        "stars": 17,
+        "url": "https://github.com/sunshineLixun/video-publish-skill",
         "category": "Automation / Productivity"
       }
     ],
     "hacker_news": [
       {
-        "title": "Who's afraid of Chinese models?",
-        "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
-        "score": 585
+        "title": "OpenAI and Hugging Face address security incident during model evaluation",
+        "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+        "score": 1064
       },
       {
-        "title": "Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
-        "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
-        "score": 240
+        "title": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
+        "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
+        "score": 322
       },
       {
-        "title": "A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste",
-        "url": "https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/",
-        "score": 28
-      },
-      {
-        "title": "Nativ: Run frontier open models locally on your Mac",
-        "url": "https://blaizzy.github.io/nativ/",
-        "score": 260
-      },
-      {
-        "title": "Agent swarms and the new model economics",
-        "url": "https://cursor.com/blog/agent-swarm-model-economics",
-        "score": 183
+        "title": "Show HN: A new kind of FPS aim trainer",
+        "url": "https://openaim.pramit.gg/",
+        "score": 24
       }
     ],
     "arxiv": [
       {
-        "title": "The Many Senses of Visual Similarity: A Text-Prompted Image Perceptual Metric",
-        "summary": "Human visual similarity judgments are context-dependent. For example, two images may be similar in shape but distinct in color. Existing perceptual similarity metrics, however, collapse these nuances ...",
-        "url": "http://arxiv.org/abs/2607.18237v1"
+        "title": "Copy Less, Ground More: Overcoming Repetitive Copying in Long-Context Reasoning via Evidence-Aware Reinforcement Learning",
+        "summary": "Large language models that generate step-by-step reasoning traces have achieved strong performance on complex tasks, and extending them to long-context settings has emerged as an important frontier. H...",
+        "url": "http://arxiv.org/abs/2607.19345v1"
       },
       {
-        "title": "Patch Policy: Efficient Embodied Control via Dense Visual Representations",
-        "summary": "Pretrained dense visual features from Vision Transformers (ViTs) are powerful yet have been underutilized in robot learning. Modern robot policies either compress each observation into a single global...",
-        "url": "http://arxiv.org/abs/2607.18236v1"
+        "title": "Appearance Pointers -- Multimodal Region Control of Diffusion Transformers",
+        "summary": "Controllable image generation remains challenging for creative professionals, who often require precise regional control over materials, object identities, and spatial arrangements that cannot be reli...",
+        "url": "http://arxiv.org/abs/2607.19344v1"
       },
       {
-        "title": "Automated Discovery Has No Universally Superior Harness",
-        "summary": "Autonomous discovery systems such as OpenEvolve and TTT-Discover are often used as general-purpose harnesses. However, in practice these are composite systems combining several design choices about ar...",
-        "url": "http://arxiv.org/abs/2607.18235v1"
+        "title": "CodeRescue: Budget-Calibrated Recovery Routing for Coding Agents",
+        "summary": "Coding agents increasingly operate in executable environments where a failed attempt produces actionable feedback rather than merely an incorrect answer. Existing cost-aware systems typically treat su...",
+        "url": "http://arxiv.org/abs/2607.19338v1"
       },
       {
-        "title": "It's Not What You Say, It's How You Say It: Evaluating LLM Responses to Expressions of Belief",
-        "summary": "Users frequently express their beliefs to large language models (LLMs). In some situations, the LLM should accept these contextual beliefs as true. In others, they should stick to their prior knowledg...",
-        "url": "http://arxiv.org/abs/2607.18232v1"
+        "title": "Agents in the Wild: Where Research Meets Deployment",
+        "summary": "Agentic systems large language model (LLM) based architectures capable of reasoning, planning, acting, and coordinating with tools and other agents are rapidly transitioning from research prototypes t...",
+        "url": "http://arxiv.org/abs/2607.19336v1"
       },
       {
-        "title": "Simple Domain Generalization for Strong Pixel-Level Image Tampering Detection in Modern VLMs",
-        "summary": "Modern vision-language models (VLMs) have significantly improved image generation and editing capabilities, making pixel-level image tampering detection increasingly important yet challenging under cr...",
-        "url": "http://arxiv.org/abs/2607.18230v1"
+        "title": "1-Lipschitz Neural Networks on Hadamard Manifolds",
+        "summary": "Controlling the Lipschitz constant of a neural network is a standard way to promote robustness and stability. Most existing constraining strategies are designed for Euclidean spaces. In this work, we ...",
+        "url": "http://arxiv.org/abs/2607.19335v1"
       }
     ],
     "devto": [
       {
-        "title": "A Dash of dev.to: My Blog Stats Now Live in the Terminal",
-        "description": "Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is...",
-        "url": "https://dev.to/lovestaco/a-dash-of-devto-my-blog-stats-now-live-in-the-terminal-4l4e",
-        "reactions": 35
-      },
-      {
         "title": "Choose your Burden",
         "description": "Hey everyone. Just an update on the Salesforce Certification. I am planning on releasing articles...",
         "url": "https://dev.to/francistrdev/choose-your-burden-4dgl",
-        "reactions": 34
+        "reactions": 64
       },
       {
         "title": "Every AI-Generated Line of Code Is a Small Loan — And Eventually, You Have to Pay It Back",
         "description": "A bug showed up in my personal project last month. Nothing dramatic - a value wasn't updating the way...",
         "url": "https://dev.to/harsh2644/every-ai-generated-line-of-code-is-a-small-loan-and-eventually-you-have-to-pay-it-back-30a6",
-        "reactions": 47
-      },
-      {
-        "title": "I Stopped Debugging at My Desk. Here's What Changed",
-        "description": "I usually write here about Next.js, caching, and the bugs that steal your sleep. But this post is...",
-        "url": "https://dev.to/shubhradev/i-stopped-debugging-at-my-desk-heres-what-changed-43n3",
-        "reactions": 47
+        "reactions": 53
       },
       {
         "title": "Kiro CLI Gets Worse After an Hour. Here's How I Fixed It.",
         "description": "Why Kiro CLI degrades in long sessions and the context management techniques that fixed it for my daily AWS workflow.",
         "url": "https://dev.to/aws-builders/kiro-cli-gets-worse-after-an-hour-heres-how-i-fixed-it-1l7g",
         "reactions": 17
+      },
+      {
+        "title": "I Built an AI App. Eight Months Later, It Became a Skill",
+        "description": "When I first wrote about NutriAgent in November 2025, it was a full application. It had a Python...",
+        "url": "https://dev.to/juandastic/i-built-an-ai-app-eight-months-later-it-became-a-skill-58cn",
+        "reactions": 7
+      },
+      {
+        "title": "Browser OS Redefined: The Desktop Metaphor Doesn't Quite Fit a 5\" Screen Browser",
+        "description": "GnokeStation is a browser OS: it boots its own environment inside the browser, the same way a...",
+        "url": "https://dev.to/edmundsparrow/browser-os-redefined-the-desktop-metaphor-doesnt-quite-fit-a-5-screen-browser-4hg1",
+        "reactions": 9
       }
     ]
   },
-  "trends": "Today's tech landscape is significantly shaped by the rapid evolution and practical application of AI agents. There's a strong emphasis on moving beyond basic LLM prompting to building robust, controlled, and modular AI agent architectures, often leveraging graph-based approaches for complex tasks. Concurrently, there's growing interest in running advanced AI models locally for privacy and efficiency, alongside a critical assessment of AI's integration into development workflows, acknowledging both its power and its potential 'debt' through unverified code. Developer productivity remains a key focus, with trends leaning towards highly personalized automation, workflow optimization through scripting and gesture controls, and a demand for better tools to visualize and manage complex AI-driven processes.",
+  "trends": "The tech landscape is currently dominated by the rapid evolution and deployment of AI agents, moving towards more sophisticated, graph-based orchestration for complex tasks rather than simple iterative loops. A key focus within LLM applications is improving long-context reasoning and grounding mechanisms to combat issues like repetitive output and improve factual accuracy. Concurrently, there's a strong emphasis on practical automation and productivity tools, often leveraging AI in modular 'skills' for developers and power users. Underpinning these advancements are critical discussions and developments in AI security, ethical considerations, and intellectual property rights, highlighting the need for responsible and robust AI system design. The demand for clear educational roadmaps and practical interview preparation for AI roles also signals a maturing job market.",
   "ideas": [
     {
-      "title": "AgentFlow Visualizer & Debugger for Local LLMs",
+      "title": "Graph-Driven AI Agent Choreographer",
       "difficulty": "Medium",
-      "estimated_hours": 20,
-      "description": "Develop a desktop application (e.g., for macOS/Windows) that integrates with local LLM frameworks (like those enabling 'Nativ') and popular agent libraries (e.g., LangChain, AutoGen). This tool will allow developers to define agent workflows (sequential or graph-based) and then visualize the execution in real-time. It should display agent interactions, tool calls, intermediate thoughts/outputs, and allow for 'pausing' execution to inspect context, modify parameters, and restart from a specific point. This addresses the need for controlling and understanding complex AI systems, reducing the 'black box' effect.",
+      "estimated_hours": 30,
+      "description": "Build a system that allows developers to define multi-step AI agent workflows as a Directed Acyclic Graph (DAG). Each node in the graph represents a specific agent task (e.g., research, code generation, testing, summarization), and edges define dependencies. The system should incorporate a 'supervisor' agent to manage state, provide context, and ensure tasks are grounded with external tools or data sources (e.g., search API, database lookup) to prevent LLM hallucination or repetitive copying, inspired by 'Copy Less, Ground More'. This moves beyond simple agent loops towards structured, resilient execution.",
       "tech_stack": [
         "Python",
-        "Streamlit/Panel/React (for UI)",
-        "LangChain/AutoGen",
-        "Ollama/LocalAI (for local LLMs)",
-        "Graphviz/Mermaid.js (for visualization)"
+        "OpenAI/Anthropic API",
+        "NetworkX",
+        "LangChain/LlamaIndex",
+        "FastAPI (optional for API endpoint)"
       ],
-      "source_inspiration": "GitHub: `graphkit`, `ai-agent-architecture`, `openclaw-desk-pet`, `agentsmith`. Hacker News: `Agent swarms and the new model economics`, `Nativ: Run frontier open models locally on your Mac`. arXiv: `Automated Discovery Has No Universally Superior Harness`.",
+      "source_inspiration": "graphkit, ai-agent-architecture, CodeRescue (arXiv), Copy Less, Ground More (arXiv)",
       "steps": [
-        "Task 1: Set up a local LLM environment (e.g., with Ollama) and integrate a basic agent framework (e.g., LangChain).",
-        "Task 2: Design a simple agent workflow (e.g., RAG-based document summarizer) that can be traced.",
-        "Task 3: Build a desktop UI (e.g., using Electron + React or a Python GUI framework) to define and trigger these workflows.",
-        "Task 4: Implement real-time logging and visualization of agent steps, tool calls, and output in the UI (e.g., a node-graph representation).",
-        "Task 5: Add debugging features: pause/resume, step-through, variable inspection, and ability to modify agent inputs/state mid-run."
+        "Define a flexible Python interface for individual agent modules that can execute a task and return structured output.",
+        "Implement a graph representation for workflows using `NetworkX`, allowing definition of nodes (tasks) and edges (dependencies).",
+        "Develop a central task executor that traverses the DAG, invoking agents for ready tasks and managing context passing between nodes.",
+        "Integrate a grounding mechanism, such as tool agents or RAG components (e.g., search API, local document store), that specific task nodes can call to retrieve real-world information.",
+        "Implement supervisor logic to monitor agent outputs, provide feedback loops for failures, and enforce grounding where necessary.",
+        "Create a simple example workflow (e.g., 'research topic, generate draft, review and refine') to demonstrate functionality."
       ]
     },
     {
-      "title": "Contextual AI Code Review & Refinement Agent",
-      "difficulty": "Medium",
-      "estimated_hours": 16,
-      "description": "Create an IDE extension (e.g., VS Code) that acts as an intelligent assistant for AI-generated code. When a developer pastes or generates code using an LLM, this agent analyzes it within the context of the current project (dependencies, coding style, existing functions, variable names). It then provides context-aware feedback, suggesting improvements, flagging potential bugs or anti-patterns, or even offering to refactor the AI-generated code to better fit the project's conventions. This directly tackles the 'AI-generated code is a loan' problem by proactively reducing technical debt.",
-      "tech_stack": [
-        "TypeScript/JavaScript (for VS Code extension)",
-        "Python (for backend analysis if needed)",
-        "OpenAI API/local LLM integration",
-        "AST parsing libraries (e.g., `tree-sitter` or language-specific parsers)"
-      ],
-      "source_inspiration": "Dev.to: `Every AI-Generated Line of Code Is a Small Loan — And Eventually, You Have to Pay It Back`. GitHub: `git-lrc` (implied concept from article description). arXiv: `It's Not What You Say, It's How You Say It: Evaluating LLM Responses to Expressions of Belief` (applies to code as well).",
-      "steps": [
-        "Task 1: Develop a basic VS Code extension that can detect when new code is added to a file.",
-        "Task 2: Integrate a local LLM (or a remote one like OpenAI) to perform basic code analysis (syntax, simple suggestions).",
-        "Task 3: Implement functionality to extract context from the current project (e.g., parsing imports, function definitions, project-specific linting rules).",
-        "Task 4: Enhance the LLM prompt to include this project context when reviewing AI-generated code.",
-        "Task 5: Display contextual feedback and refinement suggestions directly within the IDE, allowing one-click application or manual editing."
-      ]
-    },
-    {
-      "title": "Adaptive Mouse Gesture Automation Daemon",
+      "title": "Modular 'AI Skill' Local Automation Toolkit",
       "difficulty": "Easy",
-      "estimated_hours": 8,
-      "description": "Building upon the concept of `StrokeMouse`, create a cross-platform (or at least macOS/Windows) application that not only allows custom mouse gestures but also incorporates a basic learning mechanism. Over time, it observes user actions after specific gestures (e.g., opening a browser, then a specific tab, then a specific app) and suggests 'gesture chains' or more efficient macros. It could even categorize gestures by application context, making them more intuitive and powerful for dynamic productivity.",
+      "estimated_hours": 15,
+      "description": "Develop a lightweight, local-first toolkit that allows users to quickly define and deploy small, single-purpose AI-powered 'skills.' These skills could be simple Python scripts that wrap an LLM call or interact with local system APIs. The toolkit would provide a mechanism to bind these skills to system-wide hotkeys, mouse gestures (macOS, Linux, Windows equivalent), or command-line aliases for instant execution. Examples include an 'Explain Code' skill for the selected text, a 'Summarize Clipboard' skill, or a 'Draft Email Reply' skill, making AI an invisible assistant embedded in daily routines.",
       "tech_stack": [
-        "Python (with `pynput` or similar for mouse tracking)",
-        "Electron/Tauri (for cross-platform GUI)",
-        "SQLite (for storing user habits/gesture history)"
+        "Python",
+        "pynput (cross-platform hotkeys)",
+        "pyobjc (macOS gestures, or platform-specific alternatives)",
+        "OpenAI/local LLM API client",
+        "YAML/JSON (for skill configuration)"
       ],
-      "source_inspiration": "GitHub: `StrokeMouse`, `powershell-for-sysadmins` (general automation), `openclaw-desk-pet` (desktop interaction). Dev.to: `I Stopped Debugging at My Desk. Here's What Changed` (personal workflow optimization).",
+      "source_inspiration": "StrokeMouse, video-publish-skill, agentsmith, I Built an AI App. Eight Months Later, It Became a Skill (Dev.to)",
       "steps": [
-        "Task 1: Implement basic mouse gesture recognition (e.g., right-click + drag patterns) using a library like `pynput`.",
-        "Task 2: Map recognized gestures to predefined system actions (e.g., open app, execute shortcut, run script).",
-        "Task 3: Build a simple UI for users to define and manage their gestures and associated actions.",
-        "Task 4: Add a background process that logs user application usage and common sequences of actions (e.g., opening multiple apps in order).",
-        "Task 5: Develop a 'suggestion engine' that periodically reviews logged data and proposes new, optimized gesture-action mappings or multi-step macros to the user."
+        "Design a simple YAML or JSON schema for users to define a 'skill' (name, trigger type, associated script path, optional LLM parameters).",
+        "Implement a core 'skill runner' in Python that loads skill definitions, executes their associated script/code, and handles LLM interactions.",
+        "Integrate system-wide trigger listeners (e.g., global hotkeys using `pynput`, or mouse gestures via platform-specific APIs) to activate skills.",
+        "Develop a few useful example skills (e.g., text summarization from clipboard, selected code explanation) to showcase the toolkit's capabilities.",
+        "Provide a simple command-line interface or a basic configuration file for users to manage and activate/deactivate skills."
+      ]
+    },
+    {
+      "title": "SNN-Enhanced Semantic Search for RAG",
+      "difficulty": "Hard",
+      "estimated_hours": 50,
+      "description": "Build a prototype for a semantic search engine component for Retrieval-Augmented Generation (RAG) systems that integrates Spiking Neural Networks (SNNs). Instead of traditional dense embeddings and cosine similarity, explore using SNNs to process document chunks and queries, potentially leveraging their event-driven nature for more energy-efficient or biologically plausible pattern matching. This project would focus on the *retrieval* phase, aiming to improve the relevance and efficiency of finding evidence for LLMs, especially in long-context scenarios where traditional methods might struggle with computational load or context window limits.",
+      "tech_stack": [
+        "Python",
+        "snnTorch/Nengo (for SNNs)",
+        "PyTorch/TensorFlow (for initial embedding models)",
+        "Faiss/Annoy (for vector storage/indexing)",
+        "LLM API (for demonstration of RAG integration)"
+      ],
+      "source_inspiration": "Awesome-Spiking-Neural-Networks-Hub, Copy Less, Ground More (arXiv)",
+      "steps": [
+        "Conduct research into existing applications and methods of Spiking Neural Networks for semantic matching, text classification, or pattern recognition.",
+        "Implement a method to encode textual input (document chunks, queries) into spike trains suitable for SNN processing, possibly via an intermediate embedding layer.",
+        "Design and train a prototype SNN model (e.g., using `snnTorch`) capable of identifying semantic similarity between generated spike train inputs.",
+        "Index a small document corpus by processing its chunks through the SNN-based encoding and similarity metric.",
+        "Develop a retrieval mechanism that uses the SNN-based similarity to query the indexed corpus and return relevant document chunks.",
+        "Demonstrate the SNN-enhanced retrieval by feeding retrieved chunks into a simple LLM for a basic RAG question-answering task."
       ]
     }
   ],
   "quick_actions": [
-    "Action 1: Download and experiment with a local LLM (e.g., using Ollama or Nativ) for simple tasks to understand its capabilities and limitations firsthand.",
-    "Action 2: Identify one repetitive task you perform daily (e.g., opening specific applications, navigating folders, data transformation) and script its automation using PowerShell, AppleScript, or Python.",
-    "Action 3: For the next week, critically evaluate any AI-generated code snippets you use. Before integrating, mentally (or actually) trace the code's logic and consider potential side effects or better alternatives within your project's context.",
-    "Action 4: Take a 15-minute 'desk-free' break today to reflect on a current coding challenge or bug. Try walking, stretching, or looking away from your screen to foster a fresh perspective."
+    "Dedicate an hour to explore a popular AI agent framework (e.g., LangChain, CrewAI, Autogen, or the 'agentsmith' repository) to understand current orchestration patterns.",
+    "Identify one small, repetitive task in your daily developer workflow and attempt to automate it using a custom script, macro, or by integrating an existing AI 'skill' tool.",
+    "If you use AI-generated code, consciously audit a recent AI-generated snippet or component for potential technical debt or 'loans,' focusing on understanding its logic and improving it for maintainability.",
+    "Spend 15-30 minutes per week reviewing news or summaries related to AI security incidents, data privacy, and intellectual property in AI (e.g., OpenAI/Anthropic news) to stay informed on responsible AI development."
   ]
 }
