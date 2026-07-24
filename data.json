@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23 08:08:41",
+  "last_updated": "2026-07-24 08:05:08",
   "scraped_sources": {
     "github": [
       {
@@ -14,23 +14,15 @@
         "name": "AIGuardSIEM",
         "owner": "itshamzabendelladj",
         "description": "A production-grade SIEM/XDR platform for 1M+ EPS ingestion with sub-15ms detection latency. Built with C++, Go, and Python. Features DPDK capture, ONNX ML inference, Sigma rules, eBPF monitoring, and SOAR.",
-        "stars": 60,
+        "stars": 66,
         "url": "https://github.com/itshamzabendelladj/AIGuardSIEM",
-        "category": "AI / ML"
-      },
-      {
-        "name": "ai-agent-architecture",
-        "owner": "Drobiazkin",
-        "description": "Build LLM systems you actually control. A free, open engineering book + course — from tokenization to serving your own models. Mechanisms, trade-offs, and numbers, not prompt tips",
-        "stars": 25,
-        "url": "https://github.com/Drobiazkin/ai-agent-architecture",
         "category": "AI / ML"
       },
       {
         "name": "llm-interview-questions",
         "owner": "MisterBooo",
         "description": "100 道大模型面试题与 100 张 SVG 图解，覆盖 LLM、RAG、Agent、微调、推理优化和评估。",
-        "stars": 15,
+        "stars": 16,
         "url": "https://github.com/MisterBooo/llm-interview-questions",
         "category": "AI / ML"
       },
@@ -43,35 +35,43 @@
         "category": "AI / ML"
       },
       {
+        "name": "language-model-builder",
+        "owner": "felixrieseberg",
+        "description": "An educational macOS app: build and chat with a tiny language model, trained on your Mac",
+        "stars": 12,
+        "url": "https://github.com/felixrieseberg/language-model-builder",
+        "category": "AI / ML"
+      },
+      {
         "name": "gptfree-register",
         "owner": "hyhang915",
         "description": "ChatGPT协议注册机，支持跳过接码并自动导入sub2api",
-        "stars": 50,
+        "stars": 62,
         "url": "https://github.com/hyhang915/gptfree-register",
-        "category": "Automation / Productivity"
-      },
-      {
-        "name": "wade-skills",
-        "owner": "zapier",
-        "description": "The most frequently used agent skills of Wade Foster, CEO of Zapier",
-        "stars": 35,
-        "url": "https://github.com/zapier/wade-skills",
-        "category": "Automation / Productivity"
-      },
-      {
-        "name": "octopus-skill",
-        "owner": "levi-qiao",
-        "description": "🐙 One brain, many arms — a curated prompt library for long-horizon agent work, compiled to each host (Claude Code · grok · Cursor · Codex). Arms: loop-graph (executor + clean-context supervisor) · quest (one objective riding the host's own verifier).",
-        "stars": 30,
-        "url": "https://github.com/levi-qiao/octopus-skill",
         "category": "Automation / Productivity"
       },
       {
         "name": "wechat-group-daily",
         "owner": "Leobai03",
         "description": "macOS/Windows 微信群日报：本地读取、薛定Token AI 总结、Markdown/PDF、每日定时运行",
-        "stars": 29,
+        "stars": 34,
         "url": "https://github.com/Leobai03/wechat-group-daily",
+        "category": "Automation / Productivity"
+      },
+      {
+        "name": "octopus-skill",
+        "owner": "levi-qiao",
+        "description": "🐙 Graph engineering for long-horizon agents — a curated prompt library wiring specialized clean-context roles (executor · supervisor · scout) into a graph, compiled to each host (Claude Code · grok · Cursor · Codex). Arms: loop-graph · quest.",
+        "stars": 32,
+        "url": "https://github.com/levi-qiao/octopus-skill",
+        "category": "Automation / Productivity"
+      },
+      {
+        "name": "coreclaw-api-directory",
+        "owner": "cporter202",
+        "description": "An unofficial, categorized directory of 118 CoreClaw Worker APIs for web scraping, automation, lead generation, e-commerce, social data, and more.",
+        "stars": 24,
+        "url": "https://github.com/cporter202/coreclaw-api-directory",
         "category": "Automation / Productivity"
       },
       {
@@ -85,51 +85,51 @@
     ],
     "hacker_news": [
       {
-        "title": "Quality non-fiction books are the antithesis of AI slop",
-        "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
-        "score": 328
+        "title": "Writing by hand is good for your brain",
+        "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
+        "score": 1253
       },
       {
-        "title": "GigaToken: ~1000x faster Language model tokenization",
-        "url": "https://github.com/marcelroed/gigatoken/",
-        "score": 476
+        "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
+        "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+        "score": 889
       },
       {
-        "title": "Are AI labs pelicanmaxxing?",
-        "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
-        "score": 500
+        "title": "Why Software Factories Fail (or: harness engineering is not enough)",
+        "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
+        "score": 295
       },
       {
-        "title": "So Reddit has decided that plain HTML is unsafe",
-        "url": "https://www.cole-k.com/2026/07/21/reddit/",
-        "score": 433
+        "title": "DARPA, U.S. Air Force fly AI-controlled F-16",
+        "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
+        "score": 233
       }
     ],
     "arxiv": [
       {
-        "title": "Lipschitzian SLLNs for random functions",
-        "summary": "We prove strong laws of large numbers for locally Lipschitz functions in the Lipschitz pseudometric. Our results hold under either a topological or a model-theoretic condition, with the latter encompa...",
-        "url": "http://arxiv.org/abs/2607.20411v1"
+        "title": "3D-Aware VLMs with Implicit and Explicit Geometries",
+        "summary": "Despite rapid progress, most existing vision-language models (VLMs) built from 2D visual inputs often struggle when handling various 3D tasks that require fine-grained spatial understanding and reason...",
+        "url": "http://arxiv.org/abs/2607.21595v1"
       },
       {
-        "title": "LKValues: Aligning Large Language Models with Sri Lankan Societal Values",
-        "summary": "Value alignment of Large Language Models (LLMs) has been shown to be culturally biased toward Western norms. This results in the mishandling of local values in multilingual societies such as Sri Lanka...",
-        "url": "http://arxiv.org/abs/2607.20410v1"
+        "title": "Expanding Flow Maps",
+        "summary": "Flow-based generative models have enabled remarkable progress in fast and controllable generation across continuous and discrete state spaces, yet existing parameterizations are constrained to fixed d...",
+        "url": "http://arxiv.org/abs/2607.21585v1"
       },
       {
-        "title": "SoftReason: A Fully Differentiable Neuro-Soft-Symbolic Deductive Reasoning Architecture over High-Dimensional Perceptual Data",
-        "summary": "In many reasoning problems, the premises are not observed as discrete symbols, but must be inferred from high-dimensional inputs. Further, the predicate vocabulary, argument structure, and trusted evi...",
-        "url": "http://arxiv.org/abs/2607.20402v1"
+        "title": "GraphVid: Interactive Graph-Controllable Video Generation",
+        "summary": "Controllable video generation remains challenging due to the difficulty of specifying precise multi-object interactions using text prompts or motion-control inputs that primarily constrain pixel movem...",
+        "url": "http://arxiv.org/abs/2607.21580v1"
       },
       {
-        "title": "Towards Miniature Humanoid Tele-Loco-Manipulation Using Virtual Reality and Reinforcement Learning",
-        "summary": "Full-sized humanoid robot capabilities have grown exponentially in recent years, aiming towards general-purpose deployment in human environments. A popular control method used by manufacturers utilize...",
-        "url": "http://arxiv.org/abs/2607.20399v1"
+        "title": "Barzilai-Borwein Fails Superlinear Convergence on an Open Set of Quadratics for Every Dimension $n\\geq 4$",
+        "summary": "Barzilai--Borwein (BB) method has shown strong practical performance in continuous optimization, yet its convergence dynamics remains poorly understood. In particular, a central unresolved question is...",
+        "url": "http://arxiv.org/abs/2607.21579v1"
       },
       {
-        "title": "Persian Pixel: A large-scale synthetic OCR dataset for Persian language",
-        "summary": "Optical Character Recognition (OCR) for Persian remains substantially less mature than for Latin-script languages despite Persian being spoken by more than 110 million people across multiple countries...",
-        "url": "http://arxiv.org/abs/2607.20385v1"
+        "title": "Synthetic data generation framework for quality control automation in gravure printing",
+        "summary": "Quality control in printing, particularly in rotogravure printing, still depends on slow, costly, and subjective manual inspection. Automated surface defect detection is critical for maintaining high-...",
+        "url": "http://arxiv.org/abs/2607.21577v1"
       }
     ],
     "devto": [
@@ -137,107 +137,108 @@
         "title": "Choose your Burden",
         "description": "Hey everyone. Just an update on the Salesforce Certification. I am planning on releasing articles...",
         "url": "https://dev.to/francistrdev/choose-your-burden-4dgl",
-        "reactions": 80
-      },
-      {
-        "title": "Every AI-Generated Line of Code Is a Small Loan — And Eventually, You Have to Pay It Back",
-        "description": "A bug showed up in my personal project last month. Nothing dramatic - a value wasn't updating the way...",
-        "url": "https://dev.to/harsh2644/every-ai-generated-line-of-code-is-a-small-loan-and-eventually-you-have-to-pay-it-back-30a6",
-        "reactions": 57
-      },
-      {
-        "title": "Kiro CLI Gets Worse After an Hour. Here's How I Fixed It.",
-        "description": "Why Kiro CLI degrades in long sessions and the context management techniques that fixed it for my daily AWS workflow.",
-        "url": "https://dev.to/aws-builders/kiro-cli-gets-worse-after-an-hour-heres-how-i-fixed-it-1l7g",
-        "reactions": 17
+        "reactions": 97
       },
       {
         "title": "I Built an AI App. Eight Months Later, It Became a Skill",
         "description": "When I first wrote about NutriAgent in November 2025, it was a full application. It had a Python...",
         "url": "https://dev.to/juandastic/i-built-an-ai-app-eight-months-later-it-became-a-skill-58cn",
-        "reactions": 7
+        "reactions": 8
       },
       {
         "title": "Your Clock Can Go Backward—Use the Right One for Durations",
         "description": "A request starts at 10:00:00.900 and finishes 200 ms later.  Your latency log says -800 ms.  That...",
         "url": "https://dev.to/luciano655/your-clock-can-go-backward-use-the-right-one-for-durations-1ic",
         "reactions": 4
+      },
+      {
+        "title": "Browser OS Redefined: The Desktop Metaphor Doesn't Quite Fit a 5\" Screen Browser",
+        "description": "GnokeStation is a browser OS: it boots its own environment inside the browser, the same way a...",
+        "url": "https://dev.to/edmundsparrow/browser-os-redefined-the-desktop-metaphor-doesnt-quite-fit-a-5-screen-browser-4hg1",
+        "reactions": 9
+      },
+      {
+        "title": "The World's Oldest Communication Protocol Is Music",
+        "description": "This is going to be a very different article from what I usually write. No technical discussions,...",
+        "url": "https://dev.to/adamthedeveloper/the-worlds-oldest-communication-protocol-is-music-3njg",
+        "reactions": 11
       }
     ]
   },
-  "trends": "Today's tech landscape is dominated by the rapid evolution of **Agentic AI Systems**, moving beyond simple prompts to complex, multi-step reasoning, dynamic tool integration, and long-horizon task execution, as evidenced by interest in structured agent architectures and 'skills' libraries. There's a significant focus on **Performance and Efficiency in AI**, with innovations like faster tokenization (GigaToken), low-latency inference (AIGuardSIEM), and emerging paradigms like Spiking Neural Networks. Simultaneously, the industry is grappling with **Responsible AI and Value Alignment**, recognizing cultural biases in LLMs and the need for localized ethical frameworks. In the realm of **Productivity and Automation**, AI is augmenting personal and team workflows through summarization and task automation, but there's a growing critical awareness of the potential 'technical debt' and maintainability challenges introduced by AI-generated code. Finally, robust **Data Infrastructure for AI** (e.g., data lakehouses, CI/CD for RAG systems) remains crucial for deploying and managing these advanced AI applications.",
+  "trends": "The current tech landscape is profoundly shaped by advancements in AI, particularly Large Language Models (LLMs), agentic AI, and specialized neural networks like Spiking Neural Networks (SNNs), driving innovation across various domains including cybersecurity (SIEM/XDR), recommender systems, and generative media (3D-aware VLMs, video generation). There's a strong emphasis on high-performance, low-latency systems and robust MLOps practices for deploying AI, as evidenced by production-grade security platforms and data lakehouse modules. Concurrently, AI is a major catalyst for automation and productivity, with developers exploring tools for intelligent task execution, information synthesis (e.g., daily summaries), and custom API integration. The ecosystem also reflects increasing interest in on-device AI for educational purposes and a nascent, yet crucial, dialogue around the geopolitical and ethical implications of AI development. Alongside these technical trends, there's a growing awareness of developer well-being and effective productivity strategies, including the benefits of focused work and intentional skill building.",
   "ideas": [
     {
-      "title": "Context-Aware Agentic Research Assistant for Niche Topics",
+      "title": "AI-Powered Developer Agent Workbench",
       "difficulty": "Medium",
-      "estimated_hours": 48,
-      "description": "Build an AI agent that can ingest a user's specific research query (e.g., 'Latest advancements in neuromorphic hardware for SNNs') and autonomously perform multi-step research. This agent would dynamically select and utilize a suite of 'skills' such as searching arXiv, summarizing GitHub repositories (like Awesome-Spiking-Neural-Networks-Hub), extracting key information from specific URLs, and even querying a local RAG database. The goal is to produce a structured, synthesized report or answer that goes beyond a simple search result, demonstrating true agentic reasoning and tool use for specialized knowledge domains.",
+      "estimated_hours": 70,
+      "description": "Develop a local desktop or web application that functions as a personalized AI agent orchestrator for developer daily tasks. Users can define high-level 'quests' (e.g., 'Refactor X module to use Y pattern', 'Summarize daily stand-up notes') which the AI agent breaks down into sub-tasks. Leveraging a graph-based prompt library for multi-step reasoning (similar to 'octopus-skill'), the agent would interact with local tools (e.g., Git commands, IDE APIs, shell scripts) and external services (e.g., documentation, JIRA, Slack) to execute tasks, report progress, and generate code snippets or summaries. This project offers significant productivity gains by automating routine or complex cognitive tasks.",
       "tech_stack": [
         "Python",
-        "LangChain/LlamaIndex (for agent orchestration)",
-        "OpenAI/Anthropic API (for LLM backbone)",
-        "BeautifulSoup/Playwright (for web scraping)",
-        "Vector database (e.g., Chroma, FAISS) for RAG",
-        "FastAPI/Streamlit (for simple UI)"
+        "LangChain/LlamaIndex",
+        "Electron/React (for UI) or FastAPI/Streamlit (for web UI)",
+        "Docker (for sandboxed tool execution)",
+        "Local LLM (e.g., Ollama for Llama-3/Mistral)"
       ],
-      "source_inspiration": "Awesome-Spiking-Neural-Networks-Hub, ai-agent-architecture, wade-skills, octopus-skill, ITLR-Fullstack-Recommender-RAG",
+      "source_inspiration": "octopus-skill, wechat-group-daily, llm-interview-questions, 'I Built an AI App. Eight Months Later, It Became a Skill'",
       "steps": [
-        "Set up a basic LangChain agent with an LLM and a tool for web searching (e.g., using a SerperAPI or custom DuckDuckGo search).",
-        "Implement a 'GitHub Repo Summary' skill: given a GitHub URL, scrape its description and use an LLM to summarize its purpose and key technologies.",
-        "Implement an 'ArXiv Paper Reader' skill: given an arXiv URL, fetch its summary and/or full text, and enable querying specific points via RAG.",
-        "Develop a 'Research Planner' tool (potentially a chain of thought LLM call) that breaks down a complex user query into sub-tasks and orchestrates the use of the available skills.",
-        "Integrate a persistent memory or context management system for the agent to maintain state across multiple interactions.",
-        "Build a simple web interface (e.g., using Streamlit) for users to submit queries and view the agent's research process and final report."
+        "Set up a Python environment and integrate with a local or cloud LLM.",
+        "Implement a foundational agent framework capable of interpreting a 'quest' and generating a multi-step plan.",
+        "Create a 'tool' registry, defining functions for common developer actions (e.g., `execute_shell_command`, `read_file`, `search_documentation`).",
+        "Develop a simple user interface (CLI or basic web/desktop app) to input quests and display the agent's actions and outputs.",
+        "Implement a feedback loop allowing the agent to ask for clarification or for the user to refine the quest.",
+        "Extend with context management for personalized knowledge (e.g., RAG over personal codebases or documentation)."
       ]
     },
     {
-      "title": "AI-Driven Code Quality & Tech Debt Profiler",
+      "title": "Edge-AI Log Anomaly Detector for Custom Applications",
       "difficulty": "Medium",
-      "estimated_hours": 36,
-      "description": "Create a tool that integrates into a developer's workflow (e.g., as a Git hook or a CI/CD check) to identify and quantify 'AI-generated code debt.' Inspired by the article 'Every AI-Generated Line of Code Is a Small Loan,' this profiler would analyze new or modified code for common characteristics of hastily generated or poorly integrated AI code: boilerplate redundancy, lack of idiomatic practices, over-commenting simple code, or potential security oversights. It would provide actionable insights, refactoring suggestions, and even use an LLM to explain why a particular code pattern might be problematic, encouraging developers to 'pay back' the debt proactively.",
+      "estimated_hours": 50,
+      "description": "Build a lightweight, high-performance service for custom application log analysis and anomaly detection. Unlike expensive SIEMs, this system focuses on specific application logs (e.g., microservices, IoT devices) to provide rapid, localized insights. The service will ingest logs (from files, Kafka, or HTTP endpoints), preprocess them, and apply a pre-trained ML model (e.g., an ONNX-optimized anomaly detection model) locally to flag unusual patterns or potential issues. The project could also incorporate a synthetic data generation module to help train custom anomaly models for specific log types, addressing the challenge of obtaining diverse training data for 'normal' and 'anomalous' events.",
       "tech_stack": [
-        "Python",
-        "Abstract Syntax Tree (AST) parsing (e.g., Python's `ast` module, Tree-sitter for other languages)",
-        "Static analysis tools (e.g., Pylint, ESLint)",
-        "Git hooks/GitHub Actions",
-        "OpenAI/Anthropic API (for generating explanations/suggestions)"
+        "Go/Rust (for high-performance log ingestion/processing)",
+        "Python (for ML model training - scikit-learn, PyTorch)",
+        "ONNX Runtime (for inference)",
+        "Docker (for deployment)",
+        "Prometheus/Grafana (for basic monitoring/alerting)"
       ],
-      "source_inspiration": "Every AI-Generated Line of Code Is a Small Loan — And Eventually, You Have to Pay It Back, AIGuardSIEM (focus on code quality/security from performance aspect)",
+      "source_inspiration": "AIGuardSIEM, 'Synthetic data generation framework for quality control automation'",
       "steps": [
-        "Develop a script that can be triggered by a Git pre-commit hook or as part of a CI/CD pipeline.",
-        "Implement code parsing using AST to identify structural patterns, code smells, and potential redundancies. Focus on common patterns seen in raw AI output.",
-        "Integrate with an existing static analysis tool (e.g., Pylint for Python) to gather initial code quality metrics.",
-        "Create custom detectors for 'AI-specific' code debt metrics, such as high cyclomatic complexity in simple functions, generic variable names, or repetitive helper functions.",
-        "Utilize an LLM API to generate human-readable explanations for identified issues and suggest concrete refactoring steps or improvements.",
-        "Present the analysis results (debt score, flagged areas, LLM suggestions) in a clear, actionable format within the developer's environment (e.g., console output, a lightweight web report)."
+        "Define a common log format and create a small synthetic dataset of normal and anomalous log entries.",
+        "Develop a Python script to train an unsupervised anomaly detection model (e.g., Isolation Forest, Autoencoder) and export it to ONNX format.",
+        "Implement a high-performance Go or Rust service capable of ingesting logs from a configured source (e.g., a file tailer or a simple HTTP endpoint).",
+        "Integrate the ONNX Runtime library into the Go/Rust service to perform real-time inference on incoming log data.",
+        "Implement a basic alerting mechanism (e.g., console output, webhook call) when an anomaly is detected by the model.",
+        "Containerize the entire application (ingestion service + model) for easy deployment to edge devices or local servers."
       ]
     },
     {
-      "title": "Local/Cultural LLM Guardrail Proxy",
+      "title": "Personal Knowledge RAG-Model Studio",
       "difficulty": "Medium",
-      "estimated_hours": 32,
-      "description": "Build an API proxy that sits in front of existing large language models (e.g., OpenAI, Anthropic) to enforce culturally specific values, ethical guidelines, or domain-specific sensitivities. Inspired by the 'LKValues' paper, this proxy would intercept user prompts and LLM responses, applying a customizable set of rules or a smaller, specialized classification model to filter, rephrase, or block content that does not align with predefined cultural norms (e.g., Sri Lankan values, specific corporate ethics, or child-safe content). This addresses the critical need for LLM value alignment beyond Western norms and provides a practical implementation layer for responsible AI deployment.",
+      "estimated_hours": 65,
+      "description": "Create a cross-platform desktop application that empowers users to build and interact with a personalized, RAG-augmented language model. The core idea is to allow users to upload their own documents (e.g., personal notes, research papers, code snippets) to form a private knowledge base. This data is then indexed and used in a Retrieval-Augmented Generation (RAG) pipeline to provide highly contextual and accurate answers from a small, local language model (e.g., a quantized open-source LLM like Llama-2). This project emphasizes privacy, customizability, and offers a practical way to understand and utilize RAG technology, turning personal data into a conversational knowledge assistant.",
       "tech_stack": [
-        "Python (FastAPI/Flask for the proxy server)",
-        "LLM APIs (OpenAI, Anthropic, etc.)",
-        "YAML/JSON for defining custom value sets and rules",
-        "Potentially a fine-tuned Hugging Face model (e.g., BERT classifier) for faster local checks"
+        "Python",
+        "Streamlit/Gradio (for quick UI prototyping) or Electron/React (for desktop UI)",
+        "Sentence Transformers (for embeddings)",
+        "FAISS/ChromaDB (for vector store)",
+        "Hugging Face Transformers (for local LLM integration)",
+        "Docker (optional, for packaging)"
       ],
-      "source_inspiration": "LKValues: Aligning Large Language Models with Sri Lankan Societal Values, AIGuardSIEM (proxy concept for security filtering)",
+      "source_inspiration": "language-model-builder, ITLR-Fullstack-Recommender-RAG, llm-interview-questions",
       "steps": [
-        "Set up a FastAPI application to act as a reverse proxy, receiving requests, forwarding them to a commercial LLM, and returning the LLM's response.",
-        "Define a configurable 'value set' or 'guideline document' (e.g., a YAML or JSON file) that specifies cultural norms, sensitive topics, or preferred phrasing.",
-        "Implement a 'Prompt Pre-Check' module within the proxy to analyze incoming user prompts against the value set, potentially rejecting or modifying problematic inputs before reaching the LLM.",
-        "Implement a 'Response Post-Check' module to analyze the LLM's generated output against the value set. This could involve: a) using another LLM call to 're-align' or 'edit' the response, or b) using a local classification model to flag and redact/warn about misaligned content.",
-        "Provide a simple administrative interface or API endpoints to easily load and switch between different cultural/value profiles.",
-        "Add logging and monitoring capabilities to track how often the guardrails are triggered and the nature of the filtered content."
+        "Set up a Python environment with libraries for LLMs, embeddings, and vector stores.",
+        "Implement a document ingestion module that accepts various text formats (PDF, TXT, MD), chunks them, and generates embeddings.",
+        "Integrate a local vector database (e.g., ChromaDB or FAISS) to store the document chunks and their embeddings.",
+        "Set up a small, open-source local LLM (e.g., via Ollama, or directly using Hugging Face transformers with a quantized model).",
+        "Develop the RAG pipeline: upon receiving a user query, retrieve the most relevant chunks from the vector store and pass them to the LLM for contextual response generation.",
+        "Build a user-friendly interface (web or desktop) to manage uploaded documents, chat with the RAG model, and view sources for generated answers."
       ]
     }
   ],
   "quick_actions": [
-    "Experiment with LLM-powered 'Skills': Take a recurring personal task (e.g., summarizing meeting notes, drafting social media posts) and attempt to build a simple 'skill' for an LLM agent to automate it, focusing on defining clear inputs/outputs and tool usage.",
-    "Audit a Recent AI-Generated Code Block: Select a recent piece of code you wrote with AI assistance. Critically review it for clarity, maintainability, and idiomatic correctness, contrasting it with manually written code, acknowledging the 'AI loan' concept.",
-    "Dive into LLM System Architecture Fundamentals: Dedicate an hour to explore foundational resources (e.g., from `ai-agent-architecture`) to understand tokenization, RAG mechanisms, and agent orchestration, moving beyond just prompt engineering.",
-    "Automate One Repetitive Digital Task: Identify a small, daily digital task (e.g., summarizing unread emails, collecting specific data points from websites, organizing downloaded files) and write a short script or use a low-code tool to automate it this week."
+    "Allocate dedicated 'deep work' blocks (e.g., 60-90 minutes) at least twice a week purely for hands-on experimentation with new AI/ML tools or concepts, away from typical task management.",
+    "Experiment with one new local LLM (e.g., via Ollama, LM Studio) this week; download and run it to understand its capabilities, resource usage, and interaction patterns.",
+    "Identify a single repetitive personal or work task you perform regularly and spend 30 minutes outlining how you could automate even a small part of it using a script or existing API.",
+    "Practice summarizing any complex technical article or GitHub README you encounter into 3 concise bullet points; this hones your ability to extract core information and synthesize knowledge efficiently."
   ]
 }
