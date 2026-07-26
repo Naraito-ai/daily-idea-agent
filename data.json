@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-07-25 07:48:51",
+  "last_updated": "2026-07-26 08:05:25",
   "scraped_sources": {
     "github": [
       {
         "name": "Awesome-Spiking-Neural-Networks-Hub",
         "owner": "haoran-zha",
         "description": "The comprehensive bilingual (EN/中文) hub for Spiking Neural Networks — 340+ papers, models, neuromorphic hardware, datasets, tools & research groups.",
-        "stars": 91,
+        "stars": 106,
         "url": "https://github.com/haoran-zha/Awesome-Spiking-Neural-Networks-Hub",
         "category": "AI / ML"
       },
@@ -14,90 +14,100 @@
         "name": "AIGuardSIEM",
         "owner": "itshamzabendelladj",
         "description": "A production-grade SIEM/XDR platform for 1M+ EPS ingestion with sub-15ms detection latency. Built with C++, Go, and Python. Features DPDK capture, ONNX ML inference, Sigma rules, eBPF monitoring, and SOAR.",
-        "stars": 70,
+        "stars": 73,
         "url": "https://github.com/itshamzabendelladj/AIGuardSIEM",
-        "category": "AI / ML"
-      },
-      {
-        "name": "llm-interview-questions",
-        "owner": "MisterBooo",
-        "description": "100 道大模型面试题与 100 张 SVG 图解，覆盖 LLM、RAG、Agent、微调、推理优化和评估。",
-        "stars": 16,
-        "url": "https://github.com/MisterBooo/llm-interview-questions",
-        "category": "AI / ML"
-      },
-      {
-        "name": "language-model-builder",
-        "owner": "felixrieseberg",
-        "description": "An educational macOS app: build and chat with a tiny language model, trained on your Mac",
-        "stars": 14,
-        "url": "https://github.com/felixrieseberg/language-model-builder",
         "category": "AI / ML"
       },
       {
         "name": "ITLR-Fullstack-Recommender-RAG",
         "owner": "taovietducofficial",
         "description": "Hybrid recommender system + RAG chatbot for IT courses (FastAPI + Express/TS + PostgreSQL), with an independent Data Lakehouse module (Spark/Kafka/dbt/Trino) and full CI/CD",
-        "stars": 13,
+        "stars": 15,
         "url": "https://github.com/taovietducofficial/ITLR-Fullstack-Recommender-RAG",
         "category": "AI / ML"
       },
       {
-        "name": "gptfree-register",
-        "owner": "hyhang915",
-        "description": "ChatGPT协议注册机，支持跳过接码并自动导入sub2api",
-        "stars": 65,
-        "url": "https://github.com/hyhang915/gptfree-register",
-        "category": "Automation / Productivity"
+        "name": "language-model-builder",
+        "owner": "felixrieseberg",
+        "description": "An educational macOS app: build and chat with a tiny language model, trained on your Mac",
+        "stars": 15,
+        "url": "https://github.com/felixrieseberg/language-model-builder",
+        "category": "AI / ML"
+      },
+      {
+        "name": "ai-hall-of-fame",
+        "owner": "adamghaida",
+        "description": "A curated, well-sourced collection of documented cases where AI did something genuinely remarkable — across math, physics, chemistry, biology, medicine, and more.",
+        "stars": 7,
+        "url": "https://github.com/adamghaida/ai-hall-of-fame",
+        "category": "AI / ML"
       },
       {
         "name": "coreclaw-api-directory",
         "owner": "cporter202",
         "description": "An unofficial, categorized directory of 118 CoreClaw Worker APIs for web scraping, automation, lead generation, e-commerce, social data, and more.",
-        "stars": 61,
+        "stars": 88,
         "url": "https://github.com/cporter202/coreclaw-api-directory",
+        "category": "Automation / Productivity"
+      },
+      {
+        "name": "gptfree-register",
+        "owner": "hyhang915",
+        "description": "ChatGPT协议注册机，支持跳过接码并自动导入sub2api",
+        "stars": 70,
+        "url": "https://github.com/hyhang915/gptfree-register",
         "category": "Automation / Productivity"
       },
       {
         "name": "wechat-group-daily",
         "owner": "Leobai03",
         "description": "macOS/Windows 微信群日报：本地读取、薛定Token AI 总结、Markdown/PDF、每日定时运行",
-        "stars": 36,
+        "stars": 38,
         "url": "https://github.com/Leobai03/wechat-group-daily",
-        "category": "Automation / Productivity"
-      },
-      {
-        "name": "octopus-skill",
-        "owner": "levi-qiao",
-        "description": "🐙 Graph engineering for long-horizon agents — a curated prompt library wiring specialized clean-context roles (executor · supervisor · scout) into a graph, compiled to each host (Claude Code · grok · Cursor · Codex). Arms: loop-graph · quest.",
-        "stars": 33,
-        "url": "https://github.com/levi-qiao/octopus-skill",
         "category": "Automation / Productivity"
       },
       {
         "name": "brew-automator",
         "owner": "xtruhlar",
         "description": "A CLI tool for automated Homebrew maintenance",
-        "stars": 10,
+        "stars": 11,
         "url": "https://github.com/xtruhlar/brew-automator",
+        "category": "Automation / Productivity"
+      },
+      {
+        "name": "omni",
+        "owner": "stevancarlon",
+        "description": "Open-source Android computer-use agent with a self-hostable backend",
+        "stars": 9,
+        "url": "https://github.com/stevancarlon/omni",
         "category": "Automation / Productivity"
       }
     ],
     "hacker_news": [
       {
-        "title": "UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities",
-        "url": "https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities",
-        "score": 42
+        "title": "The new rules of context engineering for Claude 5 generation models",
+        "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+        "score": 299
       },
       {
-        "title": "PartialString – A finite-difference time-domain physical modelling synthesiser",
-        "url": "https://differentinstruments.com/",
-        "score": 8
+        "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+        "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+        "score": 126
       },
       {
-        "title": "Show HN: I simulated closing the Strait of Hormuz on real oil trade data",
-        "url": "https://globaloilnetwork.staffinganalytics.io/",
-        "score": 161
+        "title": "Cloudflare's new AI traffic options for customers",
+        "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
+        "score": 103
+      },
+      {
+        "title": "Rethinking Legal Education in the AI Era",
+        "url": "https://www.law.uchicago.edu/news/ai-strategy-statement",
+        "score": 67
+      },
+      {
+        "title": "Running a 28.9M parameter LLM on an $8 microcontroller",
+        "url": "https://github.com/slvDev/esp32-ai",
+        "score": 165
       }
     ],
     "arxiv": [
@@ -132,25 +142,25 @@
         "title": "Choose your Burden",
         "description": "Hey everyone. Just an update on the Salesforce Certification. I am planning on releasing articles...",
         "url": "https://dev.to/francistrdev/choose-your-burden-4dgl",
-        "reactions": 109
+        "reactions": 112
       },
       {
         "title": "6 Open Source Tools That Give You the Web Back",
         "description": "Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is...",
         "url": "https://dev.to/lovestaco/6-open-source-tools-that-give-you-the-web-back-5hak",
-        "reactions": 24
+        "reactions": 26
       },
       {
         "title": "The World's Oldest Communication Protocol Is Music",
         "description": "This is going to be a very different article from what I usually write. No technical discussions,...",
         "url": "https://dev.to/adamthedeveloper/the-worlds-oldest-communication-protocol-is-music-3njg",
-        "reactions": 19
+        "reactions": 21
       },
       {
-        "title": "I Built an AI App. Eight Months Later, It Became a Skill",
-        "description": "When I first wrote about NutriAgent in November 2025, it was a full application. It had a Python...",
-        "url": "https://dev.to/juandastic/i-built-an-ai-app-eight-months-later-it-became-a-skill-58cn",
-        "reactions": 8
+        "title": "I got tired of uploading my HEIC photos to random servers, so I built a WASM-powered client-side converter",
+        "description": "Hi Dev.to! 👋  Picture this: You are in the middle of a development sprint, a client sends you a batch...",
+        "url": "https://dev.to/alex_poiny/i-got-tired-of-uploading-my-heic-photos-to-random-servers-so-i-built-a-wasm-powered-client-side-kib",
+        "reactions": 4
       },
       {
         "title": "Your Clock Can Go Backward—Use the Right One for Durations",
@@ -160,83 +170,83 @@
       }
     ]
   },
-  "trends": "Today's tech landscape is characterized by a drive towards advanced, specialized AI applications, emphasizing real-time performance and robust integration. There's a significant focus on Spiking Neural Networks (SNNs), 3D-aware Vision-Language Models (VLMs), and high-throughput ML inference systems like AIGuardSIEM, indicating a shift from general-purpose AI to highly optimized, domain-specific solutions. Concurrently, agentic systems and AI-powered automation are gaining traction, with projects like 'octopus-skill' showcasing efforts to build intelligent agents for long-horizon task orchestration and content summarization. The practical application of Large Language Models (LLMs) through Retrieval-Augmented Generation (RAG) and local deployment continues to be a strong theme, empowering developers to create custom, data-specific 'AI skills.' Furthermore, developer productivity is being enhanced through intelligent tooling, API-driven automation, and a continuous exploration of methods to offload repetitive tasks, highlighting a demand for efficient, smart workflows and personal automation.",
+  "trends": "Today's tech trends reveal a strong convergence of advanced AI capabilities with practical, on-device, and privacy-focused applications. There's significant interest in specialized neural networks (like Spiking Neural Networks) and the deployment of AI in critical domains such as security (SIEM/XDR) and domain-specific knowledge systems (RAG-based recommenders for education). The ability to run increasingly sophisticated AI models on resource-constrained devices (e.g., microcontrollers) underscores a push for accessible, efficient AI. Furthermore, context engineering is emerging as a crucial skill for leveraging powerful LLMs effectively. In automation and productivity, the focus is on personal empowerment through open-source tools, client-side processing (e.g., WASM), and AI-driven summarization and agentic workflows, aiming to streamline developer tasks and enhance digital autonomy.",
   "ideas": [
     {
-      "title": "Hyper-Personalized 'Daily Briefing' AI Agent",
+      "title": "Local Context-Aware AI Desktop Agent",
       "difficulty": "Medium",
-      "estimated_hours": 20,
-      "description": "Develop an AI agent that collects and synthesizes information from a developer's private, localized sources (e.g., specific Slack channels, private GitHub repo notifications, local project documentation, RSS feeds, personal notes). The agent would use a local or API-based LLM to generate a concise 'daily briefing' report, highlighting key updates, discussions, and potentially actionable items. This moves beyond generic news summaries to deeply personal, context-aware information curation, enhancing productivity by reducing information overload.",
+      "estimated_hours": 40,
+      "description": "Develop a cross-platform desktop agent that uses local or self-hosted AI models to monitor specific user-defined directories (e.g., 'Downloads', 'Project X folder', chat logs) and provide context-aware automation and insights. For example, it could summarize new documents, categorize files based on content, identify relevant action items from communication logs, or suggest related resources from a local knowledge base. The emphasis is on privacy, processing data locally without sending it to external cloud services. Users could define 'recipes' or 'hooks' for custom automations.",
       "tech_stack": [
-        "Python",
-        "LangChain/LlamaIndex",
-        "Local LLM (Ollama/llama.cpp) or OpenAI API",
-        "Messaging APIs (Slack SDK, Discord.py)",
-        "RSS Parser",
-        "SQLite/JSON storage",
-        "Flask/Streamlit (for optional UI)"
+        "Python (backend logic, file system monitoring)",
+        "Electron or Tauri (cross-platform GUI)",
+        "Ollama, MLX, or llama.cpp (for local LLM inference)",
+        "Faiss or ChromaDB (for local vector store/RAG)",
+        "Pytorch / TensorFlow (for smaller custom models if needed)"
       ],
-      "source_inspiration": "wechat-group-daily, octopus-skill, language-model-builder, I Built an AI App. Eight Months Later, It Became a Skill",
+      "source_inspiration": "omni, wechat-group-daily, language-model-builder, Running a 28.9M parameter LLM on an $8 microcontroller, The new rules of context engineering for Claude 5 generation models",
       "steps": [
-        "1. Set up a local LLM environment (e.g., using Ollama for Llama 3) or configure access to an LLM API.",
-        "2. Implement data connectors for various local sources (e.g., fetch Slack channel history, read local files, parse RSS feeds).",
-        "3. Develop a module to preprocess and chunk the collected content for LLM input.",
-        "4. Design the agent logic: prompt the LLM to summarize and extract key entities/actions based on user preferences.",
-        "5. Create a delivery mechanism (e.g., generate a Markdown file, send an email, push to a local web UI).",
-        "6. Add configuration options for source selection, summary length, and output format."
+        "Task 1: Set up a basic cross-platform desktop application framework (e.g., Electron/Tauri) with a user interface.",
+        "Task 2: Implement file system monitoring for user-specified directories using Python's `watchdog` or similar.",
+        "Task 3: Integrate a local LLM inference engine (e.g., via Ollama API or direct `llama.cpp` bindings) to process text content.",
+        "Task 4: Develop modules for core AI tasks: summarization, categorization, and entity extraction from monitored text data.",
+        "Task 5: Implement a mechanism for users to define custom automation 'recipes' (e.g., if 'summary contains X', then 'move file to Y').",
+        "Task 6: Add a simple local vector store (e.g., using `Faiss` or `ChromaDB`) to build a personal knowledge base for context-aware suggestions."
       ]
     },
     {
-      "title": "Domain-Specific 'Skill Builder' with Attributed RAG",
+      "title": "AI-Powered Hybrid Dev Resource Recommender with RAG Chatbot",
+      "difficulty": "Hard",
+      "estimated_hours": 80,
+      "description": "Build a hybrid recommender system for developers that goes beyond keyword matching. It combines collaborative filtering or content-based recommendations with a Retrieval-Augmented Generation (RAG) chatbot. The system indexes diverse developer resources (GitHub repos, blog posts, documentation, arXiv papers) and allows users to input their current project context (e.g., code snippet, problem description). The RAG chatbot then provides highly relevant recommendations and answers to questions, grounded in the indexed resources, leveraging advanced context engineering to understand developer intent and specific technical challenges.",
+      "tech_stack": [
+        "Python (FastAPI or Flask for API, data processing)",
+        "TypeScript/JavaScript (React or Vue.js for frontend)",
+        "PostgreSQL (for metadata and user profiles)",
+        "Vector Database (e.g., Pinecone, Weaviate, or locally-managed Faiss)",
+        "LangChain or LlamaIndex (for RAG orchestration)",
+        "Sentence Transformers (for embeddings)",
+        "Commercial LLM APIs (e.g., Claude, OpenAI) or fine-tuned open-source models (e.g., Mistral)"
+      ],
+      "source_inspiration": "ITLR-Fullstack-Recommender-RAG, The new rules of context engineering for Claude 5 generation models, ai-hall-of-fame",
+      "steps": [
+        "Task 1: Design and implement the database schema for user data, resource metadata, and embeddings.",
+        "Task 2: Develop a web scraping and indexing pipeline to collect diverse developer resources (GitHub, Dev.to, arXiv, blogs).",
+        "Task 3: Implement an embedding generation service using `Sentence Transformers` and populate the vector database with resource embeddings.",
+        "Task 4: Build the core RAG system: query embedding, vector search, context retrieval, and LLM prompting for answers/recommendations.",
+        "Task 5: Develop the backend API with FastAPI to handle user authentication, resource search, recommendation logic, and RAG chatbot interactions.",
+        "Task 6: Create a user-friendly frontend (React/Vue) where users can input context, view recommendations, and interact with the RAG chatbot.",
+        "Task 7: Implement feedback mechanisms to improve recommendation quality over time (e.g., user ratings, click-through data)."
+      ]
+    },
+    {
+      "title": "WASM-Powered Client-Side Document & Media Utility Suite",
       "difficulty": "Medium",
       "estimated_hours": 30,
-      "description": "Build a toolkit or platform that allows users to easily create a Retrieval-Augmented Generation (RAG) powered 'skill' or chatbot from their own proprietary documentation, codebase, or knowledge base. The key feature is rigorous source attribution, where every generated answer explicitly cites the document(s) from which the information was retrieved. This empowers developers to quickly create trustworthy, domain-specific AI assistants without complex model fine-tuning, directly addressing the need for practical, data-grounded LLM applications.",
+      "description": "Create a browser-based suite of utilities that perform common document and media transformations (e.g., image format conversion, PDF compression, text summarization, data anonymization) entirely client-side using WebAssembly (WASM). This addresses privacy concerns by ensuring no user data leaves their device. The tool should provide a simple drag-and-drop interface for files and offer various processing options, leveraging performant Rust or C++ compiled to WASM for computationally intensive tasks, and potentially a small, local JS-based LLM for text operations.",
       "tech_stack": [
-        "Python (LangChain/LlamaIndex)",
-        "Vector Database (ChromaDB, FAISS, Pinecone free tier)",
-        "Embedding Models (HuggingFace Transformers)",
-        "Local LLM (Ollama) or OpenAI/Anthropic API",
-        "Streamlit/Gradio (for UI)",
-        "PDF/Markdown Parsers"
+        "JavaScript/TypeScript (for frontend logic and UI)",
+        "React/Vue/Svelte (for declarative UI)",
+        "Rust or C++ (for core processing logic, compiled to WASM)",
+        "Web Workers (for offloading heavy WASM tasks)",
+        "ONNX Runtime Web or Transformers.js (for client-side LLM if text processing is advanced)"
       ],
-      "source_inspiration": "ITLR-Fullstack-Recommender-RAG, language-model-builder, llm-interview-questions, I Built an AI App. Eight Months Later, It Became a Skill",
+      "source_inspiration": "I got tired of uploading my HEIC photos to random servers, so I built a WASM-powered client-side converter, Synthetic data generation framework for quality control automation in gravure printing",
       "steps": [
-        "1. Implement a document ingestion pipeline capable of parsing various formats (PDF, Markdown, TXT, code files).",
-        "2. Develop a text chunking and embedding generation service using a chosen embedding model.",
-        "3. Integrate a vector database to store and index document chunks and their embeddings.",
-        "4. Construct the RAG pipeline using a framework like LangChain or LlamaIndex, ensuring context retrieval is robust.",
-        "5. Build a user-friendly interface (e.g., Streamlit app) for uploading documents and interacting with the RAG chatbot.",
-        "6. Implement a mechanism to include source document metadata (title, page number, URL) in the LLM's response."
-      ]
-    },
-    {
-      "title": "Lightweight Anomaly Detection for Personal Infrastructure",
-      "difficulty": "Hard",
-      "estimated_hours": 40,
-      "description": "Inspired by 'AIGuardSIEM', create a simplified, resource-efficient anomaly detection system for personal servers, local networks, or IoT devices. This tool would continuously monitor key metrics (e.g., CPU/memory usage, network traffic, log patterns, file access) and use lightweight machine learning models (e.g., statistical methods, simple clustering) to identify unusual activities. Its value lies in providing 'production-grade' insights for individual developers or small teams managing their own infrastructure, enhancing security and operational stability without enterprise complexity.",
-      "tech_stack": [
-        "Go/Rust/Python (for performance-critical agents)",
-        "Prometheus/Grafana (for metrics collection and visualization)",
-        "SQLite/DuckDB (for local historical data)",
-        "Scikit-learn/ML-agnostic anomaly detection libraries",
-        "Docker (for containerization)",
-        "Alerting (e.g., PagerDuty API, custom email/SMS via Twilio)"
-      ],
-      "source_inspiration": "AIGuardSIEM, brew-automator, Synthetic data generation framework for quality control automation in gravure printing, UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities",
-      "steps": [
-        "1. Design and build data collection agents in Go or Rust to monitor system metrics, network flows, and log files locally.",
-        "2. Establish a local data storage solution (e.g., SQLite, or integrate with Prometheus for time-series data).",
-        "3. Implement various anomaly detection algorithms (e.g., statistical thresholds, Isolation Forest, one-class SVM) that can operate on streamed or batched data.",
-        "4. Develop an alerting module to notify the user via chosen channels (e.g., email, Discord webhook, simple CLI output).",
-        "5. Create a simple dashboard (e.g., using Grafana with Prometheus) to visualize monitored metrics and detected anomalies.",
-        "6. Focus on configurability for defining 'normal' behavior and sensitivity levels for alerts."
+        "Task 1: Set up a basic web application frontend using a modern framework (e.g., React) and implement drag-and-drop file input.",
+        "Task 2: Choose a core utility (e.g., image format conversion like HEIC to JPG/PNG) and implement its logic in Rust or C++.",
+        "Task 3: Compile the Rust/C++ logic to WebAssembly and integrate it into the frontend using `wasm-bindgen` or similar tools.",
+        "Task 4: Implement file reading and writing within the browser environment (File API, Blob API) to pass data to/from WASM modules.",
+        "Task 5: Use Web Workers to run WASM modules in the background, preventing UI freezes during processing.",
+        "Task 6: Expand the suite with additional utilities, such as PDF compression (e.g., using `pdf-lib.js` for JS, or a WASM-compiled library) or basic text summarization (using a lightweight JS LLM or simple heuristics).",
+        "Task 7: Implement robust error handling and progress indicators for user feedback."
       ]
     }
   ],
   "quick_actions": [
-    "1. Spend 30 minutes exploring an API directory (e.g., CoreClaw or similar) to identify one manual web-based task you can automate.",
-    "2. Experiment with a local LLM (like Llama 3 via Ollama) today to summarize a long email thread or a complex article. Focus on extracting key takeaways.",
-    "3. Identify one repetitive developer task in your daily workflow (e.g., project setup, specific file generation) and dedicate an hour this week to scripting its automation.",
-    "4. Research Spiking Neural Networks (SNNs) for 15-20 minutes, specifically focusing on their unique applications where traditional ANNs struggle, to broaden your AI perspective."
+    "Action 1: Identify one repetitive manual task in your developer workflow (e.g., dependency updates, log file cleanup, boilerplate generation) and write a small script or CLI tool to automate it today.",
+    "Action 2: Download and run a small, open-source language model (e.g., via Ollama, `llama.cpp`, or `Transformers.js` in browser) on your local machine to experiment with private summarization or text generation.",
+    "Action 3: Pick a simple data transformation or processing task you currently do server-side (e.g., image resizing, CSV parsing) and explore how to build a client-side solution using WebAssembly (WASM) for enhanced privacy and performance.",
+    "Action 4: Dedicate 30 minutes to practicing 'context engineering' by crafting increasingly precise prompts for a public LLM (like Claude or ChatGPT), observing how changes in context and instruction impact the quality and relevance of its responses."
   ]
 }
