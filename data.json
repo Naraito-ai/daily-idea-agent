@@ -1,29 +1,13 @@
 {
-  "last_updated": "2026-07-27 09:25:27",
+  "last_updated": "2026-07-28 08:12:10",
   "scraped_sources": {
     "github": [
       {
-        "name": "AIGuardSIEM",
-        "owner": "itshamzabendelladj",
-        "description": "A production-grade SIEM/XDR platform for 1M+ EPS ingestion with sub-15ms detection latency. Built with C++, Go, and Python. Features DPDK capture, ONNX ML inference, Sigma rules, eBPF monitoring, and SOAR.",
-        "stars": 75,
-        "url": "https://github.com/itshamzabendelladj/AIGuardSIEM",
-        "category": "AI / ML"
-      },
-      {
-        "name": "ITLR-Fullstack-Recommender-RAG",
-        "owner": "taovietducofficial",
-        "description": "Hybrid recommender system + RAG chatbot for IT courses (FastAPI + Express/TS + PostgreSQL), with an independent Data Lakehouse module (Spark/Kafka/dbt/Trino) and full CI/CD",
-        "stars": 15,
-        "url": "https://github.com/taovietducofficial/ITLR-Fullstack-Recommender-RAG",
-        "category": "AI / ML"
-      },
-      {
-        "name": "Jharu",
-        "owner": "riponcm",
-        "description": "Free open source disk cleaner for developers. Clean Hugging Face, Ollama, npm, pip, conda, Docker caches, app leftovers, and junk files on macOS and Windows. Built with Tauri.",
-        "stars": 10,
-        "url": "https://github.com/riponcm/Jharu",
+        "name": "awesome-ai-handbook",
+        "owner": "bestdeejay-design",
+        "description": "A practical guide to AI: from running your first local model to building your own agents. 52 files covering LLMs, Ollama, RAG, prompt engineering, machine learning, AI agents, and local AI tools.",
+        "stars": 16,
+        "url": "https://github.com/bestdeejay-design/awesome-ai-handbook",
         "category": "AI / ML"
       },
       {
@@ -35,18 +19,34 @@
         "category": "AI / ML"
       },
       {
-        "name": "ai-hall-of-fame",
-        "owner": "adamghaida",
-        "description": "A curated, well-sourced collection of documented cases where AI did something genuinely remarkable — across math, physics, chemistry, biology, medicine, and more.",
-        "stars": 7,
-        "url": "https://github.com/adamghaida/ai-hall-of-fame",
+        "name": "Memoir",
+        "owner": "RightNow-AI",
+        "description": "Weights that never freeze. A continual-learning architecture, and the pre-registered experiment that falsified its central claim. https://arxiv.org/abs/2607.20792",
+        "stars": 6,
+        "url": "https://github.com/RightNow-AI/Memoir",
+        "category": "AI / ML"
+      },
+      {
+        "name": "stil-ai-playground",
+        "owner": "cedendahlkim",
+        "description": "STIL.AI Playground — AI-generated fashion design, open source. Text-to-garment concept with FastAPI + Azure OpenAI + Stripe.",
+        "stars": 5,
+        "url": "https://github.com/cedendahlkim/stil-ai-playground",
+        "category": "AI / ML"
+      },
+      {
+        "name": "Issue-Assignee-Recommender",
+        "owner": "Harshit-Lalwani",
+        "description": "Two-stage recommender (BM25/embedding retrieval + LightGBM LambdaRank) that ranks the developers most likely to resolve a newly-filed Jira issue, built and evaluated on 130k real issues from 5 Apache/Jira projects.",
+        "stars": 5,
+        "url": "https://github.com/Harshit-Lalwani/Issue-Assignee-Recommender",
         "category": "AI / ML"
       },
       {
         "name": "coreclaw-api-directory",
         "owner": "cporter202",
         "description": "An unofficial, categorized directory of 118 CoreClaw Worker APIs for web scraping, automation, lead generation, e-commerce, social data, and more.",
-        "stars": 105,
+        "stars": 115,
         "url": "https://github.com/cporter202/coreclaw-api-directory",
         "category": "Automation / Productivity"
       },
@@ -59,18 +59,18 @@
         "category": "Automation / Productivity"
       },
       {
-        "name": "wechat-group-daily",
-        "owner": "Leobai03",
-        "description": "macOS/Windows 微信群日报：本地读取、薛定Token AI 总结、Markdown/PDF、每日定时运行",
-        "stars": 38,
-        "url": "https://github.com/Leobai03/wechat-group-daily",
+        "name": "pinvou-agent",
+        "owner": "Pinvou",
+        "description": "Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables.",
+        "stars": 31,
+        "url": "https://github.com/Pinvou/pinvou-agent",
         "category": "Automation / Productivity"
       },
       {
         "name": "Waypoint",
         "owner": "haarisxk",
         "description": "A stealth-focused kernel-mode virtual HID mouse driver for Windows. Built with KMDF and VHF for precise, hardware-level input simulation using covert shared-memory IPC.",
-        "stars": 12,
+        "stars": 15,
         "url": "https://github.com/haarisxk/Waypoint",
         "category": "Automation / Productivity"
       },
@@ -78,144 +78,164 @@
         "name": "brew-automator",
         "owner": "xtruhlar",
         "description": "A CLI tool for automated Homebrew maintenance",
-        "stars": 12,
+        "stars": 13,
         "url": "https://github.com/xtruhlar/brew-automator",
         "category": "Automation / Productivity"
       }
     ],
     "hacker_news": [
       {
-        "title": "Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",
-        "url": "https://github.com/vercel-labs/scriptc",
-        "score": 168
+        "title": "Our position on open-weights models",
+        "url": "https://www.anthropic.com/news/position-open-weights-models",
+        "score": 837
       },
       {
-        "title": "US citizen charged after GrapheneOS phone wipes during airport search",
-        "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
-        "score": 730
+        "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
+        "url": "https://fermisense.com/when-machines-take-the-wheel/",
+        "score": 148
       },
       {
-        "title": "Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",
-        "url": "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
-        "score": 445
+        "title": "Using an open model feels surprisingly good",
+        "url": "https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/",
+        "score": 255
+      },
+      {
+        "title": "Programming Languages Are Authoring Tools for Platforms",
+        "url": "https://www.makonea.com/en-US/blog/programming-languages-are-authoring-tools-for-platforms",
+        "score": 11
+      },
+      {
+        "title": "Kimi K3 Now Available via Telnyx Inference API",
+        "url": "https://telnyx.com/release-notes/kimi-k3-telnyx-inference",
+        "score": 72
       }
     ],
-    "arxiv": [],
+    "arxiv": [
+      {
+        "title": "ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding",
+        "summary": "Multimodal large language models (MLLMs) hold immense potential to revolutionize clinical practice, yet deploying them in the medical domain is fundamentally a vision-centric challenge: models must ab...",
+        "url": "http://arxiv.org/abs/2607.24743v1"
+      },
+      {
+        "title": "Certified Parallel-in-Time Sinkhorn for Dynamic Entropic Optimal Transport",
+        "summary": "Dynamic applications, including optimal-transport Flow Matching, repeatedly solve related entropic optimal transport problems, yet conventional distributed Sinkhorn processes frames sequentially and s...",
+        "url": "http://arxiv.org/abs/2607.24741v1"
+      },
+      {
+        "title": "Learning Distributions from Multiple Data Providers",
+        "summary": "Motivated by learning from heterogeneous and overlapping data providers, we study a stylized model of distribution learning from restricted conditional samples. The goal is to learn an unknown distrib...",
+        "url": "http://arxiv.org/abs/2607.24732v1"
+      },
+      {
+        "title": "Rethinking Classifier-Free Guidance in On-Policy Diffusion Distillation",
+        "summary": "On-policy distillation (OPD) adapts diffusion models by querying a teacher along trajectories generated by the current student, but how it should behave under classifier-free guidance (CFG), a default...",
+        "url": "http://arxiv.org/abs/2607.24731v1"
+      },
+      {
+        "title": "KANEx: Translating Kolmogorov-Arnold Networks' Interpretability to Medical Explainability",
+        "summary": "Computer vision models have become highly effective for medical applications, yet their black-box nature continues to undermine clinician trust. In clinical workflows, chest X-ray classifiers are incr...",
+        "url": "http://arxiv.org/abs/2607.24730v1"
+      }
+    ],
     "devto": [
       {
-        "title": "Choose your Burden",
-        "description": "Hey everyone. Just an update on the Salesforce Certification. I am planning on releasing articles...",
-        "url": "https://dev.to/francistrdev/choose-your-burden-4dgl",
-        "reactions": 113
+        "title": "How terminal-sharing tools put your shell in a browser",
+        "description": "Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is...",
+        "url": "https://dev.to/lovestaco/how-terminal-sharing-tools-put-your-shell-in-a-browser-328",
+        "reactions": 57
       },
       {
         "title": "6 Open Source Tools That Give You the Web Back",
         "description": "Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is...",
         "url": "https://dev.to/lovestaco/6-open-source-tools-that-give-you-the-web-back-5hak",
-        "reactions": 31
+        "reactions": 32
       },
       {
         "title": "The World's Oldest Communication Protocol Is Music",
         "description": "This is going to be a very different article from what I usually write. No technical discussions,...",
         "url": "https://dev.to/adamthedeveloper/the-worlds-oldest-communication-protocol-is-music-3njg",
-        "reactions": 23
-      },
-      {
-        "title": "How terminal-sharing tools put your shell in a browser",
-        "description": "Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is...",
-        "url": "https://dev.to/lovestaco/how-terminal-sharing-tools-put-your-shell-in-a-browser-328",
-        "reactions": 36
+        "reactions": 24
       },
       {
         "title": "I got tired of uploading my HEIC photos to random servers, so I built a WASM-powered client-side converter",
         "description": "Hi Dev.to! 👋  Picture this: You are in the middle of a development sprint, a client sends you a batch...",
         "url": "https://dev.to/alex_poiny/i-got-tired-of-uploading-my-heic-photos-to-random-servers-so-i-built-a-wasm-powered-client-side-kib",
         "reactions": 4
+      },
+      {
+        "title": "Your Clock Can Go Backward—Use the Right One for Durations",
+        "description": "A request starts at 10:00:00.900 and finishes 200 ms later.  Your latency log says -800 ms.  That...",
+        "url": "https://dev.to/luciano655/your-clock-can-go-backward-use-the-right-one-for-durations-1ic",
+        "reactions": 4
       }
     ]
   },
-  "trends": "Today's tech landscape is defined by a dual focus on **advanced AI applications** and **hyper-efficient developer workflows**. In AI, the emphasis is shifting towards highly specialized, often domain-specific models like RAG-enhanced recommenders and low-latency SIEM platforms, with a strong undercurrent of **edge computing** and **local inference** (Rust for Coral USB, local AI summaries). Performance is paramount, driving adoption of languages like Rust, C++, Go, and native compilation techniques (Scriptc). Concurrently, there's a significant drive for **developer productivity and automation**, seen in tools for local environment cleanup (caches, package managers), API aggregation for streamlined processes, and automation of repetitive tasks. **Privacy and client-side processing** are also growing concerns, with projects leveraging WebAssembly (WASM) to keep data local and reduce reliance on cloud services, reflecting a desire for user control over data.",
+  "trends": "Today's tech landscape is marked by a strong push towards practical and localized AI, with significant emphasis on open-weight models for cost-effective and powerful applications. The rise of sophisticated AI agents capable of automating complex workflows across various domains, from development tasks to niche applications like fashion design, is prominent. Concurrently, there's a growing focus on developer productivity through advanced tooling, low-level system automation, and client-side processing to enhance performance and privacy. Research continues to explore specialized AI applications, particularly multimodal understanding in critical fields like medicine, alongside a sustained demand for model explainability and interpretability.",
   "ideas": [
     {
-      "title": "DevVault Guardian: Intelligent Local Environment Optimizer",
+      "title": "Local Dev Agent Orchestrator",
       "difficulty": "Medium",
-      "estimated_hours": 60,
-      "description": "A cross-platform desktop application built with Rust and Tauri that serves as a comprehensive guardian for a developer's local environment. It goes beyond simple cache cleaning by intelligently monitoring disk usage across common developer tools (Hugging Face, Ollama, Docker, npm, pip, conda, VS Code extensions), identifying stale or redundant resources, and suggesting or automating their cleanup. The 'intelligent' aspect comes from using heuristics or a small local ML model to learn usage patterns and make smarter recommendations, ensuring essential resources aren't purged. It can also integrate with package managers to flag outdated packages or unused dependencies across projects.",
+      "estimated_hours": 20,
+      "description": "Build a desktop or CLI agent that orchestrates local AI models (e.g., via Ollama) to automate common developer tasks while keeping sensitive code and data local. This agent could manage dependency updates, suggest issue assignees based on project context, generate initial code structures, or summarize local documentation. It provides a personalized, private, and efficient AI assistant for daily development workflows.",
       "tech_stack": [
-        "Rust",
-        "Tauri (for cross-platform GUI)",
-        "eBPF (for Linux/macOS process and file monitoring)",
-        "OS-specific APIs (Windows equivalent for monitoring)",
-        "SQLite (for local configuration and historical data)",
-        "Lightweight local ML inference (e.g., ONNX Runtime for heuristics/recommendations)"
+        "Python",
+        "LangChain/LlamaIndex",
+        "Ollama API",
+        "CLI Framework (e.g., Click) or Electron/PyQt (for GUI)"
       ],
-      "source_inspiration": "Jharu (disk cleaner), brew-automator (CLI for Homebrew maintenance), AIGuardSIEM (eBPF for monitoring, performance focus), coral-rs (Rust for low-level performance), Scriptc (focus on native, efficient execution).",
+      "source_inspiration": "awesome-ai-handbook, pinvou-agent, brew-automator, Issue-Assignee-Recommender",
       "steps": [
-        "1. Initialize a new Tauri project with Rust as the backend.",
-        "2. Implement OS-specific file system scanning logic to identify common developer tool cache directories (e.g., ~/.cache/huggingface, ~/.ollama, Docker paths, npm/pip caches).",
-        "3. Develop a core Rust module to analyze file access/modification times and directory contents to classify resources as 'stale' or 'potentially unused'.",
-        "4. Design and implement a user interface using the Tauri frontend (e.g., web technologies) to display findings, allow users to select items for cleanup, and define custom cleanup rules.",
-        "5. Implement robust cleanup functionality (delete files, prune Docker images/volumes) with safety mechanisms (e.g., recycle bin integration, undo options).",
-        "6. (Advanced) Explore and integrate eBPF probes (on Linux/macOS) or equivalent Windows kernel APIs to gain deeper insights into active processes and their resource usage for more intelligent recommendations.",
-        "7. (Optional) Integrate with package manager CLIs (Homebrew, Chocolatey) to list outdated packages and suggest updates."
+        "Task 1: Set up a local LLM environment (e.g., Ollama) and pull a suitable code-focused model.",
+        "Task 2: Develop core agent logic in Python for task parsing, context retrieval (e.g., reading project files), and tool invocation.",
+        "Task 3: Implement basic 'tools' for the agent, such as 'read_file', 'run_terminal_command', 'search_local_docs'.",
+        "Task 4: Create a simple CLI interface for user interaction and integrate the agent with the defined tools.",
+        "Task 5: Add a specific feature like 'dependency update suggestions' by having the agent read project configuration files (e.g., package.json) and query the LLM for newer version suggestions or compatibility notes."
       ]
     },
     {
-      "title": "RAG-Vault: Privacy-First Local Document AI Assistant",
+      "title": "Open-Source Code Explainer & Refactorer",
       "difficulty": "Medium",
-      "estimated_hours": 80,
-      "description": "A client-side web application (or desktop app with local webview) that allows users to upload local documents (PDFs, text files, Markdown, web pages) to create a private, searchable knowledge base. This application leverages a WASM-powered RAG (Retrieval Augmented Generation) pipeline to enable users to chat with their documents, ask questions, and get summarized insights, all without ever sending their data to external cloud-based AI APIs. The embedding generation and RAG inference occur entirely within the user's browser or local machine using lightweight, client-side compatible models, ensuring maximum privacy and data control.",
+      "estimated_hours": 16,
+      "description": "Develop a VS Code extension or CLI tool that integrates with a self-hosted open-weight LLM (running via Ollama) to provide instant, privacy-preserving code explanations, suggest refactoring improvements, and detect potential bugs. Users can highlight code within their editor, and the tool sends it to the local LLM for analysis, providing contextual feedback directly without transmitting code to external services. This leverages the power of open models for personalized code assistance.",
       "tech_stack": [
-        "JavaScript/TypeScript (frontend framework like React/Vue/Svelte)",
-        "WebAssembly (WASM for ML inference, e.g., Web LLMs, ONNX Runtime WASM)",
-        "Local Vector Database (e.g., custom IndexedDB implementation or LanceDB WASM)",
-        "File System Access API (for browser-based local file handling) or Electron/Tauri (for desktop app)",
-        "PDF.js (for PDF parsing)"
+        "TypeScript/JavaScript (for VS Code extension)",
+        "Python (for LLM interaction backend)",
+        "Ollama API"
       ],
-      "source_inspiration": "wechat-group-daily (local AI summary), ITLR-Fullstack-Recommender-RAG (RAG concept, full-stack approach), Dev.to WASM-powered client-side converter (privacy, WASM for client-side processing), coral-rs (edge/local ML focus).",
+      "source_inspiration": "fermisense.com (A $500 RL fine-tune...), matthewsaltz.com (Using an open model feels surprisingly good), git-lrc (Micro AI code reviewer concept)",
       "steps": [
-        "1. Set up a modern web application project (e.g., Vite with React/Vue/Svelte).",
-        "2. Implement secure document upload functionality, parsing common formats like PDF (using PDF.js), TXT, and Markdown locally.",
-        "3. Research and integrate a WASM-compatible library for text embedding generation (e.g., a lightweight sentence transformer model compiled to WASM or using Web LLMs' embedding capabilities).",
-        "4. Develop a local vector storage and retrieval mechanism using IndexedDB or a client-side vector database library to store embeddings and quickly find relevant document chunks.",
-        "5. Integrate a lightweight, WASM-compatible Large Language Model (LLM) for local RAG inference (e.g., Web LLMs, or a small ONNX model for text generation).",
-        "6. Build an intuitive chat interface where users can query their loaded documents and receive AI-generated responses based on retrieved context.",
-        "7. Add features for document summarization (either full document or specific sections) using the local LLM.",
-        "8. Implement mechanisms for users to easily manage (add, remove, view) their local document vault."
+        "Task 1: Set up a local LLM (e.g., a smaller code-focused model like CodeLlama via Ollama).",
+        "Task 2: Create a new VS Code extension project using TypeScript/JavaScript.",
+        "Task 3: Implement a VS Code command that captures selected text from the active editor.",
+        "Task 4: Develop a local API endpoint (e.g., a small Python Flask server) that receives code and forwards it to the Ollama API, then returns the LLM's response.",
+        "Task 5: Integrate the VS Code command with the local API, displaying the LLM's explanations or refactoring suggestions directly within the editor or a sidebar."
       ]
     },
     {
-      "title": "InsightWeaver: Hyper-Personalized News & Knowledge Curator",
-      "difficulty": "Medium",
-      "estimated_hours": 50,
-      "description": "A personalized news and knowledge curator that transcends typical keyword-based RSS feeds. Users define their specific 'interests' not just by keywords but by providing example articles, GitHub repos, or even text snippets they find valuable. The system then employs a local or self-hosted RAG pipeline to continuously monitor various sources (RSS feeds from Hacker News/Dev.to, GitHub trending APIs) and identifies articles/repos that are semantically similar to the user's defined interests. It then automatically summarizes these highly relevant findings and delivers a concise daily/weekly digest. This leverages specialized RAG and local intelligence to provide hyper-relevant content filtering and summarization without relying on centralized, opaque recommendation algorithms.",
+      "title": "WASM-Powered Client-Side Multimodal Document/UI Analyzer",
+      "difficulty": "Hard",
+      "estimated_hours": 24,
+      "description": "Build a web application that allows users to upload an image (e.g., a chart, a screenshot of a UI, or a technical diagram) and ask questions about it in natural language. The application will use client-side WebAssembly (WASM) for efficient image pre-processing (e.g., resizing, cropping, or even running lightweight vision models for feature extraction). This pre-processed data and the user's query are then sent to a (potentially remote or local) multimodal LLM for interpretation. This approach enhances user privacy by minimizing raw data transmission and improves performance, similar to client-side HEIC converters.",
       "tech_stack": [
-        "Python (for backend scraping, processing, and ML)",
-        "FastAPI (for API endpoint serving the frontend)",
-        "React/Vue/Svelte (for frontend user interface)",
-        "PostgreSQL (for user profiles, source configurations, and curated content metadata)",
-        "Sentence Transformers (for generating embeddings)",
-        "FAISS or Milvus Lite (for local vector similarity search)",
-        "Lightweight local LLM (e.g., Llama.cpp for summarization)",
-        "Cron job or background task queue (for scheduled scraping and processing)"
+        "JavaScript/TypeScript",
+        "WebAssembly (WASM)",
+        "React/Vue/Svelte (for frontend)",
+        "FastAPI (for MLLM API if remote) or directly a public MLLM API"
       ],
-      "source_inspiration": "ITLR-Fullstack-Recommender-RAG (hybrid recommender, RAG, data processing pipeline), ai-hall-of-fame (curation concept), wechat-group-daily (daily summary, scheduling), coreclaw-api-directory (API aggregation/scraping potential).",
+      "source_inspiration": "ClinFusion (Vision-Centric MLLM), KANEx (Explainability), alex_poiny (WASM-powered client-side converter)",
       "steps": [
-        "1. Set up a Python FastAPI backend and a frontend framework project (e.g., React).",
-        "2. Develop data ingestion modules to scrape/fetch content from various sources (GitHub trending API, RSS feeds for Hacker News, Dev.to).",
-        "3. Create a user interface for users to define their 'interest profiles' by pasting URLs (articles, GitHub repos) or text snippets, which will be used to generate 'interest embeddings'.",
-        "4. Implement a backend service that uses Sentence Transformers to generate embeddings for both the user's interest profiles and all incoming scraped articles/repos.",
-        "5. Set up a vector database (e.g., FAISS in-memory or Milvus Lite) to store content embeddings for fast similarity search.",
-        "6. Develop a matching algorithm to find top-N most similar articles/repos to each user's interest profile.",
-        "7. Integrate a local, self-hosted LLM (e.g., via Llama.cpp or a similar library) to generate concise summaries of the highly relevant findings.",
-        "8. Implement a scheduled job (e.g., a daily cron job) to run the scraping, processing, matching, and summarization, and then present the personalized digest in the frontend (or via email)."
+        "Task 1: Set up a basic web application frontend (e.g., with React) and implement client-side image upload and display.",
+        "Task 2: Develop a WebAssembly (WASM) module for efficient image pre-processing (e.g., resizing, converting formats, or simple feature extraction).",
+        "Task 3: Integrate the WASM module into the frontend to process uploaded images before any network transmission.",
+        "Task 4: Choose and integrate with a multimodal LLM API (e.g., Gemini Vision, GPT-4o Vision, or a local Llava model via Ollama if feasible).",
+        "Task 5: Send the WASM-processed image data (e.g., base64 encoded compressed image) along with the user's natural language query to the chosen MLLM and display the interpreted results on the web page."
       ]
     }
   ],
   "quick_actions": [
-    "1. Audit and Prune Developer Caches: Dedicate 30 minutes to running cleanup commands like `npm cache clean --force`, `pip cache purge`, `docker system prune -a`, and checking specific ML framework caches (Hugging Face, Ollama) to immediately reclaim disk space and optimize your local development environment.",
-    "2. Experiment with a Client-Side WASM Utility: Identify one small, repetitive task in your development or personal workflow (e.g., local markdown rendering, simple image resizing, data conversion) and spend an hour attempting to implement a client-side version using WebAssembly to understand its performance and privacy benefits firsthand.",
-    "3. Automate One Repetitive Dev Task with a Script: Choose a single manual, repetitive task you perform regularly (e.g., generating boilerplate, syncing config files, running a specific set of tests, deploying a local preview) and write a simple shell script or Python CLI tool to fully automate it, saving future time.",
-    "4. Explore Local AI Inference Capabilities: Spend an hour researching and setting up a lightweight ML model (e.g., a quantized model for `llama.cpp`, a small ONNX model) to run inference locally on your machine. This could be anything from text generation to image classification, to grasp the power of 'edge AI' without cloud dependencies."
+    "Action 1: Set up and experiment with a local LLM (e.g., via Ollama or LM Studio) on your machine. Explore its capabilities for summarizing text, generating code snippets, or answering questions to understand its local potential.",
+    "Action 2: Identify one repetitive task in your daily development workflow (e.g., managing dependencies, running specific tests, formatting code) and spend 30 minutes writing a script or configuring an existing tool to automate it.",
+    "Action 3: Dedicate time to read an article or tutorial on fine-tuning open-weight LLMs for a specific domain or task. Understand the potential and practicalities of customizing models to solve niche problems.",
+    "Action 4: Investigate how WebAssembly (WASM) can be applied in one of your current web projects to handle data processing client-side, potentially improving privacy or performance, even if it's a small image manipulation task."
   ]
 }
