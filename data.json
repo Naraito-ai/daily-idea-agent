@@ -1,37 +1,37 @@
 {
-  "last_updated": "2026-07-28 08:12:10",
+  "last_updated": "2026-07-29 08:16:45",
   "scraped_sources": {
     "github": [
       {
         "name": "awesome-ai-handbook",
         "owner": "bestdeejay-design",
         "description": "A practical guide to AI: from running your first local model to building your own agents. 52 files covering LLMs, Ollama, RAG, prompt engineering, machine learning, AI agents, and local AI tools.",
-        "stars": 16,
+        "stars": 24,
         "url": "https://github.com/bestdeejay-design/awesome-ai-handbook",
-        "category": "AI / ML"
-      },
-      {
-        "name": "coral-rs",
-        "owner": "theohmwoa",
-        "description": "Rust stack for the Coral USB Accelerator (Edge TPU): FFI wrapper today, pure-Rust nusb driver as the endgame",
-        "stars": 7,
-        "url": "https://github.com/theohmwoa/coral-rs",
-        "category": "AI / ML"
-      },
-      {
-        "name": "Memoir",
-        "owner": "RightNow-AI",
-        "description": "Weights that never freeze. A continual-learning architecture, and the pre-registered experiment that falsified its central claim. https://arxiv.org/abs/2607.20792",
-        "stars": 6,
-        "url": "https://github.com/RightNow-AI/Memoir",
         "category": "AI / ML"
       },
       {
         "name": "stil-ai-playground",
         "owner": "cedendahlkim",
         "description": "STIL.AI Playground — AI-generated fashion design, open source. Text-to-garment concept with FastAPI + Azure OpenAI + Stripe.",
-        "stars": 5,
+        "stars": 7,
         "url": "https://github.com/cedendahlkim/stil-ai-playground",
+        "category": "AI / ML"
+      },
+      {
+        "name": "hf-critic",
+        "owner": "billyrdavis1985-bot",
+        "description": "Fine-tuning open-source LLMs into reasoning-process critics — QLoRA, held-out eval, controlled cross-model comparison. Part of the IRMB program.",
+        "stars": 5,
+        "url": "https://github.com/billyrdavis1985-bot/hf-critic",
+        "category": "AI / ML"
+      },
+      {
+        "name": "ai-roadmap",
+        "owner": "sumitsingh4411",
+        "description": "A free, open-source roadmap to learn AI from zero — 34 lessons from your first line of Python to shipping an LLM app. Read on the web or straight from the Markdown.",
+        "stars": 5,
+        "url": "https://github.com/sumitsingh4411/ai-roadmap",
         "category": "AI / ML"
       },
       {
@@ -43,26 +43,10 @@
         "category": "AI / ML"
       },
       {
-        "name": "coreclaw-api-directory",
-        "owner": "cporter202",
-        "description": "An unofficial, categorized directory of 118 CoreClaw Worker APIs for web scraping, automation, lead generation, e-commerce, social data, and more.",
-        "stars": 115,
-        "url": "https://github.com/cporter202/coreclaw-api-directory",
-        "category": "Automation / Productivity"
-      },
-      {
-        "name": "gptfree-register",
-        "owner": "hyhang915",
-        "description": "ChatGPT协议注册机，支持跳过接码并自动导入sub2api",
-        "stars": 72,
-        "url": "https://github.com/hyhang915/gptfree-register",
-        "category": "Automation / Productivity"
-      },
-      {
         "name": "pinvou-agent",
         "owner": "Pinvou",
         "description": "Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables.",
-        "stars": 31,
+        "stars": 55,
         "url": "https://github.com/Pinvou/pinvou-agent",
         "category": "Automation / Productivity"
       },
@@ -70,74 +54,96 @@
         "name": "Waypoint",
         "owner": "haarisxk",
         "description": "A stealth-focused kernel-mode virtual HID mouse driver for Windows. Built with KMDF and VHF for precise, hardware-level input simulation using covert shared-memory IPC.",
-        "stars": 15,
+        "stars": 16,
         "url": "https://github.com/haarisxk/Waypoint",
         "category": "Automation / Productivity"
       },
       {
-        "name": "brew-automator",
-        "owner": "xtruhlar",
-        "description": "A CLI tool for automated Homebrew maintenance",
-        "stars": 13,
-        "url": "https://github.com/xtruhlar/brew-automator",
+        "name": "Git-Deployment-Beginner",
+        "owner": "taovietducofficial",
+        "description": "Beginner-friendly guide and scripts for deploying projects with Git, focused on practical Shell-based workflows, basic automation, and simple deployment best practices.",
+        "stars": 12,
+        "url": "https://github.com/taovietducofficial/Git-Deployment-Beginner",
+        "category": "Automation / Productivity"
+      },
+      {
+        "name": "Python-File-Compressor",
+        "owner": "JoaoPauloSPloger",
+        "description": "A rigorous and scalable Python CLI utility for advanced file compression, built on traditional UNIX principles.",
+        "stars": 10,
+        "url": "https://github.com/JoaoPauloSPloger/Python-File-Compressor",
+        "category": "Automation / Productivity"
+      },
+      {
+        "name": "ProtonPortSync",
+        "owner": "omv421",
+        "description": "Keeps qBittorrent's port matched to whatever port Proton VPN is forwarding you. Under a second, no restart.",
+        "stars": 9,
+        "url": "https://github.com/omv421/ProtonPortSync",
         "category": "Automation / Productivity"
       }
     ],
     "hacker_news": [
       {
-        "title": "Our position on open-weights models",
-        "url": "https://www.anthropic.com/news/position-open-weights-models",
-        "score": 837
+        "title": "More Tailscale tricks for your jailbroken Kindle",
+        "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
+        "score": 140
       },
       {
-        "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
-        "url": "https://fermisense.com/when-machines-take-the-wheel/",
-        "score": 148
+        "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
+        "url": "https://github.com/twalichiewicz/HNewhere",
+        "score": 287
       },
       {
-        "title": "Using an open model feels surprisingly good",
-        "url": "https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/",
-        "score": 255
+        "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
+        "url": "https://learnvector.ai/",
+        "score": 167
       },
       {
-        "title": "Programming Languages Are Authoring Tools for Platforms",
-        "url": "https://www.makonea.com/en-US/blog/programming-languages-are-authoring-tools-for-platforms",
-        "score": 11
+        "title": "Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-Design",
+        "url": "https://transformer-transformer.github.io/",
+        "score": 45
       },
       {
-        "title": "Kimi K3 Now Available via Telnyx Inference API",
-        "url": "https://telnyx.com/release-notes/kimi-k3-telnyx-inference",
-        "score": 72
+        "title": "Truth is not a direction: a Tarski attack on LLM probes",
+        "url": "https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html",
+        "score": 84
       }
     ],
     "arxiv": [
       {
-        "title": "ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding",
-        "summary": "Multimodal large language models (MLLMs) hold immense potential to revolutionize clinical practice, yet deploying them in the medical domain is fundamentally a vision-centric challenge: models must ab...",
-        "url": "http://arxiv.org/abs/2607.24743v1"
+        "title": "Pass the Baton: Trajectory-Relayed On-Policy Distillation",
+        "summary": "On-policy distillation (OPD) grounds token-level supervision in the student's own trajectory, yet suffers from prefix failure: once the student commits to a wrong reasoning direction, all subsequent g...",
+        "url": "http://arxiv.org/abs/2607.26057v1"
       },
       {
-        "title": "Certified Parallel-in-Time Sinkhorn for Dynamic Entropic Optimal Transport",
-        "summary": "Dynamic applications, including optimal-transport Flow Matching, repeatedly solve related entropic optimal transport problems, yet conventional distributed Sinkhorn processes frames sequentially and s...",
-        "url": "http://arxiv.org/abs/2607.24741v1"
+        "title": "$π\\mathbf{R}^2$: Reactive Real-time Flow Policies",
+        "summary": "Generalist manipulation policies increasingly take the form of action-chunking flow policies built on large pretrained backbones. Such chunks run open-loop, so the policy cannot react to sensory input...",
+        "url": "http://arxiv.org/abs/2607.26055v1"
       },
       {
-        "title": "Learning Distributions from Multiple Data Providers",
-        "summary": "Motivated by learning from heterogeneous and overlapping data providers, we study a stylized model of distribution learning from restricted conditional samples. The goal is to learn an unknown distrib...",
-        "url": "http://arxiv.org/abs/2607.24732v1"
+        "title": "Spend Experts Where You Are Unsure: Confidence-Adaptive Routing for Mixture-of-Experts LoRA",
+        "summary": "Mixture-of-Experts (MoE) variants of Low-Rank Adaptation (LoRA) route every token to a fixed number of experts $k$. Tokens differ in how uncertain the model is about them, so a single k over-spends on...",
+        "url": "http://arxiv.org/abs/2607.26052v1"
       },
       {
-        "title": "Rethinking Classifier-Free Guidance in On-Policy Diffusion Distillation",
-        "summary": "On-policy distillation (OPD) adapts diffusion models by querying a teacher along trajectories generated by the current student, but how it should behave under classifier-free guidance (CFG), a default...",
-        "url": "http://arxiv.org/abs/2607.24731v1"
+        "title": "Re-thinking Mammography Transfer Learning: The Dataset-Informed Transfer Learning (DITL) Framework for Breast Cancer Screening and Lesion Diagnosis",
+        "summary": "Enhancing classification performance in mammography remains a persistent challenge across both small curated datasets and large-scale clinical cohorts. Conventional transfer learning approaches often ...",
+        "url": "http://arxiv.org/abs/2607.26043v1"
       },
       {
-        "title": "KANEx: Translating Kolmogorov-Arnold Networks' Interpretability to Medical Explainability",
-        "summary": "Computer vision models have become highly effective for medical applications, yet their black-box nature continues to undermine clinician trust. In clinical workflows, chest X-ray classifiers are incr...",
-        "url": "http://arxiv.org/abs/2607.24730v1"
+        "title": "VetClaw: An Edge-Cloud Multimodal Agentic System for Veterinary Disease Screening",
+        "summary": "We present VetClaw, an edge-cloud multimodal agentic system for early veterinary disease screening. VetClaw uses a camera module as an edge sensing device and sends captured images, together with opti...",
+        "url": "http://arxiv.org/abs/2607.26042v1"
       }
     ],
     "devto": [
+      {
+        "title": "Understanding Over Origin",
+        "description": "Many of developers communities are asking the wrong question.  Not because they're wrong to worry...",
+        "url": "https://dev.to/adamthedeveloper/understanding-over-origin-4685",
+        "reactions": 48
+      },
       {
         "title": "How terminal-sharing tools put your shell in a browser",
         "description": "Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is...",
@@ -148,94 +154,99 @@
         "title": "6 Open Source Tools That Give You the Web Back",
         "description": "Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is...",
         "url": "https://dev.to/lovestaco/6-open-source-tools-that-give-you-the-web-back-5hak",
-        "reactions": 32
+        "reactions": 35
+      },
+      {
+        "title": "I Built a Chat App That Rewrites Its Own UI in Real Time",
+        "description": "So I had this idea that kept nagging at me.  Every AI chat app works the same way. You type...",
+        "url": "https://dev.to/varshithvhegde/i-built-a-chat-app-that-rewrites-its-own-ui-in-real-time-21m5",
+        "reactions": 17
       },
       {
         "title": "The World's Oldest Communication Protocol Is Music",
         "description": "This is going to be a very different article from what I usually write. No technical discussions,...",
         "url": "https://dev.to/adamthedeveloper/the-worlds-oldest-communication-protocol-is-music-3njg",
-        "reactions": 24
-      },
-      {
-        "title": "I got tired of uploading my HEIC photos to random servers, so I built a WASM-powered client-side converter",
-        "description": "Hi Dev.to! 👋  Picture this: You are in the middle of a development sprint, a client sends you a batch...",
-        "url": "https://dev.to/alex_poiny/i-got-tired-of-uploading-my-heic-photos-to-random-servers-so-i-built-a-wasm-powered-client-side-kib",
-        "reactions": 4
-      },
-      {
-        "title": "Your Clock Can Go Backward—Use the Right One for Durations",
-        "description": "A request starts at 10:00:00.900 and finishes 200 ms later.  Your latency log says -800 ms.  That...",
-        "url": "https://dev.to/luciano655/your-clock-can-go-backward-use-the-right-one-for-durations-1ic",
-        "reactions": 4
+        "reactions": 25
       }
     ]
   },
-  "trends": "Today's tech landscape is marked by a strong push towards practical and localized AI, with significant emphasis on open-weight models for cost-effective and powerful applications. The rise of sophisticated AI agents capable of automating complex workflows across various domains, from development tasks to niche applications like fashion design, is prominent. Concurrently, there's a growing focus on developer productivity through advanced tooling, low-level system automation, and client-side processing to enhance performance and privacy. Research continues to explore specialized AI applications, particularly multimodal understanding in critical fields like medicine, alongside a sustained demand for model explainability and interpretability.",
+  "trends": "Today's tech landscape is dominated by a strong push towards practical, accessible, and specialized AI applications, alongside a robust focus on developer productivity and intelligent automation. Key themes include the rise of local AI models and agentic systems that empower users with greater control and privacy, moving AI out of the cloud and onto individual machines. There's significant innovation in fine-tuning open-source LLMs for specific reasoning tasks and domain-specific challenges, from fashion design to medical diagnostics and software issue management. Concurrently, developer productivity is being enhanced through automation of deployment workflows, advanced file management, and personalized digital experiences. The open-source community remains a vital engine, providing learning roadmaps, practical guides, and tools that foster deeper understanding and hands-on implementation across AI and automation domains. The concept of reactive and adaptive systems, whether for learning or real-time operations, is gaining traction.",
   "ideas": [
     {
-      "title": "Local Dev Agent Orchestrator",
+      "title": "LocalAI Desktop Assistant for Workflow Orchestration",
       "difficulty": "Medium",
-      "estimated_hours": 20,
-      "description": "Build a desktop or CLI agent that orchestrates local AI models (e.g., via Ollama) to automate common developer tasks while keeping sensitive code and data local. This agent could manage dependency updates, suggest issue assignees based on project context, generate initial code structures, or summarize local documentation. It provides a personalized, private, and efficient AI assistant for daily development workflows.",
+      "estimated_hours": 24,
+      "description": "This project involves building a customizable desktop AI agent that leverages a local Large Language Model (LLM) to orchestrate complex multi-step tasks. Instead of being tied to specific APIs, the agent would interpret user requests and generate sequences of shell commands, Python scripts, or even simple UI automation commands (e.g., opening applications, clicking buttons via `pyautogui`) to achieve goals like 'summarize the latest news from these 3 websites and email it to me,' or 'process all new images in this folder with a specific script and upload to cloud storage.' The value lies in empowering users with a privacy-preserving, highly adaptable automation tool that lives on their machine and understands natural language commands for local operations.",
       "tech_stack": [
         "Python",
-        "LangChain/LlamaIndex",
-        "Ollama API",
-        "CLI Framework (e.g., Click) or Electron/PyQt (for GUI)"
+        "Flask/FastAPI",
+        "Ollama/Llama.cpp",
+        "LangChain/CrewAI",
+        "subprocess",
+        "pyautogui",
+        "Shell scripting"
       ],
-      "source_inspiration": "awesome-ai-handbook, pinvou-agent, brew-automator, Issue-Assignee-Recommender",
+      "source_inspiration": "pinvou-agent (desktop AI agent), awesome-ai-handbook (building agents, local AI), Waypoint (hardware-level input simulation implies UI automation potential), Reactive Real-time Flow Policies (arXiv - concept of reactive task execution).",
       "steps": [
-        "Task 1: Set up a local LLM environment (e.g., Ollama) and pull a suitable code-focused model.",
-        "Task 2: Develop core agent logic in Python for task parsing, context retrieval (e.g., reading project files), and tool invocation.",
-        "Task 3: Implement basic 'tools' for the agent, such as 'read_file', 'run_terminal_command', 'search_local_docs'.",
-        "Task 4: Create a simple CLI interface for user interaction and integrate the agent with the defined tools.",
-        "Task 5: Add a specific feature like 'dependency update suggestions' by having the agent read project configuration files (e.g., package.json) and query the LLM for newer version suggestions or compatibility notes."
+        "Set up a local LLM environment (e.g., Ollama) and integrate with Python via its API.",
+        "Develop a basic agent framework using LangChain or CrewAI, defining tools for common desktop actions (e.g., `run_shell_command`, `read_file`, `write_file`, `open_application`).",
+        "Implement a `pyautogui`-based tool for basic UI interactions (e.g., `click`, `type_text`, `find_image_on_screen`).",
+        "Create a simple web-based or CLI interface for users to input natural language commands.",
+        "Develop an initial set of predefined workflows or 'skills' that the agent can execute (e.g., file processing, data extraction).",
+        "Implement a feedback loop where the agent can ask clarifying questions or report progress/issues to the user."
       ]
     },
     {
-      "title": "Open-Source Code Explainer & Refactorer",
+      "title": "AI-Enhanced Open Source Contributor Recommender",
+      "difficulty": "Medium",
+      "estimated_hours": 20,
+      "description": "This project focuses on improving efficiency in open-source project management by building a smart system that recommends the most suitable contributors for newly filed GitHub issues. Leveraging techniques from the `Issue-Assignee-Recommender` and LLM capabilities, the system would analyze the issue description, project's historical data (commit history, PRs, past issue assignments), and contributor profiles to suggest individuals with relevant expertise. It could also suggest related documentation or similar past issues, reducing resolution time and better distributing workload. This moves beyond simple keyword matching to understanding context and expertise.",
+      "tech_stack": [
+        "Python",
+        "FastAPI",
+        "GitHub API",
+        "Sentence-BERT/other embedding models",
+        "Vector Database (ChromaDB, FAISS)",
+        "BM25",
+        "LightGBM or other ranking model"
+      ],
+      "source_inspiration": "Issue-Assignee-Recommender (direct inspiration), hf-critic (fine-tuning LLMs for specific reasoning tasks), awesome-ai-handbook (RAG, prompt engineering, local AI for specialized tasks).",
+      "steps": [
+        "Set up GitHub API access for fetching repository data (issues, commits, pull requests, contributors).",
+        "Build a data ingestion pipeline to process historical data from target GitHub repositories, extracting issue descriptions, comments, commit messages, and contributor activities.",
+        "Implement a dual-retrieval system: BM25 for keyword-based initial candidate retrieval and an embedding model (e.g., Sentence-BERT) for semantic similarity matching of issues to contributor expertise (derived from their code/comment context).",
+        "Develop a ranking model (e.g., LightGBM or a simpler weighted sum) to combine scores from BM25 and embeddings, prioritizing contributors based on recent activity, successful resolutions, and direct relevance.",
+        "Create a simple web interface or integrate as a GitHub App that takes a new issue's details and returns ranked contributor recommendations.",
+        "Add a feature to suggest related documentation links or similar past issues."
+      ]
+    },
+    {
+      "title": "Adaptive AI Learning Navigator",
       "difficulty": "Medium",
       "estimated_hours": 16,
-      "description": "Develop a VS Code extension or CLI tool that integrates with a self-hosted open-weight LLM (running via Ollama) to provide instant, privacy-preserving code explanations, suggest refactoring improvements, and detect potential bugs. Users can highlight code within their editor, and the tool sends it to the local LLM for analysis, providing contextual feedback directly without transmitting code to external services. This leverages the power of open models for personalized code assistance.",
+      "description": "Inspired by the need for personalized learning (Andrew Ng's LearnVector) and the abundance of AI learning resources (`ai-roadmap`, `awesome-ai-handbook`), this project proposes an AI-powered web application that dynamically generates and adapts a personalized learning roadmap. Users input their current knowledge level, learning style, and specific AI/ML goals (e.g., 'understand RAG for enterprise applications,' 'master prompt engineering'). The system then curates a modular learning path using a large language model, suggesting a mix of articles, GitHub repos, academic papers, and interactive exercises. As the user marks progress or changes their focus, the navigator intelligently adjusts the roadmap, ensuring an optimal and adaptive learning journey.",
       "tech_stack": [
-        "TypeScript/JavaScript (for VS Code extension)",
-        "Python (for LLM interaction backend)",
-        "Ollama API"
+        "Python/FastAPI",
+        "React/Vue/Svelte",
+        "OpenAI API or local LLM (Ollama)",
+        "PostgreSQL/SQLite",
+        "Web scraping (optional)"
       ],
-      "source_inspiration": "fermisense.com (A $500 RL fine-tune...), matthewsaltz.com (Using an open model feels surprisingly good), git-lrc (Micro AI code reviewer concept)",
+      "source_inspiration": "ai-roadmap (learning roadmap concept), awesome-ai-handbook (practical guide, comprehensive topics), LearnVector.ai (personalized learning), 'Understanding Over Origin' (Dev.to - focus on understanding).",
       "steps": [
-        "Task 1: Set up a local LLM (e.g., a smaller code-focused model like CodeLlama via Ollama).",
-        "Task 2: Create a new VS Code extension project using TypeScript/JavaScript.",
-        "Task 3: Implement a VS Code command that captures selected text from the active editor.",
-        "Task 4: Develop a local API endpoint (e.g., a small Python Flask server) that receives code and forwards it to the Ollama API, then returns the LLM's response.",
-        "Task 5: Integrate the VS Code command with the local API, displaying the LLM's explanations or refactoring suggestions directly within the editor or a sidebar."
-      ]
-    },
-    {
-      "title": "WASM-Powered Client-Side Multimodal Document/UI Analyzer",
-      "difficulty": "Hard",
-      "estimated_hours": 24,
-      "description": "Build a web application that allows users to upload an image (e.g., a chart, a screenshot of a UI, or a technical diagram) and ask questions about it in natural language. The application will use client-side WebAssembly (WASM) for efficient image pre-processing (e.g., resizing, cropping, or even running lightweight vision models for feature extraction). This pre-processed data and the user's query are then sent to a (potentially remote or local) multimodal LLM for interpretation. This approach enhances user privacy by minimizing raw data transmission and improves performance, similar to client-side HEIC converters.",
-      "tech_stack": [
-        "JavaScript/TypeScript",
-        "WebAssembly (WASM)",
-        "React/Vue/Svelte (for frontend)",
-        "FastAPI (for MLLM API if remote) or directly a public MLLM API"
-      ],
-      "source_inspiration": "ClinFusion (Vision-Centric MLLM), KANEx (Explainability), alex_poiny (WASM-powered client-side converter)",
-      "steps": [
-        "Task 1: Set up a basic web application frontend (e.g., with React) and implement client-side image upload and display.",
-        "Task 2: Develop a WebAssembly (WASM) module for efficient image pre-processing (e.g., resizing, converting formats, or simple feature extraction).",
-        "Task 3: Integrate the WASM module into the frontend to process uploaded images before any network transmission.",
-        "Task 4: Choose and integrate with a multimodal LLM API (e.g., Gemini Vision, GPT-4o Vision, or a local Llava model via Ollama if feasible).",
-        "Task 5: Send the WASM-processed image data (e.g., base64 encoded compressed image) along with the user's natural language query to the chosen MLLM and display the interpreted results on the web page."
+        "Set up a basic web application frontend (e.g., React) and backend (e.g., FastAPI).",
+        "Design a database schema to store user profiles, learning goals, progress, and a curated/indexed list of AI/ML learning resources (articles, repos, papers).",
+        "Integrate with an LLM (e.g., OpenAI API) to power the learning path generation. Develop prompt templates for different learning goals and skill levels.",
+        "Implement a user onboarding flow where users define their current knowledge and learning objectives.",
+        "Develop the core logic for generating a modular, step-by-step learning path, drawing from indexed resources and LLM suggestions.",
+        "Add features for users to mark completion, provide feedback on resource quality, and adjust their learning goals, triggering an LLM-driven adaptation of the roadmap."
       ]
     }
   ],
   "quick_actions": [
-    "Action 1: Set up and experiment with a local LLM (e.g., via Ollama or LM Studio) on your machine. Explore its capabilities for summarizing text, generating code snippets, or answering questions to understand its local potential.",
-    "Action 2: Identify one repetitive task in your daily development workflow (e.g., managing dependencies, running specific tests, formatting code) and spend 30 minutes writing a script or configuring an existing tool to automate it.",
-    "Action 3: Dedicate time to read an article or tutorial on fine-tuning open-weight LLMs for a specific domain or task. Understand the potential and practicalities of customizing models to solve niche problems.",
-    "Action 4: Investigate how WebAssembly (WASM) can be applied in one of your current web projects to handle data processing client-side, potentially improving privacy or performance, even if it's a small image manipulation task."
+    "Experiment with 'pinvou-agent' or similar desktop AI automation tools to automate one repetitive computer task you do daily (e.g., organizing downloads, processing specific files).",
+    "Review your most frequent Git workflows. Identify one manual step in deployment or commit practices and write a simple shell script to automate it, inspired by 'Git-Deployment-Beginner'.",
+    "Dedicate 30 minutes this week to exploring prompt engineering guides (like those referenced in 'awesome-ai-handbook') and apply a new technique to a common AI tool (e.g., ChatGPT, Copilot) you use.",
+    "Identify a repetitive interaction on a website you frequently visit (e.g., opening related tabs, clicking through menus) and try to build a simple browser userscript for it (e.g., using Tampermonkey), inspired by the HN userscript."
   ]
 }
