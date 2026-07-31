@@ -1,13 +1,29 @@
 {
-  "last_updated": "2026-07-30 08:04:48",
+  "last_updated": "2026-07-31 08:30:42",
   "scraped_sources": {
     "github": [
       {
-        "name": "stil-ai-playground",
-        "owner": "cedendahlkim",
-        "description": "STIL.AI Playground — AI-generated fashion design, open source. Text-to-garment concept with FastAPI + Azure OpenAI + Stripe.",
-        "stars": 7,
-        "url": "https://github.com/cedendahlkim/stil-ai-playground",
+        "name": "Labour-Law-Violation-System",
+        "owner": "Indhu27-pixel",
+        "description": "AI-powered Labour Law Violation Detection System using Weak Supervision, BiLSTM, Graph Neural Networks (GNN), and Explainable AI to identify labour law violations.",
+        "stars": 31,
+        "url": "https://github.com/Indhu27-pixel/Labour-Law-Violation-System",
+        "category": "AI / ML"
+      },
+      {
+        "name": "BuildLLM",
+        "owner": "DrDeathLabs",
+        "description": "Build and train three generations of decoder-only language models from scratch through a guided engineering learning lab.",
+        "stars": 6,
+        "url": "https://github.com/DrDeathLabs/BuildLLM",
+        "category": "AI / ML"
+      },
+      {
+        "name": "kimi-k3-pytorch",
+        "owner": "pablo-reyes8",
+        "description": "Build and train a mini Kimi K3 from scratch — a pure-PyTorch playground from a custom 88M model to 2T-scale LLM profiles.",
+        "stars": 6,
+        "url": "https://github.com/pablo-reyes8/kimi-k3-pytorch",
         "category": "AI / ML"
       },
       {
@@ -27,104 +43,83 @@
         "category": "AI / ML"
       },
       {
-        "name": "kimi-k3-pytorch",
-        "owner": "pablo-reyes8",
-        "description": "Build and train a mini Kimi K3 from scratch — a pure-PyTorch playground from a custom 88M model to 2T-scale LLM profiles.",
-        "stars": 5,
-        "url": "https://github.com/pablo-reyes8/kimi-k3-pytorch",
-        "category": "AI / ML"
-      },
-      {
-        "name": "BuildLLM",
-        "owner": "DrDeathLabs",
-        "description": "Build and train three generations of decoder-only language models from scratch through a guided engineering learning lab.",
-        "stars": 5,
-        "url": "https://github.com/DrDeathLabs/BuildLLM",
-        "category": "AI / ML"
-      },
-      {
-        "name": "pinvou-agent",
-        "owner": "Pinvou",
-        "description": "Open-source desktop AI agent for tools, files, knowledge, workflows, and real deliverables.",
-        "stars": 103,
-        "url": "https://github.com/Pinvou/pinvou-agent",
+        "name": "Git-Deployment-Beginner",
+        "owner": "taovietducofficial",
+        "description": "Beginner-friendly guide and scripts for deploying projects with Git, focused on practical Shell-based workflows, basic automation, and simple deployment best practices.",
+        "stars": 15,
+        "url": "https://github.com/taovietducofficial/Git-Deployment-Beginner",
         "category": "Automation / Productivity"
       },
       {
         "name": "Waypoint",
         "owner": "haarisxk",
         "description": "A stealth-focused kernel-mode virtual HID mouse driver for Windows. Built with KMDF and VHF for precise, hardware-level input simulation using covert shared-memory IPC.",
-        "stars": 16,
+        "stars": 15,
         "url": "https://github.com/haarisxk/Waypoint",
         "category": "Automation / Productivity"
       },
       {
-        "name": "Git-Deployment-Beginner",
-        "owner": "taovietducofficial",
-        "description": "Beginner-friendly guide and scripts for deploying projects with Git, focused on practical Shell-based workflows, basic automation, and simple deployment best practices.",
-        "stars": 14,
-        "url": "https://github.com/taovietducofficial/Git-Deployment-Beginner",
+        "name": "humanized-social-publisher",
+        "owner": "lincwang123-bot",
+        "description": "Agent-friendly local publisher for Xiaohongshu, Douyin and WeChat Channels with multi-account safety, scheduling and deduplication.",
+        "stars": 15,
+        "url": "https://github.com/lincwang123-bot/humanized-social-publisher",
         "category": "Automation / Productivity"
       },
       {
-        "name": "Python-File-Compressor",
-        "owner": "JoaoPauloSPloger",
-        "description": "A rigorous and scalable Python CLI utility for advanced file compression, built on traditional UNIX principles.",
-        "stars": 11,
-        "url": "https://github.com/JoaoPauloSPloger/Python-File-Compressor",
+        "name": "opensible",
+        "owner": "opensible",
+        "description": "An open source GitOps control plane for OpenTofu & Ansible - provision, configure and deploy across cloud, on-prem and hybrid, self-hosted and forever free.",
+        "stars": 10,
+        "url": "https://github.com/opensible/opensible",
         "category": "Automation / Productivity"
       },
       {
-        "name": "git-ship",
-        "owner": "oil-oil",
-        "description": "A Codex Agent Skill that ships working-tree changes through branch, PR, and squash merge.",
+        "name": "ProtonPortSync",
+        "owner": "omv421",
+        "description": "Keeps qBittorrent's port matched to whatever port Proton VPN is forwarding you. Under a second, no restart.",
         "stars": 9,
-        "url": "https://github.com/oil-oil/git-ship",
+        "url": "https://github.com/omv421/ProtonPortSync",
         "category": "Automation / Productivity"
       }
     ],
     "hacker_news": [
       {
-        "title": "AI's top startups are barely publishing their research",
-        "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
-        "score": 406
+        "title": "Show HN: What should the GUI for AI agents look like?",
+        "url": "https://marbleos.com/demo",
+        "score": 36
       },
       {
-        "title": "LLM Honeypot",
-        "url": "https://llm2human.pages.dev/",
-        "score": 213
-      },
-      {
-        "title": "The Cold Email",
-        "url": "https://zachholman.com/posts/cold-email",
-        "score": 183
+        "title": "The AI Aesthetic",
+        "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+        "score": 293
       }
     ],
     "arxiv": [
       {
-        "title": "Do You Really Need to Pretrain Q-Functions for Online RL Fine-Tuning?",
-        "summary": "Pre-training followed by fine-tuning has become the dominant recipe for learning performant policies, and in value-based reinforcement learning (RL) this raises a natural question: given a pretrained ...",
-        "url": "http://arxiv.org/abs/2607.27203v1"
+        "title": "Learning to Trace Seiberg Dualities",
+        "summary": "Dualities play an important role in establishing both microscopic and emergent phenomena in a wide range of physical systems. In practice, though, it can often be computationally challenging to establ...",
+        "url": "http://arxiv.org/abs/2607.28628v1"
       },
       {
-        "title": "Mental World Modeling",
-        "summary": "World models enable a predictive substrate for planning and action, yet existing formulations merely answer a physical question: what/where it is, and how will it evolve. Human behavior, however, is d...",
-        "url": "http://arxiv.org/abs/2607.27201v1"
+        "title": "ReToken: One Token to Improve Vision-Language Models for Visual Retrieval",
+        "summary": "Long visual context poses a challenge for vision-language models: performance degrades as the number of distractors grows, and processing all tokens at once is computationally infeasible under GPU mem...",
+        "url": "http://arxiv.org/abs/2607.28627v1"
       },
       {
-        "title": "From Classification to Regression: Using a Fruitfly to Solve Equations",
-        "summary": "We present a novel approach to regression tasks using classification which is motivated by the mechanism used by fruitflies to sense their environment. Specifically, we formulate a general framework f...",
-        "url": "http://arxiv.org/abs/2607.27196v1"
+        "title": "PAC-MAN: Perception-Aware CBF-RL for Whole-Body Safety in Humanoid Dodgeball",
+        "summary": "We present PAC-MAN, a perception-aware CBF-RL framework that couples control-barrier safety with deployment-realistic onboard sensing for whole-body humanoid dodgeball. The deployed policy sees the ba...",
+        "url": "http://arxiv.org/abs/2607.28623v1"
       },
       {
-        "title": "Can AI agents conduct open-ended AI research? Early evidence from two case studies",
-        "summary": "Forecasts of explosive AI progress hinge on AI agents automating AI research. But evidence on whether agents can carry out open-ended AI research is thin. Current evaluations either test agents on nar...",
-        "url": "http://arxiv.org/abs/2607.27191v1"
+        "title": "AskChem: Claim-Centered Infrastructure for Chemistry Literature Synthesis",
+        "summary": "Chemistry literature synthesis often requires assembling specific findings scattered across many publications, yet existing literature-search systems primarily return ranked document lists. As a resul...",
+        "url": "http://arxiv.org/abs/2607.28618v1"
       },
       {
-        "title": "APEX-Accounting",
-        "summary": "We introduce APEX-Accounting, a benchmark built by Mercor in partnership with Ramp, to assess whether frontier models can do the real work of accountants. Tasks include reconciling accounts, accruing ...",
-        "url": "http://arxiv.org/abs/2607.27189v1"
+        "title": "AISPA: User-Centric System Prompt Auditing for Large Language Model Applications",
+        "summary": "System prompts are instructions configured by developers to govern the behaviors of foundation models in AI applications. They are used throughout commercial AI products, but are rarely disclosed to t...",
+        "url": "http://arxiv.org/abs/2607.28617v1"
       }
     ],
     "devto": [
@@ -132,13 +127,13 @@
         "title": "Understanding Over Origin",
         "description": "Many of developers communities are asking the wrong question.  Not because they're wrong to worry...",
         "url": "https://dev.to/adamthedeveloper/understanding-over-origin-4685",
-        "reactions": 53
+        "reactions": 70
       },
       {
         "title": "I Built a Chat App That Rewrites Its Own UI in Real Time",
         "description": "So I had this idea that kept nagging at me.  Every AI chat app works the same way. You type...",
         "url": "https://dev.to/varshithvhegde/i-built-a-chat-app-that-rewrites-its-own-ui-in-real-time-21m5",
-        "reactions": 37
+        "reactions": 41
       },
       {
         "title": "How terminal-sharing tools put your shell in a browser",
@@ -147,96 +142,94 @@
         "reactions": 57
       },
       {
+        "title": "\"I Haven't Written Code in 8 Months. I've Never Built More.\"",
+        "description": "I've been having the same conversation with my colleagues for months. What does it mean to create...",
+        "url": "https://dev.to/auth0/i-havent-written-code-in-8-months-ive-never-built-more-3k9i",
+        "reactions": 26
+      },
+      {
         "title": "6 Open Source Tools That Give You the Web Back",
         "description": "Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is...",
         "url": "https://dev.to/lovestaco/6-open-source-tools-that-give-you-the-web-back-5hak",
         "reactions": 35
-      },
-      {
-        "title": "\"I Haven't Written Code in 8 Months. I've Never Built More.\"",
-        "description": "I've been having the same conversation with my colleagues for months. What does it mean to create...",
-        "url": "https://dev.to/auth0/i-havent-written-code-in-8-months-ive-never-built-more-3k9i",
-        "reactions": 20
       }
     ]
   },
-  "trends": "Today's tech landscape is characterized by a dual focus on **deepening AI fundamentals** and **practical, agentic automation**. There's a significant drive to understand, build, and fine-tune large language models (LLMs) from scratch, moving beyond mere API consumption to truly grasp their internal mechanics and reasoning processes. Concurrently, the rise of sophisticated AI agents capable of performing complex desktop tasks, automating developer workflows (e.g., Git operations), and even conducting open-ended research highlights a shift towards more autonomous, intelligent systems. Productivity gains are increasingly sought through strategic leveraging of these agents and tools, enabling developers to achieve more with less direct coding. Furthermore, there's a burgeoning interest in dynamic, AI-generated user interfaces and robust evaluation benchmarks for real-world AI applications, alongside a growing awareness of the need to verify and understand AI outputs.",
+  "trends": "Today's tech landscape is characterized by a dual focus on foundational understanding and practical, agentic application of AI, alongside advanced automation and a re-evaluation of developer productivity. There's a strong drive to build AI models 'from scratch' to better understand their inner workings, especially Large Language Models (LLMs), and to fine-tune them for specific reasoning tasks, often with an emphasis on explainability and control. The rise of AI agents is prompting discussions on intuitive user interfaces and critical system prompt auditing for responsible and effective deployment. Automation trends lean towards sophisticated, often 'humanized' or low-level, solutions for deployment, infrastructure as code (GitOps), and system-level control. Developer productivity is evolving, with emphasis on strategic impact, leveraging existing tools, and building more by potentially coding less, suggesting a shift towards orchestration and higher-level problem-solving.",
   "ideas": [
     {
-      "title": "Adaptive AI Desktop Skill Agent",
+      "title": "LLM System Prompt Auditor & A/B Tester",
       "difficulty": "Medium",
-      "estimated_hours": 30,
-      "description": "Develop an open-source, extensible desktop AI agent that can learn and execute multi-step workflows (or 'skills') based on natural language commands. This agent will interact with the operating system (e.g., opening applications, clicking UI elements, typing, file management) and web browsers. Users can define new skills through demonstrations (e.g., 'show me how to upload this file to the cloud') or by providing a sequence of steps, which the agent then generalizes and executes. The goal is to offload repetitive digital tasks, making the user's workflow more efficient and 'hands-free' where appropriate.",
+      "estimated_hours": 16,
+      "description": "Inspired by the 'AISPA' paper and 'hf-critic' repository, this project aims to create a web-based tool for developers to effectively manage and optimize LLM system prompts. Users can input multiple system prompts for the same LLM (supporting various providers like OpenAI, Anthropic, or local OSS LLMs), define a suite of test cases (user queries), and then run comparative evaluations. The tool will provide side-by-side output comparisons and allow for custom evaluation criteria (e.g., sentiment analysis, compliance scores, helpfulness ratings, potentially using another LLM as a 'critic'). This helps developers understand the impact of prompt variations and iterate on prompt engineering more scientifically.",
       "tech_stack": [
         "Python",
-        "pyautogui (or similar for GUI automation)",
-        "Selenium (for web automation)",
-        "FastAPI (for local API interface)",
-        "SQLite (for skill storage)",
-        "Local LLM (e.g., Llama.cpp, Ollama for command interpretation/planning)"
+        "Flask/FastAPI",
+        "React/Vue.js",
+        "LangChain/LlamaIndex",
+        "SQLite/PostgreSQL"
       ],
-      "source_inspiration": "pinvou-agent (desktop AI agent), git-ship (Codex Agent Skill), Waypoint (low-level automation), 'I Haven't Written Code in 8 Months. I've Never Built More.' (Dev.to)",
+      "source_inspiration": "AISPA: User-Centric System Prompt Auditing for Large Language Model Applications (arXiv), hf-critic (GitHub)",
       "steps": [
-        "Task 1: Set up a basic Python application with a command-line interface or a simple web UI (e.g., Streamlit).",
-        "Task 2: Integrate `pyautogui` for fundamental desktop interactions (mouse clicks, keyboard input, screenshotting).",
-        "Task 3: Implement a 'record' mode to capture user actions and translate them into a scriptable sequence.",
-        "Task 4: Develop a 'playback' function to re-execute recorded sequences.",
-        "Task 5: Integrate a local LLM (e.g., via Ollama) to interpret natural language commands into a sequence of recorded or pre-defined actions.",
-        "Task 6: Design a skill storage mechanism (e.g., SQLite) to persist learned workflows and allow users to name/recall them.",
-        "Task 7: Add basic error handling and logging for executed skills."
+        "Set up a Python backend (Flask/FastAPI) to handle LLM API integrations and data persistence.",
+        "Integrate with various LLM APIs (e.g., OpenAI, Hugging Face local models) using libraries like LangChain.",
+        "Develop a responsive frontend (React/Vue.js) for users to define system prompts, test cases, and evaluation metrics.",
+        "Implement a test runner that executes user-defined test cases against each system prompt and stores the LLM responses.",
+        "Add a comparison module that visualizes responses side-by-side and, optionally, uses a secondary LLM as a 'critic' to score the primary LLM's outputs.",
+        "Implement basic data visualization for comparison results, such as performance trends over different prompt versions."
       ]
     },
     {
-      "title": "Dynamic UI-as-a-Response Chatbot Framework",
+      "title": "Smart 'Humanized' Multi-Platform Content Agent",
       "difficulty": "Medium",
-      "estimated_hours": 40,
-      "description": "Create a framework for an AI chatbot where the AI's responses are not just text, but dynamically generated UI components. Instead of simply describing a solution or asking for more input, the AI generates interactive elements like buttons, forms, sliders, data tables, or even simple charts, allowing the user to directly interact with the AI's 'thoughts' or prompt for further actions within a contextual UI. For example, if you ask 'Analyze sales data for Q3,' the AI might return a chat message with an embedded, interactive bar chart and a 'Filter by Region' button.",
+      "estimated_hours": 24,
+      "description": "Building upon the 'humanized-social-publisher' concept, this project develops an intelligent agent that not only schedules content across multiple social media platforms but also leverages AI to generate highly contextual, platform-specific, and 'human-like' posts. Users can specify target audiences, topics, desired tones, and scheduling constraints. The system will use an LLM to draft content, intelligently vary posting times to avoid robotic predictability, and adapt the style and format for platforms like X, LinkedIn, or even personal blogs. It will include multi-account safety features, content deduplication, and a simple approval workflow for AI-generated drafts.",
       "tech_stack": [
-        "React (or Vue/Svelte for frontend)",
-        "FastAPI (Python backend)",
-        "OpenAI API (or other LLM API for content/UI generation)",
-        "JSON Schema (for defining UI components)",
-        "Chakra UI / Material-UI (for pre-built components)"
+        "Python",
+        "Flask/FastAPI",
+        "LLM API (OpenAI/Anthropic/OSS)",
+        "Celery/RQ (for scheduling)",
+        "Selenium/Playwright (for browser automation if direct APIs are insufficient)",
+        "PostgreSQL"
       ],
-      "source_inspiration": "'I Built a Chat App That Rewrites Its Own UI in Real Time' (Dev.to), Mental World Modeling (arXiv)",
+      "source_inspiration": "humanized-social-publisher (GitHub), The AI Aesthetic (Hacker News), I Built a Chat App That Rewrites Its Own UI in Real Time (Dev.to - for dynamic interaction concept)",
       "steps": [
-        "Task 1: Set up a basic chat application with a React frontend and a FastAPI backend.",
-        "Task 2: Integrate an LLM API (e.g., OpenAI) to process user prompts and generate responses.",
-        "Task 3: Define a structured JSON schema for various UI components (e.g., 'button', 'input_field', 'chart', 'table').",
-        "Task 4: Train/prompt the LLM to output its responses not only as text but also as an array of these UI component JSON objects.",
-        "Task 5: Develop the React frontend to dynamically render UI components based on the received JSON schema from the backend.",
-        "Task 6: Implement client-side logic to handle interactions with the dynamically generated UI components (e.g., button clicks sending new prompts).",
-        "Task 7: Add example components like a dynamic text input field, a button, and a simple data display table."
+        "Establish a Python backend to manage content generation, scheduling, and platform interactions.",
+        "Integrate with an LLM API to generate draft posts based on user-defined parameters (topic, tone, platform, length).",
+        "Implement a flexible, non-uniform scheduling system using Celery or RQ to simulate human posting behavior.",
+        "Develop connectors for various social media platforms, prioritizing official APIs, but considering browser automation (Playwright) for 'human-like' interaction where APIs are limited.",
+        "Add features for managing multiple user accounts, detecting and preventing duplicate content, and allowing user review/edits of AI-generated content before publishing.",
+        "Design a web-based user interface for content input, scheduling, monitoring published posts, and adjusting agent parameters."
       ]
     },
     {
-      "title": "LLM 'Critic' & Reasoning Trace Visualizer",
-      "difficulty": "Hard",
-      "estimated_hours": 50,
-      "description": "Develop a tool that acts as a 'critic' for LLM outputs, visualizing the reasoning path and highlighting potential logical inconsistencies, factual inaccuracies, or ambiguities in an LLM's generated text. The tool would take an LLM's response (and optionally its intermediate 'chain-of-thought' steps, if available) and decompose it, offering annotations, confidence scores, or alternative perspectives on specific claims or logical transitions. This helps users understand *why* an LLM arrived at a conclusion, aiding in debugging and building trust.",
+      "title": "Visualized From-Scratch Neural Network Trainer Playground",
+      "difficulty": "Easy",
+      "estimated_hours": 12,
+      "description": "Inspired by the 'soroban', 'BuildLLM', and 'kimi-k3-pytorch' repositories, this project creates an interactive web application for learning neural network fundamentals by building and visualizing them from scratch. Users can define simple feedforward neural network architectures (e.g., number of layers, neurons per layer, activation functions) and train them on small, common datasets (like XOR or MNIST subsets). The core feature is a real-time, step-by-step visualization of the training process, showing how weights and biases update, how gradients are calculated (manual autograd), and how the loss function converges. This demystifies the 'black box' of neural networks by making the underlying math transparent and interactive.",
       "tech_stack": [
         "Python",
-        "Streamlit (for interactive UI)",
-        "NLTK / SpaCy (for text processing and sentence segmentation)",
-        "Hugging Face Transformers (for embedding models like Sentence-BERT)",
-        "OpenAI API / Local LLM (for critique generation, e.g., prompt a separate LLM to critique another's output)"
+        "Flask/FastAPI",
+        "NumPy",
+        "JavaScript",
+        "HTML/CSS",
+        "D3.js/Canvas"
       ],
-      "source_inspiration": "hf-critic (reasoning-process critics), Understanding Over Origin (Dev.to), Mental World Modeling (arXiv), BuildLLM (understanding from scratch)",
+      "source_inspiration": "soroban (GitHub), BuildLLM (GitHub), kimi-k3-pytorch (GitHub)",
       "steps": [
-        "Task 1: Create a Streamlit application where users can paste an LLM output or a chain-of-thought response.",
-        "Task 2: Use NLTK/SpaCy to parse the input text into sentences or logical units.",
-        "Task 3: Implement a mechanism to prompt another LLM (e.g., a smaller, dedicated 'critic' model via API or locally) to evaluate each segment for logical consistency, factual basis (if context is provided), and clarity.",
-        "Task 4: Develop a visualization layer in Streamlit to display the original text alongside the critic's annotations, highlighting problematic areas.",
-        "Task 5: Implement a 'confidence score' or 'agreement score' for each segment based on the critic's output.",
-        "Task 6: Add a feature to suggest alternative phrasings or question the LLM's assertions, providing a 'trace' of the critique.",
-        "Task 7: Integrate a simple method for users to provide a 'ground truth' or preferred answer for comparison and fine-tuning the critic."
+        "Develop a Python backend (Flask/FastAPI) that implements a basic feedforward neural network using only NumPy for matrix operations (forward pass, backward pass/autograd, weight updates).",
+        "Design a web frontend (HTML/CSS/JS) where users can configure network parameters (layers, neurons, activation functions) and select a simple dataset.",
+        "Create a visualization component using D3.js or HTML Canvas to graphically represent the neural network structure and animate weight changes during training.",
+        "Implement real-time updates from the backend to the frontend to show activation values, gradient flows, and plot the loss curve during training epochs.",
+        "Provide a selection of small, illustrative datasets (e.g., XOR, spiral classification, simplified MNIST) for immediate experimentation.",
+        "Add interactive controls to pause/resume training, step through epochs, and adjust hyperparameters like learning rate."
       ]
     }
   ],
   "quick_actions": [
-    "Action 1: Dedicate 30 minutes this week to exploring an existing desktop automation tool (like `pinvou-agent` or a simple `pyautogui` script) to automate one minor, repetitive task in your daily workflow (e.g., opening specific applications, moving files).",
-    "Action 2: Spend an hour reviewing one of the 'build LLM from scratch' GitHub repositories (`BuildLLM` or `soroban`). Focus on understanding the core concepts of transformer architecture and training loops, rather than writing code, to deepen your fundamental AI knowledge.",
-    "Action 3: When using any AI language model, make it a habit to actively 'critique' its output. Ask yourself: Is this logical? Is it concise? Is there a better way it could have reasoned? This builds an intuitive understanding of AI limitations and strengths.",
-    "Action 4: Identify one manual Git or deployment step in your project workflow that could be scripted or partially automated. Build a simple shell script or Python utility to automate it, drawing inspiration from `Git-Deployment-Beginner` or `git-ship` concepts."
+    "Review system prompts: Dedicate 15 minutes to review and iterate on system prompts in any LLM-powered applications or scripts you use or are building, applying insights from prompt auditing.",
+    "Explore 'from scratch' ML: Spend an hour this week engaging with a tutorial or course that builds a fundamental ML component (e.g., a neural network layer, an attention mechanism) from basic mathematical operations, rather than high-level libraries.",
+    "Automate a personal task: Identify one small, repetitive task in your daily workflow (e.g., file organization, data parsing) and create a simple shell script or use a quick automation tool to streamline it.",
+    "Strategize before coding: Before starting your next significant coding session, take 10-15 minutes to clearly define the problem, sketch out a high-level solution, and identify existing tools or libraries that could reduce the amount of new code you need to write."
   ]
 }
