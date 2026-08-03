@@ -1,39 +1,135 @@
 {
-  "last_updated": "2026-08-02 08:02:17",
+  "last_updated": "2026-08-03 08:59:15",
   "scraped_sources": {
-    "github": [],
+    "github": [
+      {
+        "name": "kimi-k3-in-c",
+        "owner": "FareedKhan-dev",
+        "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
+        "stars": 545,
+        "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+        "category": "AI / ML"
+      },
+      {
+        "name": "Labour-Law-Violation-System",
+        "owner": "Indhu27-pixel",
+        "description": "AI-powered Labour Law Violation Detection System using Weak Supervision, BiLSTM, Graph Neural Networks (GNN), and Explainable AI to identify labour law violations.",
+        "stars": 50,
+        "url": "https://github.com/Indhu27-pixel/Labour-Law-Violation-System",
+        "category": "AI / ML"
+      },
+      {
+        "name": "barunlm-35m",
+        "owner": "harrrshall",
+        "description": "BarunLM-35M: a parameter-efficient 35M base language model trained on 5.7B tokens",
+        "stars": 46,
+        "url": "https://github.com/harrrshall/barunlm-35m",
+        "category": "AI / ML"
+      },
+      {
+        "name": "microkimi",
+        "owner": "melonmath",
+        "description": "The Kimi K3 and DeepSeek-V4-Flash-0731 architectures, reimplemented from scratch in pure Rust (zero dependencies) and verified 1:1 against the official code.",
+        "stars": 16,
+        "url": "https://github.com/melonmath/microkimi",
+        "category": "AI / ML"
+      },
+      {
+        "name": "kimi3",
+        "owner": "TimRots",
+        "description": "Independent from-scratch implementation of the Kimi K3 architecture (arXiv:2607.24653v1): KDA, NoPE, latent-space MoE, and the systems co-designs. Table 1 reproduced to 0.09%.",
+        "stars": 9,
+        "url": "https://github.com/TimRots/kimi3",
+        "category": "AI / ML"
+      },
+      {
+        "name": "skill-recorder",
+        "owner": "microsoft",
+        "description": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.",
+        "stars": 1110,
+        "url": "https://github.com/microsoft/skill-recorder",
+        "category": "Automation / Productivity"
+      },
+      {
+        "name": "humanized-social-publisher",
+        "owner": "lincwang123-bot",
+        "description": "Agent-friendly local publisher for Xiaohongshu, Douyin and WeChat Channels with multi-account safety, scheduling and deduplication.",
+        "stars": 36,
+        "url": "https://github.com/lincwang123-bot/humanized-social-publisher",
+        "category": "Automation / Productivity"
+      },
+      {
+        "name": "github-stars-curator",
+        "owner": "Leexunhuan743",
+        "description": "Codex skill for curating GitHub starred repositories into safe, meaningful GitHub Stars Lists.",
+        "stars": 9,
+        "url": "https://github.com/Leexunhuan743/github-stars-curator",
+        "category": "Automation / Productivity"
+      },
+      {
+        "name": "termux-dev-station",
+        "owner": "Yerensoncasares",
+        "description": "Guía paso a paso para transformar Termux en una estación de desarrollo gráfica con KDE Plasma, aceleración GPU (VirGL/Mali), VS Code, Godot Engine, n8n y asistencia de IA local (OpenCode + Ollama). Sin scripts a ciegas.",
+        "stars": 7,
+        "url": "https://github.com/Yerensoncasares/termux-dev-station",
+        "category": "Automation / Productivity"
+      },
+      {
+        "name": "GridSetup",
+        "owner": "rounakagrawal7",
+        "description": "GRID v2 — General Reconnaissance & Intelligence Dashboard. OSINT, networking, radio/SDR, satellite tracking, microcontroller IoT, computer vision, and automation platform.",
+        "stars": 7,
+        "url": "https://github.com/rounakagrawal7/GridSetup",
+        "category": "Automation / Productivity"
+      }
+    ],
     "hacker_news": [
       {
-        "title": "Australia's social media ban has failed",
-        "url": "https://www.reuters.com/legal/litigation/australia-defends-teen-social-media-ban-after-study-shows-most-still-online-2026-08-01/",
-        "score": 14
+        "title": "Octane – React's programming model, compiled",
+        "url": "https://octanejs.dev",
+        "score": 6
+      },
+      {
+        "title": "Bonsai: Janestreet's UI Library",
+        "url": "https://github.com/janestreet/bonsai",
+        "score": 7
+      },
+      {
+        "title": "AI migrated legacy COBOL programs to Java, bugs included",
+        "url": "https://arxiv.org/abs/2607.28271",
+        "score": 59
+      },
+      {
+        "title": "Autoregressive Language Model on the 6502 Processor",
+        "url": "https://mattbeton.com/blog/bitnet-6502.html",
+        "score": 105
       }
     ],
     "arxiv": [
       {
-        "title": "Learning to Trace Seiberg Dualities",
-        "summary": "Dualities play an important role in establishing both microscopic and emergent phenomena in a wide range of physical systems. In practice, though, it can often be computationally challenging to establ...",
-        "url": "http://arxiv.org/abs/2607.28628v1"
+        "title": "TokTier: Exact Stateful Tokenization for Agentic LLM Serving",
+        "summary": "LLM serving systems cache prompt KV state, yet most front ends still re-tokenize the full request text on every call. The cost lands on coding agents, which resubmit a long transcript after each small...",
+        "url": "http://arxiv.org/abs/2607.29678v1"
       },
       {
-        "title": "ReToken: One Token to Improve Vision-Language Models for Visual Retrieval",
-        "summary": "Long visual context poses a challenge for vision-language models: performance degrades as the number of distractors grows, and processing all tokens at once is computationally infeasible under GPU mem...",
-        "url": "http://arxiv.org/abs/2607.28627v1"
+        "title": "ExtractBench: A Benchmark for Schema-Guided Enterprise Document Extraction",
+        "summary": "Enterprise workflows increasingly rely on agents for \\emph{schema-guided extraction}: given a document and a user-defined schema, the agent faithfully follows the schema to produce the correct output ...",
+        "url": "http://arxiv.org/abs/2607.29677v1"
       },
       {
-        "title": "PAC-MAN: Perception-Aware CBF-RL for Whole-Body Safety in Humanoid Dodgeball",
-        "summary": "We present PAC-MAN, a perception-aware CBF-RL framework that couples control-barrier safety with deployment-realistic onboard sensing for whole-body humanoid dodgeball. The deployed policy sees the ba...",
-        "url": "http://arxiv.org/abs/2607.28623v1"
+        "title": "Differentially Private Nonparametric Modal Learning with Applications to Regression and Clustering",
+        "summary": "Density modes provide a localized and interpretable summary of multimodal distributions, but their estimation under rigorous differential privacy constraints remains largely unexplored. We study diffe...",
+        "url": "http://arxiv.org/abs/2607.29675v1"
       },
       {
-        "title": "AskChem: Claim-Centered Infrastructure for Chemistry Literature Synthesis",
-        "summary": "Chemistry literature synthesis often requires assembling specific findings scattered across many publications, yet existing literature-search systems primarily return ranked document lists. As a resul...",
-        "url": "http://arxiv.org/abs/2607.28618v1"
+        "title": "Sign compression for Muon: SignMuon, MuonSign, and the Limits of Error Feedback",
+        "summary": "SignMuon compresses the Muon update to one bit per parameter by taking its elementwise sign, providing the most direct way to run a matrix-aware optimizer under an extremely low communication budget. ...",
+        "url": "http://arxiv.org/abs/2607.29674v1"
       },
       {
-        "title": "AISPA: User-Centric System Prompt Auditing for Large Language Model Applications",
-        "summary": "System prompts are instructions configured by developers to govern the behaviors of foundation models in AI applications. They are used throughout commercial AI products, but are rarely disclosed to t...",
-        "url": "http://arxiv.org/abs/2607.28617v1"
+        "title": "Freeze, Then Select: Structured Field Adapters and Stability-Validated Weak Selection for PDE Discovery from Sparse Observations",
+        "summary": "PDE discovery from sparse observations requires reconstructing a continuous field and selecting the correct differential terms. Our analysis of optimization paths in coupled neural PDE discovery revea...",
+        "url": "http://arxiv.org/abs/2607.29665v1"
       }
     ],
     "devto": [
@@ -41,106 +137,105 @@
         "title": "Understanding Over Origin",
         "description": "Many of developers communities are asking the wrong question.  Not because they're wrong to worry...",
         "url": "https://dev.to/adamthedeveloper/understanding-over-origin-4685",
-        "reactions": 80
+        "reactions": 83
       },
       {
         "title": "I Built a Chat App That Rewrites Its Own UI in Real Time",
         "description": "So I had this idea that kept nagging at me.  Every AI chat app works the same way. You type...",
         "url": "https://dev.to/varshithvhegde/i-built-a-chat-app-that-rewrites-its-own-ui-in-real-time-21m5",
-        "reactions": 52
-      },
-      {
-        "title": "How terminal-sharing tools put your shell in a browser",
-        "description": "Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is...",
-        "url": "https://dev.to/lovestaco/how-terminal-sharing-tools-put-your-shell-in-a-browser-328",
-        "reactions": 57
+        "reactions": 58
       },
       {
         "title": "\"I Haven't Written Code in 8 Months. I've Never Built More.\"",
         "description": "I've been having the same conversation with my colleagues for months. What does it mean to create...",
         "url": "https://dev.to/auth0/i-havent-written-code-in-8-months-ive-never-built-more-3k9i",
-        "reactions": 28
+        "reactions": 30
       },
       {
         "title": "ratatop: the network box, and why your ISP lies with units",
         "description": "Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is...",
         "url": "https://dev.to/lovestaco/ratatop-the-network-box-and-why-your-isp-lies-with-units-4lpo",
-        "reactions": 24
+        "reactions": 27
+      },
+      {
+        "title": "Emergent Design & Gall's Law: When Complex Coding Problems Dissolve Instead of Being Solved",
+        "description": "I recently read an article by the main maintainer of InversifyJS describing the journey of rebuilding...",
+        "url": "https://dev.to/remojansen/emergent-design-galls-law-when-complex-coding-problems-dissolve-instead-of-being-solved-3lok",
+        "reactions": 8
       }
     ]
   },
-  "trends": "Today's tech trends reveal a strong push towards more mature and user-centric AI applications. Key themes include enhancing the efficiency and scalability of large AI models, particularly for complex data like vision-language contexts. There's significant interest in leveraging AI for specialized knowledge work, moving beyond simple information retrieval to deep synthesis of scientific literature and claims. The development process for AI applications is evolving, with a focus on system prompt engineering, auditing for transparency, and user understanding of AI behavior. Furthermore, developer productivity is being redefined by AI, with a move towards AI-driven UI generation, low-code/no-code approaches, and a strategic, architectural role over pure coding. Collaboration and browser-based development tools also continue to gain traction, indicating a broader shift towards more integrated and intelligent development environments.",
+  "trends": "The current technology landscape is characterized by a significant push towards highly efficient and accessible AI, particularly in the realm of Large Language Models (LLMs) that can run on resource-constrained devices (e.g., single CPUs, minimal RAM) and are often reimplemented in performance-focused languages like C or Rust. This efficiency is a cornerstone for the emergence of sophisticated, agentic automation systems capable of understanding intent, recording user actions, and executing multi-step tasks across diverse platforms. These agents are being applied to complex real-world problems, from legal compliance to enterprise document extraction. Concurrently, there's a strong emphasis on developer productivity, with a shift in focus from low-level coding to higher-level orchestration, leveraging AI tools, and embracing emergent design principles where problems are designed to dissolve rather than explicitly solved, enabling developers to build more by writing less code.",
   "ideas": [
     {
-      "title": "AI-Powered Dynamic UI Generator for Rapid Prototyping",
-      "difficulty": "Medium",
-      "estimated_hours": 40,
-      "description": "Build a web application that allows users (developers or designers) to describe desired UI components or entire page layouts using natural language. An integrated Large Language Model (LLM) interprets these descriptions and generates functional, interactive front-end code (e.g., React or Vue components with basic state logic) that can be instantly previewed. This tool would significantly accelerate the prototyping phase, enabling developers to quickly iterate on design concepts without extensive manual coding, and shifting their focus to core application logic and architectural decisions.",
-      "tech_stack": [
-        "React/Vue/Svelte",
-        "Node.js (Express/Fastify)",
-        "OpenAI API (or equivalent LLM)",
-        "Monaco Editor",
-        "Tailwind CSS/Chakra UI"
-      ],
-      "source_inspiration": "I Built a Chat App That Rewrites Its Own UI in Real Time, \"I Haven't Written Code in 8 Months. I've Never Built More.\"",
-      "steps": [
-        "1. Set up a basic web application boilerplate (e.g., React frontend, Node.js backend).",
-        "2. Integrate an LLM API (e.g., OpenAI GPT-4) into the backend to handle natural language processing and code generation.",
-        "3. Create a text input area in the frontend where users can describe their desired UI elements or layouts.",
-        "4. Develop a backend endpoint that receives the UI description, calls the LLM to generate front-end code (e.g., JSX for React), and returns it.",
-        "5. Implement dynamic rendering in the frontend to display the generated code as interactive UI components, potentially using a sandboxed iframe or a secure parser for component creation.",
-        "6. Add a code editor component (like Monaco Editor) to display the raw generated code, allowing users to inspect and potentially copy it."
-      ]
-    },
-    {
-      "title": "Specialized AI Knowledge Synthesizer for Niche Domains",
+      "title": "Local AI Workflow Automation & Skill Generator",
       "difficulty": "Medium",
       "estimated_hours": 60,
-      "description": "Develop a platform where users can upload a collection of domain-specific documents (e.g., academic papers on a specific subfield of material science, legal documents, proprietary internal documentation). The system will then use Retrieval-Augmented Generation (RAG) to enable users to ask highly specific questions, extracting and synthesizing direct claims, facts, and their supporting evidence from the uploaded corpus. Unlike general search engines, this tool would provide synthesized answers grounded in the specific uploaded content, complete with citations, thereby transforming literature review and internal knowledge management for niche expertise.",
+      "description": "Develop a desktop application that acts as an AI-powered 'skill recorder' for local workflows. The application will observe user interactions (mouse clicks, keyboard inputs, application usage) for a specific task. Using a locally running LLM (e.g., via Ollama, Llama.cpp), it will analyze the recorded session to infer the user's intent and break down the task into an ordered sequence of reusable steps. The system will then generate a runnable automation script (e.g., Python or shell script) or a 'skill' definition that can be executed to repeat the task. This project enhances developer productivity by transforming repetitive actions into automated processes, without relying on cloud-based AI services, ensuring privacy and cost-effectiveness.",
       "tech_stack": [
-        "Python (FastAPI/Django)",
-        "LLM API",
-        "Vector Database (e.g., ChromaDB, Pinecone, Weaviate)",
-        "LangChain/LlamaIndex",
-        "PDF processing libraries (e.g., PyPDF2)",
-        "React/Vue (for frontend)"
+        "Python (for backend logic, desktop interaction capture via pyautogui/pynput)",
+        "Electron/React/Vue (for user interface)",
+        "Ollama/Llama.cpp (for local LLM inference)",
+        "A scripting language for generated automations (e.g., Python, PowerShell, Bash)"
       ],
-      "source_inspiration": "AskChem: Claim-Centered Infrastructure for Chemistry Literature Synthesis",
+      "source_inspiration": "microsoft/skill-recorder, Yerensoncasares/termux-dev-station, TokTier: Exact Stateful Tokenization for Agentic LLM Serving, I Built a Chat App That Rewrites Its Own UI in Real Time",
       "steps": [
-        "1. Set up a Python backend using FastAPI and a modern frontend framework like React.",
-        "2. Implement secure document upload functionality (supporting PDF, DOCX, TXT) and a robust text extraction pipeline.",
-        "3. Chunk the extracted text into manageable segments and generate embeddings for each chunk using an appropriate embedding model.",
-        "4. Store the embeddings in a vector database, linking them back to their original document and page context.",
-        "5. Develop a RAG pipeline: upon a user query, retrieve the most relevant text chunks from the vector database, pass them along with the query to an LLM, and generate a coherent, synthesized answer.",
-        "6. Design a user interface to display the synthesized answer, prominently featuring citations and references to the source documents or specific text passages."
+        "Design and implement a desktop application UI for recording, managing, and executing skills.",
+        "Integrate desktop event capturing (mouse, keyboard, active window) into the application.",
+        "Set up local LLM inference using Ollama or Llama.cpp to process recorded events.",
+        "Develop logic for the LLM to analyze recorded sequences, infer intent, and generate step-by-step descriptions.",
+        "Implement a code generation module that translates LLM-generated steps into executable automation scripts.",
+        "Add a 'playback' feature to execute the generated scripts and a user feedback loop for refinement."
       ]
     },
     {
-      "title": "LLM Prompt Governance and Transparency Dashboard",
-      "difficulty": "Easy",
-      "estimated_hours": 20,
-      "description": "Create a web-based dashboard for developers to manage, version, and audit the system prompts used in their Large Language Model (LLM) applications. This tool would allow developers to define clear 'prompt intent' labels for end-users, visualize changes to prompts over time, and run automated tests against prompts for consistency, safety, and performance. Crucially, it would offer a simplified, user-friendly explanation of the LLM's behavioral guidelines to end-users (without revealing proprietary prompt details), enhancing transparency and trust in AI applications, as highlighted by the need for system prompt auditing.",
+      "title": "Domain-Specific, Ultra-Efficient Micro-LLM",
+      "difficulty": "Hard",
+      "estimated_hours": 120,
+      "description": "Create an extremely parameter-efficient (e.g., < 50M parameters) language model fine-tuned for a highly specific domain, such as IoT device command interpretation, short-form code snippet generation, or medical symptom classification. The core focus is on achieving competitive accuracy for the narrow domain while ensuring minimal resource footprint (RAM, CPU cycles) for local or edge deployment. This involves exploring model architectures like Kimi K3 or BarunLM-35M, and potentially reimplementing or optimizing inference in C/Rust for maximum performance. This project addresses the trend of making powerful AI accessible on resource-constrained hardware, enabling offline and private AI applications.",
       "tech_stack": [
-        "Python (Flask/FastAPI)",
-        "SQLite (for data storage)",
-        "Jinja2 (for templating) or React/Vue (for advanced UI)",
-        "Basic LLM API integration for testing"
+        "PyTorch/TensorFlow (for model training and fine-tuning)",
+        "C/C++/Rust (for highly optimized inference engine, potentially from scratch)",
+        "Custom, domain-specific dataset (for fine-tuning)",
+        "Knowledge of efficient model architectures (e.g., Kimi K3, DeepSeek-V4-Flash)"
       ],
-      "source_inspiration": "AISPA: User-Centric System Prompt Auditing for Large Language Model Applications",
+      "source_inspiration": "FareedKhan-dev/kimi-k3-in-c, harrrshall/barunlm-35m, melonmath/microkimi, TimRots/kimi3, Autoregressive Language Model on the 6502 Processor",
       "steps": [
-        "1. Initialize a Flask or FastAPI application with a SQLite database to store prompt configurations, versions, and associated metadata (e.g., 'user-facing intent' descriptions).",
-        "2. Develop a user interface for inputting new system prompts, saving them, and assigning a clear, concise 'user-facing intent' label.",
-        "3. Implement a basic versioning system for prompts, allowing developers to track changes and revert to previous configurations.",
-        "4. Add simple 'auditing' features, such as the ability to test a prompt with a few sample user inputs and display the LLM's response, or integrate a straightforward regex-based safety check.",
-        "5. Create a public-facing section within the dashboard (or a dedicated endpoint) that displays the 'user-facing intent' for selected prompts, explaining the AI's intended behavior without exposing the raw, technical prompt details."
+        "Select a niche domain with available datasets for training a small language model.",
+        "Research and choose an efficient base model architecture (or design a new one) that fits parameter constraints.",
+        "Curate and preprocess a high-quality, domain-specific dataset for fine-tuning.",
+        "Train or fine-tune the micro-LLM on the selected dataset, focusing on minimizing parameters and maximizing performance.",
+        "Implement or adapt a highly optimized inference engine in C or Rust for the trained model.",
+        "Develop a lightweight API or CLI for testing and demonstrating the model's capabilities on target hardware."
+      ]
+    },
+    {
+      "title": "Schema-Guided Intelligent Document Processor",
+      "difficulty": "Medium",
+      "estimated_hours": 90,
+      "description": "Build an intelligent agent that can extract structured information from various document types (PDFs, scanned images, text files) based on a user-defined schema (e.g., JSON, YAML). The agent should leverage Retrieval Augmented Generation (RAG) principles with local or API-based LLMs to accurately populate the schema fields. It should handle complex documents, multi-page contexts, and provide a user interface for schema definition, document upload, and extracted data review/correction. This project directly aligns with the need for robust enterprise automation and intelligent data extraction, reducing manual effort and improving data quality in complex workflows.",
+      "tech_stack": [
+        "Python (for orchestration, RAG, document processing)",
+        "LangChain/LlamaIndex (for agentic workflow and RAG implementation)",
+        "OCR libraries (e.g., Tesseract, PaddleOCR) or commercial APIs (e.g., Google Cloud Vision, Azure AI Vision) for text extraction from images/PDFs.",
+        "Local LLM (e.g., via Ollama) or API-based LLM (e.g., OpenAI, Anthropic) for extraction and reasoning.",
+        "Web framework (Flask/FastAPI) for API, and a frontend framework (e.g., React, Vue) for the UI."
+      ],
+      "source_inspiration": "ExtractBench: A Benchmark for Schema-Guided Enterprise Document Extraction, Labour-Law-Violation-System, TokTier: Exact Stateful Tokenization for Agentic LLM Serving",
+      "steps": [
+        "Design the user interface for schema definition (JSON/YAML input) and document upload.",
+        "Implement document parsing capabilities (PDF, image, text) using OCR and text extraction libraries.",
+        "Integrate a RAG pipeline: chunk documents, create vector embeddings, and store them.",
+        "Develop an agentic LLM prompt engineering strategy to guide extraction based on the user-defined schema.",
+        "Implement a robust extraction and validation mechanism, allowing for human review and correction.",
+        "Build an API layer and integrate the UI for seamless document processing and structured data output."
       ]
     }
   ],
   "quick_actions": [
-    "1. Dedicate time this week to experiment with an AI coding assistant (e.g., GitHub Copilot, Cursor AI) for a side project or a specific task, focusing on how it impacts your workflow and problem-solving approach.",
-    "2. Practice crafting advanced system prompts: take an existing LLM API and spend an hour writing and refining a complex prompt to achieve a highly specific and constrained output, iterating until you get reliable results.",
-    "3. Identify one repetitive manual task in your daily development or productivity workflow (e.g., generating boilerplate code, parsing log files) and research existing scripts, APIs, or AI tools that could automate it.",
-    "4. Review summaries of new AI/ML research papers (e.g., from arXiv or AI news sites) for 15-20 minutes daily or weekly to stay updated on efficiency improvements (like for VLMs) and novel applications, fostering continuous learning."
+    "Dedicate 15 minutes today to install and run a small local LLM (e.g., Llama 3 via Ollama) on your machine. Experiment with basic prompts to understand its capabilities and resource usage firsthand.",
+    "Identify one recurring, manual task in your daily developer workflow. Spend 30 minutes sketching out a step-by-step automation plan for it, considering how an AI agent could augment or fully handle each step.",
+    "Read the Dev.to article 'I Haven't Written Code in 8 Months. I've Never Built More.' and reflect on how you can shift your focus from writing raw code to orchestrating tools and leveraging AI for higher-level problem-solving.",
+    "Explore a visual automation builder like n8n or Make (formerly Integromat). Try connecting a simple trigger (e.g., new email) to an AI action (e.g., summarization) and then to another action (e.g., save to a note app) to experience no-code agentic workflows."
   ]
 }
