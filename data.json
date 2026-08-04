@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-08-03 08:59:15",
+  "last_updated": "2026-08-04 08:15:36",
   "scraped_sources": {
     "github": [
       {
         "name": "kimi-k3-in-c",
         "owner": "FareedKhan-dev",
         "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
-        "stars": 545,
+        "stars": 1440,
         "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
         "category": "AI / ML"
       },
@@ -22,31 +22,31 @@
         "name": "barunlm-35m",
         "owner": "harrrshall",
         "description": "BarunLM-35M: a parameter-efficient 35M base language model trained on 5.7B tokens",
-        "stars": 46,
+        "stars": 49,
         "url": "https://github.com/harrrshall/barunlm-35m",
-        "category": "AI / ML"
-      },
-      {
-        "name": "microkimi",
-        "owner": "melonmath",
-        "description": "The Kimi K3 and DeepSeek-V4-Flash-0731 architectures, reimplemented from scratch in pure Rust (zero dependencies) and verified 1:1 against the official code.",
-        "stars": 16,
-        "url": "https://github.com/melonmath/microkimi",
         "category": "AI / ML"
       },
       {
         "name": "kimi3",
         "owner": "TimRots",
         "description": "Independent from-scratch implementation of the Kimi K3 architecture (arXiv:2607.24653v1): KDA, NoPE, latent-space MoE, and the systems co-designs. Table 1 reproduced to 0.09%.",
-        "stars": 9,
+        "stars": 24,
         "url": "https://github.com/TimRots/kimi3",
+        "category": "AI / ML"
+      },
+      {
+        "name": "microkimi",
+        "owner": "melonmath",
+        "description": "The Kimi K3 and DeepSeek-V4-Flash-0731 architectures, reimplemented from scratch in pure Rust (zero dependencies) and verified 1:1 against the official code.",
+        "stars": 18,
+        "url": "https://github.com/melonmath/microkimi",
         "category": "AI / ML"
       },
       {
         "name": "skill-recorder",
         "owner": "microsoft",
         "description": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.",
-        "stars": 1110,
+        "stars": 1567,
         "url": "https://github.com/microsoft/skill-recorder",
         "category": "Automation / Productivity"
       },
@@ -62,74 +62,79 @@
         "name": "github-stars-curator",
         "owner": "Leexunhuan743",
         "description": "Codex skill for curating GitHub starred repositories into safe, meaningful GitHub Stars Lists.",
-        "stars": 9,
+        "stars": 13,
         "url": "https://github.com/Leexunhuan743/github-stars-curator",
-        "category": "Automation / Productivity"
-      },
-      {
-        "name": "termux-dev-station",
-        "owner": "Yerensoncasares",
-        "description": "Guía paso a paso para transformar Termux en una estación de desarrollo gráfica con KDE Plasma, aceleración GPU (VirGL/Mali), VS Code, Godot Engine, n8n y asistencia de IA local (OpenCode + Ollama). Sin scripts a ciegas.",
-        "stars": 7,
-        "url": "https://github.com/Yerensoncasares/termux-dev-station",
         "category": "Automation / Productivity"
       },
       {
         "name": "GridSetup",
         "owner": "rounakagrawal7",
         "description": "GRID v2 — General Reconnaissance & Intelligence Dashboard. OSINT, networking, radio/SDR, satellite tracking, microcontroller IoT, computer vision, and automation platform.",
-        "stars": 7,
+        "stars": 9,
         "url": "https://github.com/rounakagrawal7/GridSetup",
+        "category": "Automation / Productivity"
+      },
+      {
+        "name": "HDU-xiaoyuananquantong",
+        "owner": "yuaiccc",
+        "description": "杭州电子科技大学-安全教育自动获取答题证书",
+        "stars": 7,
+        "url": "https://github.com/yuaiccc/HDU-xiaoyuananquantong",
         "category": "Automation / Productivity"
       }
     ],
     "hacker_news": [
       {
-        "title": "Octane – React's programming model, compiled",
-        "url": "https://octanejs.dev",
-        "score": 6
+        "title": "LLMs reward expertise",
+        "url": "https://www.seangoedecke.com/llms-reward-expertise/",
+        "score": 855
       },
       {
-        "title": "Bonsai: Janestreet's UI Library",
-        "url": "https://github.com/janestreet/bonsai",
-        "score": 7
+        "title": "Devtools must be open source",
+        "url": "https://blog.exe.dev/devtools-must-be-open-source",
+        "score": 587
       },
       {
-        "title": "AI migrated legacy COBOL programs to Java, bugs included",
-        "url": "https://arxiv.org/abs/2607.28271",
-        "score": 59
+        "title": "There Will Come Soft Rains (1950) [pdf]",
+        "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
+        "score": 137
       },
       {
-        "title": "Autoregressive Language Model on the 6502 Processor",
-        "url": "https://mattbeton.com/blog/bitnet-6502.html",
-        "score": 105
+        "title": "That time when I failed the Microsoft interview",
+        "url": "https://ochagavia.nl/blog/that-time-when-i-failed-the-microsoft-interview/",
+        "score": 41
+      },
+      {
+        "title": "Prevent cognitive debt by manually retyping LLM-generated code",
+        "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
+        "score": 470
       }
     ],
     "arxiv": [
       {
-        "title": "TokTier: Exact Stateful Tokenization for Agentic LLM Serving",
-        "summary": "LLM serving systems cache prompt KV state, yet most front ends still re-tokenize the full request text on every call. The cost lands on coding agents, which resubmit a long transcript after each small...",
-        "url": "http://arxiv.org/abs/2607.29678v1"
+        "title": "AURORA-LM: Autoencoding Unified Representation for Continuous-Latent Diffusion Language Modeling",
+        "summary": "Language remains an outlier in generative modeling: while images, video, and audio are increasingly modeled in continuous latent spaces, text generation still relies predominantly on discrete tokens. ...",
+        "url": "http://arxiv.org/abs/2608.02602v1"
       },
       {
-        "title": "ExtractBench: A Benchmark for Schema-Guided Enterprise Document Extraction",
-        "summary": "Enterprise workflows increasingly rely on agents for \\emph{schema-guided extraction}: given a document and a user-defined schema, the agent faithfully follows the schema to produce the correct output ...",
-        "url": "http://arxiv.org/abs/2607.29677v1"
+        "title": "Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework",
+        "summary": "Artificial intelligence (AI) is increasingly central to power and energy systems, supporting modeling, forecasting, optimization, and control. Yet most existing works emphasize specialized application...",
+        "url": "http://arxiv.org/abs/2608.02599v1"
       },
       {
-        "title": "Differentially Private Nonparametric Modal Learning with Applications to Regression and Clustering",
-        "summary": "Density modes provide a localized and interpretable summary of multimodal distributions, but their estimation under rigorous differential privacy constraints remains largely unexplored. We study diffe...",
-        "url": "http://arxiv.org/abs/2607.29675v1"
+        "title": "onepot-Bench 0: towards lab-aware in silico chemistry benchmarks",
+        "summary": "Language models are playing an increasingly important role in laboratory science, performing tasks such as experiment planning, execution, and post-hoc analysis. However, precisely measuring their abi...",
+        "url": "http://arxiv.org/abs/2608.02595v1"
       },
       {
-        "title": "Sign compression for Muon: SignMuon, MuonSign, and the Limits of Error Feedback",
-        "summary": "SignMuon compresses the Muon update to one bit per parameter by taking its elementwise sign, providing the most direct way to run a matrix-aware optimizer under an extremely low communication budget. ...",
-        "url": "http://arxiv.org/abs/2607.29674v1"
+        "title": "The Condition-Number Barrier in Sparse Least Squares",
+        "summary": "In [AS21], Axiotis and Sviridenko conjectured that the linear dependence on the restricted condition number in sparse convex optimization cannot be improved by a polynomial-time algorithm. We establis...",
+        "url": "http://arxiv.org/abs/2608.02588v1"
       },
       {
-        "title": "Freeze, Then Select: Structured Field Adapters and Stability-Validated Weak Selection for PDE Discovery from Sparse Observations",
-        "summary": "PDE discovery from sparse observations requires reconstructing a continuous field and selecting the correct differential terms. Our analysis of optimization paths in coupled neural PDE discovery revea...",
-        "url": "http://arxiv.org/abs/2607.29665v1"
+        "title": "GradCuit: Credit-Assigned Gradient Flow Enables Robust and Interpretable Test-Time Latent Reasoning",
+        "summary": "Optimization-based latent reasoning improves large language model outputs by optimizing instance-specific continuous states at test time while keeping model parameters frozen. Existing methods, howeve...",
+        "url": "http://arxiv.org/abs/2608.02585v1"
       }
     ],
     "devto": [
@@ -137,19 +142,19 @@
         "title": "Understanding Over Origin",
         "description": "Many of developers communities are asking the wrong question.  Not because they're wrong to worry...",
         "url": "https://dev.to/adamthedeveloper/understanding-over-origin-4685",
-        "reactions": 83
+        "reactions": 84
       },
       {
         "title": "I Built a Chat App That Rewrites Its Own UI in Real Time",
         "description": "So I had this idea that kept nagging at me.  Every AI chat app works the same way. You type...",
         "url": "https://dev.to/varshithvhegde/i-built-a-chat-app-that-rewrites-its-own-ui-in-real-time-21m5",
-        "reactions": 58
+        "reactions": 59
       },
       {
         "title": "\"I Haven't Written Code in 8 Months. I've Never Built More.\"",
         "description": "I've been having the same conversation with my colleagues for months. What does it mean to create...",
         "url": "https://dev.to/auth0/i-havent-written-code-in-8-months-ive-never-built-more-3k9i",
-        "reactions": 30
+        "reactions": 31
       },
       {
         "title": "ratatop: the network box, and why your ISP lies with units",
@@ -158,84 +163,84 @@
         "reactions": 27
       },
       {
-        "title": "Emergent Design & Gall's Law: When Complex Coding Problems Dissolve Instead of Being Solved",
-        "description": "I recently read an article by the main maintainer of InversifyJS describing the journey of rebuilding...",
-        "url": "https://dev.to/remojansen/emergent-design-galls-law-when-complex-coding-problems-dissolve-instead-of-being-solved-3lok",
-        "reactions": 8
+        "title": "Understanding Over Origin: The Missing Friction",
+        "description": "A few days ago, I wrote \"Understanding Over Origin\" and it got alot of engagement and I'm really...",
+        "url": "https://dev.to/adamthedeveloper/understanding-over-origin-the-missing-friction-55ag",
+        "reactions": 12
       }
     ]
   },
-  "trends": "The current technology landscape is characterized by a significant push towards highly efficient and accessible AI, particularly in the realm of Large Language Models (LLMs) that can run on resource-constrained devices (e.g., single CPUs, minimal RAM) and are often reimplemented in performance-focused languages like C or Rust. This efficiency is a cornerstone for the emergence of sophisticated, agentic automation systems capable of understanding intent, recording user actions, and executing multi-step tasks across diverse platforms. These agents are being applied to complex real-world problems, from legal compliance to enterprise document extraction. Concurrently, there's a strong emphasis on developer productivity, with a shift in focus from low-level coding to higher-level orchestration, leveraging AI tools, and embracing emergent design principles where problems are designed to dissolve rather than explicitly solved, enabling developers to build more by writing less code.",
+  "trends": "Today's tech trends reveal a strong push towards making Artificial Intelligence, especially Large Language Models (LLMs), more **efficient, accessible, and deployable on constrained hardware**, exemplified by the focus on low-parameter models and C/Rust reimplementations of powerful architectures like Kimi K3. **Agentic AI and intelligent automation** are central to boosting productivity, with systems observing user actions to create reusable 'skills' or automate complex workflows. There's a growing demand for **explainable AI (XAI)**, particularly in sensitive domains like legal compliance, and a broader application of LLMs across diverse fields from social media publishing to scientific research and education. Concurrently, the developer community is keenly discussing **cognitive load and 'cognitive debt'** associated with AI-generated code, emphasizing the need for tools that foster genuine understanding and open-source contributions. The research frontier also hints at **continuous latent space modeling for text**, aligning text generation with other advanced generative modalities.",
   "ideas": [
     {
-      "title": "Local AI Workflow Automation & Skill Generator",
+      "title": "Personal CLI Workflow Assistant (PCWA)",
       "difficulty": "Medium",
       "estimated_hours": 60,
-      "description": "Develop a desktop application that acts as an AI-powered 'skill recorder' for local workflows. The application will observe user interactions (mouse clicks, keyboard inputs, application usage) for a specific task. Using a locally running LLM (e.g., via Ollama, Llama.cpp), it will analyze the recorded session to infer the user's intent and break down the task into an ordered sequence of reusable steps. The system will then generate a runnable automation script (e.g., Python or shell script) or a 'skill' definition that can be executed to repeat the task. This project enhances developer productivity by transforming repetitive actions into automated processes, without relying on cloud-based AI services, ensuring privacy and cost-effectiveness.",
+      "description": "This desktop application helps developers automate and understand their frequently used command-line workflows without needing to memorize complex scripts or context-switch. By passively observing shell history or actively recording a sequence of user commands, the PCWA can identify repetitive patterns. Users can then prompt the assistant to generate a natural language explanation of the observed steps and encapsulate them into a reusable 'skill' with customizable parameters. This system acts as a personalized, on-device Copilot for the CLI, enabling developers to recall and execute complex sequences with a simple command, significantly boosting productivity while ensuring they understand the underlying actions. It solves the problem of forgotten commands and manual scripting by making automation creation intuitive and immediate, all running locally for privacy and speed.",
       "tech_stack": [
-        "Python (for backend logic, desktop interaction capture via pyautogui/pynput)",
-        "Electron/React/Vue (for user interface)",
-        "Ollama/Llama.cpp (for local LLM inference)",
-        "A scripting language for generated automations (e.g., Python, PowerShell, Bash)"
+        "Python (backend, command parsing)",
+        "Rust/Go (for lightweight agent/observer)",
+        "Electron/Tauri (for desktop UI)",
+        "SQLite (local DB)",
+        "Small local LLM (e.g., fine-tuned Llama.cpp model or custom NLP for explanation)"
       ],
-      "source_inspiration": "microsoft/skill-recorder, Yerensoncasares/termux-dev-station, TokTier: Exact Stateful Tokenization for Agentic LLM Serving, I Built a Chat App That Rewrites Its Own UI in Real Time",
+      "source_inspiration": "kimi-k3-in-c (low-resource LLMs), skill-recorder (recording actions to build automations), LLMs reward expertise (making developer-specific workflows reusable).",
       "steps": [
-        "Design and implement a desktop application UI for recording, managing, and executing skills.",
-        "Integrate desktop event capturing (mouse, keyboard, active window) into the application.",
-        "Set up local LLM inference using Ollama or Llama.cpp to process recorded events.",
-        "Develop logic for the LLM to analyze recorded sequences, infer intent, and generate step-by-step descriptions.",
-        "Implement a code generation module that translates LLM-generated steps into executable automation scripts.",
-        "Add a 'playback' feature to execute the generated scripts and a user feedback loop for refinement."
+        "Task 1: Design and implement a cross-platform desktop agent to observe and log command-line shell history (e.g., ~/.bash_history, PowerShell logs).",
+        "Task 2: Develop a backend service (Python/Rust) to process raw command sequences, identify patterns, and store them in a local SQLite database.",
+        "Task 3: Integrate a lightweight NLP model or a very small local LLM (e.g., via Llama.cpp or custom rule-based engine) to generate natural language explanations for a sequence of commands.",
+        "Task 4: Build a user interface (Electron/Tauri) allowing users to trigger recording sessions, view recorded command sequences, get explanations, parameterize common variables, and save them as named 'skills'.",
+        "Task 5: Implement a mechanism for users to invoke saved skills from the command line, with automatic parameter prompting/injection."
       ]
     },
     {
-      "title": "Domain-Specific, Ultra-Efficient Micro-LLM",
-      "difficulty": "Hard",
-      "estimated_hours": 120,
-      "description": "Create an extremely parameter-efficient (e.g., < 50M parameters) language model fine-tuned for a highly specific domain, such as IoT device command interpretation, short-form code snippet generation, or medical symptom classification. The core focus is on achieving competitive accuracy for the narrow domain while ensuring minimal resource footprint (RAM, CPU cycles) for local or edge deployment. This involves exploring model architectures like Kimi K3 or BarunLM-35M, and potentially reimplementing or optimizing inference in C/Rust for maximum performance. This project addresses the trend of making powerful AI accessible on resource-constrained hardware, enabling offline and private AI applications.",
-      "tech_stack": [
-        "PyTorch/TensorFlow (for model training and fine-tuning)",
-        "C/C++/Rust (for highly optimized inference engine, potentially from scratch)",
-        "Custom, domain-specific dataset (for fine-tuning)",
-        "Knowledge of efficient model architectures (e.g., Kimi K3, DeepSeek-V4-Flash)"
-      ],
-      "source_inspiration": "FareedKhan-dev/kimi-k3-in-c, harrrshall/barunlm-35m, melonmath/microkimi, TimRots/kimi3, Autoregressive Language Model on the 6502 Processor",
-      "steps": [
-        "Select a niche domain with available datasets for training a small language model.",
-        "Research and choose an efficient base model architecture (or design a new one) that fits parameter constraints.",
-        "Curate and preprocess a high-quality, domain-specific dataset for fine-tuning.",
-        "Train or fine-tune the micro-LLM on the selected dataset, focusing on minimizing parameters and maximizing performance.",
-        "Implement or adapt a highly optimized inference engine in C or Rust for the trained model.",
-        "Develop a lightweight API or CLI for testing and demonstrating the model's capabilities on target hardware."
-      ]
-    },
-    {
-      "title": "Schema-Guided Intelligent Document Processor",
+      "title": "AI-Powered Nuance Content Auditor",
       "difficulty": "Medium",
-      "estimated_hours": 90,
-      "description": "Build an intelligent agent that can extract structured information from various document types (PDFs, scanned images, text files) based on a user-defined schema (e.g., JSON, YAML). The agent should leverage Retrieval Augmented Generation (RAG) principles with local or API-based LLMs to accurately populate the schema fields. It should handle complex documents, multi-page contexts, and provide a user interface for schema definition, document upload, and extracted data review/correction. This project directly aligns with the need for robust enterprise automation and intelligent data extraction, reducing manual effort and improving data quality in complex workflows.",
+      "estimated_hours": 70,
+      "description": "This tool provides a vital layer of pre-publication review for content creators, marketers, and internal communication teams. It goes beyond basic spell-checking and keyword filters by leveraging advanced natural language processing (NLP) and a specialized small language model to semantically analyze text (and potentially image captions via OCR) against a user-defined set of brand guidelines, compliance regulations, or ethical standards. It can detect subtle biases, tone inconsistencies, factual inaccuracies, or potential legal risks that a human might miss or that simple rules-based systems cannot catch. The auditor provides detailed, explainable feedback on *why* certain phrases or concepts might be problematic, suggesting improvements. This significantly reduces the risk of publishing non-compliant, misleading, or damaging content, ensuring brand integrity and legal adherence.",
       "tech_stack": [
-        "Python (for orchestration, RAG, document processing)",
-        "LangChain/LlamaIndex (for agentic workflow and RAG implementation)",
-        "OCR libraries (e.g., Tesseract, PaddleOCR) or commercial APIs (e.g., Google Cloud Vision, Azure AI Vision) for text extraction from images/PDFs.",
-        "Local LLM (e.g., via Ollama) or API-based LLM (e.g., OpenAI, Anthropic) for extraction and reasoning.",
-        "Web framework (Flask/FastAPI) for API, and a frontend framework (e.g., React, Vue) for the UI."
+        "Python (FastAPI/Flask)",
+        "Hugging Face Transformers (for a smaller LLM like DistilBERT or custom fine-tune)",
+        "spaCy (for NLP tasks)",
+        "LangChain (for orchestration)",
+        "React/Vue (simple web UI)",
+        "PostgreSQL/MongoDB (for storing rules/feedback)"
       ],
-      "source_inspiration": "ExtractBench: A Benchmark for Schema-Guided Enterprise Document Extraction, Labour-Law-Violation-System, TokTier: Exact Stateful Tokenization for Agentic LLM Serving",
+      "source_inspiration": "Labour-Law-Violation-System (AI for compliance, Explainable AI), humanized-social-publisher (automated publishing safety), AURORA-LM (concept of advanced text representation for nuanced understanding), Understanding Over Origin (fostering deeper understanding of content implications).",
       "steps": [
-        "Design the user interface for schema definition (JSON/YAML input) and document upload.",
-        "Implement document parsing capabilities (PDF, image, text) using OCR and text extraction libraries.",
-        "Integrate a RAG pipeline: chunk documents, create vector embeddings, and store them.",
-        "Develop an agentic LLM prompt engineering strategy to guide extraction based on the user-defined schema.",
-        "Implement a robust extraction and validation mechanism, allowing for human review and correction.",
-        "Build an API layer and integrate the UI for seamless document processing and structured data output."
+        "Task 1: Set up a web service (FastAPI) for text input and analysis requests.",
+        "Task 2: Develop a module for users to define and upload custom content guidelines, compliance rules, and a knowledge base of acceptable/unacceptable phrases/concepts.",
+        "Task 3: Integrate a small, fine-tuned LLM or advanced NLP pipeline (using Hugging Face and spaCy) to perform semantic analysis on input text against the defined rules.",
+        "Task 4: Implement explainability features to highlight problematic sections and provide concrete, understandable reasons and suggested edits.",
+        "Task 5: Build a user-friendly web interface (React/Vue) where users can paste content, receive real-time feedback, and manage their rule sets."
+      ]
+    },
+    {
+      "title": "Cognitive Debt Prevention IDE Plugin",
+      "difficulty": "Hard",
+      "estimated_hours": 100,
+      "description": "An intelligent IDE extension (e.g., for VS Code) designed to mitigate the 'cognitive debt' often incurred when integrating AI-generated code. Instead of passively accepting code from an LLM, this plugin actively engages the developer. When LLM-generated code is pasted or suggested, the plugin can highlight complex sections, automatically generate interactive questions about the code's logic, dependencies, or potential edge cases, or prompt the developer to perform a focused refactoring exercise. It learns from the developer's interactions, identifying areas where understanding is weak or where specific refactoring patterns are beneficial. By requiring active engagement and providing a structured learning path, this tool ensures the developer truly comprehends and owns the generated code, turning AI assistance into a powerful learning and skill-building experience rather than a shortcut to unmaintainable solutions.",
+      "tech_stack": [
+        "TypeScript/JavaScript (VS Code Extension API)",
+        "Python (local Flask/FastAPI backend)",
+        "Tree-sitter or ANTLR (for code parsing/AST generation)",
+        "Vector database (e.g., Qdrant, ChromaDB for user-specific learning data)",
+        "Small local LLM (e.g., Ollama with a tiny model for contextual questions)"
+      ],
+      "source_inspiration": "Prevent cognitive debt by manually retyping LLM-generated code (core problem statement), Understanding Over Origin (emphasizing comprehension), github-stars-curator (personal curation of useful patterns/knowledge), LLMs reward expertise (by improving developer's foundational understanding).",
+      "steps": [
+        "Task 1: Develop a VS Code extension (TypeScript) to detect code pasting/insertion events within the editor and send the code to a local analysis backend.",
+        "Task 2: Create a local Python backend service (Flask/FastAPI) that receives code snippets and performs static analysis (e.g., AST parsing using tree-sitter) to identify complex patterns, potential issues, or areas for refactoring.",
+        "Task 3: Implement a mechanism within the backend to generate contextual questions or refactoring prompts related to the analyzed code, potentially using a small local LLM for nuanced queries.",
+        "Task 4: Design the VS Code extension to display these interactive prompts within the IDE (e.g., inline comments, quick picks, sidebar panels) and capture user responses or refactoring actions.",
+        "Task 5: Build a personal 'knowledge graph' or vector database (e.g., Qdrant) within the backend to store developer's learning progress, successfully refactored patterns, and areas needing more attention, to personalize future suggestions."
       ]
     }
   ],
   "quick_actions": [
-    "Dedicate 15 minutes today to install and run a small local LLM (e.g., Llama 3 via Ollama) on your machine. Experiment with basic prompts to understand its capabilities and resource usage firsthand.",
-    "Identify one recurring, manual task in your daily developer workflow. Spend 30 minutes sketching out a step-by-step automation plan for it, considering how an AI agent could augment or fully handle each step.",
-    "Read the Dev.to article 'I Haven't Written Code in 8 Months. I've Never Built More.' and reflect on how you can shift your focus from writing raw code to orchestrating tools and leveraging AI for higher-level problem-solving.",
-    "Explore a visual automation builder like n8n or Make (formerly Integromat). Try connecting a simple trigger (e.g., new email) to an AI action (e.g., summarization) and then to another action (e.g., save to a note app) to experience no-code agentic workflows."
+    "Action 1: For any AI-generated code, actively retype or at least manually refactor a significant portion of it. Focus on internalizing the logic rather than mere copy-pasting to prevent 'cognitive debt'.",
+    "Action 2: Identify one repetitive command-line workflow you perform daily (e.g., a specific Git sequence, project setup). Spend 30 minutes scripting it with Bash/Python/PowerShell, applying the 'skill-recorder' mindset to automate it.",
+    "Action 3: Dedicate 15-30 minutes each day to deep-dive into one specific technical concept or a new library feature, without immediate pressure to apply it. Building genuine expertise 'rewards expertise' when leveraging LLMs effectively.",
+    "Action 4: Before jumping to an LLM for a quick solution, take a moment to clearly define the problem and articulate your own understanding of potential solutions. This 'Understanding Over Origin' habit improves problem-solving and critical evaluation of AI outputs."
   ]
 }
