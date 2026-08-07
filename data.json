@@ -1,46 +1,62 @@
 {
-  "last_updated": "2026-08-06 08:12:59",
+  "last_updated": "2026-08-07 06:58:33",
   "scraped_sources": {
     "github": [
       {
         "name": "kimi-k3-in-c",
         "owner": "FareedKhan-dev",
         "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
-        "stars": 2661,
+        "stars": 2936,
         "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
-        "category": "AI / ML"
-      },
-      {
-        "name": "barunlm-35m",
-        "owner": "harrrshall",
-        "description": "BarunLM-35M: a parameter-efficient 35M base language model trained on 5.7B tokens",
-        "stars": 54,
-        "url": "https://github.com/harrrshall/barunlm-35m",
-        "category": "AI / ML"
-      },
-      {
-        "name": "Labour-Law-Violation-System",
-        "owner": "Indhu27-pixel",
-        "description": "AI-powered Labour Law Violation Detection System using Weak Supervision, BiLSTM, Graph Neural Networks (GNN), and Explainable AI to identify labour law violations.",
-        "stars": 50,
-        "url": "https://github.com/Indhu27-pixel/Labour-Law-Violation-System",
         "category": "AI / ML"
       },
       {
         "name": "kimi3",
         "owner": "TimRots",
         "description": "Independent from-scratch implementation of the Kimi K3 architecture (arXiv:2607.24653v1): KDA, NoPE, latent-space MoE, and the systems co-designs. Table 1 reproduced to 0.09%.",
-        "stars": 31,
+        "stars": 32,
         "url": "https://github.com/TimRots/kimi3",
         "category": "AI / ML"
       },
       {
-        "name": "linearly",
-        "owner": "alikhalilli",
-        "description": "The math of AI, drawn and coded. A free, visual-first linear algebra course following MIT 18.06.",
-        "stars": 29,
-        "url": "https://github.com/alikhalilli/linearly",
+        "name": "Hueclid",
+        "owner": "gauravxsuvo",
+        "description": "Hueclid turns any screenshot or photo into an accessible UI color palette. It creates colors for backgrounds, surfaces, text, buttons, and more, making sure they all work together with readable contrast.",
+        "stars": 6,
+        "url": "https://github.com/gauravxsuvo/Hueclid",
         "category": "AI / ML"
+      },
+      {
+        "name": "train-studio",
+        "owner": "nanofatdog",
+        "description": "Train Studio - SFT LoRA Web UI (Gradio): hardware detect, GPU select, config, train/resume, merge tool",
+        "stars": 5,
+        "url": "https://github.com/nanofatdog/train-studio",
+        "category": "AI / ML"
+      },
+      {
+        "name": "Scanvidence",
+        "owner": "Scanvidence",
+        "description": "Explainable, uncertainty-aware medical imaging detection, a unified platform for brain tumor and Alzheimer's disease detection.🧠🔬",
+        "stars": 4,
+        "url": "https://github.com/Scanvidence/Scanvidence",
+        "category": "AI / ML"
+      },
+      {
+        "name": "agent-skills-collection",
+        "owner": "oliverb-io1902e8",
+        "description": "Curated collection of modular agent skills for LLM-based agents",
+        "stars": 152,
+        "url": "https://github.com/oliverb-io1902e8/agent-skills-collection",
+        "category": "Automation / Productivity"
+      },
+      {
+        "name": "compdf-generation",
+        "owner": "ComPDFKit",
+        "description": "Generate PDFs effortlessly with the open-source ComPDF Generation SDK. Design HTML-based templates to produce business-critical documents, such as contracts, invoices, reports, and certificates with ease. ",
+        "stars": 44,
+        "url": "https://github.com/ComPDFKit/compdf-generation",
+        "category": "Automation / Productivity"
       },
       {
         "name": "Tracewell",
@@ -54,16 +70,8 @@
         "name": "HDU-xiaoyuananquantong",
         "owner": "yuaiccc",
         "description": "杭州电子科技大学-安全教育自动获取答题证书",
-        "stars": 30,
+        "stars": 31,
         "url": "https://github.com/yuaiccc/HDU-xiaoyuananquantong",
-        "category": "Automation / Productivity"
-      },
-      {
-        "name": "compdf-generation",
-        "owner": "ComPDFKit",
-        "description": "Generate PDFs effortlessly with the open-source ComPDF Generation SDK. Design HTML-based templates to produce business-critical documents, such as contracts, invoices, reports, and certificates with ease. ",
-        "stars": 23,
-        "url": "https://github.com/ComPDFKit/compdf-generation",
         "category": "Automation / Productivity"
       },
       {
@@ -73,68 +81,50 @@
         "stars": 10,
         "url": "https://github.com/dxkjuanjuan/juanjuan-team",
         "category": "Automation / Productivity"
-      },
-      {
-        "name": "AbaoPal",
-        "owner": "banye-technology",
-        "description": "开源 Android 手机自动化 Agent：用自然语言驱动多模态大模型理解屏幕、规划任务并跨应用执行操作，支持可复用 Skills。",
-        "stars": 7,
-        "url": "https://github.com/banye-technology/AbaoPal",
-        "category": "Automation / Productivity"
       }
     ],
     "hacker_news": [
       {
-        "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
-        "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
-        "score": 635
+        "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+        "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+        "score": 568
       },
       {
-        "title": "Nashville uses eminent domain to block data center near zoo",
-        "url": "https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project",
-        "score": 222
+        "title": "Software development with AI is starting to feel like cooking steak",
+        "url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
+        "score": 341
       },
       {
-        "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
-        "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
-        "score": 300
-      },
-      {
-        "title": "Born Against, or why hobby programming communities are against LLM usage",
-        "url": "https://blog.fogus.me/llm/born-against.html",
-        "score": 245
-      },
-      {
-        "title": "Quantego: A Family of Lego Models of IBM Quantum Computers",
-        "url": "https://quantego.org/",
-        "score": 19
+        "title": "GitHub Actions and Pages are experiencing degraded availability",
+        "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
+        "score": 375
       }
     ],
     "arxiv": [
       {
-        "title": "Reasoning Core: Designing Broad Procedural Data for Completion-Supervised Reasoning Training",
-        "summary": "Procedural generators produce useful verifiable reasoning problems at scale, but have received less attention as data for completion-supervised fine-tuning. We introduce Reasoning Core, a collection o...",
-        "url": "http://arxiv.org/abs/2608.05148v1"
+        "title": "Learning When to Trust via Selective Context Preference Optimization",
+        "summary": "Language models increasingly condition their answers on external signals, and a single misleading one can turn a correct answer wrong. The obvious remedy, training models to resist such signals, hides...",
+        "url": "http://arxiv.org/abs/2608.06377v1"
       },
       {
-        "title": "Argus: A General-Purpose Agentic Runtime for Long-Horizon Reasoning",
-        "summary": "Long-horizon reasoning requires an agentic runtime that can persist when evidence supports its current approach and pivot when measurements reveal failure, hidden constraints, or a misspecified object...",
-        "url": "http://arxiv.org/abs/2608.05144v1"
+        "title": "The Bitter Lesson of Tool Calling",
+        "summary": "Tool use transforms LLMs into agents that act beyond their training data, and for code-capable models, programmatic tool calling extends this further by replacing rigid JSON calls with scripts that ch...",
+        "url": "http://arxiv.org/abs/2608.06370v1"
       },
       {
-        "title": "OctoLong: Mid-Training On Cross-Repository Code Contexts Enhances Long-Context Modeling",
-        "summary": "Context lengths of language models (LMs) have dramatically increased, driven by the demands for in-context learning, self-improvement, and long-horizon agentic workflows. Existing long-context corpora...",
-        "url": "http://arxiv.org/abs/2608.05141v1"
+        "title": "Tracing the Heart: An Evidence-Linked Pipeline for Heart-Failure Feature Engineering",
+        "summary": "Electronic health record (EHR) feature engineering is a major bottleneck in clinical research and AI, accounting for 39-45% of data scientists' workload. This is especially pronounced in heart failure...",
+        "url": "http://arxiv.org/abs/2608.06366v1"
       },
       {
-        "title": "Toward Skill-Native LLMs: Skill Entropy for Benchmarking and Training Long-Horizon Reasoning",
-        "summary": "Long-horizon reasoning in recent LLMs demands that the model switch between distinct skills inside a reasoning chain, such as first doing a math derivation, then using the result to plan a schedule. W...",
-        "url": "http://arxiv.org/abs/2608.05139v1"
+        "title": "Investigating Artificial Intelligence Digital Sovereignty in Mobile Shopping Apps: A Case Study of Nigeria",
+        "summary": "The use of e-commerce mobile applications is expanding in Nigeria, creating both opportunities and risks, including fraud and reduced user control over digital technologies, raising concerns about dig...",
+        "url": "http://arxiv.org/abs/2608.06364v1"
       },
       {
-        "title": "Teaching Nemotron Greek: Mining a Corpus, Adapting Retrieval, and Grounding Generation for Modern Greek across Specialist Domains",
-        "summary": "Modern Greek is absent from NVIDIA's Nemotron retrieval models and from major multilingual retrieval benchmarks, despite being important for retrieval-augmented generation (RAG) in legal, energy, fina...",
-        "url": "http://arxiv.org/abs/2608.05138v1"
+        "title": "An Optimal Agnostic PAC Algorithm",
+        "summary": "Let $H\\subseteq\\{-1,+1\\}^X$ be a class of finite VC dimension $d\\ge1$. Writing $L$ for the binary risk and $L^*=\\min_{h\\in H}L(h)$, we construct a learner achieving the statistically optimal risk boun...",
+        "url": "http://arxiv.org/abs/2608.06363v1"
       }
     ],
     "devto": [
@@ -142,13 +132,19 @@
         "title": "Understanding Over Origin: The Missing Friction",
         "description": "A few days ago, I wrote \"Understanding Over Origin\" and it got alot of engagement and I'm really...",
         "url": "https://dev.to/adamthedeveloper/understanding-over-origin-the-missing-friction-55ag",
-        "reactions": 38
+        "reactions": 49
       },
       {
         "title": "How I Contributed to a Laravel Application Without Knowing Laravel",
         "description": "Two months ago, I was given access to a codebase with an unfamiliar language and framework. I felt a...",
         "url": "https://dev.to/devengers/how-i-contributed-to-a-laravel-application-without-knowing-laravel-1dkl",
-        "reactions": 38
+        "reactions": 40
+      },
+      {
+        "title": "I Recreated Management With AI: 9 Things I Do Differently",
+        "description": "I stopped treating permission prompts as the safety system, then spent four and a half months writing 134 standing rules to replace them. Nine things I do differently with AI, and the proof to back it up.",
+        "url": "https://dev.to/anchildress1/i-recreated-management-with-ai-9-things-i-do-differently-3j8g",
+        "reactions": 22
       },
       {
         "title": "ratatop: the network box, and why your ISP lies with units",
@@ -160,91 +156,82 @@
         "title": "Are we the abstraction? AI and the future of software engineering",
         "description": "Dear past Jenna,  There will come a point when you wonder whether your career — the one you went to...",
         "url": "https://dev.to/jennapederson/the-abstraction-appears-to-include-us-2d47",
-        "reactions": 7
-      },
-      {
-        "title": "Emergent Design & Gall's Law: When Complex Coding Problems Dissolve Instead of Being Solved",
-        "description": "I recently read an article by the main maintainer of InversifyJS describing the journey of rebuilding...",
-        "url": "https://dev.to/remojansen/emergent-design-galls-law-when-complex-coding-problems-dissolve-instead-of-being-solved-3lok",
-        "reactions": 8
+        "reactions": 13
       }
     ]
   },
-  "trends": "Today's tech landscape is highly dynamic, centered around pushing the boundaries of AI while also democratizing its access and application. Key trends include the fervent development of **highly efficient and parameter-efficient LLMs** capable of running on minimal hardware (CPU, low RAM), exemplified by projects like Kimi K3. This is complemented by a strong emphasis on **advanced agentic AI systems** capable of long-horizon reasoning, multi-modal interaction, and adaptive task planning across various applications, with frameworks emerging to manage complex agent collaborations and learn 'skills'. There's a significant drive towards **domain-specific AI applications** and customization, solving niche real-world problems from legal compliance to specialized language retrieval. Concurrently, **intelligent automation and workflow orchestration** are evolving to be more visual, reliable, and observable, abstracting away complexity for developers. Finally, the role of AI in **developer productivity** is increasingly prominent, with tools for code review and rapid learning, prompting developers to focus on foundational understanding and adaptability in an AI-assisted future.",
+  "trends": "The current tech landscape is heavily characterized by a dual focus on democratizing AI through highly optimized, low-resource inference models (even on single CPUs) and the rapid advancement of sophisticated AI agentic systems capable of complex tool use and multi-agent collaboration. Concurrently, AI is solidifying its role as a powerful productivity multiplier for software developers, assisting in everything from code generation and learning new frameworks to automating project management workflows. This widespread integration extends to specialized AI applications solving niche problems across various domains, all while a growing emphasis is placed on enhancing the reliability, explainability, and trustworthiness of these increasingly autonomous AI systems.",
   "ideas": [
     {
-      "title": "Edge-Optimized Legal Document Insights Agent",
+      "title": "Context-Aware AI Assistant for Developer Workflow Automation",
       "difficulty": "Medium",
-      "estimated_hours": 60,
-      "description": "Develop a lightweight, local-first AI agent designed to process and analyze legal documents (e.g., contracts, privacy policies, terms of service). The agent would leverage a highly efficient, parameter-optimized LLM (like those inspired by BarunLM-35M or Kimi K3) to perform tasks such as summarizing key clauses, identifying potential compliance risks, or extracting specific data points (e.g., termination clauses, liability limits). By running inference on local hardware (CPU-only), it ensures data privacy and significantly reduces operational costs compared to cloud-based APIs. The value lies in providing immediate, secure legal insights for developers, small businesses, or legal tech enthusiasts without requiring extensive cloud infrastructure.",
+      "estimated_hours": 40,
+      "description": "Build an intelligent assistant that integrates with a developer's IDE, terminal, and Git repository. It observes the current project context (active files, recent commits, open issues) and proactively offers assistance. This could include generating contextually relevant code snippets, drafting descriptive Git commit messages, automating boilerplate setup for new components, or orchestrating local test runs and linting based on code changes. The assistant would learn from developer feedback and preferences to refine its suggestions, embodying the 'AI as a developer productivity multiplier' and 'advanced AI agentic systems' trends.",
       "tech_stack": [
         "Python",
-        "Llama.cpp / Ollama (for local LLM inference)",
-        "a small, fine-tuned legal LLM (e.g., Mistral/Llama 3 8B q4_K_M)",
-        "Streamlit / Gradio (for simple UI)",
-        "PDF processing libraries (e.g., PyPDF2, pdfplumber)",
-        "basic NLP libraries (NLTK, spaCy)"
+        "LangChain/CrewAI (or similar agent framework)",
+        "Local LLM (e.g., Llama.cpp, Ollama for local inference)",
+        "VS Code Extension API (or similar IDE API)",
+        "Git hooks"
       ],
-      "source_inspiration": "kimi-k3-in-c, barunlm-35m, Labour-Law-Violation-System, Beating GPT-5.6 Sol on retrieval with 100x cheaper open models, Argus: A General-Purpose Agentic Runtime for Long-Horizon Reasoning",
+      "source_inspiration": "agent-skills-collection, juanjuan-team, 'Recreated Management With AI' (Dev.to), 'Software development with AI is starting to feel like cooking steak' (Hacker News), 'The Bitter Lesson of Tool Calling' (arXiv)",
       "steps": [
-        "Set up a local LLM inference environment (e.g., using Ollama or Llama.cpp) and download a suitable small model (e.g., a quantized Mistral or Llama 3 8B).",
-        "Implement document ingestion and pre-processing: tools to read PDF/text files, extract content, and segment it for LLM input.",
-        "Design clear prompts for the LLM to perform summarization, clause extraction, and basic risk identification within legal text.",
-        "Develop an agentic loop: If initial summaries are insufficient, prompt the LLM to 'drill down' into specific sections or ask clarifying questions based on its previous output.",
-        "Build a simple web interface (Streamlit/Gradio) to upload documents, display summaries, and highlight identified clauses.",
-        "Implement basic explainability: Allow users to trace which parts of the document contributed to the agent's findings."
+        "Task 1: Set up a local LLM inference environment (e.g., with Ollama) and integrate a basic prompt for code assistance.",
+        "Task 2: Develop a simple IDE extension to capture context (active file, selection) and send it to the local LLM.",
+        "Task 3: Implement initial 'skills' for the agent, such as generating code comments or explaining selected code.",
+        "Task 4: Integrate with Git hooks (pre-commit, prepare-commit-msg) to suggest or auto-generate commit messages based on staged changes.",
+        "Task 5: Implement a feedback mechanism for the developer to rate or refine AI suggestions, used for fine-tuning context preferences."
       ]
     },
     {
-      "title": "Natural Language Mobile Automation Companion (Open-Source)",
-      "difficulty": "Hard",
-      "estimated_hours": 120,
-      "description": "Create an open-source Android application that acts as a natural language-driven automation agent, allowing users to control other apps and perform multi-step tasks across them using voice or text commands. Inspired by 'AbaoPal', this agent would leverage screen analysis (OCR and object detection) to understand the current app state and an LLM to plan and execute a sequence of actions (taps, swipes, text inputs) to fulfill complex user requests (e.g., 'Order a large pizza from my favorite place and set a calendar reminder for its arrival'). The project focuses on robust error handling, 'skill' reusability, and long-horizon task completion, pushing the boundaries of mobile productivity.",
-      "tech_stack": [
-        "Kotlin/Java (for Android app and Accessibility Service)",
-        "Python (for LLM orchestration and vision processing, potentially via an API on a companion device)",
-        "Android Accessibility Service API",
-        "Mobile-optimized Vision Model (e.g., MobileNet, YOLO-Nano for UI element recognition/OCR integration)",
-        "Local/API-based LLM (e.g., GPT-4o API, Llama.cpp for local inference)",
-        "Appium/ADB (for advanced control/testing)"
-      ],
-      "source_inspiration": "AbaoPal, juanjuan-team, Argus: A General-Purpose Agentic Runtime for Long-Horizon Reasoning, OctoLong: Mid-Training On Cross-Repository Code Contexts Enhances Long-Context Modeling, Toward Skill-Native LLMs",
-      "steps": [
-        "Develop an Android Accessibility Service to observe screen content (view hierarchy, text) and simulate user interactions (taps, swipes).",
-        "Integrate an OCR library (e.g., Google ML Kit Text Recognition) to extract text from images when view hierarchy is insufficient.",
-        "Implement a 'screen understanding' module: Combine OCR and basic UI element detection to create a rich, structured representation of the current mobile screen state.",
-        "Develop the core agent logic: Use an LLM to receive natural language commands, interpret the screen state, plan a sequence of actions, and adjust the plan based on feedback/failures.",
-        "Create a 'skill' system: Allow users or the agent to define and reuse sequences of actions for common tasks (e.g., 'navigate to settings', 'add item to cart').",
-        "Build a user interface within the Android app for inputting commands, displaying agent progress, and debugging."
-      ]
-    },
-    {
-      "title": "Git-Hook AI Code Quality Assistant",
+      "title": "Low-Resource Explainable UI Accessibility Auditor",
       "difficulty": "Medium",
-      "estimated_hours": 30,
-      "description": "Build a `git commit` hook that integrates a lightweight AI model to provide instant, contextual code review feedback before a commit is finalized. This tool would analyze the staged changes (diff) for common issues such as style violations, potential anti-patterns, security vulnerabilities, or even logical inconsistencies. Unlike a full CI/CD pipeline, it offers immediate, local feedback, fostering a 'shift-left' approach to code quality. The AI focuses on 'understanding over origin' of the changes, providing actionable suggestions directly in the developer's terminal, enhancing productivity and code health without breaking the flow. It's a micro-AI code reviewer running on every commit.",
+      "estimated_hours": 60,
+      "description": "Develop a lightweight, local-first application that takes a screenshot or an image of a user interface (UI) and analyzes it for common accessibility issues. Unlike typical checkers, it provides 'explainable' feedback: not just identifying a low contrast ratio but explaining WCAG guidelines and suggesting specific RGB/Hex values for improvement. This project leverages the trend of efficient, low-resource AI and specialized AI applications while incorporating the crucial aspect of AI explainability, making it highly practical for designers and developers to create more inclusive UIs.",
       "tech_stack": [
-        "Python / Go (for Git hook script)",
-        "Git hooks (pre-commit, prepare-commit-msg)",
-        "Local LLM (e.g., Ollama with a small Code Llama variant) or a fast, low-cost API (e.g., Groq)",
-        "Diff parsing libraries (e.g., `difflib` in Python)",
-        "Configuration file format (e.g., YAML) for rules/preferences"
+        "Python",
+        "OpenCV (for image processing)",
+        "PIL/Pillow (for image manipulation)",
+        "Small, fine-tuned vision model (e.g., MobileNetV3 or custom CNN for object detection/segmentation of UI elements)",
+        "WCAG guidelines API/library (if available) or custom rule engine",
+        "Electron or a web framework (e.g., Streamlit, Flask) for the UI"
       ],
-      "source_inspiration": "ratatop (mentions git-lrc, a Micro AI code reviewer), Understanding Over Origin: The Missing Friction, Are we the abstraction? AI and the future of software engineering, OctoLong: Mid-Training On Cross-Repository Code Contexts Enhances Long-Context Modeling",
+      "source_inspiration": "kimi-k3-in-c, Hueclid, Scanvidence (for explainability), AMD acquires Taalas (for efficient inference)",
       "steps": [
-        "Create a `pre-commit` Git hook script that captures the staged changes (diff).",
-        "Set up a mechanism to send the diff to a local LLM (e.g., via Ollama API) or a cloud API (e.g., Groq) for analysis.",
-        "Design specific prompts for the LLM to identify code quality issues: style, potential bugs, security concerns, best practices, and suggest improvements based on the diff.",
-        "Parse the LLM's response to extract actionable feedback and present it clearly in the terminal to the developer.",
-        "Implement configuration options (e.g., a `.aicoach.yml` file) to allow developers to enable/disable checks, set strictness, or define custom rules.",
-        "Add a bypass mechanism (e.g., `git commit --no-verify`) for when quick commits are necessary without AI review."
+        "Task 1: Set up basic image capture/upload functionality within a desktop or web application.",
+        "Task 2: Implement image processing to detect key UI elements (text, buttons, backgrounds) and extract their colors.",
+        "Task 3: Develop a module to calculate contrast ratios based on WCAG 2.x standards.",
+        "Task 4: Integrate a simple local ML model to identify text size and potential touch target issues.",
+        "Task 5: Generate clear, actionable, and 'explainable' reports suggesting improvements with specific color codes or size adjustments."
+      ]
+    },
+    {
+      "title": "Modular Multi-Agent System for Technical Research & Document Synthesis",
+      "difficulty": "Hard",
+      "estimated_hours": 80,
+      "description": "Create an AI system composed of multiple specialized agents that can collaboratively research a given technical topic (e.g., 'compare Rust and Go for backend development,' 'explain quantum computing for software engineers'). One agent could be a 'Researcher' scouring documentation, blogs, and papers; another, an 'Analyst' extracting key facts and comparing them; and a 'Synthesizer' agent constructing a comprehensive document (e.g., a comparison report, a tutorial, or a design brief). An optional 'Critic' agent could review the output for accuracy and completeness, mimicking the 'adversarial-collaboration' trend to ensure high-quality output.",
+      "tech_stack": [
+        "Python",
+        "LangChain/CrewAI (or custom multi-agent framework)",
+        "OpenAI API / Anthropic API (for powerful LLM capabilities)",
+        "Web scraping libraries (e.g., BeautifulSoup, Playwright)",
+        "Vector database (e.g., Chroma, Pinecone) for RAG",
+        "Markdown/PDF generation libraries"
+      ],
+      "source_inspiration": "juanjuan-team, agent-skills-collection, 'The Bitter Lesson of Tool Calling' (arXiv), 'Learning When to Trust via Selective Context Preference Optimization' (arXiv)",
+      "steps": [
+        "Task 1: Define the roles and responsibilities for at least three agents: Researcher, Analyst, and Synthesizer.",
+        "Task 2: Implement the Researcher agent with web scraping and information retrieval capabilities (e.g., search engine integration).",
+        "Task 3: Implement the Analyst agent to process raw information, extract key data points, and identify relationships.",
+        "Task 4: Implement the Synthesizer agent to structure and write a coherent document based on the Analyst's output.",
+        "Task 5: Create an orchestration layer that manages agent communication, task delegation, and ensures logical flow, potentially adding a 'Critic' agent for adversarial review."
       ]
     }
   ],
   "quick_actions": [
-    "Experiment with local LLMs: Download and run `Ollama` with a small, quantized open-source model (e.g., Llama 3 8B instruct) on your machine. Spend 30 minutes prompting it to understand its capabilities, resource usage, and how it performs on code-related tasks.",
-    "Deconstruct an agentic workflow: Pick one complex multi-step task you perform digitally. Break it down into discrete steps, decisions, and potential failure points. Imagine how an AI agent would plan and execute it, considering the 'long-horizon reasoning' trend.",
-    "Automate one micro-task using simple scripting: Identify a trivial, repetitive task (e.g., renaming files, extracting specific data from logs, generating a quick report). Write a small script (Bash, Python) to automate it, focusing on reliability rather than complex features.",
-    "Practice 'Understanding Over Origin': For the next piece of code you copy from Stack Overflow, an AI, or a tutorial, spend an extra 10-15 minutes actively dissecting *why* it works, not just *that* it works. Try to explain its core logic aloud to reinforce learning."
+    "Action 1: Download and experiment with a local LLM (e.g., via Ollama or Llama.cpp) to understand its capabilities and resource footprint firsthand.",
+    "Action 2: Identify one repetitive coding or documentation task in your daily workflow and build a small script or integrate an existing AI tool to automate or significantly assist with it.",
+    "Action 3: Spend an hour exploring a prominent LLM agent framework (e.g., LangChain, CrewAI) to grasp how agents can be chained and given 'skills' to interact with tools.",
+    "Action 4: When encountering a new framework or complex codebase, actively use an AI assistant (like ChatGPT or a local LLM) to summarize documentation, explain unfamiliar code snippets, or generate example usage."
   ]
 }
