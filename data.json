@@ -1,37 +1,21 @@
 {
-  "last_updated": "2026-08-08 06:31:38",
+  "last_updated": "2026-08-09 06:36:02",
   "scraped_sources": {
     "github": [
-      {
-        "name": "kimi3",
-        "owner": "TimRots",
-        "description": "Independent from-scratch implementation of the Kimi K3 architecture (arXiv:2607.24653v1): KDA, NoPE, latent-space MoE, and the systems co-designs. Table 1 reproduced to 0.09%.",
-        "stars": 31,
-        "url": "https://github.com/TimRots/kimi3",
-        "category": "AI / ML"
-      },
-      {
-        "name": "Hueclid",
-        "owner": "gauravxsuvo",
-        "description": "Hueclid turns any screenshot or photo into an accessible UI color palette. It creates colors for backgrounds, surfaces, text, buttons, and more, making sure they all work together with readable contrast.",
-        "stars": 7,
-        "url": "https://github.com/gauravxsuvo/Hueclid",
-        "category": "AI / ML"
-      },
-      {
-        "name": "Probability-and-Statistics-for-Machine-Learning-and-Artificial-Intelligence",
-        "owner": "EimanTahir027",
-        "description": "Probability and statistics form the mathematical foundation of machine learning, helping quantify uncertainty in data and models. They support key tasks like inference, estimation, hypothesis testing, and Bayesian learning. Together, they enable more reliable predictions by turning randomness into measurable confidence.",
-        "stars": 6,
-        "url": "https://github.com/EimanTahir027/Probability-and-Statistics-for-Machine-Learning-and-Artificial-Intelligence",
-        "category": "AI / ML"
-      },
       {
         "name": "PARSEC.py",
         "owner": "QianGroupPage",
         "description": "Python-based real-space Kohn-Sham DFT accelerated by machine-learned charge density (J. Comput. Chem.)",
-        "stars": 5,
+        "stars": 10,
         "url": "https://github.com/QianGroupPage/PARSEC.py",
+        "category": "AI / ML"
+      },
+      {
+        "name": "EigenForge",
+        "owner": "Joaopdiasventura",
+        "description": "Linear algebra and machine learning from scratch in Go, with core algorithms implemented directly to make the mathematics visible.",
+        "stars": 5,
+        "url": "https://github.com/Joaopdiasventura/EigenForge",
         "category": "AI / ML"
       },
       {
@@ -40,6 +24,22 @@
         "description": "Train Studio - SFT LoRA Web UI (Gradio): hardware detect, GPU select, config, train/resume, merge tool",
         "stars": 5,
         "url": "https://github.com/nanofatdog/train-studio",
+        "category": "AI / ML"
+      },
+      {
+        "name": "Scanvidence",
+        "owner": "Scanvidence",
+        "description": "Explainable, uncertainty-aware medical imaging detection, a unified platform for brain tumor and Alzheimer's disease detection.🧠🔬",
+        "stars": 4,
+        "url": "https://github.com/Scanvidence/Scanvidence",
+        "category": "AI / ML"
+      },
+      {
+        "name": "Blum",
+        "owner": "SignalLayerLabs",
+        "description": "Open-source financial decision intelligence for equities and Forex: evidence-bound AI agents, paper trading, backtesting and benchmark validation.",
+        "stars": 3,
+        "url": "https://github.com/SignalLayerLabs/Blum",
         "category": "AI / ML"
       },
       {
@@ -54,7 +54,7 @@
         "name": "compdf-generation",
         "owner": "ComPDFKit",
         "description": "Generate PDFs effortlessly with the open-source ComPDF Generation SDK. Design HTML-based templates to produce business-critical documents, such as contracts, invoices, reports, and certificates with ease. ",
-        "stars": 71,
+        "stars": 97,
         "url": "https://github.com/ComPDFKit/compdf-generation",
         "category": "Automation / Productivity"
       },
@@ -75,34 +75,29 @@
         "category": "Automation / Productivity"
       },
       {
-        "name": "juanjuan-team",
-        "owner": "dxkjuanjuan",
-        "description": "🌀 The first adversarial-collaboration multi-agent Skill for Claude Code. 7 agents + 11 phases + Hook enforcement + 9 signal groups + dual-layer adversarial review. Inspired by NTCoding, agent-review-panel, AgentTeams. v1.6 — main+sub dual-layer adversarial review.",
-        "stars": 10,
-        "url": "https://github.com/dxkjuanjuan/juanjuan-team",
+        "name": "xianyu-rpa",
+        "owner": "zejue",
+        "description": "闲鱼卖家 RPA 自动化运营助手｜多店铺聚合接待·订单自动处理·AI智能客服",
+        "stars": 15,
+        "url": "https://github.com/zejue/xianyu-rpa",
         "category": "Automation / Productivity"
       }
     ],
     "hacker_news": [
       {
-        "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
-        "url": "https://genesisopenmodels.anl.gov/",
-        "score": 190
+        "title": "The original URL for this prediction will no longer be available in 11 years (2011)",
+        "url": "http://longbets.org/601/",
+        "score": 90
       },
       {
-        "title": "What happens if an entire class of workers loses faith in their careers",
-        "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
-        "score": 541
+        "title": "Melatonin impairs morning cognition in healthy young adults",
+        "url": "https://academic.oup.com/sleep/article/46/Supplement_1/A34/7181621",
+        "score": 59
       },
       {
-        "title": "Managing AI Coding Costs at Scale",
-        "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-        "score": 211
-      },
-      {
-        "title": "Oracle bans AI-generated code from OpenJDK",
-        "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-        "score": 442
+        "title": "Fastmail offers EU data region",
+        "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
+        "score": 368
       }
     ],
     "arxiv": [
@@ -137,115 +132,107 @@
         "title": "Understanding Over Origin: The Missing Friction",
         "description": "A few days ago, I wrote \"Understanding Over Origin\" and it got alot of engagement and I'm really...",
         "url": "https://dev.to/adamthedeveloper/understanding-over-origin-the-missing-friction-55ag",
-        "reactions": 67
+        "reactions": 71
       },
       {
         "title": "I Recreated Management With AI: 9 Things I Do Differently",
         "description": "I stopped treating permission prompts as the safety system, then spent four and a half months writing 134 standing rules to replace them. Nine things I do differently with AI, and the proof to back it up.",
         "url": "https://dev.to/anchildress1/i-recreated-management-with-ai-9-things-i-do-differently-3j8g",
-        "reactions": 38
+        "reactions": 40
       },
       {
-        "title": "How I Contributed to a Laravel Application Without Knowing Laravel",
-        "description": "Two months ago, I was given access to a codebase with an unfamiliar language and framework. I felt a...",
-        "url": "https://dev.to/devengers/how-i-contributed-to-a-laravel-application-without-knowing-laravel-1dkl",
-        "reactions": 42
-      },
-      {
-        "title": "ratatop: the network box, and why your ISP lies with units",
-        "description": "Hello, I'm Maneshwar. I'm building git-lrc, a Micro AI code reviewer that runs on every commit. It is...",
-        "url": "https://dev.to/lovestaco/ratatop-the-network-box-and-why-your-isp-lies-with-units-4lpo",
-        "reactions": 27
+        "title": "The Year I Started Leaving Breadcrumbs Instead of Notes",
+        "description": "I read back six months of my own work journal and found three different note-taking systems, only one of which I remember deciding to build. This is what the volume of information actually did to my notes, what got better, what I lost, and how I capture things now.",
+        "url": "https://dev.to/cseeman/the-year-i-started-leaving-breadcrumbs-instead-of-notes-fe0",
+        "reactions": 23
       },
       {
         "title": "Are we the abstraction? AI and the future of software engineering",
         "description": "Dear past Jenna,  There will come a point when you wonder whether your career — the one you went to...",
         "url": "https://dev.to/jennapederson/the-abstraction-appears-to-include-us-2d47",
         "reactions": 18
+      },
+      {
+        "title": "Why Developer Experience (DevEx) Dies in the Backlog?",
+        "description": "\"Technical debt\" might be one of the most successful terms ever coined in software engineering.  Not...",
+        "url": "https://dev.to/remojansen/please-stop-calling-it-developer-experience-27ec",
+        "reactions": 9
       }
     ]
   },
-  "trends": "Today's tech landscape is dominated by the rapid evolution of **agentic AI systems and LLM refinement**, moving towards more autonomous, modular, and reliable intelligent agents capable of complex tool use and multi-agent collaboration. This is coupled with a strong emphasis on **practical and responsible AI integration**, where real-world applications (e.g., UI accessibility, scientific computing, healthcare) are being pursued, but with growing concerns around AI governance, cost management, data trust, and ethical implications (digital sovereignty, AI-generated code quality). Concurrently, **hyper-automation and intelligent workflow optimization** continue to be a priority, leveraging AI for everything from visual workflow building to specific task automation and document generation. Finally, developers are actively navigating this shifting terrain, focusing on **adaptation through foundational upskilling** (e.g., probability/statistics for ML) and exploring how AI can augment personal productivity and reshape their professional roles, while grappling with the existential questions of AI's impact on their careers.",
+  "trends": "Today's tech landscape is defined by the rapid advancement and practical application of Agentic AI, with a strong emphasis on modularity and sophisticated tool-calling for Large Language Models (LLMs). There's a clear move towards integrating AI not just as an analytical tool, but as an active component in complex workflows, from scientific computing and medical diagnostics to finance and e-commerce operations. Alongside this, significant attention is being paid to enhancing automation and productivity through both AI-driven solutions and improved workflow orchestration tools. Developers are increasingly exploring how AI can redefine personal and team management, as well as knowledge capture methods, moving towards more dynamic and context-aware systems. Underlying these advancements is a growing concern for AI reliability, explainability, and digital sovereignty, particularly regarding data privacy and user control in AI-powered applications.",
   "ideas": [
     {
-      "title": "AI-Powered Visual UI Accessibility Auditor & Palette Suggestor",
-      "difficulty": "Medium",
-      "estimated_hours": 30,
-      "description": "Build a web application or desktop tool where users can upload a UI screenshot or design mockup. The AI will analyze the image to detect text, backgrounds, and interactive elements, then generate an accessible color palette based on WCAG (Web Content Accessibility Guidelines) contrast ratios. Beyond just suggesting a palette, it will highlight areas in the uploaded image that fail accessibility checks (e.g., low contrast text, unidentifiable interactive elements) and offer alternative color schemes optimized for various forms of color blindness, providing a visual 'before and after' comparison for design iterations. This tool aims to integrate accessibility early into the design workflow.",
-      "tech_stack": [
-        "Python (Flask/FastAPI)",
-        "OpenCV (for image processing/element detection)",
-        "Pillow",
-        "scikit-learn (for color clustering)",
-        "WCAG contrast calculation libraries",
-        "React/Vue.js (frontend)",
-        "TensorFlow.js (optional, for browser-side image processing)"
-      ],
-      "source_inspiration": "Hueclid (GitHub), Learning When to Trust via Selective Context Preference Optimization (arXiv, for reliable AI output), Investigating Artificial Intelligence Digital Sovereignty (arXiv, for responsible AI practices including accessibility).",
-      "steps": [
-        "Task 1: Set up a basic web application framework (Flask/FastAPI for backend, React/Vue for frontend) to handle image uploads.",
-        "Task 2: Implement image processing using OpenCV and Pillow to identify distinct color regions (backgrounds, text, primary UI elements).",
-        "Task 3: Develop a module to calculate contrast ratios between identified color pairs based on WCAG guidelines (e.g., using a library like `webcolors` or `color-scheme-util`).",
-        "Task 4: Create an AI/ML component (e.g., K-means clustering on color values) to extract a dominant color palette from the image.",
-        "Task 5: Implement logic to automatically generate alternative accessible color palettes and suggest corrections for failing contrast areas in the original image.",
-        "Task 6: Design a user interface to display the uploaded image, highlight accessibility issues, show the generated accessible palette, and offer 'before/after' previews with suggested changes.",
-        "Task 7: (Optional) Explore integrating a small, local vision model for more accurate UI element detection if rule-based methods prove insufficient."
-      ]
-    },
-    {
-      "title": "Local-First Developer Agent Skill Hub & Workflow Builder",
-      "difficulty": "Hard",
-      "estimated_hours": 60,
-      "description": "Develop a self-hostable platform (e.g., an Electron app with a Python backend) that allows developers to define and orchestrate complex, multi-step workflows using 'agent skills.' Inspired by modular agent skills and multi-agent collaboration, this platform would provide a visual interface to drag-and-drop or define steps using natural language. Each step could invoke a specific 'skill' (e.g., 'read file contents', 'run linter', 'generate test cases', 'summarize Git commit history'). The system would manage the flow, pass outputs between skills, and support human intervention/review points. Initial focus could be on common developer tasks like 'Code Refactoring Review' (agent reviews code, suggests changes, another agent applies them, human approves) or 'Automated Documentation Generation' for a given code module.",
-      "tech_stack": [
-        "Python (LangChain/LlamaIndex for agent orchestration)",
-        "FastAPI (for local API communication)",
-        "Electron/React (for desktop GUI)",
-        "Local LLM inference (e.g., Ollama, Llama.cpp for privacy/cost control)",
-        "Git integration",
-        "Docker (for easy self-hosting)"
-      ],
-      "source_inspiration": "agent-skills-collection (GitHub), juanjuan-team (GitHub), Tracewell (GitHub), The Bitter Lesson of Tool Calling (arXiv), Managing AI Coding Costs at Scale (Hacker News).",
-      "steps": [
-        "Task 1: Set up a basic Electron application shell with a Python backend (FastAPI) for local communication.",
-        "Task 2: Integrate a local LLM inference solution (e.g., Ollama or Llama.cpp) or set up API keys for commercial LLMs (OpenAI/Claude).",
-        "Task 3: Develop a core agent orchestration framework using LangChain or LlamaIndex to define agents and their ability to use 'tools' (skills).",
-        "Task 4: Create a library of fundamental developer 'skills' (e.g., `read_file(path)`, `write_file(path, content)`, `run_command(cmd)`, `get_git_diff()`).",
-        "Task 5: Design a visual workflow builder UI where users can drag-and-drop skills, connect them, and define conditions/loops.",
-        "Task 6: Implement a 'Code Refactoring Review' example workflow: 'Agent A' reads code, identifies refactoring opportunities, 'Agent B' generates specific code changes, 'Agent C' provides a human-readable summary for approval.",
-        "Task 7: Add mechanisms for user input, confirmation, and error handling within workflows, allowing human 'checkpoints'."
-      ]
-    },
-    {
-      "title": "Micro-AI Codebase Navigator & Semantic Search Tool",
+      "title": "AI-Powered Contextual Breadcrumbs for Developers",
       "difficulty": "Medium",
       "estimated_hours": 40,
-      "description": "Create a VS Code extension or a local CLI tool that indexes a developer's specific codebase semantically. Unlike generic search, this tool would use embeddings and a small, local LLM (or RAG with an external LLM) to understand the *meaning* of code, not just keywords. Developers could ask natural language questions like: 'Where is the main authentication logic implemented?', 'Show me examples of how we handle database transactions?', or 'Explain the purpose of this complex function and its dependencies.' It would provide highly relevant code snippets, explanations, and cross-references, significantly reducing the friction of onboarding to new projects or navigating unfamiliar parts of a large codebase, prioritizing 'understanding over origin.'",
+      "description": "This project involves building a personal AI assistant that passively observes a developer's digital activities (e.g., IDE activity, browser tabs, commit messages, calendar events, meeting transcripts). Instead of traditional note-taking, it intelligently generates and stores 'breadcrumbs' – concise, context-rich fragments that link actions, decisions, and consumed knowledge. These breadcrumbs would be semantically searchable, allowing the developer to quickly recall past project contexts, forgotten decisions, or relevant resources without explicit manual documentation, fostering a more natural and less disruptive knowledge management process.",
       "tech_stack": [
-        "Python (for indexing and RAG backend)",
-        "Sentence Transformers (for generating code embeddings)",
-        "Faiss/ChromaDB (for vector database)",
-        "LangChain/LlamaIndex (for RAG orchestration)",
-        "VS Code Extension API (TypeScript/JavaScript)",
-        "Local LLM (e.g., via Ollama) or commercial LLM API"
+        "Python",
+        "LLM API (e.g., OpenAI, Anthropic, or local model)",
+        "Vector Database (e.g., ChromaDB, Weaviate)",
+        "Local OS/IDE hooks/plugins (for activity monitoring)",
+        "Web UI Framework (e.g., Streamlit, React)"
       ],
-      "source_inspiration": "How I Contributed to a Laravel Application Without Knowing Laravel (Dev.to), ratatop (Dev.to - mentions Micro AI code reviewer), Probability-and-Statistics-for-Machine-Learning-and-Artificial-Intelligence (GitHub - foundational understanding), The Bitter Lesson of Tool Calling (arXiv).",
+      "source_inspiration": "Dev.to article: 'The Year I Started Leaving Breadcrumbs Instead of Notes'; Dev.to article: 'I Recreated Management With AI'; GitHub Repo: 'agent-skills-collection'",
       "steps": [
-        "Task 1: Develop a Python script to recursively parse a given codebase, extracting functions, classes, and significant code blocks.",
-        "Task 2: Implement a code chunking strategy to break down code into manageable segments suitable for embedding.",
-        "Task 3: Use a Sentence Transformers model (e.g., `all-MiniLM-L6-v2`) to generate vector embeddings for each code chunk.",
-        "Task 4: Store these embeddings in a local vector database (Faiss or ChromaDB) along with metadata linking back to the original code file and line numbers.",
-        "Task 5: Build a VS Code extension interface that allows users to input natural language queries.",
-        "Task 6: On query, generate an embedding for the query and perform a similarity search in the vector database to retrieve relevant code chunks.",
-        "Task 7: Integrate with a local LLM (e.g., via Ollama) or an external LLM API (e.g., OpenAI) to perform RAG (Retrieval Augmented Generation) on the retrieved code chunks, generating a coherent explanation or answer.",
-        "Task 8: Display the LLM's response and directly link to the relevant code in the VS Code editor."
+        "Task 1: Design and implement local monitoring agents for common developer tools (IDE, browser, git CLI) and system events (e.g., active window).",
+        "Task 2: Develop a backend service in Python to ingest raw activity data from these agents.",
+        "Task 3: Integrate an LLM API to process raw activities into concise, contextual 'breadcrumb' summaries and extract key entities/topics.",
+        "Task 4: Store breadcrumbs and their embeddings in a vector database for efficient semantic search.",
+        "Task 5: Build a simple web interface (e.g., with Streamlit or React) for searching, browsing, and visualizing your personal breadcrumb history.",
+        "Task 6: Implement a local caching mechanism to minimize API calls and ensure privacy of sensitive data."
+      ]
+    },
+    {
+      "title": "Explainable AI Monitoring for Business Workflow Automation",
+      "difficulty": "Hard",
+      "estimated_hours": 80,
+      "description": "Develop a monitoring system that integrates with existing business workflow automation tools (like RPA bots or document processing systems) that rely on ML models. This system will track the confidence scores and decision paths of integrated ML models. When an ML model's confidence falls below a set threshold, or if its decision is an outlier compared to historical patterns, the system will flag the specific workflow step for human review. Crucially, it will provide an 'explainable' output (using techniques like LIME or SHAP) detailing *why* the model was uncertain or made a particular decision, allowing operators to understand, correct, and improve the automated process with greater trust and transparency.",
+      "tech_stack": [
+        "Python (for ML model interaction, explanation libraries like LIME/SHAP)",
+        "Flask/FastAPI (for API integration with workflows)",
+        "PostgreSQL (for storing monitoring data and alerts)",
+        "Message Queue (e.g., Kafka, RabbitMQ for real-time data processing)",
+        "React/Vue (for a dashboard to visualize workflow status and explanations)"
+      ],
+      "source_inspiration": "GitHub Repo: 'Scanvidence' (explainable, uncertainty-aware medical imaging); GitHub Repo: 'Tracewell' (visual workflow observation); arXiv Paper: 'Learning When to Trust via Selective Context Preference Optimization'",
+      "steps": [
+        "Task 1: Set up a message queue to receive real-time data (model inputs, outputs, confidence scores) from simulated or actual ML-powered workflow steps.",
+        "Task 2: Develop a Python-based backend service to consume messages, analyze model predictions for uncertainty or anomaly, and trigger explanations.",
+        "Task 3: Integrate explainability libraries (LIME, SHAP) to generate human-readable explanations when a model's confidence is low or an anomaly is detected.",
+        "Task 4: Implement a database schema to store monitoring logs, generated explanations, and human feedback on flagged instances.",
+        "Task 5: Build a dashboard UI to display active workflows, highlight flagged steps, and present the generated explanations to operators.",
+        "Task 6: Develop an API endpoint to allow workflow automation tools to register their ML components and receive monitoring feedback."
+      ]
+    },
+    {
+      "title": "Open-Source LLM Agent 'Programmatic Skill' Registry",
+      "difficulty": "Medium",
+      "estimated_hours": 60,
+      "description": "Create an open-source platform similar to a package manager or a component marketplace, but specifically for modular 'skills' that LLM-based agents can utilize. This registry would allow developers to define, publish, and discover reusable programmatic skills. Instead of rigid JSON-based tool calls, these skills would emphasize the ability for LLMs to generate and execute code snippets or scripts dynamically to interact with external APIs, internal functions, or even local system commands securely within a sandboxed environment. The platform would provide standardized interfaces for skill definition, versioning, discovery, and secure execution, making it easier for agent developers to build sophisticated, adaptable agents.",
+      "tech_stack": [
+        "Python (for skill definition, agent runtime, and API)",
+        "FastAPI (for REST API for the registry)",
+        "PostgreSQL/MongoDB (for skill metadata storage)",
+        "Docker/gVisor (for sandboxed skill execution)",
+        "React/Vue (for a web portal for skill discovery and documentation)"
+      ],
+      "source_inspiration": "GitHub Repo: 'agent-skills-collection'; arXiv Paper: 'The Bitter Lesson of Tool Calling'",
+      "steps": [
+        "Task 1: Define a standardized YAML/JSON schema for describing agent skills, including input parameters, expected output, and code execution instructions.",
+        "Task 2: Develop a FastAPI backend for the registry, enabling users to upload, download, search, and manage skill definitions.",
+        "Task 3: Implement a secure, containerized execution environment (e.g., using Docker) where agents can run dynamically generated skill code safely.",
+        "Task 4: Create a Python client library that LLM agent frameworks (like LangChain, LlamaIndex) can use to interact with the skill registry and execute skills.",
+        "Task 5: Build a web-based frontend for the registry, allowing users to browse available skills, view documentation, and contribute new ones.",
+        "Task 6: Implement versioning and dependency management for skills within the registry."
       ]
     }
   ],
   "quick_actions": [
-    "Action 1: Dedicate 30 minutes this week to explore a simple LangChain or LlamaIndex example. Try building a basic agent that summarizes a web article based on a given URL.",
-    "Action 2: Conduct a personal 'AI cost audit.' Review your usage of AI coding assistants (Copilot, ChatGPT, etc.) for a day and identify one task you could automate locally or optimize for cheaper API calls.",
-    "Action 3: Pick one fundamental concept in probability or statistics (e.g., Bayes' Theorem, Variance, Hypothesis Testing) and spend an hour reviewing its principles and practical application in ML models.",
-    "Action 4: Identify one repetitive, manual task in your daily developer workflow (e.g., renaming files, generating boilerplate, moving data between formats) and write a small script (Bash, Python, Node.js) to automate it."
+    "Action 1: Dedicate 30 minutes to exploring the capabilities of a modern AI coding assistant (e.g., GitHub Copilot, Cursor, or local LLM in your IDE) on a non-critical coding task. Experiment with generating boilerplate, writing tests, or refactoring existing code to observe its impact on your workflow.",
+    "Action 2: Identify one repetitive personal or work task you perform weekly (e.g., renaming files, generating a simple report, aggregating data from multiple sources). Spend an hour attempting to automate it with a simple Python script, shell script, or a basic RPA tool, focusing on the core logic.",
+    "Action 3: For your next small project or learning task, try a 'breadcrumb' style knowledge capture. Instead of detailed notes, just capture 2-3 key decisions, links to relevant code/resources, and major blockers/solutions in a simple markdown file, linking back to the project. Focus on recallability over exhaustive detail.",
+    "Action 4: Spend 1-2 hours installing and running a basic example from an open-source LLM agent framework (e.g., LangChain, LlamaIndex, AutoGen). Focus on understanding how 'tools' or 'skills' are defined and how the agent decides which tool to use."
   ]
 }
