@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-08-10 07:06:39",
+  "last_updated": "2026-08-11 06:44:35",
   "scraped_sources": {
     "github": [
+      {
+        "name": "PARSEC.py",
+        "owner": "QianGroupPage",
+        "description": "Python-based real-space Kohn-Sham DFT accelerated by machine-learned charge density (J. Comput. Chem.)",
+        "stars": 15,
+        "url": "https://github.com/QianGroupPage/PARSEC.py",
+        "category": "AI / ML"
+      },
       {
         "name": "avocado-price-prediction",
         "owner": "antonio-gaskin",
         "description": "Avocado price forecasting using Facebook Prophet on retail avocado sales data, with analysis, visualization, and 2019 price prediction.",
         "stars": 12,
         "url": "https://github.com/antonio-gaskin/avocado-price-prediction",
-        "category": "AI / ML"
-      },
-      {
-        "name": "PARSEC.py",
-        "owner": "QianGroupPage",
-        "description": "Python-based real-space Kohn-Sham DFT accelerated by machine-learned charge density (J. Comput. Chem.)",
-        "stars": 11,
-        "url": "https://github.com/QianGroupPage/PARSEC.py",
         "category": "AI / ML"
       },
       {
@@ -27,20 +27,28 @@
         "category": "AI / ML"
       },
       {
-        "name": "email-spam-filter-SageMaker",
+        "name": "mobile-price-prediction",
         "owner": "antonio-gaskin",
-        "description": "Email spam filter using AWS SageMaker with Lambda and CloudFormation integration",
+        "description": "A mobile price prediction project using the Mobile Price Classification dataset to train and evaluate machine learning models for classifying smartphone prices.",
         "stars": 9,
-        "url": "https://github.com/antonio-gaskin/email-spam-filter-SageMaker",
+        "url": "https://github.com/antonio-gaskin/mobile-price-prediction",
         "category": "AI / ML"
       },
       {
-        "name": "car-sales-prediction",
+        "name": "rag-opensearch",
         "owner": "antonio-gaskin",
-        "description": "A Flask-based car sales prediction app that estimates a buyer’s budget using demographic and financial features, then recommends cars within that range. Includes model training, interactive web UI, and Heroku deployment.",
+        "description": "Semantic Search Engine for Retrieval-Augmented Generation (RAG) using AWS OpenSearch and Bedrock Titan embeddings.",
         "stars": 9,
-        "url": "https://github.com/antonio-gaskin/car-sales-prediction",
+        "url": "https://github.com/antonio-gaskin/rag-opensearch",
         "category": "AI / ML"
+      },
+      {
+        "name": "compdf-generation",
+        "owner": "ComPDFKit",
+        "description": "Generate PDFs effortlessly with the open-source ComPDF Generation SDK. Design HTML-based templates to produce business-critical documents, such as contracts, invoices, reports, and certificates with ease. ",
+        "stars": 137,
+        "url": "https://github.com/ComPDFKit/compdf-generation",
+        "category": "Automation / Productivity"
       },
       {
         "name": "agent-skills-collection",
@@ -51,105 +59,102 @@
         "category": "Automation / Productivity"
       },
       {
-        "name": "compdf-generation",
-        "owner": "ComPDFKit",
-        "description": "Generate PDFs effortlessly with the open-source ComPDF Generation SDK. Design HTML-based templates to produce business-critical documents, such as contracts, invoices, reports, and certificates with ease. ",
-        "stars": 117,
-        "url": "https://github.com/ComPDFKit/compdf-generation",
-        "category": "Automation / Productivity"
-      },
-      {
         "name": "skills",
         "owner": "sv-number",
-        "description": "Give your AI agent a phone number: order a private number in any country over the API, read the SMS verification code, hand the number back.",
-        "stars": 84,
+        "description": "Give your AI agent a phone number: order a private number in 200+ countries over the API, read the SMS verification code, hand the number back. The widest country coverage in the category, checkable with one API call.",
+        "stars": 117,
         "url": "https://github.com/sv-number/skills",
         "category": "Automation / Productivity"
       },
       {
-        "name": "process-lasso-workbench-2026",
-        "owner": "brinkdaimyogenerator",
-        "description": "Process Lasso 2026 — clear documentation, release channel, and getting-started workflows.",
-        "stars": 41,
-        "url": "https://github.com/brinkdaimyogenerator/process-lasso-workbench-2026",
+        "name": "MINDTECH",
+        "owner": "MINDTECH-Industries",
+        "description": "Industrial warfare, realistic processing, vehicles, and payload logistics for Mindustry v8.",
+        "stars": 43,
+        "url": "https://github.com/MINDTECH-Industries/MINDTECH",
         "category": "Automation / Productivity"
       },
       {
-        "name": "Tracewell",
-        "owner": "Tracewell-code",
-        "description": "A visual workspace for building, running, and observing reliable workflow automations.",
-        "stars": 35,
-        "url": "https://github.com/Tracewell-code/Tracewell",
+        "name": "xianyu-rpa",
+        "owner": "zejue",
+        "description": "闲鱼卖家 RPA 自动化运营助手｜多店铺聚合接待·订单自动处理·AI智能客服",
+        "stars": 36,
+        "url": "https://github.com/zejue/xianyu-rpa",
         "category": "Automation / Productivity"
       }
     ],
     "hacker_news": [
       {
-        "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
-        "url": "https://www.docker.com/products/docker-sandboxes/",
-        "score": 60
+        "title": "LFM2.5 2.6B model competitive with 4x larger models",
+        "url": "https://huggingface.co/LiquidAI/LFM2.5-2.6B",
+        "score": 30
       },
       {
-        "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
-        "url": "https://www.whodunnitai.com/",
-        "score": 53
+        "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+        "url": "https://cactuscompute.com/needle",
+        "score": 281
       },
       {
-        "title": "How I use LLMs to learn complex topics",
-        "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
-        "score": 587
+        "title": "The “mechanical miracle” that ruined Mark Twain’s life",
+        "url": "https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined",
+        "score": 110
       },
       {
-        "title": "The Philippines' big offshoring industry is growing despite AI",
-        "url": "https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai",
-        "score": 17
+        "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+        "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+        "score": 468
+      },
+      {
+        "title": "World Train Map – 1247 train routes around the world",
+        "url": "https://worldtrainmap.com/",
+        "score": 105
       }
     ],
     "arxiv": [
       {
-        "title": "MirrorWorld: Taming Video Diffusion Models for Mirror Reflection Generation",
-        "summary": "Recent advances in video diffusion models (VDMs) have enabled high-fidelity video synthesis. However, generating mirror reflections remains challenging because the content within a mirror must remain ...",
-        "url": "http://arxiv.org/abs/2608.07463v1"
+        "title": "Beyond Naturalness: Probing Automated Text-To-Speech Evaluators on Linguistically Grounded Dimensions",
+        "summary": "Automated Text-to-Speech (TTS) evaluation methods (Mean Opinion Score (MOS) predictors and Audio Large Language Models (Audio-LLM) judges) are expected to reflect human perception, yet it is unclear h...",
+        "url": "http://arxiv.org/abs/2608.09930v1"
       },
       {
-        "title": "CreativeInstruct: Scalably Teaching LLMs to Balance Quality, Creativity, and Diversity",
-        "summary": "While post-training improves the capabilities of large language models (LLMs), it generally lowers their output diversity and creativity, negatively impacting tasks that explicitly require creativity ...",
-        "url": "http://arxiv.org/abs/2608.07460v1"
+        "title": "Multimodal Model Diffing for Feature Discovery and Control",
+        "summary": "Multimodal Large Language Models (MLLMs) exhibit strong visual understanding, yet the internal features that cause these behaviors remain difficult to identify, audit, or control. While applicable to ...",
+        "url": "http://arxiv.org/abs/2608.09928v1"
       },
       {
-        "title": "CoinRAG: Contextualized Information Nugget KV Cache Reuse for Long-Context RAG",
-        "summary": "Recent optimization studies on Retrieval-Augmented Generation (RAG) have exploited chunk-level KV cache reuse to avoid processing long retrieved contexts for higher efficiency, while significant infor...",
-        "url": "http://arxiv.org/abs/2608.07458v1"
+        "title": "From Values to Benchmarks: Evaluating Large Language Models for Governmental Use in Dutch",
+        "summary": "Large language models are increasingly being deployed in governmental settings, yet few existing evaluation frameworks jointly reflect the values of public administration and the linguistic requiremen...",
+        "url": "http://arxiv.org/abs/2608.09925v1"
       },
       {
-        "title": "Interaction Creates Dynamical AI Behavior Absent in Isolation",
-        "summary": "What will happen when AI agents interact in daily life, e.g. when one AI starts bossing another around? We find a counterintuitive answer that opens new avenues for out-of-equilibrium Physics. When a ...",
-        "url": "http://arxiv.org/abs/2608.07457v1"
+        "title": "GENCO - A Unified Neural Solver Embedded in a Development Framework for Steady-State Grid Analysis",
+        "summary": "Foundation models are transforming business workflows and boosting productivity, yet they remain largely absent from engineering domains such as power system analysis, where strict physical consistenc...",
+        "url": "http://arxiv.org/abs/2608.09921v1"
       },
       {
-        "title": "Strategy-first synthesis planning for complex natural products",
-        "summary": "The total synthesis of a complex molecule is among the most demanding intellectual and experimental feats in chemistry: a chemist must plan many steps ahead for how to assemble simple building blocks ...",
-        "url": "http://arxiv.org/abs/2608.07454v1"
+        "title": "DSLE: A Learning Environment for Dark Souls Boss Encounters",
+        "summary": "We introduce the Dark Souls Learning Environment (DSLE), a containerized platform that presents all 22 boss encounters of Dark Souls: Remastered as game-playing agent benchmarks through a Gymnasium-st...",
+        "url": "http://arxiv.org/abs/2608.09902v1"
       }
     ],
     "devto": [
       {
-        "title": "Understanding Over Origin: The Missing Friction",
-        "description": "A few days ago, I wrote \"Understanding Over Origin\" and it got alot of engagement and I'm really...",
-        "url": "https://dev.to/adamthedeveloper/understanding-over-origin-the-missing-friction-55ag",
-        "reactions": 73
-      },
-      {
         "title": "I Recreated Management With AI: 9 Things I Do Differently",
         "description": "I stopped treating permission prompts as the safety system, then spent four and a half months writing 134 standing rules to replace them. Nine things I do differently with AI, and the proof to back it up.",
         "url": "https://dev.to/anchildress1/i-recreated-management-with-ai-9-things-i-do-differently-3j8g",
-        "reactions": 44
+        "reactions": 56
+      },
+      {
+        "title": "You Don't Have an AI Problem You Have a Thinking Problem.",
+        "description": "I used to think AI was making me lazy. I was wrong. AI wasn't making me lazy I was using AI as an...",
+        "url": "https://dev.to/harsh2644/you-dont-have-an-ai-problem-you-have-a-thinking-problem-5f07",
+        "reactions": 19
       },
       {
         "title": "The Year I Started Leaving Breadcrumbs Instead of Notes",
         "description": "I read back six months of my own work journal and found three different note-taking systems, only one of which I remember deciding to build. This is what the volume of information actually did to my notes, what got better, what I lost, and how I capture things now.",
         "url": "https://dev.to/cseeman/the-year-i-started-leaving-breadcrumbs-instead-of-notes-fe0",
-        "reactions": 28
+        "reactions": 30
       },
       {
         "title": "Are we the abstraction? AI and the future of software engineering",
@@ -158,88 +163,93 @@
         "reactions": 19
       },
       {
-        "title": "AI Didn't Kill My Motivation — Here's How I Use It as a Frontend Productivity Weapon",
-        "description": "Chinese frontend communities are flooded with 'AI will replace us' anxiety. After going through the same fear, I found a different path: treating AI as a force multiplier, not a competitor. Here's my real workflow and the numbers behind it.",
-        "url": "https://dev.to/xiaomodern/ai-didnt-kill-my-motivation-heres-how-i-use-it-as-a-frontend-productivity-weapon-4dkm",
-        "reactions": 9
+        "title": "Ayo GitHub Quietly Killed the Unreviewable Mega-PR",
+        "description": "If you've ever opened a PR with 47 changed files and a diff so long GitHub just gives up and shows...",
+        "url": "https://dev.to/lovestaco/ayo-github-quietly-killed-the-unreviewable-mega-pr-3868",
+        "reactions": 13
       }
     ]
   },
-  "trends": "Today's tech trends reveal a strong convergent focus on advanced AI agents, practical machine learning deployment, and AI-driven personal and business productivity. We're seeing a push towards modular AI agent architectures, often deployed in secure, isolated sandboxes, capable of interacting with the real world (e.g., phone calls, specific skills). Simultaneously, the emphasis in traditional AI/ML is on making models production-ready and integrated into end-to-end pipelines, exemplified by price prediction and spam filtering services. Across the board, Large Language Models (LLMs) are being leveraged not just for core AI tasks, but as transformative tools for personal learning, content creation, and workflow automation, augmenting human capabilities rather than solely replacing them. There's also a clear interest in optimizing LLM performance (e.g., RAG efficiency) and expanding their creative and diverse output potential.",
+  "trends": "Today's tech landscape is highly characterized by the accelerating democratization and accessibility of AI, exemplified by the rise of open-source models and smaller, efficient LLMs capable of running on edge devices. There's a strong emphasis on 'agentic AI,' where autonomous systems perform complex tasks, often with real-world interactions (e.g., phone numbers, process automation). Practical, domain-specific machine learning applications continue to be popular, focusing on solving tangible business problems like price prediction and semantic search, often packaged in full-stack MLOps pipelines. Furthermore, there's a growing focus on the efficiency, explainability, and ethical deployment of AI. Finally, developers are increasingly leveraging AI not just as a tool to build products, but as a critical enabler for personal and team productivity, rethinking workflows and information management in the AI era.",
   "ideas": [
     {
-      "title": "AgentSkillBox: Modular AI Agent Sandbox & Orchestrator",
+      "title": "Agentic Budget Guardian & Price Notifier",
       "difficulty": "Medium",
       "estimated_hours": 20,
-      "description": "Develop a platform that allows users to define and deploy modular AI agent 'skills' within isolated Docker sandboxes. The system would enable developers to register custom functions (Python, API calls) as skills, which an LLM-powered agent can then orchestrate and execute securely. This addresses the need for robust, extensible, and safe AI agents, allowing experimentation with multi-agent interactions while preventing unintended side effects. It provides a visual interface to monitor agent activity and resource usage within its dedicated sandbox.",
+      "description": "Develop an intelligent AI agent that acts as a personal financial monitor. Users can configure the agent to track specific expenses (e.g., recurring subscriptions, utility bills), monitor product prices on e-commerce sites, or even follow specific investment assets. The agent leverages small ML models for anomaly detection or simple forecasting, identifying potential overspending, price drops, or investment opportunities. Utilizing 'skills' (like SMS integration), it provides timely, actionable notifications, allowing users to make informed decisions or take automated steps (e.g., flagging a subscription for review, suggesting a purchase) directly from the agent's insights.",
       "tech_stack": [
         "Python",
         "FastAPI",
-        "Docker",
-        "OpenAI API (or other LLM)",
-        "React/Vue (for frontend)",
-        "Kubernetes (optional, for advanced scaling)"
+        "LangChain (for agent framework)",
+        "Pandas/Numpy (for data processing)",
+        "Scikit-learn (for simple forecasting/anomaly detection)",
+        "Requests (for API calls to financial/e-commerce data)",
+        "Twilio API (for SMS notifications)"
       ],
-      "source_inspiration": "GitHub: `agent-skills-collection`, Hacker News: 'Docker Sandboxes – Disposable, isolated sandboxes for AI agents', arXiv: 'Interaction Creates Dynamical AI Behavior Absent in Isolation'",
+      "source_inspiration": "agent-skills-collection, skills, avocado-price-prediction, airbnb-price-prediction, Needle2 (for edge/efficient agent concept)",
       "steps": [
-        "1. Set up a FastAPI backend to handle skill registration, agent creation, and execution requests.",
-        "2. Implement a Docker containerization strategy to spin up isolated execution environments for each agent.",
-        "3. Create a 'skill definition' mechanism (e.g., via Pydantic models or Python decorators) to enable users to define and upload their custom agent capabilities.",
-        "4. Develop the core agent logic that uses an LLM to decide which skills to invoke based on user prompts or internal goals.",
-        "5. Implement a monitoring and logging system to track agent actions, inputs, outputs, and resource consumption within its sandbox.",
-        "6. Build a simple web UI for skill management, agent deployment, and interaction."
+        "Task 1: Set up a FastAPI backend to expose agent endpoints.",
+        "Task 2: Implement a core agent loop using LangChain, defining 'tools' for data fetching (e.g., web scraping for prices, API calls for financial data).",
+        "Task 3: Develop simple ML models (e.g., ARIMA for time series, Isolation Forest for anomaly) to analyze fetched data for trends or alerts.",
+        "Task 4: Integrate a notification 'skill' using Twilio API for SMS alerts based on agent decisions and user-defined thresholds.",
+        "Task 5: Create a basic web UI (e.g., Streamlit or a simple HTML/JS frontend) for users to configure monitoring tasks and view agent activity.",
+        "Task 6: Implement user authentication and persistent storage for configurations and historical data."
       ]
     },
     {
-      "title": "IntelliDoc Generator & Policy Auditor",
+      "title": "AI-Powered Smart Report & Contract Generator",
       "difficulty": "Medium",
       "estimated_hours": 16,
-      "description": "Create a web application that goes beyond simple document generation. Users can upload HTML-based templates (e.g., for contracts, invoices, reports) and provide data to generate business-critical PDFs. The unique value-add is an integrated LLM-powered audit module that, post-generation, automatically checks the document against a predefined set of compliance rules or best practices. It will highlight potential clauses missing, inconsistencies, or suggestions for improvement, acting as an intelligent 'second pair of eyes' to ensure document quality and adherence to policies.",
+      "description": "Build a web service that automates the generation of complex business documents (reports, contracts, invoices) by combining structured data with AI-driven content generation. Users upload data (CSV, JSON) and an HTML-based template. The system dynamically populates the template and then, crucially, uses an integrated LLM to generate intelligent summaries, highlight key insights, or even suggest personalized clauses/sections based on the data. The final output is a professional, AI-enhanced PDF, significantly reducing manual effort and adding a layer of intelligent content not possible with simple templating.",
       "tech_stack": [
-        "Python (Flask/Django)",
-        "Jinja2",
-        "WeasyPrint (or similar PDF renderer)",
-        "OpenAI API (or other LLM)",
-        "HTML/CSS/JavaScript (for frontend)"
+        "Python",
+        "FastAPI",
+        "ComPDFKit/WeasyPrint (for HTML to PDF conversion)",
+        "Jinja2 (for HTML templating)",
+        "Hugging Face transformers (for a local small LLM for summarization) or OpenAI API",
+        "LangChain (for LLM interaction orchestration)"
       ],
-      "source_inspiration": "GitHub: `compdf-generation`, Dev.to: 'I Recreated Management With AI: 9 Things I Do Differently'",
+      "source_inspiration": "compdf-generation, agent-skills-collection (for modular AI content generation), arXiv papers on LLM evaluation (for understanding capabilities)",
       "steps": [
-        "1. Develop a web interface for users to upload HTML templates, define data fields, and trigger document generation.",
-        "2. Implement backend logic to parse data, render HTML templates with Jinja2, and convert the resulting HTML to PDF.",
-        "3. Integrate an LLM API: Define a structured prompt that feeds the generated document content along with a set of policy guidelines (e.g., 'Ensure legal disclaimers are present', 'Verify all sections have a clear heading').",
-        "4. Process the LLM's response to extract audit findings, suggestions, and confidence scores.",
-        "5. Display the audit results clearly in the web interface, allowing users to review and make necessary edits or regenerate the document.",
-        "6. Add a mechanism for users to save and manage their templates and generated documents."
+        "Task 1: Set up a FastAPI server to handle document generation requests.",
+        "Task 2: Integrate an HTML-to-PDF library (e.g., ComPDFKit, WeasyPrint) for core PDF generation.",
+        "Task 3: Implement data ingestion endpoints for CSV/JSON and template uploads (HTML/Jinja2).",
+        "Task 4: Develop a service to process data and render HTML templates using Jinja2.",
+        "Task 5: Integrate an LLM (local or API-based) to take rendered data/text and generate summaries, insights, or dynamic content blocks.",
+        "Task 6: Combine the LLM output with the templated HTML before converting to PDF.",
+        "Task 7: Create a simple web UI for uploading data/templates and downloading generated PDFs."
       ]
     },
     {
-      "title": "KnowledgeTrail: AI-Powered Learning Assistant with Contextual 'Breadcrumbs'",
+      "title": "Private AI DevDoc Navigator",
       "difficulty": "Hard",
       "estimated_hours": 30,
-      "description": "Build an intelligent learning assistant that helps users master complex topics by leveraging the 'breadcrumbs' concept. Instead of traditional linear notes, this system would allow users to feed it diverse information sources (articles, documents, personal thoughts) which it then breaks down into small, contextual, interconnected 'knowledge nuggets' or 'breadcrumbs'. When the user queries the system on a topic, an LLM retrieves relevant breadcrumbs from a vector database and synthesizes personalized, concise explanations, identifies gaps in understanding, or suggests further learning paths. This moves beyond simple summarization to a dynamic, context-aware learning companion.",
+      "description": "Create a local-first Retrieval-Augmented Generation (RAG) chatbot specifically for developer documentation. This application allows users to ingest their private, internal, or personal documentation (e.g., Markdown files from Git repos, Confluence exports, personal notes). Leveraging lightweight, locally-run LLMs and a local vector database, the chatbot provides instant, context-aware answers to queries about the ingested documentation. The key value is privacy, as no sensitive data leaves the user's machine, combined with the efficiency of RAG for precise information retrieval, addressing the challenge of navigating vast documentation quickly.",
       "tech_stack": [
-        "Python (FastAPI)",
-        "OpenAI API (or other LLM for embeddings and generation)",
-        "Vector Database (e.g., Pinecone, Weaviate, FAISS)",
-        "Web Scraper (e.g., BeautifulSoup) / Document Parsers",
-        "Frontend framework (React/Vue/Svelte)"
+        "Python",
+        "Streamlit/Gradio (for interactive UI)",
+        "llama.cpp (for running local LLMs like Llama 3 or Mistral variants)",
+        "LangChain/LlamaIndex (for RAG orchestration)",
+        "ChromaDB/FAISS (for local vector store)",
+        "sentence-transformers (for embeddings generation)"
       ],
-      "source_inspiration": "Hacker News: 'How I use LLMs to learn complex topics', Dev.to: 'The Year I Started Leaving Breadcrumbs Instead of Notes', arXiv: 'CoinRAG: Contextualized Information Nugget KV Cache Reuse for Long-Context RAG'",
+      "source_inspiration": "rag-opensearch, Needle2, LFM2.5 2.6B model, The Year I Started Leaving Breadcrumbs Instead of Notes",
       "steps": [
-        "1. Design a user interface for inputting learning materials (text, URLs, file uploads) and querying the knowledge base.",
-        "2. Implement data ingestion pipeline: parse various input types, chunk content into small, semantically meaningful 'breadcrumbs'.",
-        "3. Generate embeddings for each breadcrumb using an LLM and store them in a vector database.",
-        "4. Develop a retrieval-augmented generation (RAG) system: When a user queries, retrieve the most relevant breadcrumbs from the vector database.",
-        "5. Feed the retrieved breadcrumbs and the user's query to an LLM to generate a synthesized answer, explanation, or learning path.",
-        "6. Implement a feedback loop or a 'refine' feature, allowing users to guide the LLM's output or suggest better breadcrumb connections.",
-        "7. Build features for visualizing knowledge connections or 'trails' between breadcrumbs."
+        "Task 1: Set up a Python environment and choose a UI framework (Streamlit/Gradio).",
+        "Task 2: Implement a document ingestion pipeline to load various formats (Markdown, PDF, TXT) into a text splitter.",
+        "Task 3: Use `sentence-transformers` to generate embeddings for document chunks.",
+        "Task 4: Initialize and populate a local vector database (ChromaDB/FAISS) with the embeddings and document chunks.",
+        "Task 5: Set up a local LLM using `llama.cpp` or a similar framework to run a smaller, efficient model.",
+        "Task 6: Implement the RAG pipeline using LangChain/LlamaIndex: query -> retrieve relevant chunks from vector DB -> feed chunks + query to LLM for response.",
+        "Task 7: Design the UI to allow document upload, query input, and display of LLM responses.",
+        "Task 8: Optimize performance for local execution and manage model loading/unloading."
       ]
     }
   ],
   "quick_actions": [
-    "1. Experiment with an LLM (e.g., ChatGPT, Claude) for 15 minutes daily to automate a small, repetitive coding task or to generate initial drafts for documentation. Focus on using it as a co-pilot, not a replacement.",
-    "2. Adopt a 'breadcrumb' note-taking habit: Instead of comprehensive notes, write down fragmented, highly contextual one-liner insights or key takeaways from articles/meetings. Store them in a searchable digital tool (e.g., Obsidian, Notion, or simple text files).",
-    "3. Set up a simple personal automation script (e.g., Python, Bash) or use a no-code tool (Zapier, IFTTT) to automate a single, recurring non-coding task you perform weekly (e.g., organizing downloads, sending a status email).",
-    "4. Spend an hour researching an AI agent framework (e.g., LangChain, AutoGen, CrewAI) to understand how modular 'skills' are defined and orchestrated, focusing on examples that interact with external tools or APIs."
+    "Action 1: Dedicate 30 minutes this week to build a tiny, single-purpose Python script that automates a mundane task you perform regularly (e.g., renaming files, parsing log data). Think 'agent skill' in its simplest form.",
+    "Action 2: Experiment with an AI tool (e.g., ChatGPT, Gemini) to help you organize or summarize your personal notes or meeting minutes. Focus on how AI can create 'breadcrumbs' instead of just raw text.",
+    "Action 3: Make a conscious effort in your next development task to break down your work into smaller, more frequent commits and target smaller Pull Requests to improve reviewability, inspired by GitHub's changes.",
+    "Action 4: Before using AI for any significant task today, take 5 minutes to write down the exact problem you're trying to solve and your desired outcome. This habit (from 'You Don't Have an AI Problem') helps ensure you're using AI effectively, not just as a crutch."
   ]
 }
