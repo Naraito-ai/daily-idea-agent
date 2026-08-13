@@ -1,90 +1,125 @@
 {
-  "last_updated": "2026-08-12 07:05:28",
+  "last_updated": "2026-08-13 07:09:27",
   "scraped_sources": {
     "github": [
       {
-        "name": "polymarket-trading-bot-ai-model-btc-up-down-sentinel-pulse-lightgbm-clob-autobot",
-        "owner": "DiegoBermud65",
-        "description": "Polymarket AI model trading bot for BTC Up/Down 5m 15m 1h prediction markets. Dual LightGBM Sentinel + Pulse architecture with CLOB execution, edge detection, Kelly sizing, paper & live modes.",
-        "stars": 16,
-        "url": "https://github.com/DiegoBermud65/polymarket-trading-bot-ai-model-btc-up-down-sentinel-pulse-lightgbm-clob-autobot",
+        "name": "bandminton",
+        "owner": "Yixuan-Wu39",
+        "description": "Open-source wearable badminton motion analysis with lightweight on-device machine learning.",
+        "stars": 103,
+        "url": "https://github.com/Yixuan-Wu39/bandminton",
         "category": "AI / ML"
       },
       {
         "name": "PARSEC.py",
         "owner": "QianGroupPage",
         "description": "Python-based real-space Kohn-Sham DFT accelerated by machine-learned charge density (J. Comput. Chem.)",
-        "stars": 15,
+        "stars": 16,
         "url": "https://github.com/QianGroupPage/PARSEC.py",
         "category": "AI / ML"
       },
       {
-        "name": "avocado-price-prediction",
+        "name": "Selection-and-Improvement-of-Supervised-Learning-Models-using-Scikit-learn",
         "owner": "antonio-gaskin",
-        "description": "Avocado price forecasting using Facebook Prophet on retail avocado sales data, with analysis, visualization, and 2019 price prediction.",
-        "stars": 12,
-        "url": "https://github.com/antonio-gaskin/avocado-price-prediction",
-        "category": "AI / ML"
-      },
-      {
-        "name": "airbnb-price-prediction",
-        "owner": "antonio-gaskin",
-        "description": "Airbnb price prediction for Berlin using an end-to-end ML pipeline with data cleaning, scikit-learn model training, and a FastAPI prediction service packaged for Docker.",
-        "stars": 11,
-        "url": "https://github.com/antonio-gaskin/airbnb-price-prediction",
-        "category": "AI / ML"
-      },
-      {
-        "name": "mobile-price-prediction",
-        "owner": "antonio-gaskin",
-        "description": "A mobile price prediction project using the Mobile Price Classification dataset to train and evaluate machine learning models for classifying smartphone prices.",
+        "description": "A Scikit-learn project for selecting, tuning, and evaluating supervised learning models on CharityML donor data.",
         "stars": 9,
-        "url": "https://github.com/antonio-gaskin/mobile-price-prediction",
+        "url": "https://github.com/antonio-gaskin/Selection-and-Improvement-of-Supervised-Learning-Models-using-Scikit-learn",
         "category": "AI / ML"
+      },
+      {
+        "name": "resnet-from-scratch-pytorch",
+        "owner": "antonio-gaskin",
+        "description": "PyTorch project implementing ResNet architectures from scratch, including custom training experiments, architecture variants, and batch-size studies for optimal performance.",
+        "stars": 9,
+        "url": "https://github.com/antonio-gaskin/resnet-from-scratch-pytorch",
+        "category": "AI / ML"
+      },
+      {
+        "name": "KLQ",
+        "owner": "BalSob107",
+        "description": "Geometry-aware LLM quantization, per-direction bit allocation priced by measured KL divergence given injected perturbation.",
+        "stars": 7,
+        "url": "https://github.com/BalSob107/KLQ",
+        "category": "AI / ML"
+      },
+      {
+        "name": "phone-harness",
+        "owner": "ShawnPana",
+        "description": "let your agent control your phone",
+        "stars": 1673,
+        "url": "https://github.com/ShawnPana/phone-harness",
+        "category": "Automation / Productivity"
+      },
+      {
+        "name": "skills",
+        "owner": "sv-number",
+        "description": "Give your AI agent a phone number: order a private number in 200+ countries over the API, read the SMS verification code, hand the number back. The widest country coverage in the category, checkable with one API call.",
+        "stars": 88,
+        "url": "https://github.com/sv-number/skills",
+        "category": "Automation / Productivity"
+      },
+      {
+        "name": "MINDTECH",
+        "owner": "MINDTECH-Industries",
+        "description": "Industrial warfare, realistic processing, vehicles, and payload logistics for Mindustry v8.",
+        "stars": 77,
+        "url": "https://github.com/MINDTECH-Industries/MINDTECH",
+        "category": "Automation / Productivity"
+      },
+      {
+        "name": "xianyu-rpa",
+        "owner": "zejue",
+        "description": "闲鱼卖家 RPA 自动化运营助手｜多店铺聚合接待·订单自动处理·AI智能客服",
+        "stars": 44,
+        "url": "https://github.com/zejue/xianyu-rpa",
+        "category": "Automation / Productivity"
+      },
+      {
+        "name": "rylai-codex-hermes-skills",
+        "owner": "Rylaispirit",
+        "description": "35 portable Agent Skills for Codex and Hermes, maintained by Rylai with clear upstream attribution and Vietnamese documentation.",
+        "stars": 43,
+        "url": "https://github.com/Rylaispirit/rylai-codex-hermes-skills",
+        "category": "Automation / Productivity"
       }
     ],
     "hacker_news": [
       {
-        "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-        "url": "https://stolen-thoughts.com/",
-        "score": 590
+        "title": "Happy 45th Birthday to the IBM PC and Model F/XT",
+        "url": "https://sharktastica.co.uk/articles/pc-fxt-45",
+        "score": 73
       },
       {
-        "title": "OpenAI’s head of ethics leaves less than a year after joining",
-        "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
-        "score": 386
-      },
-      {
-        "title": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
-        "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
-        "score": 163
+        "title": "Tim King, AmigaDOS developer, has died",
+        "url": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
+        "score": 262
       }
     ],
     "arxiv": [
       {
-        "title": "Surgical WAM: A World-Action Model for Data-Efficient Surgical Robot Learning",
-        "summary": "Learning reliable surgical manipulation policies is bottlenecked by the scarcity of action-labeled demonstrations: teleoperated surgical robot (e.g., dVRK) trajectories with synchronized kinematics ar...",
-        "url": "http://arxiv.org/abs/2608.11204v1"
+        "title": "AVA-Encoder: Towards Agent-Native Video Representation Learning",
+        "summary": "Creative agents still lack an effective way to learn from high-quality human films, limiting their ability to produce cinematic-grade videos. A key challenge is the absence of a structured video repre...",
+        "url": "http://arxiv.org/abs/2608.12313v1"
       },
       {
-        "title": "ConVAWG: A Retrieval-Grounded Framework for Controlled Synthetic Dialogue Generation in Violence Against Women and Girls",
-        "summary": "Synthetic dialogue generation offers a way to study conversational dynamics in sensitive domains where real data are difficult to access, release, or annotate. The underlying abuse may occur online or...",
-        "url": "http://arxiv.org/abs/2608.11200v1"
+        "title": "DreamFly: Causal Memory and Receding-Horizon Diffusion Planning for Aerial Vision-Language Navigation",
+        "summary": "Aerial vision-language navigation (VLN) requires an embodied agent to integrate visual evidence over time, plan future actions, and determine when it has reached a navigation goal under partial observ...",
+        "url": "http://arxiv.org/abs/2608.12308v1"
       },
       {
-        "title": "Beyond a Bag of Features: Set-Level Instability in Sparse Autoencoders",
-        "summary": "Shani et al. (2026) show that LLM representations broadly recover human category boundaries, while failing to reflect fine-grained typicality structure. Their analysis uses cosine similarity over dens...",
-        "url": "http://arxiv.org/abs/2608.11197v1"
+        "title": "AI4AI at Test-Time: Strong-to-Weak Capability Transfer via Harnesses",
+        "summary": "Recent work on distillation transfers the capabilities of large models to smaller ones often by updating the latter's parameters, through teacher forcing, on-policy distillation, and related training-...",
+        "url": "http://arxiv.org/abs/2608.12307v1"
       },
       {
-        "title": "Long-Horizon AI Research for Grothendieck Constant: A Case Study in Human-AI Mathematical Collaboration",
-        "summary": "AI agents are increasingly used in mathematics research, but it is often unclear how to use them effectively. Towards this, we present an extensive case study of how AI was used to improve bounds on t...",
-        "url": "http://arxiv.org/abs/2608.11195v1"
+        "title": "Redistribution-based Cost Inference Improves Sparse Safe Offline RL",
+        "summary": "Safe offline RL typically assumes access to dense per-step cost annotations, but in practice supervisors provide only trajectory-level stop-feedback: a binary signal at the first unsafe transition, wi...",
+        "url": "http://arxiv.org/abs/2608.12306v1"
       },
       {
-        "title": "Test-Time Self-Evolving GUI Visual Grounding via Reflection-Guided On-Policy Self-Distillation",
-        "summary": "GUI Visual Grounding is a fundamental capability for GUI agents. Existing models typically freeze their parameters after deployment, limiting their ability to adapt to unseen interfaces. Although rece...",
-        "url": "http://arxiv.org/abs/2608.11191v1"
+        "title": "Constructing Dynamic Master Logic Models as Knowledge Graphs for Complex System Diagnostics Using Retrieval-Augmented Large Language Models",
+        "summary": "Dynamic Master Logic (DML) provides a hierarchical framework for representing system behavior by linking functional objectives to underlying structural elements. However, DML construction typically re...",
+        "url": "http://arxiv.org/abs/2608.12304v1"
       }
     ],
     "devto": [
@@ -98,104 +133,107 @@
         "title": "You Don't Have an AI Problem You Have a Thinking Problem.",
         "description": "I used to think AI was making me lazy. I was wrong. AI wasn't making me lazy I was using AI as an...",
         "url": "https://dev.to/harsh2644/you-dont-have-an-ai-problem-you-have-a-thinking-problem-5f07",
-        "reactions": 52
+        "reactions": 54
       },
       {
         "title": "Ayo GitHub Quietly Killed the Unreviewable Mega-PR",
         "description": "If you've ever opened a PR with 47 changed files and a diff so long GitHub just gives up and shows...",
         "url": "https://dev.to/lovestaco/ayo-github-quietly-killed-the-unreviewable-mega-pr-3868",
-        "reactions": 33
+        "reactions": 35
+      },
+      {
+        "title": "I Built a Notebook for Sharing Notes That Doesn't Ask You to Sign Up First",
+        "description": "Someone asked me to share meeting notes in Slack yesterday.  I pasted the markdown. Slack ate the...",
+        "url": "https://dev.to/varshithvhegde/i-built-a-notebook-for-sharing-notes-that-doesnt-ask-you-to-sign-up-first-2ldd",
+        "reactions": 21
       },
       {
         "title": "The Year I Started Leaving Breadcrumbs Instead of Notes",
         "description": "I read back six months of my own work journal and found three different note-taking systems, only one of which I remember deciding to build. This is what the volume of information actually did to my notes, what got better, what I lost, and how I capture things now.",
         "url": "https://dev.to/cseeman/the-year-i-started-leaving-breadcrumbs-instead-of-notes-fe0",
         "reactions": 32
-      },
-      {
-        "title": "Are we the abstraction? AI and the future of software engineering",
-        "description": "Dear past Jenna,  There will come a point when you wonder whether your career — the one you went to...",
-        "url": "https://dev.to/jennapederson/the-abstraction-appears-to-include-us-2d47",
-        "reactions": 19
       }
     ]
   },
-  "trends": "Today's tech landscape is characterized by the accelerating practical application of AI/ML across diverse domains, from high-stakes financial predictions and advanced scientific computing (e.g., DFT acceleration, surgical robotics) to everyday consumer price forecasting. This surge in AI adoption is closely mirrored by a growing critical discourse around AI ethics, transparency, and the detection of AI-generated content, highlighted by concerns over proprietary LLM trace analysis, ethical leadership in AI companies, and instances of AI masquerading as human work. Simultaneously, developers are actively exploring and redefining personal and team productivity, moving beyond simple tool usage to fundamentally redesigning workflows with AI integration, emphasizing smart automation, contextual knowledge capture, and more efficient collaboration practices like streamlined code reviews.",
+  "trends": "The current tech landscape is rapidly advancing in **agentic AI**, where intelligent systems are gaining sophisticated control over digital and physical environments, from managing phone interactions ('phone-harness') to autonomous aerial navigation ('DreamFly'). This trend is coupled with a strong emphasis on **efficiency and optimization** in AI, visible in lightweight on-device machine learning ('bandminton'), LLM quantization ('KLQ'), and improved model selection practices. **Automation** is increasingly powered by these advanced AI agents, transforming everything from industrial processes to personal productivity and e-commerce operations. Furthermore, there's a significant focus on **enhanced productivity and knowledge management** through AI-driven tools, streamlining workflows, and innovative methods for structuring and sharing information, encouraging developers to think critically about how AI augments their processes rather than replaces their thinking.",
   "ideas": [
     {
-      "title": "AI Content Integrity & Attribution Platform",
+      "title": "Smart Agent-Driven Daily Workflow Manager",
       "difficulty": "Medium",
-      "estimated_hours": 20,
-      "description": "Develop a web service that allows users to input text and receive an analysis of its likelihood of being AI-generated, alongside identified stylistic patterns that might indicate a specific AI model or common LLM 'fingerprints.' This platform would not 'steal' reasoning traces but would analyze linguistic features (e.g., perplexity, burstiness, common AI idioms, structural repetition) to provide an explainable 'AI-ness' score and highlight suspicious sections. It's crucial for battling misinformation and promoting transparency in an AI-saturated content world.",
+      "estimated_hours": 100,
+      "description": "This project involves building an intelligent personal AI agent designed to streamline a developer's daily workflow. It would go beyond simple calendar reminders by proactively managing communication, summarizing meeting notes, prioritizing tasks based on integrated project management tools, and even performing simple web interactions (e.g., data scraping, form filling) on command. The agent would learn user preferences and common task patterns to anticipate needs and offer suggestions, freeing up mental bandwidth for complex problem-solving.",
       "tech_stack": [
-        "Python (FastAPI/Flask)",
-        "Hugging Face Transformers (for embeddings/feature extraction)",
-        "NLTK/SpaCy (for linguistic analysis)",
-        "Scikit-learn (for classification/pattern detection)",
-        "JavaScript/React (for frontend)",
-        "Docker (for deployment)"
+        "Python",
+        "LangChain/CrewAI",
+        "LLM APIs (OpenAI/Anthropic)",
+        "FastAPI",
+        "OAuth (for integrations)",
+        "Playwright (for UI automation)"
       ],
-      "source_inspiration": "Stealing Reasoning Traces from Proprietary LLM APIs, Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI, OpenAI’s head of ethics leaves less than a year after joining",
+      "source_inspiration": "phone-harness, skills, I Recreated Management With AI: 9 Things I Do Differently",
       "steps": [
-        "Task 1: Set up a FastAPI backend to handle text input and return analysis results.",
-        "Task 2: Implement text preprocessing (tokenization, sentence splitting) using NLTK/SpaCy.",
-        "Task 3: Integrate a pre-trained language model (e.g., via Hugging Face) to extract embeddings and stylistic features from the input text.",
-        "Task 4: Develop a feature extraction module to calculate metrics like perplexity, burstiness, unique word ratio, and identify common LLM-generated phrasing patterns.",
-        "Task 5: Train a binary classification model (e.g., Logistic Regression or SVM) on a curated dataset of human-written vs. AI-generated text to predict 'AI-ness' based on extracted features.",
-        "Task 6: Build a simple web frontend allowing users to paste text and visualize the analysis results, including the AI likelihood score and highlighted areas of concern."
+        "Research and select an agent orchestration framework (e.g., LangChain, CrewAI).",
+        "Set up secure API integrations for core tools (e.g., Google Calendar, a task manager like Todoist/Jira, Slack).",
+        "Implement a task prioritization module using an LLM to analyze inputs from integrated tools.",
+        "Develop a communication summary module for emails/chat, extracting key decisions and action items.",
+        "Create a user interface (CLI or simple web UI) to interact with the agent and set preferences.",
+        "Implement basic UI automation capabilities (using Playwright) for non-API-enabled tasks.",
+        "Develop a feedback loop for the agent to learn from user corrections and preferences."
       ]
     },
     {
-      "title": "Hyper-Local Market Anomaly & Opportunity Sentinel",
+      "title": "Lightweight On-Device Posture & Ergonomics Coach",
       "difficulty": "Medium",
-      "estimated_hours": 25,
-      "description": "Create a 'Sentinel' system that monitors prices for specific, accessible hyper-local or niche markets (e.g., local produce prices, used car listings by model, rental rates in specific neighborhoods). Leveraging time-series forecasting models (like Prophet or LightGBM), the system predicts expected prices. When actual market data deviates significantly from predictions, indicating an anomaly or potential arbitrage/opportunity, it sends targeted notifications (e.g., email, SMS). This is a practical application of predictive analytics, moving beyond broad markets to accessible, actionable data.",
+      "estimated_hours": 80,
+      "description": "Build a system that uses a low-cost, wearable sensor (e.g., an ESP32 with an accelerometer/gyroscope) to monitor a user's posture or ergonomic movements (like typing position or lifting form) in real-time. A lightweight machine learning model, trained on examples of good and bad posture/form, runs directly on the device. It provides immediate, subtle feedback (e.g., a vibration, a notification to a companion app) when poor posture is detected, helping users develop healthier habits without relying on constant cloud connectivity or draining battery life.",
       "tech_stack": [
-        "Python (Pandas, LightGBM/Facebook Prophet, Requests)",
-        "FastAPI/Flask (for data ingestion/APIs)",
-        "PostgreSQL (for data storage)",
-        "Docker (for containerization)",
-        "Celery/Airflow (for scheduling data pulls)",
-        "Twilio/SendGrid/Discord Webhooks (for notifications)"
+        "Python (for ML training)",
+        "TensorFlow Lite/PyTorch Mobile",
+        "C/C++ (for embedded firmware)",
+        "ESP32/Arduino",
+        "Bluetooth LE",
+        "Flutter/React Native (for companion app)"
       ],
-      "source_inspiration": "polymarket-trading-bot-ai-model-btc-up-down-sentinel-pulse-lightgbm-clob-autobot, avocado-price-prediction, airbnb-price-prediction",
+      "source_inspiration": "bandminton (Open-source wearable badminton motion analysis with lightweight on-device machine learning.)",
       "steps": [
-        "Task 1: Identify and integrate with a reliable data source (e.g., public APIs for local government data, web scraping specific listing sites with ethical considerations) for a chosen hyper-local market.",
-        "Task 2: Develop a data pipeline using Python to periodically fetch, clean, and store historical and real-time market data into a PostgreSQL database.",
-        "Task 3: Implement a time-series forecasting model (e.g., Facebook Prophet or LightGBM) to train on historical data and generate future price predictions with confidence intervals.",
-        "Task 4: Create an anomaly detection module that continuously compares new actual market data against the model's predictions and established deviation thresholds.",
-        "Task 5: Integrate a notification service (e.g., Twilio for SMS, SendGrid for email, or Discord webhook) to alert the user when an anomaly or significant deviation is detected.",
-        "Task 6: Orchestrate the data fetching, prediction, and anomaly detection processes to run on a scheduled basis (e.g., hourly or daily) using a scheduler like Celery or cron."
+        "Select and procure a suitable microcontroller (e.g., ESP32) and IMU sensor (accelerometer/gyroscope).",
+        "Collect data on various postures/movements using the sensor.",
+        "Train a lightweight ML model (e.g., a small neural network or SVM) using TensorFlow Lite on the collected data to classify posture.",
+        "Convert the trained model for embedded deployment (e.g., TFLite Micro).",
+        "Write embedded firmware to read sensor data, run the ML inference, and trigger feedback (e.g., vibration, LED).",
+        "Develop a simple mobile companion app (Flutter/React Native) to connect via BLE, display basic stats, and configure feedback sensitivity.",
+        "Implement a mechanism for occasional data synchronization and model updates."
       ]
     },
     {
-      "title": "Contextual AI 'Breadcrumb' Developer Assistant (IDE Plugin)",
+      "title": "AI-Powered Dynamic Knowledge Graph for Project Documentation",
       "difficulty": "Hard",
-      "estimated_hours": 30,
-      "description": "Build an IDE plugin (e.g., for VS Code or JetBrains) that acts as an intelligent 'breadcrumb' assistant for developers. It would passively observe your coding context (active file, recent changes, commit messages, opened issues) and proactively offer assistance: suggesting concise commit message drafts, generating summaries of work sessions, linking to relevant internal documentation/past code snippets, or even prompting to 'leave a breadcrumb' (a brief explanation) for complex logic based on heuristic detection of new or altered code blocks. This offloads cognitive overhead and improves knowledge transfer.",
+      "estimated_hours": 150,
+      "description": "This project aims to create an intelligent system that automatically transforms disparate, unstructured project documentation (e.g., design documents, meeting minutes, Slack discussions, JIRA tickets, code comments) into a cohesive, navigable knowledge graph. Utilizing Retrieval-Augmented Generation (RAG) with large language models, the system will identify entities (features, modules, users, deadlines, dependencies) and relationships between them, populating a graph database. This allows developers, project managers, and new team members to quickly understand project context, track progress, identify bottlenecks, and answer complex queries about the system's architecture and evolution.",
       "tech_stack": [
-        "TypeScript/JavaScript (for VS Code Extension API)",
-        "Python (for backend LLM integration via FastAPI)",
-        "Local LLM (e.g., Ollama with a small model like Phi-3 or Gemma-2B) or OpenAI API (with secure handling)",
-        "Git (via IDE APIs for commit context)",
-        "YAML/JSON (for configuration)"
+        "Python",
+        "LLM APIs (OpenAI/Cohere)",
+        "Vector Database (ChromaDB/Pinecone)",
+        "Graph Database (Neo4j/ArangoDB)",
+        "FastAPI",
+        "Streamlit/Dash (for UI)"
       ],
-      "source_inspiration": "I Recreated Management With AI: 9 Things I Do Differently, The Year I Started Leaving Breadcrumbs Instead of Notes, Ayo GitHub Quietly Killed the Unreviewable Mega-PR",
+      "source_inspiration": "Constructing Dynamic Master Logic Models as Knowledge Graphs for Complex System Diagnostics Using Retrieval-Augmented Large Language Models",
       "steps": [
-        "Task 1: Research and set up the development environment for a VS Code or JetBrains IDE extension.",
-        "Task 2: Implement event listeners within the IDE plugin to monitor file saves, cursor position changes, opened files, and Git staging events.",
-        "Task 3: Develop a context aggregation module that gathers code snippets, file paths, project structure, and recent commit history relevant to the current user activity.",
-        "Task 4: Integrate with a local LLM via Ollama or a commercial API (e.g., OpenAI, ensuring secure API key handling and data privacy) to process the aggregated context.",
-        "Task 5: Implement specific AI capabilities: generate draft commit messages from staged changes, summarize code changes within a session, and suggest prompts for 'breadcrumb' explanations for complex new code.",
-        "Task 6: Design a non-intrusive UI element within the IDE to display these AI-generated suggestions, allowing developers to accept, edit, or dismiss them.",
-        "Task 7: Add a user configuration system to enable/disable features, set LLM parameters, and define privacy preferences."
+        "Design a schema for the knowledge graph, defining nodes (e.g., 'Feature', 'Module', 'Developer', 'Document') and relationships (e.g., 'IMPLEMENTS', 'DISCUSSED_IN', 'ASSIGNED_TO').",
+        "Set up a graph database (e.g., Neo4j) and integrate a vector database for RAG.",
+        "Develop data connectors/parsers for various documentation sources (e.g., Markdown files, Confluence API, Slack API, JIRA API, GitHub API).",
+        "Implement a data ingestion pipeline that sends parsed content to an LLM via a RAG approach to extract entities and relationships.",
+        "Populate the graph database with the extracted information.",
+        "Develop a natural language query interface using an LLM to translate user questions into graph queries.",
+        "Create a basic visualization layer (e.g., using D3.js via a Streamlit/Dash app) to display graph relationships."
       ]
     }
   ],
   "quick_actions": [
-    "Action 1: Experiment with an AI assistant (like ChatGPT, Copilot, or a local LLM) to automate a simple, recurring personal or work task you typically do manually, e.g., drafting an email, summarizing a document, or outlining meeting notes. Focus on refining your prompts.",
-    "Action 2: Adopt a 'Breadcrumb Note-Taking' habit: for every significant code change or decision you make today, add a concise comment explaining *why* it was done, not just *what*. Practice this within your code, commit messages, or even a scratchpad.",
-    "Action 3: Critically evaluate any AI-generated content you encounter today (e.g., code suggestions, article summaries). Actively look for subtle inaccuracies, generic phrasing, or illogical jumps, and compare against human-written alternatives to sharpen your discernment.",
-    "Action 4: Identify one micro-workflow in your development process that involves 3+ manual steps (e.g., setting up a new project directory, running a specific test suite, generating boilerplate code). Spend 30 minutes to script or automate at least part of it using a shell script, makefile, or IDE macro."
+    "Action 1: Before starting any new AI-assisted task, spend 5-10 minutes explicitly defining the problem, desired outcome, and constraints in clear, concise language. This 'thinking first' approach ensures AI is a tool, not a crutch.",
+    "Action 2: Implement a 'breadcrumb' logging system for your daily work. Instead of detailed notes, quickly record key decisions, significant obstacles overcome, and links to relevant outputs (code, docs, chat threads) in a simple, timestamped format, allowing for easy later retrieval or AI summarization.",
+    "Action 3: Adopt a strict habit of breaking down code changes or feature implementations into the smallest possible, self-contained pull requests. Aim for PRs that can be reviewed in under 15-30 minutes to improve collaboration and reduce review burden.",
+    "Action 4: Identify one highly repetitive personal or administrative digital task (e.g., organizing downloaded files, generating a weekly status report draft, categorizing emails) and spend an hour exploring how an open-source AI agent framework (like LangChain or CrewAI) could partially or fully automate it."
   ]
 }
