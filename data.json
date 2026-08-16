@@ -1,103 +1,12 @@
 {
-  "last_updated": "2026-08-15 06:18:29",
+  "last_updated": "2026-08-16 06:20:03",
   "scraped_sources": {
-    "github": [
-      {
-        "name": "bandminton",
-        "owner": "Yixuan-Wu39",
-        "description": "Open-source wearable badminton motion analysis with lightweight on-device machine learning.",
-        "stars": 103,
-        "url": "https://github.com/Yixuan-Wu39/bandminton",
-        "category": "AI / ML"
-      },
-      {
-        "name": "from-tin-to-tokens",
-        "owner": "MaincodeHQ",
-        "description": "A free textbook on building an LLM inference stack from scratch in Rust.",
-        "stars": 21,
-        "url": "https://github.com/MaincodeHQ/from-tin-to-tokens",
-        "category": "AI / ML"
-      },
-      {
-        "name": "awesome-artificial-intelligence",
-        "owner": "musichen",
-        "description": "awesome-artificial-intelligence - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.",
-        "stars": 7,
-        "url": "https://github.com/musichen/awesome-artificial-intelligence",
-        "category": "AI / ML"
-      },
-      {
-        "name": "Ai-Engineering-Roadmap",
-        "owner": "ahmetmelihcalis",
-        "description": "A free bilingual AI engineering roadmap with notes, code examples, and learning resources.",
-        "stars": 7,
-        "url": "https://github.com/ahmetmelihcalis/Ai-Engineering-Roadmap",
-        "category": "AI / ML"
-      },
-      {
-        "name": "pokemon_battle_prediction",
-        "owner": "falcons-eyes",
-        "description": "🔬 Poké Lab — 포켓몬 승부 예측 데스크톱 앱(PyQt6) + 데이터 수집·EDA·머신러닝·통계 검증 파이프라인 (GroupKFold 93.6%)",
-        "stars": 7,
-        "url": "https://github.com/falcons-eyes/pokemon_battle_prediction",
-        "category": "AI / ML"
-      },
-      {
-        "name": "maintainer-autopilot",
-        "owner": "phungkaizen",
-        "description": "Local-first, resumable AI maintenance pipelines with single-writer safety and deterministic verification.",
-        "stars": 98,
-        "url": "https://github.com/phungkaizen/maintainer-autopilot",
-        "category": "Automation / Productivity"
-      },
-      {
-        "name": "MINDTECH",
-        "owner": "MINDTECH-Industries",
-        "description": "Industrial warfare, realistic processing, vehicles, and payload logistics for Mindustry v8.",
-        "stars": 87,
-        "url": "https://github.com/MINDTECH-Industries/MINDTECH",
-        "category": "Automation / Productivity"
-      },
-      {
-        "name": "rylai-codex-hermes-skills",
-        "owner": "Rylaispirit",
-        "description": "35 portable Agent Skills for Codex, Hermes, and Claude, maintained by Rylai with Vietnamese documentation and upstream attribution.",
-        "stars": 46,
-        "url": "https://github.com/Rylaispirit/rylai-codex-hermes-skills",
-        "category": "Automation / Productivity"
-      },
-      {
-        "name": "dsh-automation",
-        "owner": "titanwings",
-        "description": "DSH 自动化插件：让 Coding 任务按计划在全新 Agent Session 中运行，并由用户或 Agent 创建和管理定时任务。 / Run coding tasks in fresh Agent sessions and manage schedules from DSH Web or an Agent.",
-        "stars": 32,
-        "url": "https://github.com/titanwings/dsh-automation",
-        "category": "Automation / Productivity"
-      },
-      {
-        "name": "dsh-chat-import",
-        "owner": "Nwflower",
-        "description": "从Claude Code、Codex、Reasonix等Agent工具导入迁移历史消息，并在DeepSeek Harness(DSH)中继续对话",
-        "stars": 30,
-        "url": "https://github.com/Nwflower/dsh-chat-import",
-        "category": "Automation / Productivity"
-      }
-    ],
+    "github": [],
     "hacker_news": [
       {
-        "title": "Google is making private AI practical with homomorphic encryption",
-        "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-        "score": 343
-      },
-      {
-        "title": "Show HN: Deltix – AI Driven Testing",
-        "url": "https://app.deltix.ai",
-        "score": 20
-      },
-      {
-        "title": "AI by Hand",
-        "url": "https://www.byhand.ai/",
-        "score": 262
+        "title": "AI in drug discovery – what it is, where we stand and the path forward",
+        "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+        "score": 124
       }
     ],
     "arxiv": [
@@ -132,108 +41,109 @@
         "title": "You Don't Have an AI Problem You Have a Thinking Problem.",
         "description": "I used to think AI was making me lazy. I was wrong. AI wasn't making me lazy I was using AI as an...",
         "url": "https://dev.to/harsh2644/you-dont-have-an-ai-problem-you-have-a-thinking-problem-5f07",
-        "reactions": 57
-      },
-      {
-        "title": "My (not so pretty) journey in tech",
-        "description": "Ever since I joined the platform, I wanted to post about a topic I was really passionate about....",
-        "url": "https://dev.to/ishacodes/why-i-joined-devto--5c63",
-        "reactions": 26
+        "reactions": 59
       },
       {
         "title": "I Built a Notebook for Sharing Notes That Doesn't Ask You to Sign Up First",
         "description": "Someone asked me to share meeting notes in Slack yesterday.  I pasted the markdown. Slack ate the...",
         "url": "https://dev.to/varshithvhegde/i-built-a-notebook-for-sharing-notes-that-doesnt-ask-you-to-sign-up-first-2ldd",
-        "reactions": 51
+        "reactions": 62
+      },
+      {
+        "title": "My (not so pretty) journey in tech",
+        "description": "Ever since I joined the platform, I wanted to post about a topic I was really passionate about....",
+        "url": "https://dev.to/ishacodes/why-i-joined-devto--5c63",
+        "reactions": 27
       },
       {
         "title": "Ayo GitHub Quietly Killed the Unreviewable Mega-PR",
         "description": "If you've ever opened a PR with 47 changed files and a diff so long GitHub just gives up and shows...",
         "url": "https://dev.to/lovestaco/ayo-github-quietly-killed-the-unreviewable-mega-pr-3868",
-        "reactions": 36
+        "reactions": 37
       },
       {
-        "title": "A Second Brain Your AI Agent Can Read: Obsidian + Claude",
-        "description": "Background   There are so many details we need to remember in life. Recently I've...",
-        "url": "https://dev.to/shayan-araghi/a-second-brain-your-ai-agent-can-read-4kf6",
-        "reactions": 14
+        "title": "Pi Agent vs Claude Code After 100 Hours of Real Use 🔥",
+        "description": "While researching for this post, I found out something funny. Pi, the most interesting coding agent...",
+        "url": "https://dev.to/composiodev/pi-agent-vs-claude-code-after-100-hours-of-real-use-1dfp",
+        "reactions": 42
       }
     ]
   },
-  "trends": "Today's tech landscape is heavily dominated by the rapid evolution and practical application of Agentic AI systems, which are increasingly capable of automating complex, long-horizon tasks across various domains, from software maintenance to scientific research workflows. A significant parallel trend is the push for making AI more accessible and implementable for developers, with growing interest in understanding and building foundational AI components, and applying lightweight machine learning to real-world, often edge-based, problems. Concurrently, there's a strong emphasis on privacy and security in AI, particularly through techniques like homomorphic encryption, ensuring responsible and secure data handling. Finally, developer productivity and advanced knowledge management are being revolutionized by AI-powered tools and methodologies, often integrating 'second brain' concepts with AI agents to enhance personal and collaborative efficiency and streamline development workflows.",
+  "trends": "Today's tech landscape is significantly shaped by the rapid evolution of Agentic AI, moving beyond simple task automation to orchestrating complex, long-horizon workflows in fields like scientific research, drug discovery, and design. There's a strong emphasis on 'AI scientists' capable of multi-modal, multi-disciplinary operations, pushing the boundaries of autonomous research. Concurrently, the discourse on productivity and automation highlights a critical perspective: AI is a powerful tool, but effective integration requires a fundamental shift in human thinking and problem-framing, rather than just offloading tasks. Developer experience also remains a key focus, with trends towards frictionless tools, improved code review processes, and practical, real-world application of AI agents. Underlying this are continuous advancements in specialized ML areas like motion tracking, online forecasting, and multi-label classification.",
   "ideas": [
     {
-      "title": "Local-First Agentic Code Maintainer",
-      "difficulty": "Medium",
-      "estimated_hours": 25,
-      "description": "Build a command-line interface (CLI) or desktop application that acts as a local-first AI agent for automated code maintenance. This agent would scan a developer's local codebase for common issues (linting errors, outdated dependencies, potential security vulnerabilities), suggest fixes leveraging a local or API-based LLM, and apply them with human approval. The key is its 'single-writer safety and deterministic verification' — ensuring that changes are proposed, validated (e.g., by running tests), and only then applied, maintaining a reliable development environment. This reduces manual toil and frees developers to focus on higher-level problems.",
-      "tech_stack": [
-        "Python",
-        "Local LLM (e.g., Ollama, Llama.cpp) or LLM API (e.g., OpenAI, Claude)",
-        "Linting tools (e.g., Ruff, Pylint)",
-        "Dependency management tools (e.g., Poetry, Pip-tools)",
-        "Git (for version control and patch application)",
-        "CLI framework (e.g., Click, Typer)"
-      ],
-      "source_inspiration": "GitHub: maintainer-autopilot, dsh-automation, rylai-codex-hermes-skills; arXiv: AutoDesign",
-      "steps": [
-        "1. Initialize a Python project and define the CLI structure.",
-        "2. Integrate local code analysis tools (e.g., Ruff for linting, pip-tools for dependency checks) to identify common issues.",
-        "3. Develop an LLM interface (using Ollama locally or an API) to interpret analysis results and generate precise code fix suggestions.",
-        "4. Implement a 'diff and apply' mechanism: generate proposed changes as a Git patch, display them to the user, and require explicit approval.",
-        "5. Add pre-application verification: automatically run local tests (if available) on the proposed changes before committing to ensure functionality isn't broken.",
-        "6. Create a persistent state mechanism to allow for 'resumable' maintenance pipelines, picking up from where it left off."
-      ]
-    },
-    {
-      "title": "Edge-AI Private Motion Analysis for Fitness/Sports",
+      "title": "Agentic Research Orchestrator (ARO) for Structured Problem Solving",
       "difficulty": "Hard",
-      "estimated_hours": 40,
-      "description": "Develop a mobile application that collects motion data from a user's wearable device (e.g., smartwatch, custom sensor) and performs real-time, privacy-preserving AI analysis directly on the device. Instead of sending raw, sensitive biometric or motion data to the cloud, the application processes it locally using lightweight ML models to provide personalized insights into athletic performance, form analysis (e.g., badminton swing quality, running gait), or workout effectiveness. For any aggregate data sharing (e.g., with a coach or for personal trend tracking), explore using homomorphic encryption or federated learning principles to ensure data remains encrypted or de-identified.",
+      "estimated_hours": 80,
+      "description": "Inspired by 'AutoDesign' and 'OmniScientist', this project is a web-based platform where users can define complex research or design problems using natural language. The ARO then dynamically generates a multi-step 'agentic workflow' (e.g., 'Hypothesis Generation Agent', 'Data Analysis Agent', 'Report Drafting Agent') using a large language model (LLM) orchestration framework like LangChain. Users can visualize this workflow, modify agent parameters, and execute it, with each agent leveraging specific tools (code interpreters, web search, database queries) and generating intermediate outputs. The system provides an audit trail of the agent's 'thought process' and final consolidated output, enabling users to explore multifaceted problems without immediate sign-up friction.",
       "tech_stack": [
-        "Mobile Development (Kotlin/Swift/React Native/Flutter)",
-        "Bluetooth Low Energy (BLE) for wearable integration",
-        "TensorFlow Lite or similar for on-device ML inference",
-        "Python (for model training and experimentation)",
-        "Libraries for homomorphic encryption (e.g., SEAL-Python, TenSEAL) or secure aggregation (for advanced privacy features)"
+        "React/Vue.js (Frontend)",
+        "Python (Backend - FastAPI)",
+        "LangChain/LlamaIndex (Agentic Framework)",
+        "OpenAI API / Anthropic Claude API (LLM)",
+        "Docker (Deployment)",
+        "PostgreSQL (Workflow/Result Storage)"
       ],
-      "source_inspiration": "GitHub: bandminton; Hacker News: Google is making private AI practical with homomorphic encryption; arXiv: HumanTracker",
+      "source_inspiration": "AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design, OmniScientist: An Omni-Modal Omni-Discipline AI Scientist, Pi Agent vs Claude Code After 100 Hours of Real Use, You Don't Have an AI Problem You Have a Thinking Problem.",
       "steps": [
-        "1. Design a mobile app to connect to a generic BLE-enabled wearable (or simulate data if no physical device is available).",
-        "2. Implement data collection from the wearable's accelerometer, gyroscope, or other relevant sensors.",
-        "3. Develop a lightweight machine learning model (e.g., activity classification, motion pattern recognition) using a framework like TensorFlow Lite, trained offline.",
-        "4. Integrate the trained ML model into the mobile app for on-device inference and real-time feedback/insights.",
-        "5. Implement robust local data storage and visualization of personal performance metrics and trends.",
-        "6. (Advanced) Research and implement a proof-of-concept for encrypting specific, aggregate statistics using a homomorphic encryption library before any potential sharing, ensuring raw data privacy."
+        "Develop a frontend UI to define a 'problem statement' and display workflow/results.",
+        "Implement a FastAPI backend to handle user requests and orchestrate LLM calls.",
+        "Integrate LangChain/LlamaIndex to create a multi-agentic system, where agents can be chained.",
+        "Design 'tool agents' (e.g., a Python interpreter tool, a web search tool) that LLMs can invoke.",
+        "Implement workflow visualization (e.g., using D3.js or similar for node-link diagrams).",
+        "Add persistence for workflows and results to a PostgreSQL database.",
+        "Containerize the application using Docker for easier deployment and scaling."
       ]
     },
     {
-      "title": "Agentic Dev-Brain: Personalized Learning & Knowledge Synthesis",
+      "title": "Frictionless 'Peer Review Lite' Code Snippet Sharer",
+      "difficulty": "Medium",
+      "estimated_hours": 24,
+      "description": "Building on the concept of frictionless note sharing and the challenges of 'mega-PRs' mentioned on Dev.to, this project is a lightweight web service for sharing small code snippets or 'mini-PR' sections with minimal overhead. Users paste code, optionally add a short context/question, and get a unique, anonymous URL. The 'lite' aspect allows for quick, comment-based feedback directly on the snippet page without requiring sign-ups or complex authentication. Snippets can be set to expire after a certain period or number of views, encouraging ephemeral, focused discussions around small code changes or questions, thus streamlining immediate peer feedback loops.",
+      "tech_stack": [
+        "Svelte/Vanilla JS (Frontend)",
+        "Node.js (Backend - Express.js)",
+        "Redis (Ephemeral Storage/Cache)",
+        "PostgreSQL (Snippet/Comment Storage - optional, for non-expiring)",
+        "Highlight.js (Code Syntax Highlighting)"
+      ],
+      "source_inspiration": "I Built a Notebook for Sharing Notes That Doesn't Ask You to Sign Up First, Ayo GitHub Quietly Killed the Unreviewable Mega-PR.",
+      "steps": [
+        "Set up a Node.js Express backend with endpoints for creating and retrieving snippets.",
+        "Implement Redis for storing ephemeral snippets with expiry times (e.g., 24 hours, 5 views).",
+        "Develop a simple Svelte/Vanilla JS frontend with a textarea for pasting code and displaying generated URLs.",
+        "Integrate a code syntax highlighter (e.g., Highlight.js) for displayed snippets.",
+        "Add a basic comment functionality to snippet pages, allowing anonymous feedback.",
+        "Implement a secure, short URL generation mechanism.",
+        "Consider optional database integration for 'permanent' snippets or user accounts if popularity dictates."
+      ]
+    },
+    {
+      "title": "Human-Centric AI Prompt Refiner for Complex Problems",
       "difficulty": "Medium",
       "estimated_hours": 30,
-      "description": "Create an intelligent 'second brain' tool for developers that goes beyond simple note-taking. This system would ingest a developer's personal notes, code snippets, and learning resources (e.g., from an AI engineering roadmap). Using an integrated LLM (local or API), it could not only perform semantic search but also synthesize information across disparate notes, identify knowledge gaps based on predefined learning paths, suggest relevant external resources, and even generate 'skill' definitions for potential future agentic automation. This transforms static knowledge into an active, intelligent learning and problem-solving partner.",
+      "description": "Addressing the 'You Don't Have an AI Problem You Have a Thinking Problem' insight, this tool doesn't directly solve user problems but helps them formulate better prompts for AI or even for their own critical thinking. A user inputs a vague problem statement or goal. The AI Prompt Refiner (powered by an LLM) then generates a series of structured, clarifying questions, thought experiments, or alternative framing suggestions. It guides the user through a Socratic dialogue, helping them decompose complex issues, identify underlying assumptions, and consider different perspectives before they ever ask an AI for a direct answer. This promotes deeper engagement and yields more effective AI interactions or human-led solutions.",
       "tech_stack": [
-        "Python",
-        "Local LLM (e.g., Ollama) or LLM API (e.g., Claude, GPT)",
-        "Vector database (e.g., ChromaDB, FAISS, Pinecone) for semantic search",
-        "Web framework (e.g., FastAPI, Streamlit) for UI/API",
-        "Markdown parser library"
+        "React (Frontend)",
+        "Python (Backend - Flask/FastAPI)",
+        "OpenAI API / Gemini API (LLM)",
+        "SQLite (Session Storage)"
       ],
-      "source_inspiration": "Dev.to: A Second Brain Your AI Agent Can Read: Obsidian + Claude; GitHub: Ai-Engineering-Roadmap, rylai-codex-hermes-skills",
+      "source_inspiration": "You Don't Have an AI Problem You Have a Thinking Problem., AI in drug discovery – what it is, where we stand and the path forward.",
       "steps": [
-        "1. Develop a system to parse and store personal notes (e.g., Markdown files) and code snippets in a structured format.",
-        "2. Implement an embedding generation pipeline for all ingested content and store these embeddings in a vector database for semantic search.",
-        "3. Integrate an LLM (local or API) to perform contextual Q&A and information synthesis based on retrieved semantic results from the vector database.",
-        "4. Create a feature to define and track personalized learning roadmaps (e.g., based on the 'AI Engineering Roadmap').",
-        "5. Implement a 'knowledge gap identifier' where the LLM can cross-reference the learning roadmap with existing notes and suggest topics needing further study or external resources.",
-        "6. Design a user interface (web or local) to interact with the 'Dev-Brain', allowing users to query, synthesize, and manage their knowledge and learning path."
+        "Design a simple React frontend with an input field for the initial problem statement and an area to display generated prompts/questions.",
+        "Develop a Python backend (Flask/FastAPI) to interface with the LLM API.",
+        "Implement a prompt engineering strategy to instruct the LLM to generate clarifying questions, reframing suggestions, and thought-provoking prompts.",
+        "Create a 'session' mechanism to track the user's iterative refining process, saving inputs and generated prompts to SQLite.",
+        "Add interactive UI elements for users to select or 'follow up' on specific generated prompts, leading to further refinement.",
+        "Implement basic user guidance or examples on how to effectively use the refiner."
       ]
     }
   ],
   "quick_actions": [
-    "Action 1: Set up a local LLM environment (e.g., using Ollama or Llama.cpp) on your machine this week to experiment with privacy-preserving, cost-free AI interactions.",
-    "Action 2: Begin building your 'second brain' by consistently capturing personal notes, ideas, and learning resources in a structured, searchable tool like Obsidian, Notion, or a markdown-based system.",
-    "Action 3: Identify one small, repetitive task in your daily development workflow (e.g., project setup, specific git operations, boilerplate code generation) and write a simple script or alias to automate it.",
-    "Action 4: Reflect for 15 minutes on how you currently use AI tools (e.g., ChatGPT, Copilot). Analyze if you're using them to augment your thinking and creativity, or simply offloading cognitive load. Adjust your prompt engineering to encourage more critical thought and partnership with the AI."
+    "Dedicate 15 minutes daily to critically analyze how AI is used in your current workflow; identify areas where you're using AI as a crutch versus a cognitive accelerator, as suggested by 'You Don't Have an AI Problem You Have a Thinking Problem'.",
+    "Experiment with one new agentic AI framework (e.g., LangChain, LlamaIndex) for a small, personal automation task this week, focusing on chaining multiple steps or tools, inspired by 'AutoDesign' and 'OmniScientist'.",
+    "Identify one recurring 'friction point' in your developer environment (e.g., sharing code, reviewing small changes) and brainstorm a 'frictionless' solution, even if it's just a shell script or a simple local web app, drawing from the 'no sign-up' notes app trend.",
+    "Review your existing codebase for 'mega-PR' candidates or overly complex modules; commit to breaking down one such area into smaller, more manageable components to improve reviewability and maintainability, echoing the GitHub PR discussion."
   ]
 }
