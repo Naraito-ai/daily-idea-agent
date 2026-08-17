@@ -1,39 +1,120 @@
 {
-  "last_updated": "2026-08-16 06:20:03",
+  "last_updated": "2026-08-17 06:30:11",
   "scraped_sources": {
-    "github": [],
+    "github": [
+      {
+        "name": "bandminton",
+        "owner": "Yixuan-Wu39",
+        "description": "Open-source wearable badminton motion analysis with lightweight on-device machine learning.",
+        "stars": 103,
+        "url": "https://github.com/Yixuan-Wu39/bandminton",
+        "category": "AI / ML"
+      },
+      {
+        "name": "LabLLM",
+        "owner": "Greninja9257",
+        "description": "A native macOS lab for teaching tiny language models to think — build the architecture, train the weights, and watch a small LLM emerge from scratch, locally on Apple Silicon with custom data, tokenizers, checkpoints, and MLX acceleration.",
+        "stars": 34,
+        "url": "https://github.com/Greninja9257/LabLLM",
+        "category": "AI / ML"
+      },
+      {
+        "name": "from-tin-to-tokens",
+        "owner": "MaincodeHQ",
+        "description": "A free textbook on building an LLM inference stack from scratch in Rust.",
+        "stars": 24,
+        "url": "https://github.com/MaincodeHQ/from-tin-to-tokens",
+        "category": "AI / ML"
+      },
+      {
+        "name": "polymarket-trading-bot-ai-model-btc-5m-15m-1h-up-down-regime-gated-ml-arbitrage",
+        "owner": "snpsnp21",
+        "description": "Regime-gated ML arbitrage bot for Polymarket BTC Up/Down 5m, 15m, 1h markets. LightGBM probability model, calibrated edges, paper/live modes. polymarket AI model trading bot.",
+        "stars": 12,
+        "url": "https://github.com/snpsnp21/polymarket-trading-bot-ai-model-btc-5m-15m-1h-up-down-regime-gated-ml-arbitrage",
+        "category": "AI / ML"
+      },
+      {
+        "name": "awesome-artificial-intelligence",
+        "owner": "musichen",
+        "description": "awesome-artificial-intelligence - A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.",
+        "stars": 11,
+        "url": "https://github.com/musichen/awesome-artificial-intelligence",
+        "category": "AI / ML"
+      },
+      {
+        "name": "expressvpn-panel-2026",
+        "owner": "Streamdririddle",
+        "description": "Windows companion panel and docs for ExpressVPN setup, server browsing, and connection workflows aligned with app 14.2.0.",
+        "stars": 258,
+        "url": "https://github.com/Streamdririddle/expressvpn-panel-2026",
+        "category": "Automation / Productivity"
+      },
+      {
+        "name": "ds4windows-lab-2026",
+        "owner": "RopemakerEnd",
+        "description": "Portable DS4Windows companion toolkit with setup guides, profile notes, and Windows build helpers for DualShock 4 and DualSense.",
+        "stars": 213,
+        "url": "https://github.com/RopemakerEnd/ds4windows-lab-2026",
+        "category": "Automation / Productivity"
+      },
+      {
+        "name": "maintainer-autopilot",
+        "owner": "phungkaizen",
+        "description": "Local-first, resumable AI maintenance pipelines with single-writer safety and deterministic verification.",
+        "stars": 102,
+        "url": "https://github.com/phungkaizen/maintainer-autopilot",
+        "category": "Automation / Productivity"
+      },
+      {
+        "name": "ldplayer-module-2026",
+        "owner": "NetworkHarmonyBraid",
+        "description": "Windows companion module for LDPlayer 14 setup, instance tuning, and Android 14 emulator workflows. Free portable toolkit.",
+        "stars": 72,
+        "url": "https://github.com/NetworkHarmonyBraid/ldplayer-module-2026",
+        "category": "Automation / Productivity"
+      },
+      {
+        "name": "equalizer-apo-workbench-2026",
+        "owner": "TwilightSnail",
+        "description": "Portable Equalizer APO workbench for Windows — preset templates, config helpers, and free setup guides aligned with release 1.4.2.",
+        "stars": 68,
+        "url": "https://github.com/TwilightSnail/equalizer-apo-workbench-2026",
+        "category": "Automation / Productivity"
+      }
+    ],
     "hacker_news": [
       {
-        "title": "AI in drug discovery – what it is, where we stand and the path forward",
-        "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-        "score": 124
+        "title": "Rhombus 1.1 is now available",
+        "url": "https://blog.racket-lang.org/2026/08/rhombus-v1.1.html",
+        "score": 51
       }
     ],
     "arxiv": [
       {
-        "title": "AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design",
-        "summary": "Transforming multimodal sources into condensed and structured media outputs can be fundamentally conceptualized as a long-horizon agentic process centered on a model-harness system. While an ideal har...",
-        "url": "http://arxiv.org/abs/2608.13560v1"
+        "title": "Decoding the Past: An Uncertainty-Aware Deep Learning Framework for Sex Attribution in Prehistoric Hand Stencils",
+        "summary": "Determining the biological sex of the individuals who created Upper Paleolithic hand stencils remains a challenging problem due to the absence of ground truth, population differences between contempor...",
+        "url": "http://arxiv.org/abs/2608.14539v1"
       },
       {
-        "title": "OmniScientist: An Omni-Modal Omni-Discipline AI Scientist",
-        "summary": "Recent advances in foundation models have enabled AI scientists to automate increasingly complete research workflows, from hypothesis generation and code execution to manuscript preparation. Yet workf...",
-        "url": "http://arxiv.org/abs/2608.13558v1"
+        "title": "Marionette: Predicting World States, Rendering Geometry, Painting Appearance",
+        "summary": "Interactive game world models typically autoregress visual observations directly in pixel or latent space, forcing structured properties such as pose, geometry, and occlusion to be implicitly maintain...",
+        "url": "http://arxiv.org/abs/2608.14530v1"
       },
       {
-        "title": "HumanTracker: Towards Comprehensive and Human-Aligned Motion Tracking Benchmark",
-        "summary": "Humanoid motion tracking is central to teleoperation and whole-body imitation, yet evaluation often disagrees with what people perceive in videos. Kinematic errors average per-frame pose differences b...",
-        "url": "http://arxiv.org/abs/2608.13555v1"
+        "title": "Handover of In-Context Learning State Across Session Boundaries",
+        "summary": "This study investigates the methodological and theoretical properties of session handover in applications that use large language models. A task may continue in a new session when the context reaches ...",
+        "url": "http://arxiv.org/abs/2608.14528v1"
       },
       {
-        "title": "Defensive Boosting for Online Probabilistic Forecasting",
-        "summary": "We study online probabilistic forecasting of binary outcomes chosen by an adaptive adversary. Given an online learning algorithm for a weak hypothesis class $H$, we would like to efficiently obtain tw...",
-        "url": "http://arxiv.org/abs/2608.13554v1"
+        "title": "Participatory Moral AI Is Not Neutral: The Invisible Hand of Developers",
+        "summary": "As AI systems make more morally loaded decisions across society, one response has been moral preference elicitation. In this approach, researchers poll participants on hypothetical dilemmas and use th...",
+        "url": "http://arxiv.org/abs/2608.14522v1"
       },
       {
-        "title": "Exponential Convex Calibration Dimension for the Multi-Label Jaccard Measure",
-        "summary": "The per-instance Jaccard score, or intersection over union (IoU), is standard in multi-label classification and binary segmentation. With $s$ labels, its loss matrix has $2^s$ outcomes and reports. Un...",
-        "url": "http://arxiv.org/abs/2608.13549v1"
+        "title": "Learning-to-Transition for Large-scale and High-Order MIMO Detection",
+        "summary": "High-order multiple-input multiple-output (MIMO) detection requires efficient search over a large discrete symbol space while producing reliable soft information for channel decoding. This paper devel...",
+        "url": "http://arxiv.org/abs/2608.14511v1"
       }
     ],
     "devto": [
@@ -41,13 +122,13 @@
         "title": "You Don't Have an AI Problem You Have a Thinking Problem.",
         "description": "I used to think AI was making me lazy. I was wrong. AI wasn't making me lazy I was using AI as an...",
         "url": "https://dev.to/harsh2644/you-dont-have-an-ai-problem-you-have-a-thinking-problem-5f07",
-        "reactions": 59
+        "reactions": 60
       },
       {
         "title": "I Built a Notebook for Sharing Notes That Doesn't Ask You to Sign Up First",
         "description": "Someone asked me to share meeting notes in Slack yesterday.  I pasted the markdown. Slack ate the...",
         "url": "https://dev.to/varshithvhegde/i-built-a-notebook-for-sharing-notes-that-doesnt-ask-you-to-sign-up-first-2ldd",
-        "reactions": 62
+        "reactions": 78
       },
       {
         "title": "My (not so pretty) journey in tech",
@@ -65,85 +146,83 @@
         "title": "Pi Agent vs Claude Code After 100 Hours of Real Use 🔥",
         "description": "While researching for this post, I found out something funny. Pi, the most interesting coding agent...",
         "url": "https://dev.to/composiodev/pi-agent-vs-claude-code-after-100-hours-of-real-use-1dfp",
-        "reactions": 42
+        "reactions": 43
       }
     ]
   },
-  "trends": "Today's tech landscape is significantly shaped by the rapid evolution of Agentic AI, moving beyond simple task automation to orchestrating complex, long-horizon workflows in fields like scientific research, drug discovery, and design. There's a strong emphasis on 'AI scientists' capable of multi-modal, multi-disciplinary operations, pushing the boundaries of autonomous research. Concurrently, the discourse on productivity and automation highlights a critical perspective: AI is a powerful tool, but effective integration requires a fundamental shift in human thinking and problem-framing, rather than just offloading tasks. Developer experience also remains a key focus, with trends towards frictionless tools, improved code review processes, and practical, real-world application of AI agents. Underlying this are continuous advancements in specialized ML areas like motion tracking, online forecasting, and multi-label classification.",
+  "trends": "Today's tech trends highlight a significant push towards practical, specialized applications of AI and Machine Learning, with a strong emphasis on on-device and local-first execution for enhanced privacy, efficiency, and customization. Developers are increasingly focused on understanding and building AI models from the ground up, utilizing specific hardware like Apple Silicon and languages like Rust for deeper control over architecture and inference. Concurrently, there's a robust movement towards streamlining developer workflows and boosting general productivity through intelligent automation, minimalist tools, and companion utilities that augment existing software. The overarching theme is leveraging AI as a powerful tool for cognitive augmentation and problem-solving, rather than mere replacement, while also addressing ethical considerations, effective context management, and the paramount importance of critical human thinking.",
   "ideas": [
     {
-      "title": "Agentic Research Orchestrator (ARO) for Structured Problem Solving",
+      "title": "Local-First Wearable ML Activity Classifier",
+      "difficulty": "Medium",
+      "estimated_hours": 40,
+      "description": "Build a desktop/mobile companion application that connects to an off-the-shelf wearable (e.g., a smartwatch that can export raw sensor data) via Bluetooth. The app allows users to collect short bursts of sensor data (accelerometer, gyroscope) for specific activities (e.g., custom gym exercises, unique gestures, posture changes). It then enables local training of a lightweight machine learning model (e.g., a simple neural network or SVM) on this user-specific data directly on the user's device. Once trained, the model can either run on the companion app for real-time activity recognition or, if the wearable allows, be exported and deployed back onto the device for on-wrist inference. This project focuses on privacy, personalization, and avoiding cloud dependency for sensitive personal data.",
+      "tech_stack": [
+        "Python (TensorFlow Lite, scikit-learn)",
+        "Mobile Development (Kotlin/Swift or React Native/Flutter)",
+        "Bluetooth Low Energy (BLE) APIs",
+        "SQLite (for local data storage)"
+      ],
+      "source_inspiration": "bandminton (on-device ML for wearables), LabLLM (local ML training), Dev.to article 'I Built a Notebook for Sharing Notes That Doesn't Ask You to Sign Up First' (local-first, no sign-up ethos)",
+      "steps": [
+        "Task 1: Research and select a common wearable device with accessible raw sensor data (e.g., via a companion app or a public API).",
+        "Task 2: Develop a mobile/desktop app for connecting to the wearable via BLE and collecting/displaying sensor data.",
+        "Task 3: Implement data labeling functionality within the app, allowing users to tag recorded sensor data with custom activity names.",
+        "Task 4: Integrate a local ML framework (e.g., TensorFlow Lite for Python/mobile, or scikit-learn) to train a basic classification model on the collected data.",
+        "Task 5: Develop inference functionality to run the trained model locally and display real-time activity predictions.",
+        "Task 6: (Optional but advanced): Explore options for converting and deploying the lightweight model back to the wearable itself."
+      ]
+    },
+    {
+      "title": "Maintainer's Local AI Co-Pilot for Git Repos",
       "difficulty": "Hard",
       "estimated_hours": 80,
-      "description": "Inspired by 'AutoDesign' and 'OmniScientist', this project is a web-based platform where users can define complex research or design problems using natural language. The ARO then dynamically generates a multi-step 'agentic workflow' (e.g., 'Hypothesis Generation Agent', 'Data Analysis Agent', 'Report Drafting Agent') using a large language model (LLM) orchestration framework like LangChain. Users can visualize this workflow, modify agent parameters, and execute it, with each agent leveraging specific tools (code interpreters, web search, database queries) and generating intermediate outputs. The system provides an audit trail of the agent's 'thought process' and final consolidated output, enabling users to explore multifaceted problems without immediate sign-up friction.",
+      "description": "Create a local-first desktop application or CLI tool that acts as an intelligent co-pilot for open-source project maintainers. This tool would leverage locally run Large Language Models (LLMs) (e.g., via Ollama, or using Apple MLX on compatible hardware) to analyze incoming GitHub issues and pull requests (PRs). Key features include: automatically summarizing large PR diffs into manageable chunks, suggesting relevant labels based on content, identifying potential code conflicts or areas requiring deeper review, and drafting initial responses or clarifying questions for contributors. The system should learn from maintainer feedback and preferences to improve its suggestions over time, enhancing the 'resumable AI' aspect for consistent project maintenance.",
       "tech_stack": [
-        "React/Vue.js (Frontend)",
-        "Python (Backend - FastAPI)",
-        "LangChain/LlamaIndex (Agentic Framework)",
-        "OpenAI API / Anthropic Claude API (LLM)",
-        "Docker (Deployment)",
-        "PostgreSQL (Workflow/Result Storage)"
+        "Python (Ollama/MLX integration, LangChain/LlamaIndex for orchestration)",
+        "GitPython (for repository interaction)",
+        "GitHub API (for issue/PR data, labels)",
+        "Electron/Tauri (for desktop GUI if desired)",
+        "SQLite (for storing learned preferences/feedback)"
       ],
-      "source_inspiration": "AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design, OmniScientist: An Omni-Modal Omni-Discipline AI Scientist, Pi Agent vs Claude Code After 100 Hours of Real Use, You Don't Have an AI Problem You Have a Thinking Problem.",
+      "source_inspiration": "maintainer-autopilot (AI maintenance pipelines), from-tin-to-tokens (building local LLM components), Dev.to article 'Ayo GitHub Quietly Killed the Unreviewable Mega-PR' (need for better PR management), Dev.to article 'Pi Agent vs Claude Code...' (practical AI agent usage)",
       "steps": [
-        "Develop a frontend UI to define a 'problem statement' and display workflow/results.",
-        "Implement a FastAPI backend to handle user requests and orchestrate LLM calls.",
-        "Integrate LangChain/LlamaIndex to create a multi-agentic system, where agents can be chained.",
-        "Design 'tool agents' (e.g., a Python interpreter tool, a web search tool) that LLMs can invoke.",
-        "Implement workflow visualization (e.g., using D3.js or similar for node-link diagrams).",
-        "Add persistence for workflows and results to a PostgreSQL database.",
-        "Containerize the application using Docker for easier deployment and scaling."
+        "Task 1: Set up a local LLM environment (e.g., Ollama or MLX with a quantized model like Llama 3).",
+        "Task 2: Develop a CLI or desktop application boilerplate to interact with local Git repositories and the GitHub API.",
+        "Task 3: Implement functionality to fetch and parse PRs/Issues from a specified GitHub repository.",
+        "Task 4: Integrate the local LLM to generate summaries of PR changes, suggest labels, and identify potential review areas.",
+        "Task 5: Add a feedback mechanism for maintainers to accept/reject suggestions, which trains a small preference model.",
+        "Task 6: Implement a feature to draft intelligent responses or follow-up questions for contributors based on the issue/PR content and maintainer's preferred tone.",
+        "Task 7: Optimize for local performance and ensure user data (like feedback) remains local and private."
       ]
     },
     {
-      "title": "Frictionless 'Peer Review Lite' Code Snippet Sharer",
-      "difficulty": "Medium",
-      "estimated_hours": 24,
-      "description": "Building on the concept of frictionless note sharing and the challenges of 'mega-PRs' mentioned on Dev.to, this project is a lightweight web service for sharing small code snippets or 'mini-PR' sections with minimal overhead. Users paste code, optionally add a short context/question, and get a unique, anonymous URL. The 'lite' aspect allows for quick, comment-based feedback directly on the snippet page without requiring sign-ups or complex authentication. Snippets can be set to expire after a certain period or number of views, encouraging ephemeral, focused discussions around small code changes or questions, thus streamlining immediate peer feedback loops.",
-      "tech_stack": [
-        "Svelte/Vanilla JS (Frontend)",
-        "Node.js (Backend - Express.js)",
-        "Redis (Ephemeral Storage/Cache)",
-        "PostgreSQL (Snippet/Comment Storage - optional, for non-expiring)",
-        "Highlight.js (Code Syntax Highlighting)"
-      ],
-      "source_inspiration": "I Built a Notebook for Sharing Notes That Doesn't Ask You to Sign Up First, Ayo GitHub Quietly Killed the Unreviewable Mega-PR.",
-      "steps": [
-        "Set up a Node.js Express backend with endpoints for creating and retrieving snippets.",
-        "Implement Redis for storing ephemeral snippets with expiry times (e.g., 24 hours, 5 views).",
-        "Develop a simple Svelte/Vanilla JS frontend with a textarea for pasting code and displaying generated URLs.",
-        "Integrate a code syntax highlighter (e.g., Highlight.js) for displayed snippets.",
-        "Add a basic comment functionality to snippet pages, allowing anonymous feedback.",
-        "Implement a secure, short URL generation mechanism.",
-        "Consider optional database integration for 'permanent' snippets or user accounts if popularity dictates."
-      ]
-    },
-    {
-      "title": "Human-Centric AI Prompt Refiner for Complex Problems",
+      "title": "Context-Persistent LLM Session Bridge",
       "difficulty": "Medium",
       "estimated_hours": 30,
-      "description": "Addressing the 'You Don't Have an AI Problem You Have a Thinking Problem' insight, this tool doesn't directly solve user problems but helps them formulate better prompts for AI or even for their own critical thinking. A user inputs a vague problem statement or goal. The AI Prompt Refiner (powered by an LLM) then generates a series of structured, clarifying questions, thought experiments, or alternative framing suggestions. It guides the user through a Socratic dialogue, helping them decompose complex issues, identify underlying assumptions, and consider different perspectives before they ever ask an AI for a direct answer. This promotes deeper engagement and yields more effective AI interactions or human-led solutions.",
+      "description": "Develop a browser extension or a local desktop application that acts as a 'memory manager' for conversations with Large Language Models (LLMs). Inspired by the concept of 'handover of in-context learning state,' this tool would passively monitor user interactions across different LLM platforms (e.g., ChatGPT, Claude, custom local LLMs). When a user starts a new conversation or switches context, the tool intelligently suggests relevant snippets or full contexts from previous, related sessions to automatically 'prime' the new LLM session, preventing loss of context and reducing repetitive information entry. It could also provide summaries of long conversation threads for quick recall and help users visualize their LLM usage patterns, aligning with 'AI-augmented thinking'.",
       "tech_stack": [
-        "React (Frontend)",
-        "Python (Backend - Flask/FastAPI)",
-        "OpenAI API / Gemini API (LLM)",
-        "SQLite (Session Storage)"
+        "JavaScript (for browser extension, content script, background script)",
+        "Local Storage / IndexedDB (for context persistence)",
+        "Python (Flask/FastAPI for a local server, if desktop app, for advanced text processing/summarization with smaller LLMs)",
+        "Semantic search libraries (e.g., Faiss or Sentence-Transformers for local embeddings)"
       ],
-      "source_inspiration": "You Don't Have an AI Problem You Have a Thinking Problem., AI in drug discovery – what it is, where we stand and the path forward.",
+      "source_inspiration": "arXiv paper 'Handover of In-Context Learning State Across Session Boundaries', Dev.to article 'You Don't Have an AI Problem You Have a Thinking Problem.' (AI for better thinking)",
       "steps": [
-        "Design a simple React frontend with an input field for the initial problem statement and an area to display generated prompts/questions.",
-        "Develop a Python backend (Flask/FastAPI) to interface with the LLM API.",
-        "Implement a prompt engineering strategy to instruct the LLM to generate clarifying questions, reframing suggestions, and thought-provoking prompts.",
-        "Create a 'session' mechanism to track the user's iterative refining process, saving inputs and generated prompts to SQLite.",
-        "Add interactive UI elements for users to select or 'follow up' on specific generated prompts, leading to further refinement.",
-        "Implement basic user guidance or examples on how to effectively use the refiner."
+        "Task 1: Design and develop a browser extension capable of capturing text inputs and outputs from common LLM web interfaces.",
+        "Task 2: Implement local storage mechanisms (e.g., IndexedDB) to securely save conversation contexts.",
+        "Task 3: Develop a mechanism to categorize and index stored contexts, possibly using simple keyword extraction or local embeddings.",
+        "Task 4: Create a UI for the extension that allows users to browse, search, and select past contexts.",
+        "Task 5: Implement 'context injection' functionality to automatically or semi-automatically prepend selected past context to new LLM prompts.",
+        "Task 6: Add a feature to generate concise summaries of long conversation threads using a lightweight local processing model (or a small LLM if using a desktop app).",
+        "Task 7: Ensure user privacy by keeping all data local and providing clear controls over what data is captured."
       ]
     }
   ],
   "quick_actions": [
-    "Dedicate 15 minutes daily to critically analyze how AI is used in your current workflow; identify areas where you're using AI as a crutch versus a cognitive accelerator, as suggested by 'You Don't Have an AI Problem You Have a Thinking Problem'.",
-    "Experiment with one new agentic AI framework (e.g., LangChain, LlamaIndex) for a small, personal automation task this week, focusing on chaining multiple steps or tools, inspired by 'AutoDesign' and 'OmniScientist'.",
-    "Identify one recurring 'friction point' in your developer environment (e.g., sharing code, reviewing small changes) and brainstorm a 'frictionless' solution, even if it's just a shell script or a simple local web app, drawing from the 'no sign-up' notes app trend.",
-    "Review your existing codebase for 'mega-PR' candidates or overly complex modules; commit to breaking down one such area into smaller, more manageable components to improve reviewability and maintainability, echoing the GitHub PR discussion."
+    "Action 1: Download and experiment with a local LLM (e.g., via Ollama or Apple MLX) for coding, debugging, or brainstorming tasks. Dedicate 30 minutes to exploring its capabilities and limitations.",
+    "Action 2: Identify one repetitive digital task in your daily workflow (e.g., file renaming, data extraction, specific project setup steps) and spend 1 hour scripting a basic automation for it, focusing on improving personal productivity.",
+    "Action 3: Read through the arXiv paper 'Handover of In-Context Learning State Across Session Boundaries' to understand advanced LLM interaction patterns and consider how you manage context in your own AI-assisted work.",
+    "Action 4: For your next complex problem or decision, commit to using an AI tool not for a direct answer, but to break down the problem, identify assumptions, and explore alternative perspectives, thereby practicing 'AI-augmented thinking' over simple query-response."
   ]
 }
