@@ -1,20 +1,12 @@
 {
-  "last_updated": "2026-08-18 06:22:48",
+  "last_updated": "2026-08-19 06:23:39",
   "scraped_sources": {
     "github": [
-      {
-        "name": "bandminton",
-        "owner": "Yixuan-Wu39",
-        "description": "Open-source wearable badminton motion analysis with lightweight on-device machine learning.",
-        "stars": 103,
-        "url": "https://github.com/Yixuan-Wu39/bandminton",
-        "category": "AI / ML"
-      },
       {
         "name": "LabLLM",
         "owner": "Greninja9257",
         "description": "A native macOS lab for teaching tiny language models to think — build the architecture, train the weights, and watch a small LLM emerge from scratch, locally on Apple Silicon with custom data, tokenizers, checkpoints, and MLX acceleration.",
-        "stars": 42,
+        "stars": 50,
         "url": "https://github.com/Greninja9257/LabLLM",
         "category": "AI / ML"
       },
@@ -22,7 +14,7 @@
         "name": "from-tin-to-tokens",
         "owner": "MaincodeHQ",
         "description": "A free textbook on building an LLM inference stack from scratch in Rust.",
-        "stars": 25,
+        "stars": 26,
         "url": "https://github.com/MaincodeHQ/from-tin-to-tokens",
         "category": "AI / ML"
       },
@@ -30,7 +22,7 @@
         "name": "Polymarket-Trading-Bot-AI-Model-BTC-5m-15m-1h-UpDown-Prediction-Market-Arbitrage-CLOB-Crypto-Bot",
         "owner": "snpsnp21",
         "description": "Polymarket Trading Bot – AI Model Trading Bot for BTC 5m 15m 1h UpDown | Prediction Market Arbitrage & CLOB Crypto Bot. ML + Bayesian anchor, paper/live modes, fractional Kelly risk.",
-        "stars": 14,
+        "stars": 15,
         "url": "https://github.com/snpsnp21/Polymarket-Trading-Bot-AI-Model-BTC-5m-15m-1h-UpDown-Prediction-Market-Arbitrage-CLOB-Crypto-Bot",
         "category": "AI / ML"
       },
@@ -38,15 +30,23 @@
         "name": "polymarket-trading-bot-ai-model-btc-5m-15m-1h-up-down-regime-gated-ml-arbitrage",
         "owner": "snpsnp21",
         "description": "Regime-gated ML arbitrage bot for Polymarket BTC Up/Down 5m, 15m, 1h markets. LightGBM probability model, calibrated edges, paper/live modes. polymarket AI model trading bot.",
-        "stars": 13,
+        "stars": 15,
         "url": "https://github.com/snpsnp21/polymarket-trading-bot-ai-model-btc-5m-15m-1h-up-down-regime-gated-ml-arbitrage",
+        "category": "AI / ML"
+      },
+      {
+        "name": "Soup",
+        "owner": "jochi2018",
+        "description": "Fine-tune and post-train LLMs with one command—no SSH, no config hell.",
+        "stars": 9,
+        "url": "https://github.com/jochi2018/Soup",
         "category": "AI / ML"
       },
       {
         "name": "macos-harness",
         "owner": "browser-use",
         "description": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
-        "stars": 193,
+        "stars": 443,
         "url": "https://github.com/browser-use/macos-harness",
         "category": "Automation / Productivity"
       },
@@ -59,18 +59,10 @@
         "category": "Automation / Productivity"
       },
       {
-        "name": "maintainer-autopilot",
-        "owner": "phungkaizen",
-        "description": "Local-first, resumable AI maintenance pipelines with single-writer safety and deterministic verification.",
-        "stars": 101,
-        "url": "https://github.com/phungkaizen/maintainer-autopilot",
-        "category": "Automation / Productivity"
-      },
-      {
         "name": "dsh-chat-import",
         "owner": "Nwflower",
         "description": "Import 14+ external agent chat histories (Claude Code, Codex, ChatGPT, Cursor, Gemini, Reasonix, opencode, ZCode, Grok Build, OpenClaw, Pi, Hermes, Kimi CLI, DSH) into DeepSeek Harness as resumable sessions — full-fidelity, reverse export/sync, bundle backup. | 从 Claude Code、Codex、Reasonix 等 Agent 工具导入历史消息到 DeepSeek Harness 并继续对话。",
-        "stars": 57,
+        "stars": 71,
         "url": "https://github.com/Nwflower/dsh-chat-import",
         "category": "Automation / Productivity"
       },
@@ -78,84 +70,77 @@
         "name": "dsh-automation",
         "owner": "titanwings",
         "description": "DSH 自动化插件：让 Coding 任务按计划在全新 Agent Session 中运行，并由用户或 Agent 创建和管理定时任务。 / Run coding tasks in fresh Agent sessions and manage schedules from DSH Web or an Agent.",
-        "stars": 52,
+        "stars": 59,
         "url": "https://github.com/titanwings/dsh-automation",
+        "category": "Automation / Productivity"
+      },
+      {
+        "name": "emend",
+        "owner": "diyanbogdanov",
+        "description": "Verified AI dependency migrations. Finds which of your lines a version bump actually breaks, fixes them, and proves the result still compiles and passes your tests.",
+        "stars": 43,
+        "url": "https://github.com/diyanbogdanov/emend",
         "category": "Automation / Productivity"
       }
     ],
     "hacker_news": [
       {
-        "title": "Fairphone 6 and PostmarketOS working main camera",
-        "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
-        "score": 135
-      },
-      {
-        "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
-        "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-        "score": 350
-      },
-      {
-        "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-        "url": "https://blog.roboflow.com/openai-gpt-5-6/",
-        "score": 324
-      },
-      {
-        "title": "An update on leaving Gmail for Fastmail",
-        "url": "https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/",
-        "score": 173
+        "title": "AI usage patterns in software teams",
+        "url": "https://linear.app/data",
+        "score": 100
       }
     ],
     "arxiv": [
       {
-        "title": "Don't Drop the BATON: Long-Horizon Robot Manipulation via Agentic Subtask Exploration and Transition-aware Memory",
-        "summary": "Long-horizon robot manipulation chains many contact-rich skills into one multi-stage task. Vision-language-action (VLA) models increasingly master the individual skills, yet the chain still fails: err...",
-        "url": "http://arxiv.org/abs/2608.16889v1"
+        "title": "From Corpora to Co-Evolving Capabilities: Capability-Centric Data Design for Generalist Image Generation",
+        "summary": "Large-scale image generation has benefited from advances in data scale, quality, rebalancing, and recaptioning, yet conventional pipelines typically optimize task-specific datasets in isolation. A cen...",
+        "url": "http://arxiv.org/abs/2608.18076v1"
       },
       {
-        "title": "Q-based Variational Inverse Reinforcement Learning",
-        "summary": "The development of safe and beneficial AI requires that systems can learn and act in accordance with human preferences. However, explicitly specifying these preferences by hand is often infeasible. In...",
-        "url": "http://arxiv.org/abs/2608.16888v1"
+        "title": "Multi-Agent AI System for Radiology Report Structuring and Quality Assurance with Independent Radiologist Evaluation",
+        "summary": "Purpose: To develop and evaluate a locally deployed multi-agent AI system for radiology report structuring and quality assurance. Materials and Methods: This retrospective study included 638 radiology...",
+        "url": "http://arxiv.org/abs/2608.18072v1"
       },
       {
-        "title": "Improving the matrix multiplication exponent with modern optimization and AlphaEvolve",
-        "summary": "The current best bounds on the matrix multiplication exponent $ω$ are obtained through a refinement of the laser method called combination loss analysis (Duan et al., 2022; Williams et al., 2024; Alma...",
-        "url": "http://arxiv.org/abs/2608.16884v1"
+        "title": "On the Fragility of Self-Improving Agents: Variance, Task Order, and Underspecification",
+        "summary": "Memory-based self-improving agents--those that learn from an online stream of tasks and improve over time by maintaining a textual memory bank--have shown great promise in recent literature. However, ...",
+        "url": "http://arxiv.org/abs/2608.18066v1"
       },
       {
-        "title": "Spectral Gaps of Hit-and-Run and Coordinate Hit-and-Run",
-        "summary": "For any convex body $\\mathcal{K}\\subset\\mathbb{R}^{n}$ containing a unit ball, the spectral gap of Hit-and-Run is $Ω(1/(n^2 C_{\\mathsf{PI}}))$, where $C_{\\mathsf{PI}}$ is the Poincaré constant of the ...",
-        "url": "http://arxiv.org/abs/2608.16878v1"
+        "title": "TokEval: A Tokenizer Evaluation Suite",
+        "summary": "Language model tokenizers are typically selected with minimal evaluation, despite the fact that their design choices directly impact model capabilities. This can be partly attributed to a limited unde...",
+        "url": "http://arxiv.org/abs/2608.18062v1"
       },
       {
-        "title": "AutoSR: Automatic Symbolic Regression by Searching Research States",
-        "summary": "We introduce Automatic Symbolic Regression (AutoSR), a fully automated system that instantiates Research-Space Symbolic Regression by searching persistent scientific investigations rather than isolate...",
-        "url": "http://arxiv.org/abs/2608.16876v1"
+        "title": "The concentration game: Bayesian updating, regret, and information",
+        "summary": "We give a two-player zero-sum repeated game between a learner and nature whose value identity generates Bayesian updating and an exact accounting of exponential-weights regret at once, and supplies th...",
+        "url": "http://arxiv.org/abs/2608.18061v1"
       }
     ],
     "devto": [
       {
-        "title": "I Built a Notebook for Sharing Notes That Doesn't Ask You to Sign Up First",
-        "description": "Someone asked me to share meeting notes in Slack yesterday.  I pasted the markdown. Slack ate the...",
-        "url": "https://dev.to/varshithvhegde/i-built-a-notebook-for-sharing-notes-that-doesnt-ask-you-to-sign-up-first-2ldd",
-        "reactions": 100
-      },
-      {
         "title": "Git Gud!",
         "description": "You heard me.    Alright, that was mean lol. Though based on the title, you probably already knew the...",
         "url": "https://dev.to/francistrdev/git-gud-4e6g",
-        "reactions": 51
+        "reactions": 78
+      },
+      {
+        "title": "7 Productivity Tips That Sound Wrong (But Actually Work)",
+        "description": "Struggling with burnout? Procrastination? Reaching your goals? Let me share a few methods that help...",
+        "url": "https://dev.to/sylwia-lask/7-productivity-tips-that-sound-wrong-but-actually-work-5602",
+        "reactions": 53
+      },
+      {
+        "title": "I Built a Notebook for Sharing Notes That Doesn't Ask You to Sign Up First",
+        "description": "Someone asked me to share meeting notes in Slack yesterday.  I pasted the markdown. Slack ate the...",
+        "url": "https://dev.to/varshithvhegde/i-built-a-notebook-for-sharing-notes-that-doesnt-ask-you-to-sign-up-first-2ldd",
+        "reactions": 107
       },
       {
         "title": "My (not so pretty) journey in tech",
         "description": "Ever since I joined the platform, I wanted to post about a topic I was really passionate about....",
         "url": "https://dev.to/ishacodes/why-i-joined-devto--5c63",
         "reactions": 30
-      },
-      {
-        "title": "Pi Agent vs Claude Code After 100 Hours of Real Use 🔥",
-        "description": "While researching for this post, I found out something funny. Pi, the most interesting coding agent...",
-        "url": "https://dev.to/composiodev/pi-agent-vs-claude-code-after-100-hours-of-real-use-1dfp",
-        "reactions": 44
       },
       {
         "title": "The Founder’s Cognitive Trap: Why Changing Your Mind Gets Harder After You Build",
@@ -165,79 +150,79 @@
       }
     ]
   },
-  "trends": "Today's tech landscape is profoundly shaped by the rapid advancement and practical application of AI, with a strong emphasis on *local-first, agentic capabilities*. We are seeing a significant drive towards developing and deploying efficient *small and specialized AI models* on edge devices and personal hardware (like Apple Silicon), alongside robust frameworks for building *autonomous AI agents* that can control systems and automate complex multi-stage workflows. This agentic paradigm is directly enhancing developer productivity through intelligent automation, self-maintaining systems, and streamlined knowledge management, often prioritizing privacy and local execution. Concurrently, there's growing interest in leveraging advanced ML for *predictive analytics* in dynamic fields like finance, while a critical awareness of *security and careful integration* of AI into existing systems, especially with 'autofix' capabilities, remains paramount.",
+  "trends": "Today's tech trends highlight a deep dive into the fundamentals of AI, particularly LLMs, moving beyond mere API consumption to understanding and building them locally (e.g., on Apple Silicon with MLX or Rust). A prominent theme is the rise of 'agentic AI' systems, which exhibit autonomy in controlling other systems (like macOS), managing developer workflows, or orchestrating interactions between multiple AI agents. We see a strong interest in practical, domain-specific AI applications, such as sophisticated trading bots and medical report structuring, alongside a growing awareness of the need for robust and reliable self-improving agents. Concurrently, there's a drive for enhancing developer productivity through AI-assisted code maintenance, streamlined multi-agent communication, and building simple, friction-reducing tools.",
   "ideas": [
     {
-      "title": "Mac-Agentic Workflow Orchestrator",
-      "difficulty": "Medium",
-      "estimated_hours": 20,
-      "description": "Build a personal AI assistant that leverages local LLM inference to automate complex, multi-application workflows on a macOS device. This assistant would translate high-level natural language requests (e.g., 'Summarize today's key emails from project X, add action items to my task list, and draft a thank-you note to sender Y') into a sequence of executable macOS actions. The core value is deep, private integration with local applications and user data, offering a robust, resumable, and highly customized automation experience without relying on external cloud services.",
+      "title": "Local Agentic LLM Desktop Automation Assistant",
+      "difficulty": "Hard",
+      "estimated_hours": 80,
+      "description": "Develop a personal, local AI agent capable of controlling desktop applications and workflows based on natural language commands. Unlike cloud-based solutions, this agent would prioritize privacy and local execution, leveraging optimized local LLMs (e.g., via MLX on Apple Silicon or similar frameworks for other platforms). It would learn from user interactions and potentially integrate with a custom knowledge base for personalized automation scripts, aiming to perform complex tasks like 'summarize my last 5 emails and schedule a meeting with John' or 'generate a report from this CSV and upload it to my cloud drive,' all executed locally without sending sensitive data externally.",
       "tech_stack": [
         "Python",
-        "MLX / Llama.cpp (for local LLM inference)",
-        "AppleScript / PyObjC / Swift (for macOS application control)",
-        "Local LLM (e.g., CodeLlama, Llama 3 quantized)",
-        "Semantic Kernel / LangChain (for agentic orchestration)"
+        "MLX/PyTorch (for local LLM inference)",
+        "Electron/Tauri (for GUI)",
+        "OS-specific automation libraries (e.g., AppleScript/JXA for macOS, PyAutoGUI for Windows/Linux)",
+        "LangChain/LlamaIndex (for agentic orchestration and RAG)"
       ],
-      "source_inspiration": "macos-harness, LabLLM, dsh-automation, maintainer-autopilot",
+      "source_inspiration": "LabLLM, macos-harness, dsh-automation, On the Fragility of Self-Improving Agents",
       "steps": [
-        "Set up a local LLM inference environment using MLX or Llama.cpp, capable of running a suitable quantized model.",
-        "Develop an integration layer with macOS automation frameworks (e.g., AppleScript via Python, PyObjC for direct Cocoa access) to control applications like Mail, Reminders, Calendar, or even web browsers.",
-        "Design and implement a planning and execution agent architecture using a framework like LangChain to break down high-level user prompts into a sequence of atomic macOS actions.",
-        "Create modular 'tools' for the agent, such as 'read_email', 'create_task', 'draft_text', 'open_url', etc., mapping to specific macOS automation scripts.",
-        "Develop a simple user interface (CLI or lightweight GUI) for inputting tasks, monitoring agent progress, and providing feedback/corrections.",
-        "Implement a 'resumable session' feature, allowing the agent to pause and resume complex tasks, possibly leveraging local persistence similar to 'maintainer-autopilot'."
+        "Task 1: Set up a local LLM inference pipeline (e.g., using MLX on Apple Silicon or quantization libraries like llama.cpp for other systems).",
+        "Task 2: Develop core OS interaction capabilities (e.g., launching apps, simulating keypresses/mouse clicks, reading screen content).",
+        "Task 3: Implement an agentic control loop using a framework like LangChain, allowing the LLM to choose tools/actions based on user prompts.",
+        "Task 4: Build a user interface (Electron/Tauri) for natural language input and displaying agent progress/feedback.",
+        "Task 5: Integrate a personalized knowledge base/memory system for the agent to learn and adapt to user-specific workflows and data.",
+        "Task 6: Focus on robustness and error handling, providing clear feedback when tasks fail or require clarification."
       ]
     },
     {
-      "title": "Smart Motion Coach for Niche Sports",
+      "title": "Multi-Agent AI Chat History Integrator & Orchestrator",
       "difficulty": "Medium",
-      "estimated_hours": 30,
-      "description": "Extend the concept of 'bandminton' to another niche physical activity or sport that benefits from precise motion analysis where expert coaching is often inaccessible or expensive (e.g., specific yoga poses, weightlifting form, golf putting stroke). Develop an end-to-end system that uses off-the-shelf wearables (smartwatches, IMU sensors) to capture subtle motion data, trains a lightweight ML model (potentially on-device or edge) to analyze form deviations, and provides real-time or post-session corrective feedback. The focus is on making high-quality, data-driven coaching accessible.",
+      "estimated_hours": 40,
+      "description": "Create a universal tool that allows developers to import, manage, and seamlessly transition chat histories from various AI agents (ChatGPT, Claude, Gemini, DeepSeek, etc.) into a unified interface, with the added capability to orchestrate tasks across these different agents. This platform would not only provide a consolidated view of past interactions but also enable users to define workflows where an initial query is handled by one agent, its output refined by another, and then summarized by a third, simulating a collaborative multi-agent environment for complex problem-solving. It would address the fragmentation of AI tool usage and enhance 'AI usage patterns in software teams'.",
       "tech_stack": [
-        "Python (for ML model training, data preprocessing)",
-        "TensorFlow Lite / ONNX Runtime (for on-device inference)",
-        "Mobile/Wearable OS SDKs (Android Wear, WatchOS, or custom firmware for IMU modules)",
-        "Bluetooth LE (for sensor data transmission)",
-        "NumPy / Pandas (for data manipulation)"
+        "Python/TypeScript",
+        "FastAPI/Node.js (for backend)",
+        "React/Vue (for frontend)",
+        "API clients for various LLM providers (OpenAI, Anthropic, Google, etc.)",
+        "SQLite/PostgreSQL (for history storage)"
       ],
-      "source_inspiration": "bandminton",
+      "source_inspiration": "dsh-chat-import, dsh-automation, AI usage patterns in software teams",
       "steps": [
-        "Identify a target niche activity and precisely define the key movements, metrics, and common form errors to analyze.",
-        "Design and implement a data collection pipeline using existing wearable sensors (e.g., an app on a smartwatch, or a custom interface for an IMU module) to capture accelerometer and gyroscope data during activity execution.",
-        "Collect a diverse dataset of 'correct' and 'incorrect' movements, meticulously labeling them for model training.",
-        "Preprocess the raw sensor data (e.g., filtering, segmentation, feature extraction) and train a lightweight machine learning model (e.g., CNN, LSTM, Random Forest) for motion classification or regression.",
-        "Convert the trained ML model to a format suitable for on-device inference (e.g., TFLite) and integrate it into a mobile or wearable application.",
-        "Develop the application to receive real-time sensor data, run inference, and provide immediate, actionable feedback (visual cues, audio prompts, haptic alerts) to the user.",
-        "Include a session review feature that visualizes performance over time and highlights specific areas for improvement."
+        "Task 1: Design a flexible data model for storing chat histories and agent interactions, supporting various agent types and message formats.",
+        "Task 2: Develop a backend service with API endpoints for importing chat data from common AI platforms (e.g., via browser extensions, direct API, or parsing exported JSONs).",
+        "Task 3: Build a responsive frontend application to display unified chat histories, allowing users to search, filter, and resume conversations.",
+        "Task 4: Implement an orchestration layer where users can define sequences of actions involving multiple AI agents (e.g., 'Ask Agent A, then summarize with Agent B, then generate code with Agent C').",
+        "Task 5: Add features for managing agent credentials securely and monitoring agent usage/costs.",
+        "Task 6: Ensure full-fidelity reverse export/sync capabilities for user data backup and portability."
       ]
     },
     {
-      "title": "Privacy-First Code Companion & Refactor Assistant",
+      "title": "AI-Powered Git Refactoring & Migration Assistant",
       "difficulty": "Medium",
-      "estimated_hours": 25,
-      "description": "Create a developer tool that runs entirely locally and uses a small, fine-tuned LLM to assist with coding tasks. This tool would provide functionality such as explaining selected code snippets, suggesting idiomatic refactorings, or generating basic unit tests – all without sending any code outside the developer's machine. The primary benefit is complete data privacy and offline functionality, making it ideal for sensitive enterprise codebases, environments with strict security policies, or those without internet access. The emphasis is on efficient local inference and potentially allowing developers to further fine-tune the model with their project's specific coding patterns.",
+      "estimated_hours": 60,
+      "description": "Build an intelligent Git companion that uses AI to analyze code changes and suggest or automatically apply refactorings and dependency migrations. This tool would go beyond simple linting by understanding the semantic impact of code changes. For instance, when a dependency is updated, it could identify breaking changes, propose precise code modifications, and even generate/modify unit tests to ensure continued functionality. The system would operate as a pre-commit hook or a standalone CLI, providing 'verified AI dependency migrations' and proving that changes still compile and pass tests, significantly improving developer productivity and code quality.",
       "tech_stack": [
-        "Rust (for performance, inspired by 'from-tin-to-tokens') or Python (with `llama-cpp-python` or MLX)",
-        "Local LLM (e.g., CodeLlama 7B/13B quantized, or a fine-tuned small model)",
-        "VSCode Extension API or CLI framework (e.g., Click, Clap for Rust)",
-        "Tokenizer library (e.g., Hugging Face Transformers local models)"
+        "Python",
+        "Tree-sitter (for AST parsing)",
+        "Ollama/Local LLM (for code analysis and generation)",
+        "Git hooks",
+        "Testing frameworks (pytest, Jest, etc.)"
       ],
-      "source_inspiration": "from-tin-to-tokens, LabLLM, AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
+      "source_inspiration": "emend, Git Gud!",
       "steps": [
-        "Set up a local LLM inference server or library (e.g., `llama-cpp-python` or a Rust-based solution) capable of loading and running a quantized code-focused LLM.",
-        "Choose and acquire a suitable small, open-source code LLM (e.g., a quantized version of CodeLlama) that can run efficiently on typical developer hardware.",
-        "Develop an API layer (e.g., a local REST endpoint or a direct function call interface) for sending code snippets to the LLM and receiving its responses.",
-        "Integrate this API into a developer environment. A VSCode extension is ideal for an interactive experience, or a robust command-line interface for text editors.",
-        "Implement core features: 'Explain selected code', 'Suggest refactoring for current function', and 'Generate basic unit test for selected function'.",
-        "Explore and implement a mechanism for privacy-preserving, local fine-tuning of the model using LoRA adapters or similar techniques, allowing the model to adapt to project-specific coding styles and patterns without sending data externally."
+        "Task 1: Develop a code analysis module using AST parsing (e.g., Tree-sitter) to understand code structure and dependencies.",
+        "Task 2: Integrate a local or API-based LLM capable of code comprehension, refactoring, and test generation.",
+        "Task 3: Create a mechanism to detect dependency version bumps and analyze their impact on the codebase.",
+        "Task 4: Implement logic to suggest or automatically apply fixes for identified breaking changes, including modifying relevant code and updating tests.",
+        "Task 5: Develop a 'verification' step that compiles the code and runs existing tests to confirm the fixes (requires integration with project's build/test system).",
+        "Task 6: Package the tool as a Git pre-commit hook or a CLI utility for easy integration into developer workflows."
       ]
     }
   ],
   "quick_actions": [
-    "Experiment with a local LLM environment: Install 'ollama' or 'llama-cpp-python' and try running a small, open-source LLM (like Llama 3 or CodeLlama) on your machine. Spend 30 minutes giving it simple coding prompts or asking for explanations to understand its offline capabilities.",
-    "Automate one repetitive manual task: Identify a single, recurring manual task in your daily coding or system maintenance workflow (e.g., file cleanup, build process, log parsing) and write a small script (Bash, Python, AppleScript) to automate it.",
-    "Deepen your Git mastery: Spend 15-30 minutes practicing an advanced Git command you rarely use, such as `git rebase -i` for commit history rewriting or `git reflog` for recovering lost work. Focus on understanding its implications and utility.",
-    "Explore a trending open-source AI project: Pick one of the top trending AI/ML GitHub repositories (e.g., 'bandminton' or 'macos-harness'). Clone it, explore its directory structure, read its README, and try to understand its core architecture and potential use cases beyond its immediate description."
+    "Action 1: Dedicate 15 minutes daily to exploring foundational LLM concepts using resources like 'from-tin-to-tokens' or 'LabLLM' to deepen your understanding beyond API calls.",
+    "Action 2: Experiment with a local LLM setup on your machine (e.g., using MLX, llama.cpp, or Ollama) to understand inference, fine-tuning, and agentic control without relying on external APIs.",
+    "Action 3: Review your current Git workflow. Identify one manual task you frequently perform and explore if an existing tool or a small script can automate or simplify it, drawing inspiration from 'Git Gud!'.",
+    "Action 4: Implement the '7 Productivity Tips That Sound Wrong' – pick one counter-intuitive tip (e.g., scheduling 'procrastination time' or deliberately working less on certain days) and try it for a week."
   ]
 }
