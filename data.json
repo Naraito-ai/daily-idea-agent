@@ -1,28 +1,36 @@
 {
-  "last_updated": "2026-08-20 06:24:47",
+  "last_updated": "2026-08-21 06:25:00",
   "scraped_sources": {
     "github": [
-      {
-        "name": "LabLLM",
-        "owner": "Greninja9257",
-        "description": "A native macOS lab for teaching tiny language models to think — build the architecture, train the weights, and watch a small LLM emerge from scratch, locally on Apple Silicon with custom data, tokenizers, checkpoints, and MLX acceleration.",
-        "stars": 56,
-        "url": "https://github.com/Greninja9257/LabLLM",
-        "category": "AI / ML"
-      },
       {
         "name": "AI-Engineering-Lab",
         "owner": "zorost",
         "description": "A free, self-paced 24-week AI engineering course: Python, machine learning, LLMs, RAG, fine-tuning, agents and MCP, Azure and Vertex and Bedrock, and Databricks. 43 runnable notebooks, one continuous case study. MIT licensed, no signup. By Zorost Intelligence AI Lab.",
-        "stars": 45,
+        "stars": 98,
         "url": "https://github.com/zorost/AI-Engineering-Lab",
+        "category": "AI / ML"
+      },
+      {
+        "name": "LabLLM",
+        "owner": "Greninja9257",
+        "description": "A native macOS lab for teaching tiny language models to think — build the architecture, train the weights, and watch a small LLM emerge from scratch, locally on Apple Silicon with custom data, tokenizers, checkpoints, and MLX acceleration.",
+        "stars": 59,
+        "url": "https://github.com/Greninja9257/LabLLM",
+        "category": "AI / ML"
+      },
+      {
+        "name": "neurocursor-ai",
+        "owner": "stems-arraign-48",
+        "description": "AI-powered, camera-based mouse cursor control written in C++. Turn your webcam into a hands-free pointing device — built for gaming, perfect for everyday use and accessibility.",
+        "stars": 50,
+        "url": "https://github.com/stems-arraign-48/neurocursor-ai",
         "category": "AI / ML"
       },
       {
         "name": "RP2040-and-ESP32-AI",
         "owner": "chilly23",
         "description": "Run a 28.9M-parameter TinyLM on ESP32-S3 with an RP2040 OLED display node for fully local embedded AI inference.",
-        "stars": 12,
+        "stars": 17,
         "url": "https://github.com/chilly23/RP2040-and-ESP32-AI",
         "category": "AI / ML"
       },
@@ -35,18 +43,10 @@
         "category": "AI / ML"
       },
       {
-        "name": "drug-discovery-agent-skills",
-        "owner": "K-Dense-AI",
-        "description": "Agent Skills for small-molecule and protein therapeutics: cheminformatics, molecular ML, docking and dynamics, protein design platforms, and target-discovery knowledge graphs.",
-        "stars": 8,
-        "url": "https://github.com/K-Dense-AI/drug-discovery-agent-skills",
-        "category": "AI / ML"
-      },
-      {
         "name": "macos-harness",
         "owner": "browser-use",
         "description": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
-        "stars": 536,
+        "stars": 582,
         "url": "https://github.com/browser-use/macos-harness",
         "category": "Automation / Productivity"
       },
@@ -54,7 +54,7 @@
         "name": "ds4windows-lab-2026",
         "owner": "RopemakerEnd",
         "description": "Portable DS4Windows companion toolkit with setup guides, profile notes, and Windows build helpers for DualShock 4 and DualSense.",
-        "stars": 162,
+        "stars": 151,
         "url": "https://github.com/RopemakerEnd/ds4windows-lab-2026",
         "category": "Automation / Productivity"
       },
@@ -62,16 +62,16 @@
         "name": "botdirectory.ai",
         "owner": "elie222",
         "description": "Open-source directory of agent-bot prompts for Grok Bot, Rakazo, and any agent — botdirectory.ai",
-        "stars": 84,
+        "stars": 94,
         "url": "https://github.com/elie222/botdirectory.ai",
         "category": "Automation / Productivity"
       },
       {
-        "name": "ICVE_Toolkit",
-        "owner": "atvkh",
-        "description": "智慧职教(ICVE)/职教云课程自动完成工具:刷课、自动答题、自动讨论、补签改签,支持 SPOC/MOOC/资源库,免费全功能开源",
-        "stars": 41,
-        "url": "https://github.com/atvkh/ICVE_Toolkit",
+        "name": "Neofollower-SMM-Reseller-API-for-Woocommerce",
+        "owner": "Neofollower",
+        "description": "Official NeoFollower WordPress plugin for selling SMM reseller services through WooCommerce with automated API order fulfillment, service sync, status tracking and balance monitoring.",
+        "stars": 74,
+        "url": "https://github.com/Neofollower/Neofollower-SMM-Reseller-API-for-Woocommerce",
         "category": "Automation / Productivity"
       },
       {
@@ -85,148 +85,147 @@
     ],
     "hacker_news": [
       {
-        "title": "Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?",
-        "url": "https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621",
-        "score": 23
+        "title": "Captain Zilog",
+        "url": "https://www.zilog.com/captain_zilog/",
+        "score": 39
       },
       {
-        "title": "A joke domain purchase turned in geopolitical warfare",
-        "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
-        "score": 830
+        "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+        "url": "https://annas-archive.gl/blog/physical-destruction.html",
+        "score": 244
       }
     ],
     "arxiv": [
       {
-        "title": "SPADE: Self-Play in Adaptive Synthetic Executable Environments",
-        "summary": "Continuous self-improvement requires an ever-expanding pool of self-generated, diverse, adaptive goals. For language agents, existing training environment pools (hand-curated, statically synthesized, ...",
-        "url": "http://arxiv.org/abs/2608.19197v1"
+        "title": "Information on trajectories: martingales and random times",
+        "summary": "Accounting for information flow on the path space of trajectories of a nonnegative martingale yields exact variational identities for it, even at arbitrary random times. This recovers the widely used ...",
+        "url": "http://arxiv.org/abs/2608.20337v1"
       },
       {
-        "title": "ADEPT: Accelerating Dexterity via Pre-Training and Post-Training using Reinforcement Learning",
-        "summary": "We introduce Accelerating Dexterity via Pre-Training (ADEPT), a large-scale reinforcement learning (RL) framework for learning sim-to-real transferable dexterity across high degree-of-freedom (DoF) ro...",
-        "url": "http://arxiv.org/abs/2608.19182v1"
+        "title": "ConceptGuard: Benchmarking Context-Sensitive Unlearning in Large Language Models",
+        "summary": "Large Language Models (LLMs) increasingly require selective removal of harmful or sensitive knowledge, called unlearning, yet existing methods and benchmarks fail to evaluate this capability completel...",
+        "url": "http://arxiv.org/abs/2608.20338v1"
       },
       {
-        "title": "Beyond Teacher Likelihood: Group-Calibrated On-Policy Distillation for Long-Context Reasoning",
-        "summary": "On-policy distillation (OPD) trains a student on its own responses using dense token-level guidance from a stronger teacher. In long-context tasks, however, token-level teacher support can favor local...",
-        "url": "http://arxiv.org/abs/2608.19181v1"
+        "title": "G-CARL: Grounded Checklist-Aligned Reward Learning for Patient-Oriented Medical Report Interpretation",
+        "summary": "Personalized interpretation of medical reports has emerged as an increasingly important need among patients. Addressing this need requires both evidence-grounded medical factuality and context-depende...",
+        "url": "http://arxiv.org/abs/2608.20331v1"
       },
       {
-        "title": "Finetuning Strategies for Querying Sounds by Vocal Imitation",
-        "summary": "This technical report describes our winning submission to the AES AIMLA 2025 Challenge on querying sound effects by vocal imitation. We investigate two complementary fine-tuning strategies: contrastiv...",
-        "url": "http://arxiv.org/abs/2608.19174v1"
+        "title": "$TCP_α$: Margin-Controlled Confidence estimation for reliable Music Information Retrieval",
+        "summary": "Deep neural networks are often overconfident, assigning high confidence even to incorrect predictions. Consequently, users lack a reliable signal for deciding when a prediction can be trusted. Post-ho...",
+        "url": "http://arxiv.org/abs/2608.20326v1"
       },
       {
-        "title": "Lévy Attention: Single-Pass Predictive Uncertainty for Continuous-Time Attention",
-        "summary": "Deep models for irregularly-sampled time series answer queries at arbitrary continuous timestamps, yet report nothing about how far each answer should be trusted. We show the attention layer itself ca...",
-        "url": "http://arxiv.org/abs/2608.19171v1"
+        "title": "A comparison between ceiling-mounted FMCW, IR-UWB and Wi-Fi radar for in-bedroom human activity monitoring and sleep interruption detection",
+        "summary": "Despite their growing importance for contact-free radio frequency (RF) based healthcare monitoring, different radio technologies such as frequency-modulated continuous wave (FMCW) radar, impulse radio...",
+        "url": "http://arxiv.org/abs/2608.20322v1"
       }
     ],
     "devto": [
       {
-        "title": "Git Gud!",
-        "description": "You heard me.    Alright, that was mean lol. Though based on the title, you probably already knew the...",
-        "url": "https://dev.to/francistrdev/git-gud-4e6g",
-        "reactions": 91
-      },
-      {
         "title": "7 Productivity Tips That Sound Wrong (But Actually Work)",
         "description": "Struggling with burnout? Procrastination? Reaching your goals? Let me share a few methods that help...",
         "url": "https://dev.to/sylwia-lask/7-productivity-tips-that-sound-wrong-but-actually-work-5602",
-        "reactions": 88
+        "reactions": 120
       },
       {
-        "title": "My (not so pretty) journey in tech",
-        "description": "Ever since I joined the platform, I wanted to post about a topic I was really passionate about....",
-        "url": "https://dev.to/ishacodes/why-i-joined-devto--5c63",
-        "reactions": 30
+        "title": "Git Gud!",
+        "description": "You heard me.    Alright, that was mean lol. Though based on the title, you probably already knew the...",
+        "url": "https://dev.to/francistrdev/git-gud-4e6g",
+        "reactions": 95
       },
       {
         "title": "I Write Less Code Than I Used To. That May Be the Point.",
         "description": "Over the last year, my day-to-day job has changed in a way I am still trying to understand. I am...",
         "url": "https://dev.to/marcosomma/i-write-less-code-than-i-used-to-that-may-be-the-point-3kk",
-        "reactions": 11
+        "reactions": 16
       },
       {
         "title": "Opus 5: How to Fix Verbose Output",
         "description": "You might have noticed that Opus 5 is extremely eager to talk. It is like the uncle at the family...",
         "url": "https://dev.to/reporails/opus-5-how-to-fix-verbose-output-4amn",
-        "reactions": 8
+        "reactions": 9
+      },
+      {
+        "title": "Opus 5: Review bottleneck",
+        "description": "The pitch for Opus 5 was that the model checks its own work now. Anthropic's Opus 5 guidance says as...",
+        "url": "https://dev.to/reporails/opus-5-review-bottleneck-2c6p",
+        "reactions": 7
       }
     ]
   },
-  "trends": "Today's tech trends reveal a strong push towards the democratization and localization of AI, particularly with Language Models (LLMs). There's significant interest in training and fine-tuning smaller LLMs from scratch, running inference locally on consumer hardware (e.g., Apple Silicon) and even embedded devices (e.g., ESP32, RP2040). This 'edge AI' movement aims for greater privacy, lower latency, and reduced cloud dependency. Complementing this is the rapid rise of agentic AI, where LLMs are empowered to control systems (like macOS) or execute complex, multi-step tasks in specialized domains (e.g., drug discovery, automated code review). Developers are also actively seeking practical AI engineering skills and tools that simplify complex AI workflows (e.g., 'Soup' for fine-tuning). In parallel, there's a strong focus on developer productivity, with emphasis on mastering fundamental tools like Git, adopting 'smarter' workflows, and leveraging automation—including AI—to achieve more by potentially writing less boilerplate code and offloading repetitive tasks.",
+  "trends": "Today's tech landscape is dominated by the practical application and democratization of AI, moving beyond basic chat interfaces into sophisticated agentic systems. Key themes include the drive towards local, privacy-preserving AI inference on diverse hardware (from Apple Silicon to embedded microcontrollers), significantly enhancing developer productivity through intelligent automation (e.g., AI-powered code review and OS control), and a growing focus on ethical AI considerations like 'unlearning' sensitive data and ensuring model trustworthiness. There's a clear emphasis on simplifying complex AI workflows, making advanced techniques like LLM fine-tuning more accessible. Alongside this, developer roles are evolving, with a perceived shift towards writing less boilerplate code and focusing on higher-level problem-solving, further enabled by these AI advancements. This convergence is leading to highly specialized AI applications across various domains, including accessibility, healthcare, and advanced developer tooling.",
   "ideas": [
     {
-      "title": "LocalAI Desktop Control & Automation Agent",
-      "difficulty": "Medium",
-      "estimated_hours": 20,
-      "description": "Develop a cross-platform (or initial macOS/Linux) application that acts as a personal desktop automation agent, powered by a small, local LLM. Users can define custom 'skills' and issue natural language commands to automate repetitive desktop tasks, such as launching applications, manipulating files, executing shell scripts, or interacting with web pages via accessibility APIs. The application would focus on privacy and speed by performing all LLM inference locally, translating user prompts into executable actions without relying on cloud services. This project taps into the 'macos-harness' concept but broadens its scope and emphasizes local control and customizability.",
-      "tech_stack": [
-        "Python",
-        "Llama.cpp (for local LLM inference)",
-        "MLX (for Apple Silicon optimization, if macOS-specific)",
-        "Electron/Tauri (for cross-platform UI)",
-        "OS-specific automation libraries (e.g., pyautogui, Applescript via subprocess)"
-      ],
-      "source_inspiration": "macos-harness, LabLLM, botdirectory.ai",
-      "steps": [
-        "Set up a basic UI framework (e.g., Electron) with a Python backend for logic.",
-        "Integrate a local LLM inference engine (e.g., `llama-cpp-python`) to load a compact LLM (e.g., TinyLlama or similar).",
-        "Design a 'skill' definition system (e.g., JSON or YAML files) where users can map natural language triggers/goals to predefined actions (shell commands, Python scripts, UI automation calls).",
-        "Implement the core agent loop: capture user input, pass it to the local LLM for intent recognition and action generation, then execute the determined action via OS APIs/scripts.",
-        "Add a user-friendly interface for managing skills, viewing logs, and providing real-time feedback on agent actions."
-      ]
-    },
-    {
-      "title": "AI-Enhanced Codebase Summarizer & Navigator",
+      "title": "Local-First Desktop Productivity Agent",
       "difficulty": "Medium",
       "estimated_hours": 24,
-      "description": "Build an IDE extension or a standalone desktop tool that analyzes a local codebase and provides instant, AI-generated summaries of files, functions, and modules. Leveraging a local LLM, this tool would go beyond basic syntax highlighting to understand code intent, identify dependencies, suggest potential documentation gaps, or even flag areas for refactoring. The goal is to reduce developer cognitive load, accelerate onboarding to new projects, and assist with code reviews by offering context and explanations without requiring manual exploration or network access. This aligns with the 'writing less code' trend by automating code understanding.",
+      "description": "Develop a personal AI assistant that operates entirely locally, controlling desktop applications and operating system functions based on natural language commands. This project prioritizes user privacy and customization, distinguishing itself from cloud-based alternatives. The agent could automate repetitive developer tasks such as summarizing daily commit logs, managing project dependencies, or creating structured issues from free-form notes, empowering the developer to focus on more complex, creative work.",
       "tech_stack": [
-        "Python (for backend logic, LLM integration)",
-        "Tree-sitter (for robust code parsing across languages)",
-        "Llama.cpp / MLX (for local LLM inference)",
-        "VS Code Extension API / Electron/Tauri (for UI and IDE integration)",
-        "Graphviz (for dependency visualization)"
+        "Python",
+        "llama.cpp (or MLX for Apple Silicon)",
+        "PyAutoGUI",
+        "Apple Script (for macOS)",
+        "Streamlit (for optional GUI)"
       ],
-      "source_inspiration": "deepseek-harness-pr-review, AI-Engineering-Lab, 'I Write Less Code Than I Used To. That May Be the Point.'",
+      "source_inspiration": "macos-harness, LabLLM, neurocursor-ai, \"I Write Less Code Than I Used To. That May Be the Point.\"",
       "steps": [
-        "Develop a module for parsing source code files into an Abstract Syntax Tree (AST) using Tree-sitter for multiple programming languages (e.g., Python, JavaScript).",
-        "Integrate a local LLM to accept code snippets and contextual questions (e.g., 'Summarize this function', 'Explain the purpose of this class').",
-        "Create an interface (IDE panel or separate app window) to display code summaries, file overviews, and potentially call graphs or dependency maps generated by the LLM.",
-        "Implement a feature to selectively summarize parts of the codebase, allowing users to dive deep into specific functions or get a high-level overview of an entire module.",
-        "Add a 'suggest documentation' capability where the LLM can propose docstrings or README additions based on code analysis."
+        "Setup and integrate `llama.cpp` (or MLX) to run a small, quantized instruction-tuned LLM (e.g., Llama 3 8B or Phi-3-mini) locally.",
+        "Develop a core Python module for OS interaction: simulating keyboard/mouse input (PyAutoGUI), basic file system operations, and potentially running platform-specific scripts (e.g., Apple Script on macOS).",
+        "Implement a simple function-calling mechanism allowing the local LLM to invoke predefined Python functions that interact with the OS and applications.",
+        "Create a basic command-line interface (CLI) or a minimal web-based GUI (using Streamlit) for users to input natural language commands and view the agent's actions/responses.",
+        "Define and test a set of common developer productivity workflows (e.g., 'open my dev environment', 'search for todos in project X', 'summarize last 3 PR descriptions') that the agent can execute."
       ]
     },
     {
-      "title": "TinyML Training & Deployment Kit for Custom Data",
+      "title": "ConceptGuard Code Auditor",
+      "difficulty": "Medium",
+      "estimated_hours": 32,
+      "description": "Build an AI-powered static analysis tool, inspired by 'ConceptGuard's' unlearning capabilities, to audit codebases for specific architectural anti-patterns, sensitive data exposures, and compliance with project-specific best practices. This tool would go beyond simple linting by providing context-sensitive feedback, natural language explanations, and actionable refactoring suggestions, effectively acting as a proactive guardian for code quality and security during development and PR review processes.",
+      "tech_stack": [
+        "Python",
+        "tree-sitter (or other AST parser)",
+        "llama.cpp (for local LLM inference)",
+        "VS Code Extension API (for IDE integration)",
+        "Flask/Django (for optional web dashboard)"
+      ],
+      "source_inspiration": "ConceptGuard: Benchmarking Context-Sensitive Unlearning in Large Language Models, deepseek-harness-pr-review, Git Gud!, AI companies destroy physical books – let's scan rare books before it's too late",
+      "steps": [
+        "Implement a robust code parsing mechanism using `tree-sitter` to generate Abstract Syntax Trees (ASTs) for target programming languages (e.g., Python, JavaScript).",
+        "Develop a rule engine where users can define 'concepts' or patterns to detect (e.g., insecure API key storage, missing docstrings for public functions, specific anti-patterns) using AST queries or regex.",
+        "Integrate a local LLM (e.g., a fine-tuned DeepSeek Coder 7B via `llama.cpp`) to provide natural language explanations for flagged issues and suggest contextually relevant refactoring solutions.",
+        "Implement functionality to 'unlearn' or selectively ignore specific patterns or files, allowing for custom exceptions and tailoring the auditor to a project's specific needs.",
+        "Create a developer-friendly integration: a CLI tool for batch scanning, a pre-commit/pre-push Git hook, or a VS Code extension for real-time feedback within the IDE."
+      ]
+    },
+    {
+      "title": "Micro-Agentic Room Monitor for Wellness & Focus",
       "difficulty": "Hard",
       "estimated_hours": 40,
-      "description": "Create a comprehensive toolkit (hardware + software) that simplifies the process of training and deploying tiny machine learning models on low-cost microcontrollers (e.g., ESP32, RP2040) for specific, custom sensor data classification. This project would provide a streamlined workflow from raw sensor data collection (e.g., audio, motion, environmental), through local model training (following the philosophy of building tiny models from scratch, similar to 'LabLLM'), to optimized deployment and inference on an embedded device. The focus is on enabling developers to build highly customized, privacy-preserving, and cloud-independent intelligent sensor applications, like classifying specific sounds or gestures locally.",
+      "description": "Develop a low-power, embedded device (e.g., using an ESP32-S3 or RP2040) equipped with environmental and sound sensors. This device will leverage a TinyML model to passively monitor a personal space (home office, bedroom) for conditions impacting health, focus, or sleep quality. Applying 'grounded checklist-aligned reward learning' principles, it will interpret sensor data against predefined 'wellness' or 'focus' checklists (e.g., optimal CO2 levels, absence of distracting noise patterns) to provide actionable, interpreted insights rather than just raw sensor data, promoting a healthier and more productive environment.",
       "tech_stack": [
-        "Python (for data collection, pre-processing, model training)",
-        "TensorFlow Lite for Microcontrollers / PyTorch Mobile (for model optimization)",
-        "C/C++ (for embedded device firmware)",
-        "ESP-IDF / PlatformIO / Arduino IDE (for microcontroller development)",
-        "Jupyter Notebooks (for interactive training examples)",
-        "Microcontroller development board (e.g., ESP32-S3 DevKitC with built-in sensors or external ones)"
+        "MicroPython / C++ (for firmware)",
+        "ESP32-S3 / RP2040 (microcontroller)",
+        "TensorFlow Lite Micro / Edge Impulse (for TinyML)",
+        "Various sensors (CO2, VOC, sound, light)",
+        "Bluetooth Low Energy (BLE) / Wi-Fi",
+        "Flutter / React Native (for companion app)"
       ],
-      "source_inspiration": "RP2040-and-ESP32-AI, LabLLM, Finetuning Strategies for Querying Sounds by Vocal Imitation",
+      "source_inspiration": "RP2040-and-ESP32-AI, G-CARL: Grounded Checklist-Aligned Reward Learning for Patient-Oriented Medical Report Interpretation, A comparison between ceiling-mounted FMCW, IR-UWB and Wi-Fi radar for in-bedroom human activity monitoring and sleep interruption detection",
       "steps": [
-        "Select a target microcontroller (e.g., ESP32-S3) and common sensor (e.g., microphone, accelerometer) for the initial reference implementation.",
-        "Develop firmware for the microcontroller to collect raw sensor data and stream it to a host computer for training data generation.",
-        "Create Python scripts/Jupyter notebooks for collecting, labeling, and pre-processing custom sensor datasets.",
-        "Implement a training pipeline using TensorFlow Lite for Microcontrollers (or similar) to train small classification models based on the collected data.",
-        "Develop tools to convert the trained model to a format deployable on the microcontroller and embed it into the device's firmware.",
-        "Provide examples and clear documentation demonstrating on-device inference for custom-trained models, with instructions for extending to other sensors or tasks."
+        "Prototype the hardware by selecting an appropriate microcontroller (ESP32-S3 or RP2040) and integrating relevant sensors (e.g., CO2, VOC, MEMS microphone, ambient light).",
+        "Collect sensor data in various 'states' (e.g., focused work, noisy, good sleep, poor air quality) and meticulously label them according to predefined wellness/focus criteria to create a 'grounded checklist' dataset.",
+        "Utilize a TinyML platform like Edge Impulse or TensorFlow Lite Micro to train a classification model that can accurately detect these desired/undesired environmental states from the sensor data.",
+        "Develop embedded firmware (in MicroPython or C++) to deploy the TinyML model on the microcontroller, continuously read sensor data, perform inference, and interpret results against the 'wellness' checklist.",
+        "Implement a communication mechanism (BLE or Wi-Fi) to transmit summarized, interpreted insights (e.g., 'Air Quality Poor: CO2 High', 'Focus Environment Good') to a local companion mobile or web application, which also allows for custom checklist configuration and displays historical trends."
       ]
     }
   ],
   "quick_actions": [
-    "Dedicate 15 minutes daily this week to explore and apply one new advanced Git command or workflow (e.g., `git rebase -i`, `git bisect`) to enhance your version control efficiency.",
-    "Identify one repetitive personal or coding task (e.g., summarizing articles, drafting short emails, generating boilerplate code) and spend an hour experimenting with a publicly available LLM or AI agent tool to see how it can automate or significantly simplify the task.",
-    "Choose one digital workflow you regularly perform (e.g., organizing downloaded files, triaging emails, managing project tasks) and spend 30 minutes brainstorming and documenting ways to automate at least two steps using scripting or existing automation tools.",
-    "Set up a basic local LLM inference environment on your machine (e.g., using `llama.cpp` or MLX if on Apple Silicon) and run a small model; spend an hour interacting with it to understand its capabilities and limitations firsthand."
+    "Action 1: Experiment with Local LLMs. Download and run a quantized instruction-tuned LLM (e.g., Llama 3 8B or Phi-3-mini) locally using `llama.cpp` or MLX. Focus on understanding its capabilities and limitations for common dev tasks (code generation, summarization) without internet access.",
+    "Action 2: Integrate AI into a Small Personal Workflow. Identify one repetitive task in your daily routine (e.g., summarizing daily dev logs, generating commit messages) and attempt to automate it with a simple script that calls an LLM API or your local model, embracing the 'write less code' principle.",
+    "Action 3: Review your Dev Environment for Automation Gaps. Spend 15 minutes consciously observing your daily development workflow. Pinpoint 1-2 manual, repetitive actions that could potentially be automated with simple scripts, shell aliases, or existing tools, aligning with the broader automation trend.",
+    "Action 4: Explore Agentic AI Prompting. Look up 'agent prompts' or 'function calling' patterns for LLMs (e.g., by referencing `botdirectory.ai`). Practice crafting prompts that instruct an LLM to perform multi-step tasks involving tools or external actions (even if simulated) to grasp the agentic paradigm."
   ]
 }
