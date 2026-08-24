@@ -1,37 +1,29 @@
 {
-  "last_updated": "2026-08-23 06:21:10",
+  "last_updated": "2026-08-24 06:33:47",
   "scraped_sources": {
     "github": [
-      {
-        "name": "AI-Engineering-Lab",
-        "owner": "zorost",
-        "description": "A free, self-paced 24-week AI engineering course: Python, machine learning, LLMs, RAG, fine-tuning, agents and MCP, Azure and Vertex and Bedrock, and Databricks. 43 runnable notebooks, one continuous case study. MIT licensed, no signup. By Zorost Intelligence AI Lab.",
-        "stars": 98,
-        "url": "https://github.com/zorost/AI-Engineering-Lab",
-        "category": "AI / ML"
-      },
       {
         "name": "neurocursor-ai",
         "owner": "stems-arraign-48",
         "description": "AI-powered, camera-based mouse cursor control written in C++. Turn your webcam into a hands-free pointing device — built for gaming, perfect for everyday use and accessibility.",
-        "stars": 50,
+        "stars": 42,
         "url": "https://github.com/stems-arraign-48/neurocursor-ai",
-        "category": "AI / ML"
-      },
-      {
-        "name": "RP2040-and-ESP32-AI",
-        "owner": "chilly23",
-        "description": "Run a 28.9M-parameter TinyLM on ESP32-S3 with an RP2040 OLED display node for fully local embedded AI inference.",
-        "stars": 40,
-        "url": "https://github.com/chilly23/RP2040-and-ESP32-AI",
         "category": "AI / ML"
       },
       {
         "name": "worldmodels101",
         "owner": "NiluK",
         "description": "Free interactive course on world models in AI. Nine visual chapters on prediction, latent dynamics, planning, JEPA, video models, and failure modes.",
-        "stars": 19,
+        "stars": 26,
         "url": "https://github.com/NiluK/worldmodels101",
+        "category": "AI / ML"
+      },
+      {
+        "name": "awesome-kaz-models",
+        "owner": "alenisaw",
+        "description": "Curated, research-grade catalog of public AI models with substantial support for the Kazakh language.",
+        "stars": 11,
+        "url": "https://github.com/alenisaw/awesome-kaz-models",
         "category": "AI / ML"
       },
       {
@@ -43,83 +35,106 @@
         "category": "AI / ML"
       },
       {
-        "name": "macos-harness",
-        "owner": "browser-use",
-        "description": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
-        "stars": 709,
-        "url": "https://github.com/browser-use/macos-harness",
-        "category": "Automation / Productivity"
+        "name": "detectPanel",
+        "owner": "Emr-27",
+        "description": "detectPanel provides leakage-aware discovery and validation of small biomarker panels from count or expression matrices.",
+        "stars": 9,
+        "url": "https://github.com/Emr-27/detectPanel",
+        "category": "AI / ML"
       },
       {
-        "name": "botdirectory.ai",
-        "owner": "elie222",
-        "description": "Open-source directory of agent-bot prompts for Grok Bot, Rakazo, and any agent — botdirectory.ai",
-        "stars": 109,
-        "url": "https://github.com/elie222/botdirectory.ai",
+        "name": "solo-skills",
+        "owner": "bam-bam-2",
+        "description": "1인 사업가 생산성 키트 — 직원 없이 49개를 자동화했고, 그중 바로 쓸 수 있는 AI 에이전트 스킬 26개(+실행 스크립트)를 공개합니다",
+        "stars": 205,
+        "url": "https://github.com/bam-bam-2/solo-skills",
         "category": "Automation / Productivity"
       },
       {
         "name": "Neofollower-SMM-Reseller-API-for-Woocommerce",
         "owner": "Neofollower",
         "description": "Official NeoFollower WordPress plugin for selling SMM reseller services through WooCommerce with automated API order fulfillment, service sync, status tracking and balance monitoring.",
-        "stars": 108,
+        "stars": 110,
         "url": "https://github.com/Neofollower/Neofollower-SMM-Reseller-API-for-Woocommerce",
-        "category": "Automation / Productivity"
-      },
-      {
-        "name": "solo-skills",
-        "owner": "bam-bam-2",
-        "description": "1인 사업가 생산성 키트 — 직원 없이 49개를 자동화했고, 그중 바로 쓸 수 있는 AI 에이전트 스킬 15개를 공개합니다",
-        "stars": 102,
-        "url": "https://github.com/bam-bam-2/solo-skills",
         "category": "Automation / Productivity"
       },
       {
         "name": "douyin-spark",
         "owner": "Xiaowu-0916",
         "description": "抖音自动消息/续火花程序",
-        "stars": 57,
+        "stars": 61,
         "url": "https://github.com/Xiaowu-0916/douyin-spark",
+        "category": "Automation / Productivity"
+      },
+      {
+        "name": "workbuddy-auto-signin",
+        "owner": "88lin",
+        "description": "自动领取 WorkBuddy 每日签到积分、Buddy 旅行礼物、派 Buddy 出发、开盲盒、领任务奖励的自动化脚本",
+        "stars": 44,
+        "url": "https://github.com/88lin/workbuddy-auto-signin",
+        "category": "Automation / Productivity"
+      },
+      {
+        "name": "github-regkit-mibp",
+        "owner": "mhiqrambg",
+        "description": "Automated GitHub account registration toolkit — signup, email verification, first repo, TOTP 2FA with recovery codes, and profile completion. Powered by Camoufox (anti-detect Firefox) + Litensi Mail. Python CLI & React web console.",
+        "stars": 36,
+        "url": "https://github.com/mhiqrambg/github-regkit-mibp",
         "category": "Automation / Productivity"
       }
     ],
     "hacker_news": [
       {
-        "title": "Why your local LLM feels dumber than it is",
-        "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-        "score": 271
+        "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+        "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+        "score": 415
       },
       {
-        "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
-        "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
-        "score": 146
+        "title": "My agent.md to improve LLM-assisted code quality",
+        "url": "https://fabiensanglard.net/agent.md/index.html",
+        "score": 273
+      },
+      {
+        "title": "Google Workspace thinks my domain is an email provider (2025)",
+        "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
+        "score": 256
+      },
+      {
+        "title": "I built a low-latency AI companion that plays Skyrim with me",
+        "url": "https://pantel.is/projects/ai-gaming-companion/",
+        "score": 86
+      },
+      {
+        "title": "How Complex Systems Fail (1998)",
+        "url": "https://how.complexsystems.fail/",
+        "score": 292
       }
     ],
     "arxiv": [
       {
-        "title": "Information on trajectories: martingales and random times",
-        "summary": "Accounting for information flow on the path space of trajectories of a nonnegative martingale yields exact variational identities for it, even at arbitrary random times. This recovers the widely used ...",
-        "url": "http://arxiv.org/abs/2608.20337v1"
+        "title": "Primal Acceleration of Newton's Method",
+        "summary": "We develop a new direct accelerated Newton method for minimizing convex functions with Lipschitz continuous Hessian. The algorithm uses only primal variables and performs just one linear solve per ite...",
+        "url": "http://arxiv.org/abs/2608.21359v1"
       },
       {
-        "title": "ConceptGuard: Benchmarking Context-Sensitive Unlearning in Large Language Models",
-        "summary": "Large Language Models (LLMs) increasingly require selective removal of harmful or sensitive knowledge, called unlearning, yet existing methods and benchmarks fail to evaluate this capability completel...",
-        "url": "http://arxiv.org/abs/2608.20338v1"
+        "title": "VIALS: A Benchmark for Visual Interpretation of Artifacts in the Life Sciences",
+        "summary": "In professional life sciences workflows, scientists routinely interpret visual artifacts (gel blots, microscopy images, plasmid maps, flow cytometry plots, molecular structures, ...) to inform researc...",
+        "url": "http://arxiv.org/abs/2608.21357v1"
       },
       {
-        "title": "G-CARL: Grounded Checklist-Aligned Reward Learning for Patient-Oriented Medical Report Interpretation",
-        "summary": "Personalized interpretation of medical reports has emerged as an increasingly important need among patients. Addressing this need requires both evidence-grounded medical factuality and context-depende...",
-        "url": "http://arxiv.org/abs/2608.20331v1"
+        "title": "AI with Authority, from Application to Silicon",
+        "summary": "For sixty years, machine verification has been a major cost overhead, affordable only for exceptional artifacts. Here we report that generative AI inverts this relationship: at AI speed, machine verif...",
+        "url": "http://arxiv.org/abs/2608.21356v1"
       },
       {
-        "title": "$TCP_α$: Margin-Controlled Confidence estimation for reliable Music Information Retrieval",
-        "summary": "Deep neural networks are often overconfident, assigning high confidence even to incorrect predictions. Consequently, users lack a reliable signal for deciding when a prediction can be trusted. Post-ho...",
-        "url": "http://arxiv.org/abs/2608.20326v1"
+        "title": "PerturbRx: Learning Treatment-Conditioned Latent Transitions for Patient Drug Response Prediction",
+        "summary": "Scarce data and tumor heterogeneity limit patient-level cancer treatment-response prediction. Existing approaches predict response from pretreatment molecular profiles and drug representations, withou...",
+        "url": "http://arxiv.org/abs/2608.21349v1"
       },
       {
-        "title": "A comparison between ceiling-mounted FMCW, IR-UWB and Wi-Fi radar for in-bedroom human activity monitoring and sleep interruption detection",
-        "summary": "Despite their growing importance for contact-free radio frequency (RF) based healthcare monitoring, different radio technologies such as frequency-modulated continuous wave (FMCW) radar, impulse radio...",
-        "url": "http://arxiv.org/abs/2608.20322v1"
+        "title": "Truthful Calibration Measures for Sequential Prediction",
+        "summary": "Calibration requires probabilistic reports to be conditionally unbiased and reliably interpretable as probabilities. A calibration measure assigns numerical error to miscalibrated reports. Haghtalab e...",
+        "url": "http://arxiv.org/abs/2608.21348v1"
       }
     ],
     "devto": [
@@ -127,19 +142,19 @@
         "title": "7 Productivity Tips That Sound Wrong (But Actually Work)",
         "description": "Struggling with burnout? Procrastination? Reaching your goals? Let me share a few methods that help...",
         "url": "https://dev.to/sylwia-lask/7-productivity-tips-that-sound-wrong-but-actually-work-5602",
-        "reactions": 161
+        "reactions": 163
       },
       {
         "title": "Git Gud!",
         "description": "You heard me.    Alright, that was mean lol. Though based on the title, you probably already knew the...",
         "url": "https://dev.to/francistrdev/git-gud-4e6g",
-        "reactions": 122
+        "reactions": 123
       },
       {
         "title": "I Write Less Code Than I Used To. That May Be the Point.",
         "description": "Over the last year, my day-to-day job has changed in a way I am still trying to understand. I am...",
         "url": "https://dev.to/marcosomma/i-write-less-code-than-i-used-to-that-may-be-the-point-3kk",
-        "reactions": 26
+        "reactions": 29
       },
       {
         "title": "I Added Terminal Charts to My Dev.to CLI. Here's What My Data Looks Like.",
@@ -155,79 +170,72 @@
       }
     ]
   },
-  "trends": "Today's tech landscape is heavily shaped by the rapid evolution and practical application of AI. A significant theme is the **democratization and localization of AI**, with strong interest in running powerful LLMs on embedded and personal devices for enhanced privacy, cost-efficiency, and real-time processing. This is complemented by a surge in **AI agent development**, moving beyond simple chatbots to autonomous systems capable of complex interactions and task execution across operating systems and applications. Concurrently, there's a critical focus on **AI reliability, safety, and ethical control**, particularly concerning 'unlearning' sensitive information and ensuring explainable, context-aware decisions in complex domains. For developers, the trend leans towards **smarter productivity through automation and strategic leverage of AI tools**, prioritizing impact and efficiency over sheer volume of code, alongside a high demand for structured AI engineering education.",
+  "trends": "The current tech landscape is dominated by the practical and cost-effective application of AI, moving beyond raw model power towards accessible, specialized solutions. This includes innovative human-computer interaction (e.g., hands-free control) and domain-specific AI in fields like life sciences and language localization. A significant emphasis is placed on 'agentic automation' – leveraging AI and scripting to automate complex, multi-step tasks across personal productivity, business operations, and developer workflows, enabling individuals to achieve more by writing less code. Concurrently, there's an underlying academic focus on enhancing the reliability, trustworthiness, and ethical calibration of AI systems.",
   "ideas": [
     {
-      "title": "Local AI Desktop Agent for Contextual Automation",
+      "title": "AI-Powered \"Hands-Free\" Browser Navigation & Control",
       "difficulty": "Medium",
       "estimated_hours": 30,
-      "description": "Develop a desktop application (for macOS/Windows) that integrates a locally runnable small LLM (e.g., via Ollama/Llama.cpp) to act as a personal AI agent. Users can provide natural language commands to automate common, context-aware tasks that involve local file system operations, application launches, or basic data processing. This agent focuses on privacy and responsiveness by keeping inference local. It could assist with 'digital hygiene' tasks, project setup, or daily workflow automation without cloud dependency.",
+      "description": "Build an accessibility-focused browser extension coupled with a Python backend that allows users to navigate web pages, click links, scroll, and interact with forms entirely hands-free. This would leverage webcam input to detect head movements, gaze direction, or subtle facial gestures, translating them into browser actions. This enhances web accessibility for users with limited mobility and offers a novel interaction method for general productivity, aligning with the trend towards more natural and accessible human-computer interfaces.",
       "tech_stack": [
-        "Python",
-        "Electron (for cross-platform GUI) or native desktop framework (SwiftUI/Kotlin)",
-        "Ollama or Llama.cpp (for local LLM inference)",
-        "Shell scripting integration",
-        "File system APIs"
+        "Python (OpenCV, MediaPipe for pose/gaze detection)",
+        "JavaScript (Browser Extension APIs - Chrome/Firefox)",
+        "HTML/CSS (On-screen UI elements)",
+        "WebSockets (for communication between Python backend and browser extension)"
       ],
-      "source_inspiration": "macos-harness, RP2040-and-ESP32-AI, Why your local LLM feels dumber than it is, solo-skills",
+      "source_inspiration": "neurocursor-ai, Hacker News article 'I built a low-latency AI companion that plays Skyrim with me'",
       "steps": [
-        "Task 1: Set up a basic desktop application framework (e.g., Electron with a Python backend).",
-        "Task 2: Integrate a local LLM inference engine (e.g., Ollama client) to process user prompts.",
-        "Task 3: Develop a module for file system interactions (read, write, search, compress) with safety checks.",
-        "Task 4: Implement basic application control capabilities (launching apps, executing shell commands).",
-        "Task 5: Create a natural language processing layer to map user commands to available agent actions.",
-        "Task 6: Design a user interface for inputting commands and displaying agent responses/progress."
+        "Task 1: Set up a Python Flask/FastAPI backend to receive webcam feed and process it with OpenCV/MediaPipe for head pose/gaze estimation.",
+        "Task 2: Develop a browser extension that injects a content script into web pages and communicates with the Python backend via WebSockets.",
+        "Task 3: Implement logic in the browser extension to map detected head movements (e.g., tilting for scroll, nodding for click) to DOM events.",
+        "Task 4: Create an on-screen visual interface within the browser (e.g., a cursor, highlighted elements) to provide user feedback.",
+        "Task 5: Add configuration options in the extension for sensitivity, gesture mapping, and virtual keyboard integration for text input."
       ]
     },
     {
-      "title": "IDE Extension: Context-Sensitive Code 'Unlearner'",
+      "title": "Context-Aware LLM Agent for Automated Code Refinement & Documentation",
       "difficulty": "Medium",
       "estimated_hours": 40,
-      "description": "Build a VS Code (or similar IDE) extension that acts as a 'Concept Unlearner' for codebases. Inspired by the idea of LLM unlearning, this tool would help developers identify and refactor/remove specific patterns, security risks, or deprecated constructs within their code. Users can define 'concepts to unlearn' (e.g., specific library uses, security vulnerabilities, or anti-patterns). The extension uses a combination of static analysis and a locally run or API-based LLM to provide context-aware suggestions for removal or refactoring, helping maintain a clean, secure, and modern codebase.",
+      "description": "Develop an IDE-integrated LLM agent that actively monitors a developer's code context (current file, recent changes, surrounding functions) and proactively offers suggestions. This agent would automatically generate inline documentation/comments, suggest code refactorings for improved readability and efficiency, identify potential logical pitfalls, and even propose simple test cases. The goal is to act as an intelligent 'pair programmer' that helps developers 'write less code' (boilerplate, docs) while significantly enhancing code quality and maintainability.",
       "tech_stack": [
-        "TypeScript (for VS Code extension)",
-        "Language Server Protocol (LSP)",
-        "Static Analysis tools (e.g., ESLint, Pylint, SonarLint)",
-        "OpenAI API or local LLM (Ollama/Llama.cpp) for contextual suggestions"
+        "Python (LangChain, OpenAI/Anthropic APIs or local LLM like Llama.cpp)",
+        "TypeScript/JavaScript (VS Code Extension API)",
+        "Git (for contextual diffs and history)"
       ],
-      "source_inspiration": "ConceptGuard: Benchmarking Context-Sensitive Unlearning in Large Language Models, I Write Less Code Than I Used To. That May Be the Point.",
+      "source_inspiration": "solo-skills, Hacker News article 'My agent.md to improve LLM-assisted code quality', Dev.to article 'I Write Less Code Than I Used To. That May Be the Point.'",
       "steps": [
-        "Task 1: Initialize a new VS Code extension project.",
-        "Task 2: Integrate basic static analysis capabilities to parse source code (e.g., AST traversal).",
-        "Task 3: Develop a mechanism for users to define 'unlearning rules' (e.g., regex patterns, specific function calls).",
-        "Task 4: Implement a feature to highlight code snippets matching unlearning rules within the editor.",
-        "Task 5: Integrate with an LLM (local or API) to generate refactoring suggestions or explanations for 'unlearning'.",
-        "Task 6: Create Quick Fixes or code action providers for suggested changes."
+        "Task 1: Develop a VS Code (or similar IDE) extension to capture active file content, selected code blocks, and access Git history of the current project.",
+        "Task 2: Integrate with a chosen LLM service (e.g., OpenAI, Anthropic, or a local Llama 3 instance) to send contextual code snippets for analysis.",
+        "Task 3: Design a set of prompt templates for specific tasks: generating docstrings, suggesting refactorings, identifying anti-patterns, and proposing unit tests.",
+        "Task 4: Implement a feedback mechanism within the IDE extension, allowing users to review, accept, or reject the LLM's suggestions and apply changes directly.",
+        "Task 5: Add a 'review bottleneck' feature where the agent checks its own proposed changes for correctness or further improvement before presenting to the user."
       ]
     },
     {
-      "title": "TinyML Environmental Monitor with Confidence-Aware Alerts",
+      "title": "Niche AI-Powered Biomarker Panel Discovery & Validation Platform",
       "difficulty": "Hard",
       "estimated_hours": 60,
-      "description": "Design and build an embedded device using an ESP32-S3/RP2040 (or similar) that monitors environmental conditions (temperature, humidity, air quality, presence detection) using onboard sensors. The core innovation is to implement a TinyML model that not only predicts environmental states or optimal actions (e.g., 'open window', 'turn on fan') but also provides a confidence score for its predictions, inspired by reliable AI research. This confidence score is displayed locally on an OLED or pushed to a mobile app, allowing users to understand the reliability of the system's recommendations before acting on them.",
+      "description": "Create a web-based platform tailored for life scientists to upload and analyze gene expression or count matrices. The platform will use machine learning to discover small biomarker panels (e.g., for disease diagnosis or prognosis), employing 'leakage-aware' validation techniques to ensure robustness. The AI will not only identify candidate panels but also provide visual interpretations and statistical summaries, making complex biomedical data analysis more accessible and reliable for researchers.",
       "tech_stack": [
-        "C++ (for embedded programming)",
-        "MicroPython/CircuitPython (for rapid prototyping on ESP32/RP2040)",
-        "TensorFlow Lite Micro (for TinyML models)",
-        "Various sensor libraries (DHT, BME280, PIR)",
-        "MQTT/Wi-Fi (for optional cloud integration or app communication)",
-        "OLED display library"
+        "Python (Pandas, Scikit-learn, NumPy, Matplotlib/Seaborn, Plotly)",
+        "Streamlit / Flask / Django (for web application framework)",
+        "Machine Learning (Feature Selection algorithms, Classification models, Cross-validation techniques)",
+        "Docker (for deployment and reproducibility)"
       ],
-      "source_inspiration": "RP2040-and-ESP32-AI, $TCP_α$: Margin-Controlled Confidence estimation for reliable Music Information Retrieval, A comparison between ceiling-mounted FMCW, IR-UWB and Wi-Fi radar for in-bedroom human activity monitoring",
+      "source_inspiration": "detectPanel, arXiv paper 'VIALS: A Benchmark for Visual Interpretation of Artifacts in the Life Sciences', arXiv paper 'PerturbRx: Learning Treatment-Conditioned Latent Transitions for Patient Drug Response Prediction'",
       "steps": [
-        "Task 1: Select and procure target embedded hardware (ESP32-S3, RP2040, sensors, OLED display).",
-        "Task 2: Set up development environment and establish basic sensor readings and OLED display output.",
-        "Task 3: Collect environmental data to train a simple TinyML model for state prediction (e.g., 'room too warm').",
-        "Task 4: Implement a confidence estimation mechanism for the TinyML model's predictions.",
-        "Task 5: Port the TinyML model to the embedded device using TensorFlow Lite Micro or similar.",
-        "Task 6: Develop logic to display predictions and their confidence scores on the OLED, and/or send alerts via Wi-Fi."
+        "Task 1: Develop a robust data ingestion module to handle various tabular formats (CSV, TSV, Excel) with validation and basic preprocessing.",
+        "Task 2: Implement core ML algorithms for feature selection (e.g., RFE, L1 regularization) and classification (e.g., SVM, Random Forest) to identify biomarker panels.",
+        "Task 3: Integrate 'leakage-aware' cross-validation and rigorous statistical validation techniques to assess panel performance reliably.",
+        "Task 4: Build a visualization engine to generate heatmaps, ROC curves, survival plots, and other domain-specific charts for interpreting the discovered panels.",
+        "Task 5: Create a user-friendly web interface (e.g., using Streamlit for rapid prototyping or Flask/Django for a more robust app) for data upload, analysis configuration, and results display."
       ]
     }
   ],
   "quick_actions": [
-    "Action 1: Dedicate 30 minutes this week to set up and experiment with a local LLM (e.g., Ollama with a small model) on your machine for code explanation or simple task scripting.",
-    "Action 2: Identify one repetitive digital task you perform weekly (e.g., file organization, data extraction) and spend 1 hour to automate it using a simple script or a no-code/low-code tool.",
-    "Action 3: Spend 15 minutes researching a specific AI agent framework (e.g., LangChain, AutoGen) and jot down one potential, simple personal use case you could build.",
-    "Action 4: Review your recent codebase for one 'concept' or anti-pattern you've been meaning to refactor, and dedicate 1 hour to either implementing the change or planning its systematic removal."
+    "Action 1: Dedicate 30 minutes this week to experiment with a new AI coding assistant (e.g., GitHub Copilot, Cursor IDE, or a local LLM integration) on a personal project to evaluate its impact on code completion and quality.",
+    "Action 2: Identify one recurring, multi-step personal or work task you perform manually and spend an hour scripting its automation using Python or a shell script, focusing on minimizing manual input.",
+    "Action 3: Review your current Git workflow. Spend 15 minutes exploring advanced Git commands (like `rebase`, `cherry-pick`, `reflog`) or a new Git GUI tool to optimize your version control habits.",
+    "Action 4: For your next small coding task, actively challenge yourself to 'write less code' by leveraging existing libraries, APIs, or AI generation tools where possible, rather than implementing from scratch."
   ]
 }
