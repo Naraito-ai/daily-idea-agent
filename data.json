@@ -1,140 +1,44 @@
 {
-  "last_updated": "2026-08-24 06:33:47",
+  "last_updated": "2026-08-25 06:25:28",
   "scraped_sources": {
-    "github": [
-      {
-        "name": "neurocursor-ai",
-        "owner": "stems-arraign-48",
-        "description": "AI-powered, camera-based mouse cursor control written in C++. Turn your webcam into a hands-free pointing device — built for gaming, perfect for everyday use and accessibility.",
-        "stars": 42,
-        "url": "https://github.com/stems-arraign-48/neurocursor-ai",
-        "category": "AI / ML"
-      },
-      {
-        "name": "worldmodels101",
-        "owner": "NiluK",
-        "description": "Free interactive course on world models in AI. Nine visual chapters on prediction, latent dynamics, planning, JEPA, video models, and failure modes.",
-        "stars": 26,
-        "url": "https://github.com/NiluK/worldmodels101",
-        "category": "AI / ML"
-      },
-      {
-        "name": "awesome-kaz-models",
-        "owner": "alenisaw",
-        "description": "Curated, research-grade catalog of public AI models with substantial support for the Kazakh language.",
-        "stars": 11,
-        "url": "https://github.com/alenisaw/awesome-kaz-models",
-        "category": "AI / ML"
-      },
-      {
-        "name": "relight-three-js-transformers-js",
-        "owner": "radames",
-        "description": null,
-        "stars": 10,
-        "url": "https://github.com/radames/relight-three-js-transformers-js",
-        "category": "AI / ML"
-      },
-      {
-        "name": "detectPanel",
-        "owner": "Emr-27",
-        "description": "detectPanel provides leakage-aware discovery and validation of small biomarker panels from count or expression matrices.",
-        "stars": 9,
-        "url": "https://github.com/Emr-27/detectPanel",
-        "category": "AI / ML"
-      },
-      {
-        "name": "solo-skills",
-        "owner": "bam-bam-2",
-        "description": "1인 사업가 생산성 키트 — 직원 없이 49개를 자동화했고, 그중 바로 쓸 수 있는 AI 에이전트 스킬 26개(+실행 스크립트)를 공개합니다",
-        "stars": 205,
-        "url": "https://github.com/bam-bam-2/solo-skills",
-        "category": "Automation / Productivity"
-      },
-      {
-        "name": "Neofollower-SMM-Reseller-API-for-Woocommerce",
-        "owner": "Neofollower",
-        "description": "Official NeoFollower WordPress plugin for selling SMM reseller services through WooCommerce with automated API order fulfillment, service sync, status tracking and balance monitoring.",
-        "stars": 110,
-        "url": "https://github.com/Neofollower/Neofollower-SMM-Reseller-API-for-Woocommerce",
-        "category": "Automation / Productivity"
-      },
-      {
-        "name": "douyin-spark",
-        "owner": "Xiaowu-0916",
-        "description": "抖音自动消息/续火花程序",
-        "stars": 61,
-        "url": "https://github.com/Xiaowu-0916/douyin-spark",
-        "category": "Automation / Productivity"
-      },
-      {
-        "name": "workbuddy-auto-signin",
-        "owner": "88lin",
-        "description": "自动领取 WorkBuddy 每日签到积分、Buddy 旅行礼物、派 Buddy 出发、开盲盒、领任务奖励的自动化脚本",
-        "stars": 44,
-        "url": "https://github.com/88lin/workbuddy-auto-signin",
-        "category": "Automation / Productivity"
-      },
-      {
-        "name": "github-regkit-mibp",
-        "owner": "mhiqrambg",
-        "description": "Automated GitHub account registration toolkit — signup, email verification, first repo, TOTP 2FA with recovery codes, and profile completion. Powered by Camoufox (anti-detect Firefox) + Litensi Mail. Python CLI & React web console.",
-        "stars": 36,
-        "url": "https://github.com/mhiqrambg/github-regkit-mibp",
-        "category": "Automation / Productivity"
-      }
-    ],
+    "github": [],
     "hacker_news": [
       {
-        "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-        "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
-        "score": 415
+        "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
+        "url": "https://developer.apple.com/news/?id=1ptvdtcm",
+        "score": 376
       },
       {
-        "title": "My agent.md to improve LLM-assisted code quality",
-        "url": "https://fabiensanglard.net/agent.md/index.html",
-        "score": 273
-      },
-      {
-        "title": "Google Workspace thinks my domain is an email provider (2025)",
-        "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
-        "score": 256
-      },
-      {
-        "title": "I built a low-latency AI companion that plays Skyrim with me",
-        "url": "https://pantel.is/projects/ai-gaming-companion/",
-        "score": 86
-      },
-      {
-        "title": "How Complex Systems Fail (1998)",
-        "url": "https://how.complexsystems.fail/",
-        "score": 292
+        "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+        "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
+        "score": 650
       }
     ],
     "arxiv": [
       {
-        "title": "Primal Acceleration of Newton's Method",
-        "summary": "We develop a new direct accelerated Newton method for minimizing convex functions with Lipschitz continuous Hessian. The algorithm uses only primal variables and performs just one linear solve per ite...",
-        "url": "http://arxiv.org/abs/2608.21359v1"
+        "title": "How to Train a Critic Stably and Efficiently",
+        "summary": "Group-based reinforcement learning methods such as GRPO for large language models avoid training a critic by sampling multiple responses for each prompt. A reliable critic could instead estimate token...",
+        "url": "http://arxiv.org/abs/2608.23566v1"
       },
       {
-        "title": "VIALS: A Benchmark for Visual Interpretation of Artifacts in the Life Sciences",
-        "summary": "In professional life sciences workflows, scientists routinely interpret visual artifacts (gel blots, microscopy images, plasmid maps, flow cytometry plots, molecular structures, ...) to inform researc...",
-        "url": "http://arxiv.org/abs/2608.21357v1"
+        "title": "ReWorld: An Interactive World Model with Long-Horizon Memory",
+        "summary": "An interactive world model must follow the user's actions, remember the places it has shown, and stream in real time. The tension is structural: control wants a short horizon, memory wants an unbounde...",
+        "url": "http://arxiv.org/abs/2608.23565v1"
       },
       {
-        "title": "AI with Authority, from Application to Silicon",
-        "summary": "For sixty years, machine verification has been a major cost overhead, affordable only for exceptional artifacts. Here we report that generative AI inverts this relationship: at AI speed, machine verif...",
-        "url": "http://arxiv.org/abs/2608.21356v1"
+        "title": "SWE Refactor Bench: Can Coding Agents Complete a Long-Horizon, Whole-Repository Stack Migration?",
+        "summary": "Modern software systems accumulate technical debt over decades of development, which makes migration expensive and largely manual. As coding agents become increasingly capable at bug fixing, can they ...",
+        "url": "http://arxiv.org/abs/2608.23564v1"
       },
       {
-        "title": "PerturbRx: Learning Treatment-Conditioned Latent Transitions for Patient Drug Response Prediction",
-        "summary": "Scarce data and tumor heterogeneity limit patient-level cancer treatment-response prediction. Existing approaches predict response from pretreatment molecular profiles and drug representations, withou...",
-        "url": "http://arxiv.org/abs/2608.21349v1"
+        "title": "EG-ARSA: An Expert-Grounded Open Model for Visual Road Safety Auditing in Low-Resource Settings",
+        "summary": "Road traffic injuries remain a major challenge in low- and middle-income countries, where proactive road safety auditing is limited by incomplete crash records, shortages of qualified auditors, and th...",
+        "url": "http://arxiv.org/abs/2608.23563v1"
       },
       {
-        "title": "Truthful Calibration Measures for Sequential Prediction",
-        "summary": "Calibration requires probabilistic reports to be conditionally unbiased and reliably interpretable as probabilities. A calibration measure assigns numerical error to miscalibrated reports. Haghtalab e...",
-        "url": "http://arxiv.org/abs/2608.21348v1"
+        "title": "Physics-Constrained Deep Learning Model for Contactless Blood Pressure Monitoring from Triaxial Bodyseismography",
+        "summary": "Ballistocardiography (BCG) is promising for unobtrusive long-term blood pressure (BP) monitoring in laboratory settings, but traditional BCG signals are vulnerable to the variations in body-bed intera...",
+        "url": "http://arxiv.org/abs/2608.23562v1"
       }
     ],
     "devto": [
@@ -145,16 +49,10 @@
         "reactions": 163
       },
       {
-        "title": "Git Gud!",
-        "description": "You heard me.    Alright, that was mean lol. Though based on the title, you probably already knew the...",
-        "url": "https://dev.to/francistrdev/git-gud-4e6g",
-        "reactions": 123
-      },
-      {
         "title": "I Write Less Code Than I Used To. That May Be the Point.",
         "description": "Over the last year, my day-to-day job has changed in a way I am still trying to understand. I am...",
         "url": "https://dev.to/marcosomma/i-write-less-code-than-i-used-to-that-may-be-the-point-3kk",
-        "reactions": 29
+        "reactions": 31
       },
       {
         "title": "I Added Terminal Charts to My Dev.to CLI. Here's What My Data Looks Like.",
@@ -167,75 +65,91 @@
         "description": "The pitch for Opus 5 was that the model checks its own work now. Anthropic's Opus 5 guidance says as...",
         "url": "https://dev.to/reporails/opus-5-review-bottleneck-2c6p",
         "reactions": 7
+      },
+      {
+        "title": "AI didn't make me a worse coder. It made me a worse reviewer.",
+        "description": "I built a lot of apps with AI last year and approved most of the code without really reading it. The research says the skill that decays isn't typing — it's the cognitive work underneath. Here's why every fix I've read (including my own first idea) is built to fail, and the one shape that isn't.",
+        "url": "https://dev.to/dev_michael/ai-didnt-make-me-a-worse-coder-it-made-me-a-worse-reviewer-48d0",
+        "reactions": 11
       }
     ]
   },
-  "trends": "The current tech landscape is dominated by the practical and cost-effective application of AI, moving beyond raw model power towards accessible, specialized solutions. This includes innovative human-computer interaction (e.g., hands-free control) and domain-specific AI in fields like life sciences and language localization. A significant emphasis is placed on 'agentic automation' – leveraging AI and scripting to automate complex, multi-step tasks across personal productivity, business operations, and developer workflows, enabling individuals to achieve more by writing less code. Concurrently, there's an underlying academic focus on enhancing the reliability, trustworthiness, and ethical calibration of AI systems.",
+  "trends": "Today's tech landscape highlights significant advancements and evolving challenges in AI, particularly regarding its integration into developer workflows and its societal impact. We see a strong push for AI in complex software engineering tasks, such as large-scale refactoring, alongside continued research into stable training of LLM critics and interactive world models with long-horizon memory. Concurrently, concerns about content authenticity and digital provenance are escalating, evidenced by invisible watermarking, raising questions about trust and privacy in AI-generated content. For developers, AI is shifting roles from pure coding to higher-level problem-solving and critical review, bringing to light a 'reviewer bottleneck' and a potential decay in human oversight skills. This shift fuels interest in advanced developer tooling, personal productivity optimization, and innovative ways to visualize and track individual performance and habits.",
   "ideas": [
     {
-      "title": "AI-Powered \"Hands-Free\" Browser Navigation & Control",
-      "difficulty": "Medium",
-      "estimated_hours": 30,
-      "description": "Build an accessibility-focused browser extension coupled with a Python backend that allows users to navigate web pages, click links, scroll, and interact with forms entirely hands-free. This would leverage webcam input to detect head movements, gaze direction, or subtle facial gestures, translating them into browser actions. This enhances web accessibility for users with limited mobility and offers a novel interaction method for general productivity, aligning with the trend towards more natural and accessible human-computer interfaces.",
-      "tech_stack": [
-        "Python (OpenCV, MediaPipe for pose/gaze detection)",
-        "JavaScript (Browser Extension APIs - Chrome/Firefox)",
-        "HTML/CSS (On-screen UI elements)",
-        "WebSockets (for communication between Python backend and browser extension)"
-      ],
-      "source_inspiration": "neurocursor-ai, Hacker News article 'I built a low-latency AI companion that plays Skyrim with me'",
-      "steps": [
-        "Task 1: Set up a Python Flask/FastAPI backend to receive webcam feed and process it with OpenCV/MediaPipe for head pose/gaze estimation.",
-        "Task 2: Develop a browser extension that injects a content script into web pages and communicates with the Python backend via WebSockets.",
-        "Task 3: Implement logic in the browser extension to map detected head movements (e.g., tilting for scroll, nodding for click) to DOM events.",
-        "Task 4: Create an on-screen visual interface within the browser (e.g., a cursor, highlighted elements) to provide user feedback.",
-        "Task 5: Add configuration options in the extension for sensitivity, gesture mapping, and virtual keyboard integration for text input."
-      ]
-    },
-    {
-      "title": "Context-Aware LLM Agent for Automated Code Refinement & Documentation",
+      "title": "AI-Enhanced Code Provenance & Review Assistant",
       "difficulty": "Medium",
       "estimated_hours": 40,
-      "description": "Develop an IDE-integrated LLM agent that actively monitors a developer's code context (current file, recent changes, surrounding functions) and proactively offers suggestions. This agent would automatically generate inline documentation/comments, suggest code refactorings for improved readability and efficiency, identify potential logical pitfalls, and even propose simple test cases. The goal is to act as an intelligent 'pair programmer' that helps developers 'write less code' (boilerplate, docs) while significantly enhancing code quality and maintainability.",
+      "description": "Develop a tool, either as a VS Code extension or a Git hook, that helps developers review code, especially changes suggested or generated by AI agents. This assistant would analyze diffs, flag sections that exhibit patterns common to AI generation, suggest specific areas for human scrutiny (e.g., complex logic, edge cases, security implications), and maintain a 'provenance log' for code blocks, indicating whether they were human-written, AI-generated, or AI-assisted. The goal is to combat the 'reviewer's cognitive decay' by providing targeted insights rather than just approving code blindly, ensuring robust review processes for AI-driven development.",
       "tech_stack": [
-        "Python (LangChain, OpenAI/Anthropic APIs or local LLM like Llama.cpp)",
-        "TypeScript/JavaScript (VS Code Extension API)",
-        "Git (for contextual diffs and history)"
+        "Python",
+        "VS Code Extension API",
+        "Git Hooks",
+        "AST Parsers (e.g., tree-sitter)",
+        "Local LLM (e.g., via Ollama) or OpenAI API",
+        "SQLite (for provenance log)"
       ],
-      "source_inspiration": "solo-skills, Hacker News article 'My agent.md to improve LLM-assisted code quality', Dev.to article 'I Write Less Code Than I Used To. That May Be the Point.'",
+      "source_inspiration": "AI didn't make me a worse coder. It made me a worse reviewer.",
       "steps": [
-        "Task 1: Develop a VS Code (or similar IDE) extension to capture active file content, selected code blocks, and access Git history of the current project.",
-        "Task 2: Integrate with a chosen LLM service (e.g., OpenAI, Anthropic, or a local Llama 3 instance) to send contextual code snippets for analysis.",
-        "Task 3: Design a set of prompt templates for specific tasks: generating docstrings, suggesting refactorings, identifying anti-patterns, and proposing unit tests.",
-        "Task 4: Implement a feedback mechanism within the IDE extension, allowing users to review, accept, or reject the LLM's suggestions and apply changes directly.",
-        "Task 5: Add a 'review bottleneck' feature where the agent checks its own proposed changes for correctness or further improvement before presenting to the user."
+        "Set up a basic VS Code extension scaffold or Git pre-commit/pre-push hook.",
+        "Implement code parsing to analyze diffs and identify modified/added lines.",
+        "Integrate a heuristic or a local small language model to identify characteristics of AI-generated code.",
+        "Develop logic to suggest specific review points based on code complexity, identified patterns, or potential security vulnerabilities.",
+        "Design and implement a UI within the IDE (or a terminal output for Git hook) to display review suggestions and the provenance log.",
+        "Add functionality to store and retrieve provenance information for code sections (e.g., 'authored by GPT-4 at YYYY-MM-DD')."
       ]
     },
     {
-      "title": "Niche AI-Powered Biomarker Panel Discovery & Validation Platform",
+      "title": "DevMind: Predictive Local Development Environment World Model",
       "difficulty": "Hard",
-      "estimated_hours": 60,
-      "description": "Create a web-based platform tailored for life scientists to upload and analyze gene expression or count matrices. The platform will use machine learning to discover small biomarker panels (e.g., for disease diagnosis or prognosis), employing 'leakage-aware' validation techniques to ensure robustness. The AI will not only identify candidate panels but also provide visual interpretations and statistical summaries, making complex biomedical data analysis more accessible and reliable for researchers.",
+      "estimated_hours": 80,
+      "description": "Inspired by 'ReWorld', this project aims to create a local 'world model' of a specific codebase and development environment. It would run as a background service or IDE plugin, observing developer actions (file edits, terminal commands, test runs, debugging sessions) within a project. Over time, it learns the project's structure, dependencies, and the developer's typical workflow. The 'DevMind' could then predict likely next actions, suggest relevant files or documentation, highlight potential side-effects of changes (especially during refactoring), and track progress across long-horizon tasks like a 'whole-repository stack migration' by understanding the project's evolving state and interdependencies.",
       "tech_stack": [
-        "Python (Pandas, Scikit-learn, NumPy, Matplotlib/Seaborn, Plotly)",
-        "Streamlit / Flask / Django (for web application framework)",
-        "Machine Learning (Feature Selection algorithms, Classification models, Cross-validation techniques)",
-        "Docker (for deployment and reproducibility)"
+        "Python/Go (for background service)",
+        "IDE Extension API (e.g., VS Code Language Server Protocol)",
+        "File System Watchers (e.g., `watchdog`)",
+        "Process Monitoring (for terminal commands)",
+        "Graph Database (e.g., Neo4j embedded, or custom in-memory graph)",
+        "Basic ML for sequence prediction or anomaly detection"
       ],
-      "source_inspiration": "detectPanel, arXiv paper 'VIALS: A Benchmark for Visual Interpretation of Artifacts in the Life Sciences', arXiv paper 'PerturbRx: Learning Treatment-Conditioned Latent Transitions for Patient Drug Response Prediction'",
+      "source_inspiration": "ReWorld: An Interactive World Model with Long-Horizon Memory",
       "steps": [
-        "Task 1: Develop a robust data ingestion module to handle various tabular formats (CSV, TSV, Excel) with validation and basic preprocessing.",
-        "Task 2: Implement core ML algorithms for feature selection (e.g., RFE, L1 regularization) and classification (e.g., SVM, Random Forest) to identify biomarker panels.",
-        "Task 3: Integrate 'leakage-aware' cross-validation and rigorous statistical validation techniques to assess panel performance reliably.",
-        "Task 4: Build a visualization engine to generate heatmaps, ROC curves, survival plots, and other domain-specific charts for interpreting the discovered panels.",
-        "Task 5: Create a user-friendly web interface (e.g., using Streamlit for rapid prototyping or Flask/Django for a more robust app) for data upload, analysis configuration, and results display."
+        "Choose a target IDE and develop the skeleton for an extension or a standalone background service.",
+        "Implement listeners to capture relevant developer actions: file modifications, terminal commands executed within the project, and opened files.",
+        "Design a data model to represent the project's entities (files, functions, modules) and their relationships, along with a timeline of developer interactions.",
+        "Develop a 'project state' engine that updates the model in real-time based on observed actions and code changes (e.g., AST parsing for dependency updates).",
+        "Implement basic predictive heuristics: suggest files related to the current open file, or commands based on recent history and project context.",
+        "Create a simple UI within the IDE to display 'DevMind's insights, suggestions, or potential impact warnings."
+      ]
+    },
+    {
+      "title": "Pro CLI: AI-Powered Terminal Productivity Dashboard",
+      "difficulty": "Easy",
+      "estimated_hours": 20,
+      "description": "Build an advanced command-line interface tool that acts as a personal productivity dashboard. It passively tracks developer activity (e.g., time spent in specific project directories, commit frequencies, distinct commands used, active sprint tickets). Leveraging simple local AI models or rule-based systems, it provides personalized productivity insights, suggests 'wrong-sounding-but-effective' tips tailored to the user's observed patterns, and visualizes trends directly in the terminal using ASCII charts and color gradients. This tool would help developers understand their work habits, identify bottlenecks, and make data-driven improvements to their workflow.",
+      "tech_stack": [
+        "Python",
+        "Click/Argparse (for CLI)",
+        "Rich (for rich terminal output and charts)",
+        "SQLite (for local data storage)",
+        "Shell Scripting (for command logging hooks)",
+        "Pandas/Numpy (for data analysis)"
+      ],
+      "source_inspiration": "I Added Terminal Charts to My Dev.to CLI. Here's What My Data Looks Like.",
+      "steps": [
+        "Choose a language (e.g., Python) and set up a basic CLI application structure.",
+        "Implement shell hooks (e.g., in `.bashrc` or `.zshrc`) to log terminal commands, current working directory, and timestamps to a local SQLite database.",
+        "Develop commands to query and visualize this data directly in the terminal using `Rich` for bar charts, sparklines, and trend indicators.",
+        "Implement a 'insights' module that uses simple rules or basic data analysis (e.g., clustering common commands, identifying peak activity times) to offer personalized productivity tips.",
+        "Add a feature to manually input and track daily/weekly goals and show progress against them.",
+        "Expand the data collection to include more sophisticated metrics, like commit message analysis for sentiment or task context."
       ]
     }
   ],
   "quick_actions": [
-    "Action 1: Dedicate 30 minutes this week to experiment with a new AI coding assistant (e.g., GitHub Copilot, Cursor IDE, or a local LLM integration) on a personal project to evaluate its impact on code completion and quality.",
-    "Action 2: Identify one recurring, multi-step personal or work task you perform manually and spend an hour scripting its automation using Python or a shell script, focusing on minimizing manual input.",
-    "Action 3: Review your current Git workflow. Spend 15 minutes exploring advanced Git commands (like `rebase`, `cherry-pick`, `reflog`) or a new Git GUI tool to optimize your version control habits.",
-    "Action 4: For your next small coding task, actively challenge yourself to 'write less code' by leveraging existing libraries, APIs, or AI generation tools where possible, rather than implementing from scratch."
+    "For your next code review involving AI-generated content or a significant refactor, dedicate an explicit 20% more time than usual to scrutinize the underlying logic, edge cases, and architectural implications, focusing on *why* the code works rather than just *what* it does.",
+    "Identify one 'wrong-sounding' productivity tip (e.g., 'procrastinate strategically' or 'take more unscheduled breaks') and consciously apply it to a task this week, observing its impact on your focus and output without judgment.",
+    "Before writing any new code today, spend 10-15 minutes sketching out the high-level system design or the problem's core logic. Aim to reduce the total lines of code needed by focusing on modularity, leveraging existing solutions, and clearly defining the desired outcome.",
+    "Set up a simple local script or shell alias to log your most frequently used terminal commands and active project directories for a day. Review the output at the end of the day to identify patterns in your workflow and potential areas for automation."
   ]
 }
