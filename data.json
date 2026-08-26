@@ -1,52 +1,139 @@
 {
-  "last_updated": "2026-08-25 06:25:28",
+  "last_updated": "2026-08-26 06:27:01",
   "scraped_sources": {
-    "github": [],
-    "hacker_news": [
+    "github": [
       {
-        "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
-        "url": "https://developer.apple.com/news/?id=1ptvdtcm",
-        "score": 376
+        "name": "neurocursor-ai",
+        "owner": "stems-arraign-48",
+        "description": "AI-powered, camera-based mouse cursor control written in C++. Turn your webcam into a hands-free pointing device — built for gaming, perfect for everyday use and accessibility.",
+        "stars": 41,
+        "url": "https://github.com/stems-arraign-48/neurocursor-ai",
+        "category": "AI / ML"
       },
       {
-        "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
-        "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
-        "score": 650
+        "name": "NSOSYAL",
+        "owner": "CALISKAN-EMRE",
+        "description": "TEKNOFEST 2026 NSosyal İnovasyon — Explainable recommendations, semantic context cards and Turkish AI moderation.",
+        "stars": 18,
+        "url": "https://github.com/CALISKAN-EMRE/NSOSYAL",
+        "category": "AI / ML"
+      },
+      {
+        "name": "relight-three-js-transformers-js",
+        "owner": "radames",
+        "description": null,
+        "stars": 11,
+        "url": "https://github.com/radames/relight-three-js-transformers-js",
+        "category": "AI / ML"
+      },
+      {
+        "name": "data-analysis-ml-agent-skills",
+        "owner": "aiopshwang",
+        "description": "Evidence-first AI agent skills for reliable data analysis, machine learning, model validation, and reproducibility.",
+        "stars": 8,
+        "url": "https://github.com/aiopshwang/data-analysis-ml-agent-skills",
+        "category": "AI / ML"
+      },
+      {
+        "name": "NeuralForge",
+        "owner": "kamalesh404",
+        "description": "AI model training platform — train, fine-tune, deploy ML models in browser with WebGPU acceleration",
+        "stars": 7,
+        "url": "https://github.com/kamalesh404/NeuralForge",
+        "category": "AI / ML"
+      },
+      {
+        "name": "solo-skills",
+        "owner": "bam-bam-2",
+        "description": "1인 사업가 생산성 키트 — 직원 없이 49개를 자동화했고, 그중 바로 쓸 수 있는 AI 에이전트 스킬 26개(+실행 스크립트)를 공개합니다",
+        "stars": 303,
+        "url": "https://github.com/bam-bam-2/solo-skills",
+        "category": "Automation / Productivity"
+      },
+      {
+        "name": "Neofollower-SMM-Reseller-API-for-Woocommerce",
+        "owner": "Neofollower",
+        "description": "Official NeoFollower WordPress plugin for selling SMM reseller services through WooCommerce with automated API order fulfillment, service sync, status tracking and balance monitoring.",
+        "stars": 119,
+        "url": "https://github.com/Neofollower/Neofollower-SMM-Reseller-API-for-Woocommerce",
+        "category": "Automation / Productivity"
+      },
+      {
+        "name": "braxis-blueprint",
+        "owner": "BraxisAI",
+        "description": "The $0 AI Empire Playbook — 140+ agents, 20+ free LLM lanes, 1,800+ songs, a living 3D world, all on free tiers. Real scripts, real failure classes, MIT.",
+        "stars": 73,
+        "url": "https://github.com/BraxisAI/braxis-blueprint",
+        "category": "Automation / Productivity"
+      },
+      {
+        "name": "douyin-spark",
+        "owner": "Xiaowu-0916",
+        "description": "抖音自动消息/续火花程序",
+        "stars": 64,
+        "url": "https://github.com/Xiaowu-0916/douyin-spark",
+        "category": "Automation / Productivity"
+      },
+      {
+        "name": "github-regkit-mibp",
+        "owner": "mhiqrambg",
+        "description": "Automated GitHub account registration toolkit — signup, email verification, first repo, TOTP 2FA with recovery codes, and profile completion. Powered by Camoufox (anti-detect Firefox) + Litensi Mail. Python CLI & React web console.",
+        "stars": 40,
+        "url": "https://github.com/mhiqrambg/github-regkit-mibp",
+        "category": "Automation / Productivity"
+      }
+    ],
+    "hacker_news": [
+      {
+        "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
+        "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+        "score": 414
+      },
+      {
+        "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
+        "url": "https://github.com/runetes/maiao",
+        "score": 59
       }
     ],
     "arxiv": [
       {
-        "title": "How to Train a Critic Stably and Efficiently",
-        "summary": "Group-based reinforcement learning methods such as GRPO for large language models avoid training a critic by sampling multiple responses for each prompt. A reliable critic could instead estimate token...",
-        "url": "http://arxiv.org/abs/2608.23566v1"
+        "title": "What FID Hides: Detecting, Ranking, and Diagnosing Deviations in Generative Evaluation",
+        "summary": "Generative models are commonly ranked by Fréchet Inception Distance (FID) and Kernel Inception Distance (KID), yet FID's first-two-moment summary can miss distributional differences, and a reported sc...",
+        "url": "http://arxiv.org/abs/2608.24881v1"
       },
       {
-        "title": "ReWorld: An Interactive World Model with Long-Horizon Memory",
-        "summary": "An interactive world model must follow the user's actions, remember the places it has shown, and stream in real time. The tension is structural: control wants a short horizon, memory wants an unbounde...",
-        "url": "http://arxiv.org/abs/2608.23565v1"
+        "title": "Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses",
+        "summary": "Recursive self-improvement (RSI) remains hard in long-horizon tasks, where growing histories obscure the task state and misalign skill invocation. We introduce Recuris, a recursive Experiential-Workin...",
+        "url": "http://arxiv.org/abs/2608.24876v1"
       },
       {
-        "title": "SWE Refactor Bench: Can Coding Agents Complete a Long-Horizon, Whole-Repository Stack Migration?",
-        "summary": "Modern software systems accumulate technical debt over decades of development, which makes migration expensive and largely manual. As coding agents become increasingly capable at bug fixing, can they ...",
-        "url": "http://arxiv.org/abs/2608.23564v1"
+        "title": "SPO++: Stream-Aligned Policy Optimization for Asynchronous Agentic RL",
+        "summary": "Group-relative reinforcement learning waits for sibling rollouts of the same prompt, which is costly for long and variable tool-use trajectories. Single-stream Policy Optimization (SPO) removes this d...",
+        "url": "http://arxiv.org/abs/2608.24870v1"
       },
       {
-        "title": "EG-ARSA: An Expert-Grounded Open Model for Visual Road Safety Auditing in Low-Resource Settings",
-        "summary": "Road traffic injuries remain a major challenge in low- and middle-income countries, where proactive road safety auditing is limited by incomplete crash records, shortages of qualified auditors, and th...",
-        "url": "http://arxiv.org/abs/2608.23563v1"
+        "title": "Parameterized Complexity of $L_p$-Lipschitz Constants for Input Convex Neural Networks and $L_p$-Norm Maximization over Zonotopes",
+        "summary": "Lipschitz constants are a standard way to quantify the sensitivity of neural networks to small input perturbations, but computing them is difficult even for shallow ReLU networks. We study this proble...",
+        "url": "http://arxiv.org/abs/2608.24865v1"
       },
       {
-        "title": "Physics-Constrained Deep Learning Model for Contactless Blood Pressure Monitoring from Triaxial Bodyseismography",
-        "summary": "Ballistocardiography (BCG) is promising for unobtrusive long-term blood pressure (BP) monitoring in laboratory settings, but traditional BCG signals are vulnerable to the variations in body-bed intera...",
-        "url": "http://arxiv.org/abs/2608.23562v1"
+        "title": "Improving Cross-Problem Vehicle Routing with Locally Augmented Preferences and Representation Disentanglement",
+        "summary": "Multi-task vehicle routing problem (VRP) solvers seek to handle multiple VRP variants within a single unified model, avoiding the need to train a separate model for every variant. In spite of recent p...",
+        "url": "http://arxiv.org/abs/2608.24859v1"
       }
     ],
     "devto": [
       {
-        "title": "7 Productivity Tips That Sound Wrong (But Actually Work)",
-        "description": "Struggling with burnout? Procrastination? Reaching your goals? Let me share a few methods that help...",
-        "url": "https://dev.to/sylwia-lask/7-productivity-tips-that-sound-wrong-but-actually-work-5602",
-        "reactions": 163
+        "title": "AI promoted every developer to reviewer. Nobody tested the reviewer.",
+        "description": "I wanted to disagree with 'AI made me a worse reviewer' from Michael Amachree (@dev_michael) ....",
+        "url": "https://dev.to/heinrichneb/ai-promoted-every-developer-to-reviewer-nobody-tested-the-reviewer-m4h",
+        "reactions": 41
+      },
+      {
+        "title": "What Do You Do While AI Codes?",
+        "description": "AI coding agents leave you with 5-to-20-minute gaps all day. Five real ways I fill them — and the one \"quick\" habit that makes you the bottleneck.",
+        "url": "https://dev.to/anchildress1/what-do-you-do-while-ai-codes-k8k",
+        "reactions": 24
       },
       {
         "title": "I Write Less Code Than I Used To. That May Be the Point.",
@@ -61,95 +148,85 @@
         "reactions": 34
       },
       {
-        "title": "Opus 5: Review bottleneck",
-        "description": "The pitch for Opus 5 was that the model checks its own work now. Anthropic's Opus 5 guidance says as...",
-        "url": "https://dev.to/reporails/opus-5-review-bottleneck-2c6p",
-        "reactions": 7
-      },
-      {
-        "title": "AI didn't make me a worse coder. It made me a worse reviewer.",
-        "description": "I built a lot of apps with AI last year and approved most of the code without really reading it. The research says the skill that decays isn't typing — it's the cognitive work underneath. Here's why every fix I've read (including my own first idea) is built to fail, and the one shape that isn't.",
-        "url": "https://dev.to/dev_michael/ai-didnt-make-me-a-worse-coder-it-made-me-a-worse-reviewer-48d0",
-        "reactions": 11
+        "title": "Your Job Ends at 5. Your Developer Brain Doesn't.",
+        "description": "5:00 PM. Laptop closed. Slack closed. Workday over. Except my brain didn't get the memo.  I'm making...",
+        "url": "https://dev.to/harsh2644/your-job-ends-at-5-your-developer-brain-doesnt-26m8",
+        "reactions": 24
       }
     ]
   },
-  "trends": "Today's tech landscape highlights significant advancements and evolving challenges in AI, particularly regarding its integration into developer workflows and its societal impact. We see a strong push for AI in complex software engineering tasks, such as large-scale refactoring, alongside continued research into stable training of LLM critics and interactive world models with long-horizon memory. Concurrently, concerns about content authenticity and digital provenance are escalating, evidenced by invisible watermarking, raising questions about trust and privacy in AI-generated content. For developers, AI is shifting roles from pure coding to higher-level problem-solving and critical review, bringing to light a 'reviewer bottleneck' and a potential decay in human oversight skills. This shift fuels interest in advanced developer tooling, personal productivity optimization, and innovative ways to visualize and track individual performance and habits.",
+  "trends": "The current tech landscape is dominated by the rapid advancement and practical application of agentic AI, focusing on enhancing human productivity and automation across various domains. We see a strong push towards making AI more accessible and intuitive for end-users, exemplified by hands-free interfaces and in-browser ML training. Developers are actively building specialized AI agents for tasks ranging from data analysis and model validation to comprehensive personal and business automation, often leveraging open-source tools and free-tier resources to build sophisticated 'AI empires.' This shift is profoundly impacting developer workflows, leading to less direct coding and more emphasis on review, strategic oversight, and managing AI-driven gaps. Alongside these practical applications, there's ongoing research into fundamental AI challenges like model explainability, robustness, and efficient learning for long-horizon tasks, particularly in agentic reinforcement learning.",
   "ideas": [
     {
-      "title": "AI-Enhanced Code Provenance & Review Assistant",
+      "title": "AI-Powered Hands-Free Macro Agent",
       "difficulty": "Medium",
-      "estimated_hours": 40,
-      "description": "Develop a tool, either as a VS Code extension or a Git hook, that helps developers review code, especially changes suggested or generated by AI agents. This assistant would analyze diffs, flag sections that exhibit patterns common to AI generation, suggest specific areas for human scrutiny (e.g., complex logic, edge cases, security implications), and maintain a 'provenance log' for code blocks, indicating whether they were human-written, AI-generated, or AI-assisted. The goal is to combat the 'reviewer's cognitive decay' by providing targeted insights rather than just approving code blindly, ensuring robust review processes for AI-driven development.",
-      "tech_stack": [
-        "Python",
-        "VS Code Extension API",
-        "Git Hooks",
-        "AST Parsers (e.g., tree-sitter)",
-        "Local LLM (e.g., via Ollama) or OpenAI API",
-        "SQLite (for provenance log)"
-      ],
-      "source_inspiration": "AI didn't make me a worse coder. It made me a worse reviewer.",
-      "steps": [
-        "Set up a basic VS Code extension scaffold or Git pre-commit/pre-push hook.",
-        "Implement code parsing to analyze diffs and identify modified/added lines.",
-        "Integrate a heuristic or a local small language model to identify characteristics of AI-generated code.",
-        "Develop logic to suggest specific review points based on code complexity, identified patterns, or potential security vulnerabilities.",
-        "Design and implement a UI within the IDE (or a terminal output for Git hook) to display review suggestions and the provenance log.",
-        "Add functionality to store and retrieve provenance information for code sections (e.g., 'authored by GPT-4 at YYYY-MM-DD')."
-      ]
-    },
-    {
-      "title": "DevMind: Predictive Local Development Environment World Model",
-      "difficulty": "Hard",
-      "estimated_hours": 80,
-      "description": "Inspired by 'ReWorld', this project aims to create a local 'world model' of a specific codebase and development environment. It would run as a background service or IDE plugin, observing developer actions (file edits, terminal commands, test runs, debugging sessions) within a project. Over time, it learns the project's structure, dependencies, and the developer's typical workflow. The 'DevMind' could then predict likely next actions, suggest relevant files or documentation, highlight potential side-effects of changes (especially during refactoring), and track progress across long-horizon tasks like a 'whole-repository stack migration' by understanding the project's evolving state and interdependencies.",
-      "tech_stack": [
-        "Python/Go (for background service)",
-        "IDE Extension API (e.g., VS Code Language Server Protocol)",
-        "File System Watchers (e.g., `watchdog`)",
-        "Process Monitoring (for terminal commands)",
-        "Graph Database (e.g., Neo4j embedded, or custom in-memory graph)",
-        "Basic ML for sequence prediction or anomaly detection"
-      ],
-      "source_inspiration": "ReWorld: An Interactive World Model with Long-Horizon Memory",
-      "steps": [
-        "Choose a target IDE and develop the skeleton for an extension or a standalone background service.",
-        "Implement listeners to capture relevant developer actions: file modifications, terminal commands executed within the project, and opened files.",
-        "Design a data model to represent the project's entities (files, functions, modules) and their relationships, along with a timeline of developer interactions.",
-        "Develop a 'project state' engine that updates the model in real-time based on observed actions and code changes (e.g., AST parsing for dependency updates).",
-        "Implement basic predictive heuristics: suggest files related to the current open file, or commands based on recent history and project context.",
-        "Create a simple UI within the IDE to display 'DevMind's insights, suggestions, or potential impact warnings."
-      ]
-    },
-    {
-      "title": "Pro CLI: AI-Powered Terminal Productivity Dashboard",
-      "difficulty": "Easy",
       "estimated_hours": 20,
-      "description": "Build an advanced command-line interface tool that acts as a personal productivity dashboard. It passively tracks developer activity (e.g., time spent in specific project directories, commit frequencies, distinct commands used, active sprint tickets). Leveraging simple local AI models or rule-based systems, it provides personalized productivity insights, suggests 'wrong-sounding-but-effective' tips tailored to the user's observed patterns, and visualizes trends directly in the terminal using ASCII charts and color gradients. This tool would help developers understand their work habits, identify bottlenecks, and make data-driven improvements to their workflow.",
+      "description": "An application that uses webcam-based gaze or head-movement tracking to control a cursor and trigger AI agents or macros for common computing tasks. This would greatly enhance accessibility and productivity for users who prefer or require hands-free interaction. Users could define voice commands or specific gaze patterns to activate pre-programmed sequences of actions (e.g., 'Open Mail and reply to latest email with summary' or 'Switch to coding IDE and run tests'). The core idea is to transform camera input into intelligent, context-aware command execution, reducing reliance on traditional input devices.",
+      "tech_stack": [
+        "C++",
+        "Python",
+        "OpenCV",
+        "Electron",
+        "Local LLM (e.g., Llama.cpp) or Cloud LLM API"
+      ],
+      "source_inspiration": "neurocursor-ai, solo-skills, Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses",
+      "steps": [
+        "Research and prototype hands-free input: Explore open-source libraries for webcam-based head/gaze tracking and basic cursor control (e.g., using OpenCV).",
+        "Implement basic cursor control: Develop a foundational layer for hands-free cursor movement and clicks, leveraging existing C++ or Python frameworks.",
+        "Develop AI agent orchestration module: Create a Python backend that can interpret user commands (voice or simple gestures) via a local LLM or a cloud API (e.g., OpenAI, Anthropic).",
+        "Define macro/skill system: Allow users to define custom 'skills' or macros (e.g., open a specific application, type a phrase, navigate a website, trigger a script) that the AI agent can execute programmatically.",
+        "Build UI for configuration: Create a simple Electron or web-based UI for users to configure input preferences, define and manage skills, and monitor agent activity."
+      ]
+    },
+    {
+      "title": "Evidence-Based AI Code Review & Explanation Tool",
+      "difficulty": "Medium",
+      "estimated_hours": 16,
+      "description": "A VS Code extension or GitHub Action that integrates an LLM to review code. Unlike generic AI code suggestions, this tool would focus on *explaining its rationale* for suggestions (e.g., 'This pattern is prone to SQL injection according to OWASP Top 10, consider parameterized queries instead because X, Y, Z'). It could be trained or fine-tuned on an organization's internal coding standards, security policies, and architectural patterns, making the AI's reviews highly contextual, actionable, and educational, thereby promoting better code quality and faster learning for developers.",
       "tech_stack": [
         "Python",
-        "Click/Argparse (for CLI)",
-        "Rich (for rich terminal output and charts)",
-        "SQLite (for local data storage)",
-        "Shell Scripting (for command logging hooks)",
-        "Pandas/Numpy (for data analysis)"
+        "TypeScript",
+        "JavaScript",
+        "LLM API (OpenAI, Anthropic) or local fine-tuned model",
+        "Vector Database (e.g., ChromaDB, Pinecone for RAG)"
       ],
-      "source_inspiration": "I Added Terminal Charts to My Dev.to CLI. Here's What My Data Looks Like.",
+      "source_inspiration": "NSOSYAL (Explainable recommendations), data-analysis-ml-agent-skills (Evidence-first AI agent skills), Dev.to articles 'AI promoted every developer to reviewer' and 'What Do You Do While AI Codes?'",
       "steps": [
-        "Choose a language (e.g., Python) and set up a basic CLI application structure.",
-        "Implement shell hooks (e.g., in `.bashrc` or `.zshrc`) to log terminal commands, current working directory, and timestamps to a local SQLite database.",
-        "Develop commands to query and visualize this data directly in the terminal using `Rich` for bar charts, sparklines, and trend indicators.",
-        "Implement a 'insights' module that uses simple rules or basic data analysis (e.g., clustering common commands, identifying peak activity times) to offer personalized productivity tips.",
-        "Add a feature to manually input and track daily/weekly goals and show progress against them.",
-        "Expand the data collection to include more sophisticated metrics, like commit message analysis for sentiment or task context."
+        "Set up core LLM integration: Develop a backend service (e.g., FastAPI with Python) to interact with a chosen LLM API or a local LLM.",
+        "Implement contextual code extraction: Develop a mechanism (e.g., using Language Server Protocol for VS Code extension, or GitHub API for action) to extract relevant code snippets and file context for review.",
+        "Craft detailed prompt engineering: Design prompts for the LLM to generate not just suggestions, but also concise, evidence-backed explanations and potential remedies based on best practices.",
+        "Integrate custom knowledge base (RAG): Implement a Retrieval-Augmented Generation (RAG) system to feed the LLM with company-specific style guides, security policies, or common anti-patterns stored in a vector database.",
+        "Develop VS Code Extension / GitHub Action: Build the frontend (VS Code) or CI/CD integration (GitHub Action) to submit code for review and display the AI's explanations and suggestions directly in the developer's workflow."
+      ]
+    },
+    {
+      "title": "Contextual Developer Mind-Mesh AI Assistant",
+      "difficulty": "Hard",
+      "estimated_hours": 30,
+      "description": "A desktop application or personal server-based AI agent that quietly observes a developer's digital environment (with explicit permissions, e.g., active applications, open tabs, recent git commits, calendar entries). It uses this contextual understanding to proactively assist with task management, research, and context switching. This assistant aims to bridge the gap between work and personal thought by offering intelligent reminders, proactive research suggestions, context-switching aids, and a 'thought dump' feature to alleviate mental burden after work, learning a developer's workflow and project contexts over time.",
+      "tech_stack": [
+        "Python",
+        "Electron",
+        "React Native",
+        "Local LLM (e.g., Llama.cpp) or Cloud LLM API",
+        "Vector Database (for personal knowledge base/context memory)",
+        "OS-specific APIs (for application/window monitoring)"
+      ],
+      "source_inspiration": "solo-skills (personal productivity AI), braxis-blueprint (leveraging free tiers for AI agents), Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses, Dev.to article 'Your Job Ends at 5. Your Developer Brain Doesn't.'",
+      "steps": [
+        "Develop system monitoring module: Implement robust, permission-based logging of active applications, open file paths, browser history, and terminal commands.",
+        "Design contextual memory system: Implement a system (e.g., using a vector database) to store and retrieve contextual information relevant to projects and tasks, creating a 'working memory' for the agent.",
+        "Integrate AI agent core with LLM: Connect a local or cloud LLM to process monitored data, identify task contexts, and generate relevant suggestions or actions.",
+        "Develop proactive suggestion engine: Create logic for the agent to infer potential developer needs (e.g., 'research this error,' 'switch context,' 'summarize thoughts') based on observed patterns and current activity.",
+        "Build a non-intrusive user interface: Develop a clean desktop UI (e.g., using Electron or React Native) for displaying suggestions, configuring privacy settings, and allowing user input/feedback.",
+        "Implement 'Thought Dump' feature: Design a specific mechanism for users to dictate or type out lingering work thoughts at the end of the day, which the AI then processes into structured notes, follow-ups, or summaries for the next day."
       ]
     }
   ],
   "quick_actions": [
-    "For your next code review involving AI-generated content or a significant refactor, dedicate an explicit 20% more time than usual to scrutinize the underlying logic, edge cases, and architectural implications, focusing on *why* the code works rather than just *what* it does.",
-    "Identify one 'wrong-sounding' productivity tip (e.g., 'procrastinate strategically' or 'take more unscheduled breaks') and consciously apply it to a task this week, observing its impact on your focus and output without judgment.",
-    "Before writing any new code today, spend 10-15 minutes sketching out the high-level system design or the problem's core logic. Aim to reduce the total lines of code needed by focusing on modularity, leveraging existing solutions, and clearly defining the desired outcome.",
-    "Set up a simple local script or shell alias to log your most frequently used terminal commands and active project directories for a day. Review the output at the end of the day to identify patterns in your workflow and potential areas for automation."
+    "Actively manage AI-induced workflow gaps: Instead of passively waiting when an AI agent is coding, use the 5-20 minute gaps for deliberate review of the AI's output, refactoring, or planning the *next* strategic step in your project.",
+    "Critically evaluate AI-generated code: Treat AI-generated code and suggestions as if they came from a junior developer. Conduct thorough, informed reviews focusing on correctness, security, performance, and adherence to best practices, rather than simply accepting suggestions.",
+    "Experiment with personal AI agents/automations: Dedicate 30-60 minutes this week to build a small, personal AI agent or automation script for a repetitive task in your workflow (e.g., summarizing meeting notes, organizing downloads, generating boilerplate code). Focus on understanding agentic principles.",
+    "Implement an end-of-day 'context dump' routine: Spend 5 minutes before logging off to summarize current tasks, lingering thoughts, or unsolved problems into a structured note or a simple 'brain dump' document. This practice helps your brain disengage, knowing the context is captured for the next day."
   ]
 }
