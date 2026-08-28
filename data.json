@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-08-27 17:00:02",
+  "last_updated": "2026-08-28 17:49:38",
   "scraped_sources": {
     "github": [
-      {
-        "name": "NSOSYAL",
-        "owner": "CALISKAN-EMRE",
-        "description": "TEKNOFEST 2026 NSosyal İnovasyon — Explainable recommendations, semantic context cards and Turkish AI moderation.",
-        "stars": 26,
-        "url": "https://github.com/CALISKAN-EMRE/NSOSYAL",
-        "category": "AI / ML"
-      },
       {
         "name": "unbagrnd",
         "owner": "zidniryi",
         "description": "Unbagrnd - Free, Fast & Open-source AI-powered background remover for Windows, macOS, and Linux.",
-        "stars": 19,
+        "stars": 39,
         "url": "https://github.com/zidniryi/unbagrnd",
+        "category": "AI / ML"
+      },
+      {
+        "name": "NSOSYAL",
+        "owner": "CALISKAN-EMRE",
+        "description": "TEKNOFEST 2026 NSosyal İnovasyon — Explainable recommendations, semantic context cards and Turkish AI moderation.",
+        "stars": 29,
+        "url": "https://github.com/CALISKAN-EMRE/NSOSYAL",
         "category": "AI / ML"
       },
       {
         "name": "open-source-ai-models",
         "owner": "zidniryi",
         "description": "A curated directory of open-source & open-weight AI models — compare params, VRAM, context length, and license before picking a model for coding, OCR, vision, image generation, speech, reasoning, and RAG.",
-        "stars": 13,
+        "stars": 14,
         "url": "https://github.com/zidniryi/open-source-ai-models",
         "category": "AI / ML"
       },
@@ -30,7 +30,7 @@
         "name": "hailo-10h-llm-compiler",
         "owner": "l-nmch",
         "description": "Compile your own LLM for the Hailo-10H — an open pipeline from Hugging Face checkpoint to a self-contained HEF, served with hailo-ollama.",
-        "stars": 9,
+        "stars": 10,
         "url": "https://github.com/l-nmch/hailo-10h-llm-compiler",
         "category": "AI / ML"
       },
@@ -43,10 +43,18 @@
         "category": "AI / ML"
       },
       {
+        "name": "chat-on-steroids",
+        "owner": "totec448-spec",
+        "description": "Cross-platform local MCP capabilities for ChatGPT with Chrome integration, Goal, Compact & Resume, and durable multi-agent workflows.",
+        "stars": 465,
+        "url": "https://github.com/totec448-spec/chat-on-steroids",
+        "category": "Automation / Productivity"
+      },
+      {
         "name": "solo-skills",
         "owner": "bam-bam-2",
         "description": "1인 사업가 생산성 키트 — 직원 없이 49개를 자동화했고, 그중 바로 쓸 수 있는 AI 에이전트 스킬 26개(+실행 스크립트)를 공개합니다",
-        "stars": 317,
+        "stars": 327,
         "url": "https://github.com/bam-bam-2/solo-skills",
         "category": "Automation / Productivity"
       },
@@ -54,82 +62,64 @@
         "name": "braxis-blueprint",
         "owner": "BraxisAI",
         "description": "The $0 AI Empire Playbook — 140+ agents, 20+ free LLM lanes, 1,800+ songs, a living 3D world, all on free tiers. Real scripts, real failure classes, MIT.",
-        "stars": 82,
+        "stars": 83,
         "url": "https://github.com/BraxisAI/braxis-blueprint",
-        "category": "Automation / Productivity"
-      },
-      {
-        "name": "github-regkit-mibp",
-        "owner": "mhiqrambg",
-        "description": "Automated GitHub account registration toolkit — signup, email verification, first repo, TOTP 2FA with recovery codes, and profile completion. Powered by Camoufox (anti-detect Firefox) + Litensi Mail. Python CLI & React web console.",
-        "stars": 40,
-        "url": "https://github.com/mhiqrambg/github-regkit-mibp",
-        "category": "Automation / Productivity"
-      },
-      {
-        "name": "nuphus",
-        "owner": "mrpulor-gh",
-        "description": "Nuphus — 本地优先的 AI Agent：真实桌面执行力 + 手机第二块屏幕。Local-first AI agent with real desktop execution and dual-device real-time sync.",
-        "stars": 37,
-        "url": "https://github.com/mrpulor-gh/nuphus",
         "category": "Automation / Productivity"
       },
       {
         "name": "susu-phone-agent",
         "owner": "2005selene2005-a11y",
         "description": "Android device bridge for Claude Code via MCP + Shizuku. No root, no model polling.",
-        "stars": 29,
+        "stars": 30,
         "url": "https://github.com/2005selene2005-a11y/susu-phone-agent",
+        "category": "Automation / Productivity"
+      },
+      {
+        "name": "pam-whatsapp-web",
+        "owner": "push-in",
+        "description": "A typed, persistent WhatsApp Web client for pure PHP on PAM — no Node.js or Puppeteer.",
+        "stars": 24,
+        "url": "https://github.com/push-in/pam-whatsapp-web",
         "category": "Automation / Productivity"
       }
     ],
     "hacker_news": [
       {
-        "title": "Small Models Have Arrived",
-        "url": "https://calv.info/small-models-have-arrived",
-        "score": 51
+        "title": "U.S. sanctions against the A/I Collective",
+        "url": "https://www.inventati.org/",
+        "score": 240
       },
       {
-        "title": "Nvidia projects $673B in sales as AI demand widens",
-        "url": "https://forgeeks.net/nvidia-673-billion-ai-growth-forecast/",
-        "score": 39
-      },
-      {
-        "title": "Grok Bot for Linux: Unofficial port of the official app (open source)",
-        "url": "https://github.com/jakob-bu/grok-bot-linux-unofficial",
-        "score": 9
-      },
-      {
-        "title": "The Teaser Period: Why the AI Boom Is Hitting a Reset Wall",
-        "url": "https://www.groundbrkr.com/p/the-teaser-period-why-the-ai-boom",
-        "score": 42
+        "title": "I Design with AI",
+        "url": "https://ref.tools/blog/how-i-design-with-ai",
+        "score": 12
       }
     ],
     "arxiv": [
       {
-        "title": "VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning",
-        "summary": "Native visual reasoning treats visual generation as the medium of reasoning itself: visual states (i.e. images and videos) are not merely inputs to be understood or outputs to be rendered, but first-c...",
-        "url": "http://arxiv.org/abs/2608.26105v1"
+        "title": "CritICL: Inference-Time Weak-to-Strong Generalization from Small Language Model Failure Modes",
+        "summary": "Recent advances in inference-time scaling have significantly improved the reasoning performance of large language models (LLMs). However, these methods typically rely on repeated generation or externa...",
+        "url": "http://arxiv.org/abs/2608.27455v1"
       },
       {
-        "title": "A Visual Dependence-Aware Framework for Multimodal Unsupervised Continual Post-Training",
-        "summary": "In this paper, we explore a novel task of Multimodal Unsupervised Continual Post-Training (MU-CPT), enabling deployed MLLMs to continually evolve from streaming unlabeled data. Existing unsupervised p...",
-        "url": "http://arxiv.org/abs/2608.26095v1"
+        "title": "WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution",
+        "summary": "Agent skills package specialized knowledge and workflows into reusable resources that extend AI agent capabilities. Recent work automatically discovers such skills from agent experience, which enables...",
+        "url": "http://arxiv.org/abs/2608.27454v1"
       },
       {
-        "title": "MyoMechanix: Biomechanically-Grounded Compositional Skilled Activity Understanding and Coaching",
-        "summary": "Existing action quality assessment (AQA) datasets and methods rely primarily on visual inputs such as RGB and pose, overlooking physiological dynamics such as muscle mechanics and often modeling actio...",
-        "url": "http://arxiv.org/abs/2608.26094v1"
+        "title": "SWE-Prime: Fewer Trajectories, Better Performance",
+        "summary": "To improve large language models' ability to resolve real-world software issues, prior work has focused on constructing large-scale agent trajectory datasets and performing supervised fine-tuning (SFT...",
+        "url": "http://arxiv.org/abs/2608.27449v1"
       },
       {
-        "title": "Agentic Autoresearch for Cell-Edge Power Control: Radically Redefining the Researcher's Role",
-        "summary": "Designing machine learning algorithms for wireless resource management is labour-intensive: the architecture, the loss function and the training recipe are all specified by hand. We demonstrate that t...",
-        "url": "http://arxiv.org/abs/2608.26093v1"
+        "title": "TTPO: Test-Time Policy Optimization",
+        "summary": "Recent prominent post-training methods, such as Reinforcement Learning (RL) and On-Policy Self-Distillation (OPSD), have driven rapid progress in mathematical reasoning for large language models, yet ...",
+        "url": "http://arxiv.org/abs/2608.27448v1"
       },
       {
-        "title": "PlanSightRAG: A Visual-First Multimodal RAG for Automating Question Answering and Compliance Checking for Civil Standard Plans",
-        "summary": "Civil infrastructure compliance checking has long relied on engineers manually reading legacy 2D plans; however, OCR-based automation strips away the geometry and layout essential for interpreting the...",
-        "url": "http://arxiv.org/abs/2608.26091v1"
+        "title": "From Static to Dynamic: Benchmarking Real-World Code Review with MCR-Bench",
+        "summary": "In real-world software development, code review typically involves iterative interactions between developers and reviewers to improve software quality, making the process costly and time-consuming. Al...",
+        "url": "http://arxiv.org/abs/2608.27442v1"
       }
     ],
     "devto": [
@@ -137,108 +127,102 @@
         "title": "10 Git Commands You’ll Wish You Knew Earlier",
         "description": "Do you know Git?&nbsp;Of course you do! Today, I’ve got a few of my favorite Git commands for...",
         "url": "https://dev.to/sylwia-lask/10-git-commands-youll-wish-you-knew-earlier-4fcp",
-        "reactions": 120
+        "reactions": 161
       },
       {
         "title": "What Do You Do While AI Codes?",
         "description": "AI coding agents leave you with 5-to-20-minute gaps all day. Five real ways I fill them — and the one \"quick\" habit that makes you the bottleneck.",
         "url": "https://dev.to/anchildress1/what-do-you-do-while-ai-codes-k8k",
-        "reactions": 85
+        "reactions": 110
       },
       {
         "title": "AI promoted every developer to reviewer. Nobody tested the reviewer.",
         "description": "I wanted to disagree with 'AI made me a worse reviewer' from Michael Amachree (@dev_michael) ....",
         "url": "https://dev.to/heinrichneb/ai-promoted-every-developer-to-reviewer-nobody-tested-the-reviewer-m4h",
-        "reactions": 51
+        "reactions": 60
+      },
+      {
+        "title": "Velocidade de entrega e custo de manutenção pós IA",
+        "description": "Entregar ficou rápido demais. O problema é que manter continuou custando o mesmo preço de sempre.    ...",
+        "url": "https://dev.to/he4rt/velocidade-de-entrega-e-custo-de-manutencao-pos-ia-5gei",
+        "reactions": 72
       },
       {
         "title": "Portfolio Update, I Guess",
         "description": "This isn't my main piece for the week, it's more of a \"contributes nothing to knowledge\" kind of...",
         "url": "https://dev.to/adamthedeveloper/portfolio-update-i-guess-4ob3",
-        "reactions": 22
-      },
-      {
-        "title": "I Added Terminal Charts to My Dev.to CLI. Here's What My Data Looks Like.",
-        "description": "devpub v0.2.1 adds color-gradient bar charts, sparklines, trend arrows, and multi-period breakdowns to your Dev.to analytics. All in the terminal. Zero new dependencies.",
-        "url": "https://dev.to/sarvar_04/i-added-terminal-charts-to-my-devto-cli-heres-what-my-data-looks-like-250j",
-        "reactions": 34
+        "reactions": 25
       }
     ]
   },
-  "trends": "The current technological landscape is heavily shaped by the practical application and democratization of AI, moving beyond theoretical models to implementable solutions. A significant trend is the rise of open-source and smaller, more efficient AI models capable of local execution, addressing cost and accessibility concerns (e.g., 'Small Models Have Arrived'). Agentic AI is a dominant theme, with projects focusing on autonomous agents for complex tasks like data analysis, automated productivity, and even self-contained desktop and mobile automation. This agentic shift is redefining developer workflows, emphasizing the need for robust 'reviewer' skills as AI contributes more to code generation and the importance of efficient task management during AI processing gaps. Furthermore, multimodal AI, particularly visual reasoning integrated with real-world contexts, is gaining traction, promising advancements in areas from industrial compliance to biomechanical activity analysis. Overall, the focus is on leveraging AI for enhanced productivity, automation, and real-world problem-solving, with a strong emphasis on practical deployment and developer adaptation.",
+  "trends": "Today's tech landscape is defined by the rapid decentralization and democratization of AI, moving towards open-source models, local execution, and hardware-optimized deployments. A significant trend is the emergence of agentic AI, with frameworks and toolkits designed to automate complex, multi-step workflows for both personal productivity and business operations. Developers are grappling with AI's transformative impact on their daily routines, shifting focus from raw coding to review, validation, and orchestration, while simultaneously seeking ways to leverage AI for enhanced productivity during 'idle' times. There's a strong emphasis on building reliable, explainable, and reproducible AI systems, especially in critical areas like data analysis and software engineering, as the community navigates the challenges of maintaining quality and managing long-term costs in an AI-accelerated development cycle.",
   "ideas": [
     {
-      "title": "Local-First AI Agent for Desktop Productivity & Automation",
+      "title": "Open-Source AI Model Navigator & Comparer",
       "difficulty": "Medium",
-      "estimated_hours": 60,
-      "description": "Develop a modular, local-first AI agent framework that allows users to define and execute custom 'skills' for desktop automation. This agent would operate entirely on the user's machine, ensuring privacy and low latency. Skills could range from automating repetitive tasks across applications (e.g., data entry, file management, report generation) to integrating with local development tools. The agent would be configurable via natural language prompts, translating user intent into executable scripts or API calls. Focus on a plugin architecture so developers can easily extend its capabilities. Inspired by the desire for local execution, agentic capabilities, and the need to manage productivity gaps while AI codes.",
+      "estimated_hours": 30,
+      "description": "Develop a web application or CLI tool that acts as a comprehensive directory and comparison engine for open-source AI models. Users can search and filter models (LLMs, vision models, etc.) based on critical criteria such as VRAM requirements, parameter count, context length, licensing, and specific use cases (e.g., coding, OCR, RAG). The tool would pull data from sources like Hugging Face Hub, GitHub, and potentially arXiv, providing a unified interface to help developers select the most suitable model for their projects, directly addressing the challenge of navigating the vast open-source AI ecosystem.",
       "tech_stack": [
-        "Python",
-        "Electron (for GUI)",
-        "Local LLM libraries (e.g., Llama.cpp, Ollama)",
-        "Desktop automation libraries (e.g., PyAutoGUI, Selenium for web interactions)",
-        "YAML/JSON for skill definitions"
-      ],
-      "source_inspiration": "nuphus, solo-skills, susu-phone-agent, braxis-blueprint, \"What Do You Do While AI Codes?\"",
-      "steps": [
-        "Task 1: Set up a basic Python backend for local LLM integration and command execution.",
-        "Task 2: Design a modular 'skill' system, allowing users to define new tasks (e.g., via Python functions or shell commands) that the agent can invoke.",
-        "Task 3: Develop a simple Electron or web-based GUI for user interaction, prompt input, and skill management.",
-        "Task 4: Implement core desktop automation capabilities using libraries like PyAutoGUI for mouse/keyboard control and basic screen monitoring (with user consent).",
-        "Task 5: Integrate a local-first LLM (e.g., via Ollama) to interpret natural language requests and map them to defined skills.",
-        "Task 6: Create initial 'starter skills' such as file organization, basic web data extraction, or automated commit messages."
-      ]
-    },
-    {
-      "title": "Interactive Open-Source AI Model Navigator & Benchmarker",
-      "difficulty": "Medium",
-      "estimated_hours": 45,
-      "description": "Create an interactive web application or advanced CLI tool that serves as a comprehensive navigator for open-source and open-weight AI models. Unlike static directories, this platform would allow users to dynamically filter, compare, and get insights into models based on practical criteria like VRAM requirements, context length, license type, and target hardware (e.g., specific accelerators or local CPU/GPU). It could potentially offer a sandbox environment for running quick inferences on smaller models, provide community-contributed benchmarks, and link directly to model repositories and detailed documentation. This addresses the growing complexity of choosing the right open-source model, especially with the rise of smaller, specialized AI.",
-      "tech_stack": [
-        "React/Vue (frontend)",
-        "Python/FastAPI (backend)",
+        "Python (FastAPI or Flask)",
+        "React/Vue.js (for web UI, optional for CLI)",
         "Hugging Face API",
-        "Docker (for sandboxing/local inference)",
-        "SQLite/PostgreSQL (for model metadata)"
+        "GitHub API",
+        "SQLite (for local caching)"
       ],
-      "source_inspiration": "open-source-ai-models, hailo-10h-llm-compiler, \"Small Models Have Arrived\"",
+      "source_inspiration": "open-source-ai-models, hailo-10h-llm-compiler",
       "steps": [
-        "Task 1: Develop a data ingestion pipeline to pull metadata from Hugging Face Hub and other open-source model sources.",
-        "Task 2: Design a database schema to store model parameters, licenses, hardware requirements, and user-contributed benchmarks.",
-        "Task 3: Build a responsive web interface (or rich CLI) with dynamic filtering, sorting, and comparison features for models.",
-        "Task 4: Implement a detailed model view page showing comprehensive information, including related papers and community discussions.",
-        "Task 5: Explore integration with a local inference engine (e.g., Ollama or ONNX Runtime) to allow users to test small models directly from the platform via a Docker container or CLI command.",
-        "Task 6: Add functionality for users to contribute and review model benchmarks or specific use-case performance data."
+        "Task 1: Design database schema for model metadata (name, owner, description, VRAM, params, context, license, categories).",
+        "Task 2: Implement data ingestion scripts to pull and parse information from Hugging Face API and GitHub repos categorized as AI/ML.",
+        "Task 3: Develop a backend API (FastAPI/Flask) to serve model data, allowing for search and filtering by various parameters.",
+        "Task 4: Build a frontend (React/Vue.js) or CLI interface for users to interact with the search and comparison functionalities.",
+        "Task 5: Implement a 'Compare' feature allowing side-by-side view of selected models' key specifications."
       ]
     },
     {
-      "title": "AI-Enhanced Code & Documentation Reviewer Assistant",
-      "difficulty": "Medium",
-      "estimated_hours": 35,
-      "description": "Develop an AI-powered assistant designed to augment human code and documentation review processes, rather than replace them. This tool would integrate with Git workflows (e.g., as a GitHub/GitLab action or an IDE plugin) to provide 'evidence-first' suggestions. It could analyze pull requests for common pitfalls, identify subtle bugs introduced by AI-generated code, suggest architectural improvements, check for consistency in documentation, and flag areas requiring human expertise. The focus would be on making the AI's recommendations transparent and explainable, helping developers improve their own critical reviewing skills. This directly addresses the shift where developers are increasingly becoming 'reviewers' of AI-generated content.",
+      "title": "Interactive AI Code Review Agent with Iterative Feedback",
+      "difficulty": "Hard",
+      "estimated_hours": 60,
+      "description": "Create an AI agent that integrates into existing Git workflows (e.g., as a GitHub Action or local pre-commit hook) to provide interactive and iterative code review. Unlike traditional static analysis, this agent would leverage a powerful LLM to provide initial, nuanced feedback on code changes. Developers could then respond to the AI's comments, make revisions, and the agent would re-evaluate the updated code, simulating a dialogue with a human reviewer. The goal is to improve code quality through dynamic interaction, focusing on common pitfalls, suggesting improvements for maintainability, and validating logic based on the paper's emphasis on real-world iterative code review and better performance with fewer trajectories.",
       "tech_stack": [
-        "Python",
-        "FastAPI (for API endpoint)",
-        "OpenAI API / Local LLM (for code analysis)",
-        "Git hooks / GitHub Actions / GitLab CI",
-        "ESLint/Prettier (for existing linting integration)",
-        "Language Server Protocol (for IDE integration)"
+        "Python (LangChain/CrewAI for agentic orchestration)",
+        "Local LLM (e.g., via Ollama/Llama.cpp) or commercial LLM API",
+        "Git hooks / GitHub Actions",
+        "FastAPI/Flask (for webhook integration and API endpoint)"
       ],
-      "source_inspiration": "\"AI promoted every developer to reviewer. Nobody tested the reviewer.\", data-analysis-ml-agent-skills, NSOSYAL",
+      "source_inspiration": "MCR-Bench, SWE-Prime, AI promoted every developer to reviewer.",
       "steps": [
-        "Task 1: Set up a backend service to receive code changes (e.g., from a Git hook or CI/CD pipeline).",
-        "Task 2: Integrate with an LLM (e.g., via OpenAI API or a fine-tuned local model) to analyze code snippets and documentation.",
-        "Task 3: Develop a system to generate 'evidence-first' suggestions, citing specific lines of code or documentation context for its recommendations.",
-        "Task 4: Implement checks for common AI-generated code issues (e.g., verbose comments, potential hallucinations, inefficient patterns).",
-        "Task 5: Create a mechanism to report findings back to the developer (e.g., as comments on a pull request, an IDE inline suggestion, or a CLI report).",
-        "Task 6: Add configuration options for users to define specific review policies or areas of focus (e.g., security, performance, documentation style)."
+        "Task 1: Set up a basic webhook listener to capture Git push/pull request events from a repository.",
+        "Task 2: Integrate with a local or cloud-based LLM to generate initial code review comments based on diffs.",
+        "Task 3: Develop agent logic to parse developer responses to AI comments (e.g., 'fixed', 'disagree', 'explain more').",
+        "Task 4: Implement a feedback loop where the agent re-evaluates modified code or provides further clarification based on developer interaction.",
+        "Task 5: Integrate comment posting back into the Git platform (e.g., GitHub PR comments) to facilitate the interactive dialogue."
+      ]
+    },
+    {
+      "title": "Local 'Idle Task' Productivity Agent for Developers",
+      "difficulty": "Medium",
+      "estimated_hours": 40,
+      "description": "Build a local, multi-agent system designed to intelligently fill the '5-to-20-minute gaps' developers experience while AI codes or other processes run. This personal agent would accept small, well-defined tasks (e.g., 'Draft a README for project X', 'Summarize the last 10 commits', 'Generate 5 test cases for function Y', 'Refactor this small code snippet'). Leveraging a local LLM, the system would orchestrate sub-agents to execute these tasks, providing a structured way for developers to utilize their mental downtime productively, without context switching to trivial work or being blocked by the main AI task.",
+      "tech_stack": [
+        "Python (LangChain, CrewAI, or custom agent framework)",
+        "Local LLM (e.g., via Ollama/Llama.cpp or a local server)",
+        "Simple CLI or lightweight web UI (e.g., Streamlit, Tkinter)",
+        "Task queue / Job scheduler"
+      ],
+      "source_inspiration": "chat-on-steroids, solo-skills, braxis-blueprint, What Do You Do While AI Codes?",
+      "steps": [
+        "Task 1: Set up a local LLM environment (e.g., install Ollama and download a suitable model).",
+        "Task 2: Design a 'task submission' interface (CLI or simple UI) for users to describe small tasks.",
+        "Task 3: Develop a task routing agent that interprets the user's request and dispatches it to specialized sub-agents (e.g., a 'Documentation Agent', 'Test Generator Agent').",
+        "Task 4: Implement several specific utility agents capable of interacting with local files, git history, or generating text based on prompts.",
+        "Task 5: Create a 'results delivery' mechanism, either displaying output in the UI/CLI or writing it to a designated file/clipboard."
       ]
     }
   ],
   "quick_actions": [
-    "Action 1: Curate a personal 'AI downtime task list' of small, non-coding productivity items you can tackle during the 5-20 minute intervals when AI assistants are generating code or responses.",
-    "Action 2: Dedicate an hour this week to exploring at least three different open-source AI models (e.g., on Hugging Face), focusing on their VRAM, context length, and licensing to understand the 'small model' landscape.",
-    "Action 3: Consciously shift your mindset during code reviews: when reviewing AI-generated code or human-written code, actively look for subtle errors, inefficiencies, or logical gaps that an AI might overlook or introduce.",
-    "Action 4: Identify one simple, repetitive manual task in your daily workflow (e.g., creating a project boilerplate, compiling daily reports, organizing downloads) and write a short script or automation rule to automate it."
+    "Action 1: Actively review AI-generated code, focusing on identifying subtle bugs, stylistic inconsistencies, and potential security vulnerabilities, treating it as an opportunity to hone critical thinking and evaluation skills.",
+    "Action 2: Download and set up a small open-source LLM (e.g., from Hugging Face, via Ollama) on your local machine to understand its capabilities, limitations, and the practicalities of local AI deployment.",
+    "Action 3: Pick one repetitive personal or work task you perform regularly (e.g., renaming files, organizing downloads, drafting routine emails) and script its automation using basic programming or an AI agent framework.",
+    "Action 4: Dedicate 15-30 minutes daily to experiment with advanced Git commands (e.g., `git rebase -i`, `git reflog`, `git worktree`, `git bisect`) to improve your version control efficiency and mastery."
   ]
 }
