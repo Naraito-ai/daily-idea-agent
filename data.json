@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-08-28 17:49:38",
+  "last_updated": "2026-08-29 11:54:06",
   "scraped_sources": {
     "github": [
       {
         "name": "unbagrnd",
         "owner": "zidniryi",
         "description": "Unbagrnd - Free, Fast & Open-source AI-powered background remover for Windows, macOS, and Linux.",
-        "stars": 39,
+        "stars": 42,
         "url": "https://github.com/zidniryi/unbagrnd",
         "category": "AI / ML"
       },
@@ -14,7 +14,7 @@
         "name": "NSOSYAL",
         "owner": "CALISKAN-EMRE",
         "description": "TEKNOFEST 2026 NSosyal İnovasyon — Explainable recommendations, semantic context cards and Turkish AI moderation.",
-        "stars": 29,
+        "stars": 32,
         "url": "https://github.com/CALISKAN-EMRE/NSOSYAL",
         "category": "AI / ML"
       },
@@ -43,43 +43,43 @@
         "category": "AI / ML"
       },
       {
-        "name": "chat-on-steroids",
-        "owner": "totec448-spec",
-        "description": "Cross-platform local MCP capabilities for ChatGPT with Chrome integration, Goal, Compact & Resume, and durable multi-agent workflows.",
-        "stars": 465,
-        "url": "https://github.com/totec448-spec/chat-on-steroids",
-        "category": "Automation / Productivity"
-      },
-      {
-        "name": "solo-skills",
-        "owner": "bam-bam-2",
-        "description": "1인 사업가 생산성 키트 — 직원 없이 49개를 자동화했고, 그중 바로 쓸 수 있는 AI 에이전트 스킬 26개(+실행 스크립트)를 공개합니다",
-        "stars": 327,
-        "url": "https://github.com/bam-bam-2/solo-skills",
-        "category": "Automation / Productivity"
-      },
-      {
         "name": "braxis-blueprint",
         "owner": "BraxisAI",
         "description": "The $0 AI Empire Playbook — 140+ agents, 20+ free LLM lanes, 1,800+ songs, a living 3D world, all on free tiers. Real scripts, real failure classes, MIT.",
-        "stars": 83,
+        "stars": 84,
         "url": "https://github.com/BraxisAI/braxis-blueprint",
-        "category": "Automation / Productivity"
-      },
-      {
-        "name": "susu-phone-agent",
-        "owner": "2005selene2005-a11y",
-        "description": "Android device bridge for Claude Code via MCP + Shizuku. No root, no model polling.",
-        "stars": 30,
-        "url": "https://github.com/2005selene2005-a11y/susu-phone-agent",
         "category": "Automation / Productivity"
       },
       {
         "name": "pam-whatsapp-web",
         "owner": "push-in",
         "description": "A typed, persistent WhatsApp Web client for pure PHP on PAM — no Node.js or Puppeteer.",
-        "stars": 24,
+        "stars": 25,
         "url": "https://github.com/push-in/pam-whatsapp-web",
+        "category": "Automation / Productivity"
+      },
+      {
+        "name": "dsh-lowtide",
+        "owner": "KelaoHu",
+        "description": "Time-shifting task delegation for DeepSeek Harness (dsh): plan tasks at leisure, they run unattended off-peak, come back to a report. Human-adjudicated, desktop + web.",
+        "stars": 23,
+        "url": "https://github.com/KelaoHu/dsh-lowtide",
+        "category": "Automation / Productivity"
+      },
+      {
+        "name": "open-flow",
+        "owner": "oomol-lab",
+        "description": "Build workflows you can see, code, run, and own. Open-source visual workflow automation with real TypeScript, isolated execution, and a self-hosted Control API.",
+        "stars": 17,
+        "url": "https://github.com/oomol-lab/open-flow",
+        "category": "Automation / Productivity"
+      },
+      {
+        "name": "shisan-xinuo-workflow",
+        "owner": "zxc663",
+        "description": "Progressive engineering-governance Skill for AI coding agents — 11-step gated workflow, 43 rules, 203 pitfall details, templates, never-list, hooks & review sub-agents (Trae/Codex/Claude Code/Cursor/Windsurf)",
+        "stars": 15,
+        "url": "https://github.com/zxc663/shisan-xinuo-workflow",
         "category": "Automation / Productivity"
       }
     ],
@@ -87,12 +87,17 @@
       {
         "title": "U.S. sanctions against the A/I Collective",
         "url": "https://www.inventati.org/",
-        "score": 240
+        "score": 626
       },
       {
-        "title": "I Design with AI",
-        "url": "https://ref.tools/blog/how-i-design-with-ai",
-        "score": 12
+        "title": "StemDeck, a free, open-source and local AI stem separator",
+        "url": "https://github.com/stemdeckapp/stemdeck",
+        "score": 115
+      },
+      {
+        "title": "I accidentally turned LLM memory into program analysis",
+        "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
+        "score": 171
       }
     ],
     "arxiv": [
@@ -127,19 +132,19 @@
         "title": "10 Git Commands You’ll Wish You Knew Earlier",
         "description": "Do you know Git?&nbsp;Of course you do! Today, I’ve got a few of my favorite Git commands for...",
         "url": "https://dev.to/sylwia-lask/10-git-commands-youll-wish-you-knew-earlier-4fcp",
-        "reactions": 161
+        "reactions": 190
       },
       {
         "title": "What Do You Do While AI Codes?",
         "description": "AI coding agents leave you with 5-to-20-minute gaps all day. Five real ways I fill them — and the one \"quick\" habit that makes you the bottleneck.",
         "url": "https://dev.to/anchildress1/what-do-you-do-while-ai-codes-k8k",
-        "reactions": 110
+        "reactions": 116
       },
       {
         "title": "AI promoted every developer to reviewer. Nobody tested the reviewer.",
         "description": "I wanted to disagree with 'AI made me a worse reviewer' from Michael Amachree (@dev_michael) ....",
         "url": "https://dev.to/heinrichneb/ai-promoted-every-developer-to-reviewer-nobody-tested-the-reviewer-m4h",
-        "reactions": 60
+        "reactions": 64
       },
       {
         "title": "Velocidade de entrega e custo de manutenção pós IA",
@@ -155,74 +160,82 @@
       }
     ]
   },
-  "trends": "Today's tech landscape is defined by the rapid decentralization and democratization of AI, moving towards open-source models, local execution, and hardware-optimized deployments. A significant trend is the emergence of agentic AI, with frameworks and toolkits designed to automate complex, multi-step workflows for both personal productivity and business operations. Developers are grappling with AI's transformative impact on their daily routines, shifting focus from raw coding to review, validation, and orchestration, while simultaneously seeking ways to leverage AI for enhanced productivity during 'idle' times. There's a strong emphasis on building reliable, explainable, and reproducible AI systems, especially in critical areas like data analysis and software engineering, as the community navigates the challenges of maintaining quality and managing long-term costs in an AI-accelerated development cycle.",
+  "trends": "Today's tech trends reveal a strong push towards the democratization and localization of AI, with a proliferation of open-source models and tools designed for efficient, local execution on various hardware. Agentic AI systems are evolving rapidly, focusing on sophisticated, multi-step workflows, knowledge compilation for skill evolution, and improved reliability with 'evidence-first' approaches. In software development, Large Language Models (LLMs) are deeply integrating into the SDLC, from code generation and analysis to advanced code review, fundamentally shifting developer roles towards more oversight and critical evaluation. This acceleration in AI-driven productivity brings new challenges, particularly around managing 'AI downtime,' ensuring the quality and maintainability of AI-generated artifacts, and establishing robust governance frameworks for AI agents and automated workflows. The emphasis is on building practical, explainable, and human-adjudicated AI solutions that enhance, rather than replace, developer capabilities.",
   "ideas": [
     {
-      "title": "Open-Source AI Model Navigator & Comparer",
+      "title": "Local Codebase AI Assistant & Explainer",
       "difficulty": "Medium",
-      "estimated_hours": 30,
-      "description": "Develop a web application or CLI tool that acts as a comprehensive directory and comparison engine for open-source AI models. Users can search and filter models (LLMs, vision models, etc.) based on critical criteria such as VRAM requirements, parameter count, context length, licensing, and specific use cases (e.g., coding, OCR, RAG). The tool would pull data from sources like Hugging Face Hub, GitHub, and potentially arXiv, providing a unified interface to help developers select the most suitable model for their projects, directly addressing the challenge of navigating the vast open-source AI ecosystem.",
+      "estimated_hours": 20,
+      "description": "Develop a desktop application that empowers developers with an AI assistant that operates entirely on their local codebase without sending data to external cloud services. This tool will allow users to select specific code directories or files, and then leverage a locally-run Large Language Model (LLM) to provide instant explanations for code snippets, generate documentation stubs (e.g., Javadoc/Sphinx/type hints), answer semantic questions about the codebase's architecture or specific functions, and even suggest refactoring opportunities or identify potential bugs. The value lies in its privacy, speed, and ability to offer immediate, context-aware assistance, directly addressing developer productivity in a secure manner.",
       "tech_stack": [
-        "Python (FastAPI or Flask)",
-        "React/Vue.js (for web UI, optional for CLI)",
-        "Hugging Face API",
-        "GitHub API",
-        "SQLite (for local caching)"
+        "Python",
+        "Electron / Tauri (for desktop UI)",
+        "Ollama / Llama.cpp (for local LLM inference)",
+        "Open-source code LLM (e.g., CodeLlama, Phi-3 Mini)",
+        "Vector database (e.g., Chroma, FAISS) for RAG",
+        "LlamaIndex / LangChain (for RAG orchestration)"
       ],
-      "source_inspiration": "open-source-ai-models, hailo-10h-llm-compiler",
+      "source_inspiration": "GitHub: `unbagrnd`, `open-source-ai-models`, `hailo-10h-llm-compiler`; Hacker News: `StemDeck`, `I accidentally turned LLM memory into program analysis`",
       "steps": [
-        "Task 1: Design database schema for model metadata (name, owner, description, VRAM, params, context, license, categories).",
-        "Task 2: Implement data ingestion scripts to pull and parse information from Hugging Face API and GitHub repos categorized as AI/ML.",
-        "Task 3: Develop a backend API (FastAPI/Flask) to serve model data, allowing for search and filtering by various parameters.",
-        "Task 4: Build a frontend (React/Vue.js) or CLI interface for users to interact with the search and comparison functionalities.",
-        "Task 5: Implement a 'Compare' feature allowing side-by-side view of selected models' key specifications."
+        "Task 1: Set up a local LLM serving environment (e.g., install Ollama and download a suitable code-focused model).",
+        "Task 2: Develop a Python backend to manage codebase indexing (creating embeddings for RAG) and LLM interaction.",
+        "Task 3: Implement a file/directory watcher or selection mechanism to allow users to specify the code context for the RAG system.",
+        "Task 4: Build a user-friendly desktop UI (using Electron or Tauri for cross-platform compatibility) for inputting queries and displaying AI-generated explanations and suggestions.",
+        "Task 5: Add features for code highlighting in responses, one-click copy, and basic configuration for model selection and RAG parameters."
       ]
     },
     {
-      "title": "Interactive AI Code Review Agent with Iterative Feedback",
+      "title": "AI-Powered Code Quality Gateway & Review Orchestrator",
       "difficulty": "Hard",
-      "estimated_hours": 60,
-      "description": "Create an AI agent that integrates into existing Git workflows (e.g., as a GitHub Action or local pre-commit hook) to provide interactive and iterative code review. Unlike traditional static analysis, this agent would leverage a powerful LLM to provide initial, nuanced feedback on code changes. Developers could then respond to the AI's comments, make revisions, and the agent would re-evaluate the updated code, simulating a dialogue with a human reviewer. The goal is to improve code quality through dynamic interaction, focusing on common pitfalls, suggesting improvements for maintainability, and validating logic based on the paper's emphasis on real-world iterative code review and better performance with fewer trajectories.",
+      "estimated_hours": 40,
+      "description": "Create a system that integrates with existing Git platforms (e.g., GitHub, GitLab) via webhooks to automate and enhance the code review process. Upon a pull request (PR) being opened or updated, the system will trigger an AI-driven pre-review. It will use LLMs in conjunction with static analysis tools to identify code smells, suggest improvements based on project-specific coding standards (fed via Retrieval Augmented Generation - RAG), and even check for common security vulnerabilities or architectural deviations. The output will be a structured, actionable report posted as a PR comment, highlighting critical issues and potential improvements, thereby reducing the manual burden on human reviewers and elevating code quality before it reaches human eyes. This project addresses the shift of developers into a reviewer role and the need for robust AI governance.",
       "tech_stack": [
-        "Python (LangChain/CrewAI for agentic orchestration)",
-        "Local LLM (e.g., via Ollama/Llama.cpp) or commercial LLM API",
-        "Git hooks / GitHub Actions",
-        "FastAPI/Flask (for webhook integration and API endpoint)"
+        "Python (main logic)",
+        "FastAPI / Flask (for webhook listener)",
+        "Git API integration (e.g., PyGithub)",
+        "LangChain / LlamaIndex (for LLM orchestration and RAG)",
+        "Open-source static analysis tools (e.g., Bandit, SonarLint CLI, ESLint)",
+        "LLM (local via Ollama or cloud API like OpenAI/Anthropic)",
+        "Containerization (Docker) for isolated execution"
       ],
-      "source_inspiration": "MCR-Bench, SWE-Prime, AI promoted every developer to reviewer.",
+      "source_inspiration": "GitHub: `shisan-xinuo-workflow`, `data-analysis-ml-agent-skills`, `open-flow`; arXiv: `SWE-Prime`, `MCR-Bench`; Dev.to: `AI promoted every developer to reviewer`, `Velocidade de entrega e custo de manutenção pós IA`",
       "steps": [
-        "Task 1: Set up a basic webhook listener to capture Git push/pull request events from a repository.",
-        "Task 2: Integrate with a local or cloud-based LLM to generate initial code review comments based on diffs.",
-        "Task 3: Develop agent logic to parse developer responses to AI comments (e.g., 'fixed', 'disagree', 'explain more').",
-        "Task 4: Implement a feedback loop where the agent re-evaluates modified code or provides further clarification based on developer interaction.",
-        "Task 5: Integrate comment posting back into the Git platform (e.g., GitHub PR comments) to facilitate the interactive dialogue."
+        "Task 1: Set up a secure webhook endpoint to receive Git events (e.g., `pull_request` opened/synchronize).",
+        "Task 2: Develop a backend service that, upon receiving a webhook, clones the PR's code and identifies the changed files.",
+        "Task 3: Integrate with various static analysis tools; run them against the changed code and parse their outputs.",
+        "Task 4: Orchestrate an LLM to analyze the code, diffs, and static analysis reports, generating a summary of findings, suggested fixes, and adherence to project-specific guidelines (stored in a vector database for RAG).",
+        "Task 5: Format the LLM's output into a clear, structured report (e.g., Markdown) and post it back to the PR as a comment, potentially labeling or categorizing issues.",
+        "Task 6: Implement a feedback mechanism for human reviewers to mark AI suggestions as useful or not, to iteratively improve prompt engineering and RAG context."
       ]
     },
     {
-      "title": "Local 'Idle Task' Productivity Agent for Developers",
+      "title": "Contextual Focus Agent & Micro-Task Orchestrator",
       "difficulty": "Medium",
-      "estimated_hours": 40,
-      "description": "Build a local, multi-agent system designed to intelligently fill the '5-to-20-minute gaps' developers experience while AI codes or other processes run. This personal agent would accept small, well-defined tasks (e.g., 'Draft a README for project X', 'Summarize the last 10 commits', 'Generate 5 test cases for function Y', 'Refactor this small code snippet'). Leveraging a local LLM, the system would orchestrate sub-agents to execute these tasks, providing a structured way for developers to utilize their mental downtime productively, without context switching to trivial work or being blocked by the main AI task.",
+      "estimated_hours": 24,
+      "description": "Build a personal productivity tool for developers designed to optimize 'AI downtime' and improve focus. This agent will run in the background, monitoring the developer's active context (e.g., current IDE file, open issues, Git status, calendar availability). Using a small, local LLM, it will intelligently suggest highly relevant 'micro-tasks' (5-15 minute activities like writing a specific docstring, refactoring a small helper function, researching an unfamiliar API, or reviewing a pending internal message). The agent can schedule these tasks during detected 'low-tide' periods (e.g., while a larger AI agent is generating code or during short breaks) and track their completion, ensuring continuous productive flow and preventing context switching losses.",
       "tech_stack": [
-        "Python (LangChain, CrewAI, or custom agent framework)",
-        "Local LLM (e.g., via Ollama/Llama.cpp or a local server)",
-        "Simple CLI or lightweight web UI (e.g., Streamlit, Tkinter)",
-        "Task queue / Job scheduler"
+        "Python (core logic, LLM interaction)",
+        "Electron / Tauri / local web UI (for desktop notifications & task management)",
+        "VS Code API (for IDE context monitoring)",
+        "Git CLI (for repository status)",
+        "LLM (local via Ollama/Llama.cpp or small cloud model)",
+        "Calendar API (e.g., Google Calendar) for availability detection"
       ],
-      "source_inspiration": "chat-on-steroids, solo-skills, braxis-blueprint, What Do You Do While AI Codes?",
+      "source_inspiration": "GitHub: `dsh-lowtide`, `open-flow`; Dev.to: `What Do You Do While AI Codes?`",
       "steps": [
-        "Task 1: Set up a local LLM environment (e.g., install Ollama and download a suitable model).",
-        "Task 2: Design a 'task submission' interface (CLI or simple UI) for users to describe small tasks.",
-        "Task 3: Develop a task routing agent that interprets the user's request and dispatches it to specialized sub-agents (e.g., a 'Documentation Agent', 'Test Generator Agent').",
-        "Task 4: Implement several specific utility agents capable of interacting with local files, git history, or generating text based on prompts.",
-        "Task 5: Create a 'results delivery' mechanism, either displaying output in the UI/CLI or writing it to a designated file/clipboard."
+        "Task 1: Develop a background service to monitor development environment signals (active IDE file, Git status, system idle time, calendar entries).",
+        "Task 2: Integrate a local LLM to process the current context and generate a dynamic list of relevant, short micro-task suggestions.",
+        "Task 3: Design and implement a minimal desktop UI (or system tray app) to display suggested tasks, allow users to add/manage their own tasks, and mark tasks as complete.",
+        "Task 4: Create a notification system that gently alerts the user with micro-task suggestions when idle time or AI processing is detected.",
+        "Task 5: Implement a 'focus mode' that silences non-critical notifications while working on a suggested micro-task and tracks time spent.",
+        "Task 6: Add a user feedback loop to rate task relevance, helping to fine-tune the LLM's suggestions over time."
       ]
     }
   ],
   "quick_actions": [
-    "Action 1: Actively review AI-generated code, focusing on identifying subtle bugs, stylistic inconsistencies, and potential security vulnerabilities, treating it as an opportunity to hone critical thinking and evaluation skills.",
-    "Action 2: Download and set up a small open-source LLM (e.g., from Hugging Face, via Ollama) on your local machine to understand its capabilities, limitations, and the practicalities of local AI deployment.",
-    "Action 3: Pick one repetitive personal or work task you perform regularly (e.g., renaming files, organizing downloads, drafting routine emails) and script its automation using basic programming or an AI agent framework.",
-    "Action 4: Dedicate 15-30 minutes daily to experiment with advanced Git commands (e.g., `git rebase -i`, `git reflog`, `git worktree`, `git bisect`) to improve your version control efficiency and mastery."
+    "Action 1: Proactively identify 3-5 high-value 'micro-tasks' (5-15 mins each) you can tackle during AI generation wait times or context switches today. Keep them visible.",
+    "Action 2: Spend 15 minutes experimenting with running a local LLM (e.g., setting up Ollama and downloading a small model). Understand its resource footprint and basic interaction.",
+    "Action 3: When using AI for code, critically review its output. Go beyond syntax checks; evaluate logical correctness, adherence to project patterns, and potential side effects, adopting a 'reviewer-first' mindset.",
+    "Action 4: For any complex task you give to an AI agent, define a simple, multi-step prompt or mental workflow (e.g., '1. Outline the problem, 2. Propose solutions, 3. Generate code, 4. Suggest tests')."
   ]
 }
