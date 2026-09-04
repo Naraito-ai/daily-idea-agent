@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-03 10:18:06",
+  "last_updated": "2026-09-04 10:05:50",
   "scraped_sources": {
     "github": [
       {
@@ -11,10 +11,18 @@
         "category": "AI / ML"
       },
       {
+        "name": "PromptLedger",
+        "owner": "cyptnpassira",
+        "description": "PromptLedger - version prompt templates, run deterministic comparison snapshots, score candidate responses, and ship diffable experiment reports. Python core plus a Go companion CLI.",
+        "stars": 42,
+        "url": "https://github.com/cyptnpassira/PromptLedger",
+        "category": "AI / ML"
+      },
+      {
         "name": "NeSLE",
         "owner": "hbofz",
         "description": "GPU-native NES emulator + RL stack: thousands of parallel NES envs on one CUDA GPU, training agents on Super Mario Bros.",
-        "stars": 24,
+        "stars": 27,
         "url": "https://github.com/hbofz/NeSLE",
         "category": "AI / ML"
       },
@@ -22,7 +30,7 @@
         "name": "forecasting-crude-oil-option-prices",
         "owner": "keke-star19",
         "description": "Published in Communications in Nonlinear Science and Numerical Simulation.",
-        "stars": 16,
+        "stars": 21,
         "url": "https://github.com/keke-star19/forecasting-crude-oil-option-prices",
         "category": "AI / ML"
       },
@@ -35,26 +43,10 @@
         "category": "AI / ML"
       },
       {
-        "name": "The-AI-Engineer-s-Playbook",
-        "owner": "Laleeth",
-        "description": "Practical engineering knowledge for building and operating production AI systems — LLMs, RAG, agents, inference, evaluation, system design, and AI infrastructure.",
-        "stars": 10,
-        "url": "https://github.com/Laleeth/The-AI-Engineer-s-Playbook",
-        "category": "AI / ML"
-      },
-      {
-        "name": "reverify",
-        "owner": "2akouwu",
-        "description": "Verified reverse engineering: AI RE grounded on deterministic tools - results checked against the binary, not hallucinated.",
-        "stars": 661,
-        "url": "https://github.com/2akouwu/reverify",
-        "category": "Automation / Productivity"
-      },
-      {
         "name": "useagent",
         "owner": "useagenthq",
         "description": "The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
-        "stars": 277,
+        "stars": 284,
         "url": "https://github.com/useagenthq/useagent",
         "category": "Automation / Productivity"
       },
@@ -62,7 +54,7 @@
         "name": "cf-turnstile-token",
         "owner": "kowalski76057",
         "description": "Scriptable Cloudflare Turnstile token CLI via the Peak API - sitekey discovery, solve, and token output for CI and automation.",
-        "stars": 63,
+        "stars": 66,
         "url": "https://github.com/kowalski76057/cf-turnstile-token",
         "category": "Automation / Productivity"
       },
@@ -78,58 +70,71 @@
         "name": "hermes-socmed-function",
         "owner": "fajrisilmi12-cyber",
         "description": "Custom Hermes Agent skills: AI image generation (9Router) + multi-platform social media posting (Zernio + Cloudinary) + IG scheduling workflow",
-        "stars": 19,
+        "stars": 20,
         "url": "https://github.com/fajrisilmi12-cyber/hermes-socmed-function",
+        "category": "Automation / Productivity"
+      },
+      {
+        "name": "ai-life-skills-toolkit",
+        "owner": "sameh514",
+        "description": "Privacy-first everyday Codex skills for learning, customer service, and personal organization",
+        "stars": 12,
+        "url": "https://github.com/sameh514/ai-life-skills-toolkit",
         "category": "Automation / Productivity"
       }
     ],
     "hacker_news": [
       {
-        "title": "The Browser's Main Thread Is Expensive",
-        "url": "https://kciter.so/posts/the-expensive-main-thread/en/",
-        "score": 66
+        "title": "Carbon-aware electricity pricing, measured daily on 38 grids",
+        "url": "https://carbonawarepricing.com/",
+        "score": 30
       },
       {
-        "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
-        "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
-        "score": 420
+        "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+        "url": "https://inference-docs.cerebras.ai/models/overview",
+        "score": 561
       },
       {
-        "title": "Can I opt out of my input or output data being used for training?",
-        "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
-        "score": 445
+        "title": "The largest electric aircraft just flew [video]",
+        "url": "https://www.youtube.com/watch?v=nM86DBOqgPM",
+        "score": 329
       },
       {
-        "title": "Fable 5.1 World Modeling",
-        "url": "https://github.com/PhiloLabs/fable51-worlds",
-        "score": 250
+        "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+        "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
+        "score": 297
+      },
+      {
+        "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
+        "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
+        "score": 314
       }
     ],
     "arxiv": [
       {
-        "title": "A Common Measure of Communication for Speech Brain-Computer Interfaces",
-        "summary": "Speech brain-computer interfaces (speech BCIs) translate neural activity into language, offering a path towards restoring speech for people with paralysis and, more broadly, enabling new forms of natu...",
-        "url": "http://arxiv.org/abs/2609.02887v1"
+        "title": "Compile by Training: Turning Natural-Language Specifications into Local Neural Functions",
+        "summary": "Many recurring text functions are easy to describe but difficult to implement with rules, while calling a large remote model for every input introduces repeated cost, latency, and dependency on a prov...",
+        "url": "http://arxiv.org/abs/2609.04199v1"
       },
       {
-        "title": "Discriminative World Models for Web Agents",
-        "summary": "Recent web agents use world models for test-time action selection by sampling candidate actions, predicting the resulting web states, and ranking them with a ranker model or a Process Reward Model (PR...",
-        "url": "http://arxiv.org/abs/2609.02885v1"
+        "title": "Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of Black-Box LLM Observers on Shared Endpoints",
+        "summary": "Language-model judges now gate training data, score generations, and drive leaderboards. The judge is then a measurement instrument, resting on one rarely stated assumption: the same request, sent to ...",
+        "url": "http://arxiv.org/abs/2609.04198v1"
       },
       {
-        "title": "Graph Machine: Towards Better Pretraining via Edges",
-        "summary": "We introduce the Graph Machine (GM), an architecture that maintains an $O(n)$-sized state and accesses it through sparse, dynamic routing. Unlike methods with fixed-size states or sparse but static ro...",
-        "url": "http://arxiv.org/abs/2609.02881v1"
+        "title": "ESPO: Error-Structured Prompt Optimization via Diagnose, Diversify, and Stabilize",
+        "summary": "Evolutionary prompt optimizers such as GEPA suffer from prompt bloat: each iteration appends rules and caveats, producing prompts up to 3$\\times$ longer yet no more accurate. We trace this to three de...",
+        "url": "http://arxiv.org/abs/2609.04197v1"
       },
       {
-        "title": "GRADSOLVE: fast exact gradients for ODE ensembles on GPUs",
-        "summary": "Ordinary differential equations (ODEs) underlie models in science and engineering, and many applications need derivatives of their solutions with respect to parameters. Ensembles of independent trajec...",
-        "url": "http://arxiv.org/abs/2609.02876v1"
+        "title": "Legibility is Not Interpretability: Comparing Judged and Actual Importance in Chain-Of-Thought Reasoning",
+        "summary": "Reasoning traces from chain-of-thought models appear to offer a legible window into how a model arrives at its answer. A growing body of work treats them as such, using LLM judges to diagnose errors, ...",
+        "url": "http://arxiv.org/abs/2609.04194v1"
       },
       {
-        "title": "Towards Trustworthy Autonomous Robots: An Explainable AI-Based Decision Framework",
-        "summary": "Autonomous robots powered by deep learning face a fundamental auditability challenge: when incidents occur, investigators cannot reconstruct why the system made specific decisions. This paper presents...",
-        "url": "http://arxiv.org/abs/2609.02861v1"
+        "title": "One Editor, Many Edits: A Unified Training-Free Framework for Diverse Video Editing",
+        "summary": "Video editing spans diverse editing paradigms, yet achieving high-quality instruction-guided and subject-guided editing within a single unified framework remains challenging. We introduce EditVid, a t...",
+        "url": "http://arxiv.org/abs/2609.04190v1"
       }
     ],
     "devto": [
@@ -137,110 +142,107 @@
         "title": "What do you build when you can build anything?",
         "description": "My hot take is: Telling people that they have to build endlessly is very, very, very bad advice. If...",
         "url": "https://dev.to/ale3oula/what-do-you-build-when-you-can-build-anything-4eg0",
-        "reactions": 37
+        "reactions": 58
       },
       {
         "title": "I Tried Pair Programming With Three Different AI Tools For a Month",
         "description": "AI coding tools can write a function in seconds. The harder question is whether that function...",
         "url": "https://dev.to/elsie-rainee/i-tried-pair-programming-with-three-different-ai-tools-for-a-month-2nnc",
-        "reactions": 28
-      },
-      {
-        "title": "Velocidade de entrega e custo de manutenção pós IA",
-        "description": "Entregar ficou rápido demais. O problema é que manter continuou custando o mesmo preço de sempre.    ...",
-        "url": "https://dev.to/he4rt/velocidade-de-entrega-e-custo-de-manutencao-pos-ia-5gei",
-        "reactions": 87
+        "reactions": 31
       },
       {
         "title": "I tested Claude Code's memory against mine. They are not doing the same job.",
         "description": "Proof over claim  Last time I described the hour a platform shipped the feature I had spent months...",
         "url": "https://dev.to/heinrichneb/i-tested-claude-codes-memory-against-mine-they-are-not-doing-the-same-job-35jb",
-        "reactions": 20
+        "reactions": 25
       },
       {
-        "title": "Go Doesn't Force Clean Architecture. That's Your Job.",
-        "description": "The criticism of this is everywhere. Open any Go thread long enough and someone will show up to...",
-        "url": "https://dev.to/adamthedeveloper/go-doesnt-force-clean-architecture-thats-your-job-116",
-        "reactions": 28
+        "title": "Is This Really Required? Meet gh stack",
+        "description": "A tutorial for gh stack, and for the fact that it does not care whether the diff gets read by my lead or by an AI. Small diffs get reviewed better either way.",
+        "url": "https://dev.to/anchildress1/is-this-really-required-meet-gh-stack-5g1f",
+        "reactions": 9
+      },
+      {
+        "title": "Memory Is Not Talent: Talent Is Pattern Recognition and Connection",
+        "description": "We often confuse high memory capacity with intelligence or talent.  Someone can recall formulas,...",
+        "url": "https://dev.to/sumit0rn/memory-is-not-talent-talent-is-pattern-recognition-and-connection-3bea",
+        "reactions": 12
       }
     ]
   },
-  "trends": "Today's tech landscape is dominated by the rapid evolution of **autonomous AI agents** capable of orchestrating complex, multi-step tasks, from creative generation to comprehensive web interactions and specialized automation. A critical parallel trend is the increasing demand for **trustworthy, verifiable, and explainable AI**, driven by concerns over hallucination, data provenance, user privacy, and the need for auditable production systems. This is pushing developers to focus on building robust, reliable AI infrastructure. Simultaneously, **practical AI-driven automation** is expanding its footprint, leveraging existing APIs and platforms to solve niche business and productivity challenges. Developers are actively integrating **AI as a powerful coding assistant**, accelerating delivery but also grappling with the new complexities of maintaining code quality, managing architectural integrity, and understanding the nuanced capabilities and limitations of AI-generated code. High-performance computing, particularly GPU-accelerated processing, remains a cornerstone for pushing the boundaries of advanced AI applications.",
+  "trends": "Today's tech landscape is heavily dominated by advanced AI, focusing on agentic systems, sophisticated LLM engineering, and highly specialized applications. There's a strong drive towards automating complex workflows using AI agents that integrate with various tools and platforms. Concurrently, significant effort is being poured into making LLMs more reliable, measurable, and efficient, through advanced prompt optimization techniques, robust evaluation frameworks, and the development of local, high-performance inference solutions. Productivity trends highlight the increasing integration of AI as a 'coworker' for developers, while also emphasizing the critical need to understand AI's limitations, verify its outputs, and optimize human-AI collaboration for genuinely impactful results rather than just speed.",
   "ideas": [
     {
-      "title": "AI-Powered Research & Citation Agent",
+      "title": "AI Prompt Reliability & Optimization Suite (PROS)",
       "difficulty": "Medium",
-      "estimated_hours": 40,
-      "description": "Develop an AI agent that, given a user-defined topic or query, automatically searches the web and relevant academic/news databases, synthesizes the gathered information, and generates a structured report or summary. The core innovation is its integrated citation mechanism: for every factual claim or piece of synthesized information, the agent must automatically identify and cite its original source(s) with direct URLs or document references. Furthermore, it should include a confidence score or flag for claims where source verification is weak or conflicting information is found, directly addressing concerns about AI hallucination and manufactured sources.",
+      "estimated_hours": 30,
+      "description": "Build a web-based platform that allows developers to systematically design, version, test, and optimize LLM prompts. Users can create prompt templates, define different test cases (inputs), run them against various LLMs (or different versions of the same LLM), and then automatically evaluate responses using predefined metrics (e.g., regex matching, keyword presence, sentiment analysis) or even smaller, specialized 'judge' LLMs. The suite should track historical performance, offer A/B testing capabilities, and generate diffable reports, much like a PromptLedger. This addresses the need for clean engineering and reliable measurement of LLM outputs, tackling prompt bloat and ensuring consistent performance.",
       "tech_stack": [
-        "Python",
-        "LangChain/LlamaIndex",
-        "LLM API (e.g., OpenAI, Claude, Mistral)",
-        "Web scraping (e.g., Playwright, BeautifulSoup)",
-        "Semantic search (e.g., Pinecone, Weaviate for internal knowledge bases)",
-        "Fact-checking APIs (e.g., Google Search API for secondary verification)",
-        "Flask/FastAPI (for API and simple UI)"
+        "Python (FastAPI or Django)",
+        "React/Vue.js (for frontend)",
+        "PostgreSQL",
+        "LLM APIs (OpenAI, Claude, custom local models via Llama.cpp/Ollama)",
+        "Docker (for deployment)"
       ],
-      "source_inspiration": "useagent (AI coworker), reverify (verified output), Hacker News articles on 'manufactured sources behind AI recommendations' and 'Mistral opt-out' (trust, data quality), The-AI-Engineer-s-Playbook (production AI).",
+      "source_inspiration": "PromptLedger, ESPO: Error-Structured Prompt Optimization, Clean Engineering, Unstable Measurement, Legibility is Not Interpretability",
       "steps": [
-        "Set up a Python environment and integrate with a chosen LLM API.",
-        "Implement robust web search and scraping functionalities to gather raw information from multiple sources.",
-        "Develop an agentic workflow using LangChain or LlamaIndex to orchestrate information retrieval, extraction, and synthesis.",
-        "Design and implement a citation module that tracks the origin of each piece of information and attributes it with a URL.",
-        "Add a 'trust score' or flagging mechanism for claims based on source reliability, number of corroborating sources, or conflicting data.",
-        "Build a simple web interface (e.g., with Streamlit or Flask/React) for users to submit queries and view the generated, cited reports."
+        "Task 1: Set up a basic web application with user authentication and database for storing prompts, test cases, and evaluation results.",
+        "Task 2: Implement a prompt templating and versioning system, allowing users to save and recall different prompt iterations.",
+        "Task 3: Develop an LLM integration module to send prompts and receive responses from various API endpoints (e.g., OpenAI, Claude).",
+        "Task 4: Implement a 'test run' functionality where a user can define input scenarios and run a prompt against them.",
+        "Task 5: Add a basic evaluation engine for responses, including keyword checks, length constraints, or simple rule-based scoring.",
+        "Task 6: Create a reporting interface to display test results, historical performance, and facilitate A/B comparisons between prompt versions."
       ]
     },
     {
-      "title": "Production ML XAI Audit & Debugging Dashboard",
+      "title": "Carbon-Aware AI Workflow Agent",
       "difficulty": "Medium",
-      "estimated_hours": 60,
-      "description": "Create a service and interactive dashboard that integrates with deployed machine learning models (e.g., for classification, regression, or even simple recommender systems). For every prediction generated by the model in a production setting, this system will generate and store local explanations (e.g., using SHAP or LIME) that detail which input features most influenced that specific prediction. The dashboard will allow developers and stakeholders to visualize these individual explanations, identify patterns in model behavior, track feature importance over time, and debug specific model failures by examining the 'why' behind decisions, directly addressing the critical need for explainable and auditable AI in production.",
+      "estimated_hours": 25,
+      "description": "Develop an AI agent that optimizes computational tasks (e.g., training small models, running heavy inference, scheduling automated social media posts, or resource-intensive data processing) based on carbon intensity of electricity grids. The agent would integrate with 'carbon-aware pricing' data to identify periods of low carbon emissions and automatically schedule or defer tasks to these times. For instance, a social media manager AI (like a refined 'hermes-socmed-function') could use this to schedule posts at times when the energy cost of the underlying AI image generation or content processing is lowest in carbon footprint.",
       "tech_stack": [
-        "Python (Flask/FastAPI)",
-        "Machine Learning framework (e.g., Scikit-learn, TensorFlow, PyTorch)",
-        "XAI libraries (SHAP, LIME)",
-        "Database (e.g., PostgreSQL, MongoDB) for storing predictions and explanations",
-        "Dashboard framework (e.g., Plotly Dash, Streamlit, Grafana)"
+        "Python (LangChain/CrewAI for agentic framework)",
+        "LLM API (for task analysis and scheduling logic)",
+        "External Carbon-aware API (e.g., Electricity Maps, carbonawarepricing.com)",
+        "Task queueing system (e.g., Celery, RabbitMQ)",
+        "APIs for target platforms (e.g., social media, cloud task runners)"
       ],
-      "source_inspiration": "The-AI-Engineer-s-Playbook (practical production AI), arXiv paper 'Towards Trustworthy Autonomous Robots: An Explainable AI-Based Decision Framework' (XAI, auditability), reverify (verified outcomes).",
+      "source_inspiration": "useagent, hermes-socmed-function, Carbon-aware electricity pricing, ai-life-skills-toolkit",
       "steps": [
-        "Develop an API endpoint that receives model prediction requests, including the input features and the model's output.",
-        "Integrate an XAI library (like SHAP or LIME) to generate local explanations for each incoming prediction.",
-        "Design a database schema to efficiently store predictions, actual outcomes (if available), and their corresponding explanation values.",
-        "Implement a service to log these data points continuously from the deployed ML model.",
-        "Build an interactive dashboard application to visualize individual prediction explanations (e.g., force plots for SHAP) and aggregated insights (e.g., global feature importance, feature distribution drift).",
-        "Add search and filtering capabilities to the dashboard, allowing users to investigate specific data points or problematic model behaviors."
+        "Task 1: Set up a Python-based AI agent framework (e.g., using LangChain) and integrate a chosen LLM for decision-making.",
+        "Task 2: Integrate with a carbon-aware electricity pricing API to fetch real-time or forecasted grid carbon intensity data for relevant regions.",
+        "Task 3: Define a mechanism for users to submit 'carbon-sensitive' tasks to the agent, specifying their deadlines and requirements.",
+        "Task 4: Implement the agent's logic to analyze tasks, query carbon data, and determine optimal scheduling windows.",
+        "Task 5: Integrate a task queueing system to hold and release tasks based on the agent's scheduling decisions.",
+        "Task 6: Develop a simple interface (CLI or web) for submitting tasks and viewing their scheduled status."
       ]
     },
     {
-      "title": "GPU-Accelerated RL Environment Workbench",
+      "title": "Natural Language to Local AI Function Converter (NL2L-AI)",
       "difficulty": "Hard",
-      "estimated_hours": 80,
-      "description": "Design and build a web-based platform that empowers users to create and experiment with custom reinforcement learning (RL) environments, focusing on GPU acceleration for training. Users should be able to define simple simulation rules (e.g., grid worlds, basic physics, game mechanics) via a simplified domain-specific language (DSL) or a visual editor. The platform will then leverage GPU resources to run vectorized instances of these custom environments in parallel, accelerating the training of RL agents and providing real-time visualizations of the training process and agent performance. This project aims to democratize access to high-performance RL experimentation, inspired by the trend of GPU-native machine learning and specialized RL setups.",
+      "estimated_hours": 60,
+      "description": "Create a tool inspired by 'Compile by Training' that allows a user to describe a simple, recurring text processing task (e.g., 'extract all named entities of type X', 'classify sentiment of short texts', 'summarize paragraphs to one sentence') in natural language. Instead of relying on a large remote LLM for every inference, the tool would attempt to leverage existing smaller, open-source models (or generate/fine-tune very compact ones) locally to perform that specific function. This would reduce cost, latency, and dependency on external APIs for repetitive, well-defined tasks. The 'compiler' part would be an orchestration layer that guides the selection, fine-tuning, and deployment of a minimal local model.",
       "tech_stack": [
-        "Python (Flask/FastAPI)",
-        "RL libraries (e.g., Stable Baselines3, Ray RLib)",
-        "GPU-accelerated ML frameworks (PyTorch/TensorFlow with CUDA/Jax)",
-        "WebSockets (for real-time data streaming to frontend)",
-        "Frontend framework (e.g., React, Vue.js for environment definition and visualization)",
-        "Docker (for containerization and easier GPU setup)"
+        "Python (PyTorch/TensorFlow Lite for model execution)",
+        "Hugging Face Transformers/PEFT (for fine-tuning small models)",
+        "Streamlit/Gradio (for UI)",
+        "ONNX/TensorRT (for optimized local inference)",
+        "LLM API (for initial interpretation of user's NL request and prompt generation for small model training)"
       ],
-      "source_inspiration": "NeSLE (GPU-native NES emulator + RL stack), GRADSOLVE (fast exact gradients for ODE ensembles on GPUs), The Browser's Main Thread Is Expensive (performance optimization).",
+      "source_inspiration": "Compile by Training: Turning Natural-Language Specifications into Local Neural Functions, Qwen 3.8 27B available on Cerebras at 1500 tokens/s, yname",
       "steps": [
-        "Set up a Python backend with Flask/FastAPI and configure a GPU-accelerated ML framework (PyTorch/TensorFlow/Jax) for efficient tensor operations.",
-        "Develop a flexible core simulation engine capable of running user-defined, simple environments in a vectorized, GPU-friendly manner.",
-        "Create an API for users to define environment parameters, reward functions, and observation/action spaces using a structured format (e.g., JSON schema or a simple DSL).",
-        "Integrate a selection of common RL algorithms (e.g., PPO, A2C) configured to leverage GPU for training.",
-        "Build an interactive frontend (React/Vue.js) allowing users to visually or programmatically define their environments, initiate training, and visualize agent performance/environment state in real-time via WebSockets.",
-        "Containerize the entire application using Docker to simplify deployment and GPU resource management for users."
+        "Task 1: Develop a frontend (Streamlit/Gradio) where users can input a natural language description of their desired text function.",
+        "Task 2: Use a large LLM API to interpret the user's request and generate structured data: task type (e.g., classification, extraction), potential labels, example inputs/outputs (synthetic data generation for training).",
+        "Task 3: Implement a module to select or retrieve a suitable pre-trained small model (e.g., from Hugging Face hub) based on the interpreted task type.",
+        "Task 4: Develop a fine-tuning pipeline using the generated synthetic data to adapt the small model to the specific user-defined function.",
+        "Task 5: Implement a mechanism to export the fine-tuned model to an optimized format (e.g., ONNX, TorchScript) for efficient local inference.",
+        "Task 6: Provide an API or local runner for users to execute their newly 'compiled' local AI function with new inputs."
       ]
     }
   ],
   "quick_actions": [
-    "Integrate an AI coding assistant (e.g., GitHub Copilot, Cursor, Claude Code) into your daily development workflow for at least one week to understand its benefits and limitations firsthand.",
-    "Spend 30 minutes researching the concepts of 'AI agents' and 'agent orchestration frameworks' (e.g., LangChain, LlamaIndex), reviewing examples of multi-step AI agents to grasp their potential.",
-    "When evaluating new AI tools or outputs, actively question their data sources, underlying models, and data privacy policies, prioritizing tools that offer transparency or mechanisms for source verification.",
-    "Review one of your existing personal or professional codebases and identify at least one area where you can refactor for improved architectural clarity or long-term maintainability, independent of any AI-assisted code generation."
+    "Action 1: Dedicate 30 minutes daily this week to structured prompt optimization. Instead of ad-hoc prompt tweaks, use a simple text file to version control your prompts, and systematically test different variations against a few fixed inputs, noting the outcomes to identify patterns for better LLM control.",
+    "Action 2: Integrate an AI coding assistant (like GitHub Copilot, Claude Code, or an IDE plugin) into your daily workflow. For the next five days, make a conscious effort to use it for generating boilerplate, writing tests, or suggesting small refactors. Pay attention to the quality of small diffs it produces and its 'memory' within your context.",
+    "Action 3: Explore one open-source AI agent framework (e.g., LangChain, CrewAI, Autogen) this weekend. Set up a local environment and build a tiny, personal automation agent (e.g., an agent that summarizes your daily GitHub notifications or drafts a social media post based on a news article).",
+    "Action 4: Cultivate a habit of critical verification for all AI-generated outputs, especially for code or analytical tasks. Before accepting any suggestion, ask yourself: 'Is this truly correct, or merely plausible? How would I independently verify this?' This addresses the 'unstable measurement' and 'legibility is not interpretability' trends, ensuring quality over speed."
   ]
 }
