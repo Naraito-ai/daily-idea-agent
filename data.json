@@ -1,7 +1,15 @@
 {
-  "last_updated": "2026-09-15 10:37:39",
+  "last_updated": "2026-09-16 10:25:45",
   "scraped_sources": {
     "github": [
+      {
+        "name": "ms-fabric-data-science",
+        "owner": "DataFabric-Academy",
+        "description": "Hands-on Microsoft Fabric Data Science labs (FreshMart churn) with Thai study notes, PySpark/MLflow, and DP-604-aligned learning path.",
+        "stars": 96,
+        "url": "https://github.com/DataFabric-Academy/ms-fabric-data-science",
+        "category": "AI / ML"
+      },
       {
         "name": "steer",
         "owner": "xieyulai",
@@ -22,55 +30,31 @@
         "name": "repro-lens",
         "owner": "00200200",
         "description": "Static reproducibility checks, experiment replay and before/after evidence for ML code and coding agents — no ML dependencies for scans.",
-        "stars": 8,
+        "stars": 9,
         "url": "https://github.com/00200200/repro-lens",
         "category": "AI / ML"
       },
       {
-        "name": "bert-spam-classifier",
-        "owner": "arielshakaramiro",
-        "description": "Fine-tuning BERT (bert-base-uncased) for SMS spam/ham classification, benchmarked against a Naive Bayes baseline and BERT as a frozen feature extractor on the same test set. Includes verified evaluation metrics and confusion matrix.",
-        "stars": 7,
-        "url": "https://github.com/arielshakaramiro/bert-spam-classifier",
-        "category": "AI / ML"
-      },
-      {
-        "name": "HAL-Harvest-Advisory-with-Linguistic-Intelligence",
-        "owner": "abeerrai01",
-        "description": "Voice-first AI farming assistant combining satellite imagery, soil health data, weather, mandi prices, and regional-language speech to deliver personalized agricultural advice.",
+        "name": "AIChessathon",
+        "owner": "TahaKhanM",
+        "description": "Miskeen: 2nd of 334 teams in AI Chessathon Final Qualification. Python/Numba chess search, integer neural inference, training and reproducible systems benchmarks.",
         "stars": 5,
-        "url": "https://github.com/abeerrai01/HAL-Harvest-Advisory-with-Linguistic-Intelligence",
+        "url": "https://github.com/TahaKhanM/AIChessathon",
         "category": "AI / ML"
       },
       {
         "name": "WorkBuddy-Daily",
         "owner": "L0NE-6",
         "description": "🌱 WorkBuddy 成长中心全能签到脚本 · Token永续 · 18项任务 · 8项玩法 · 自动领奖 · 青龙友好",
-        "stars": 43,
+        "stars": 51,
         "url": "https://github.com/L0NE-6/WorkBuddy-Daily",
-        "category": "Automation / Productivity"
-      },
-      {
-        "name": "agentrouter-auto-signin",
-        "owner": "88lin",
-        "description": "自动领取 AgentRouter 每日签到额度，支持多账号、余额自动换算。纯 Python 本地静默运行，Win / macOS / Linux 定时任务，错过后自动补签，一句话交给 AI 自动配好。",
-        "stars": 19,
-        "url": "https://github.com/88lin/agentrouter-auto-signin",
-        "category": "Automation / Productivity"
-      },
-      {
-        "name": "nucleus-patch-utility-2026",
-        "owner": "sam-plab03c2",
-        "description": "A Python-based utility for managing and testing Roblox client patches. Developed for QA engineers and developers to streamline patch validation workflows. It includes a feature for automated script execution and error logging.",
-        "stars": 19,
-        "url": "https://github.com/sam-plab03c2/nucleus-patch-utility-2026",
         "category": "Automation / Productivity"
       },
       {
         "name": "WebGPT",
         "owner": "Nhahan",
         "description": "A Codex skill that delegates work to ChatGPT on the web.",
-        "stars": 17,
+        "stars": 24,
         "url": "https://github.com/Nhahan/WebGPT",
         "category": "Automation / Productivity"
       },
@@ -78,47 +62,88 @@
         "name": "Awesome-billing-automation",
         "owner": "elenahao66",
         "description": "A curated list of awesome automated billing systems, invoicing tools, and payment workflow hacks for freelancers, developers, and SaaS creators.",
-        "stars": 15,
+        "stars": 21,
         "url": "https://github.com/elenahao66/Awesome-billing-automation",
+        "category": "Automation / Productivity"
+      },
+      {
+        "name": "agentrouter-auto-signin",
+        "owner": "88lin",
+        "description": "自动领取 AgentRouter 每日签到额度，支持多账号、余额自动换算。纯 Python 本地静默运行，Win / macOS / Linux 定时任务，错过后自动补签，一句话交给 AI 自动配好。",
+        "stars": 21,
+        "url": "https://github.com/88lin/agentrouter-auto-signin",
+        "category": "Automation / Productivity"
+      },
+      {
+        "name": "seo-content-automatisierung",
+        "owner": "forestecho66",
+        "description": "Ein automatisiertes Toolkit zur Optimierung von Online-Marketing-Workflows, SEO-Prozessen und digitaler Produktvermarktung. Spart Zeit und maximiert die Conversion.",
+        "stars": 20,
+        "url": "https://github.com/forestecho66/seo-content-automatisierung",
         "category": "Automation / Productivity"
       }
     ],
     "hacker_news": [
       {
-        "title": "Let's make quality the norm again",
-        "url": "https://www.forbrukerradet.no/short-life/",
-        "score": 39
+        "title": "Introducing System One Models and Jev",
+        "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+        "score": 1415
       },
       {
-        "title": "How much of F-Droid is LLM generated?",
-        "url": "https://tintotint.eu/whacky-corner/f-droid_slop/",
-        "score": 26
+        "title": "Learning Programming in an Age of LLMs",
+        "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/",
+        "score": 24
       },
       {
-        "title": "Show HN: Redis City – Explore how Redis works in an interactive 3D model",
-        "url": "https://poltora.dev/redis",
-        "score": 100
+        "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+        "url": "https://mistral.ai/news/mistral-x-mozilla/",
+        "score": 35
+      },
+      {
+        "title": "Why I'm still bearish on LLMs after Navier-Stokes",
+        "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
+        "score": 233
       }
     ],
-    "arxiv": [],
-    "devto": [
+    "arxiv": [
       {
-        "title": "Networking is Hard but easy to think about.",
-        "description": "The video cover is what we are all feeling in this Job Market. I don't have a good cover image this...",
-        "url": "https://dev.to/francistrdev/networking-is-hard-but-easy-to-think-about-dc1",
-        "reactions": 106
+        "title": "Agentic Societies Need a Social Harness",
+        "summary": "An agentic society is a collection of AI agents that coordinate autonomously across trust boundaries, on behalf of different principals whose objectives may only partially align. We show experimentall...",
+        "url": "http://arxiv.org/abs/2609.17527v1"
       },
       {
-        "title": "Has AI Made You A Lazier Developer? Be Honest.",
-        "description": "Haven't you ever wondered if this AI vibe coding has made us lazy? Who's been solving problems on...",
-        "url": "https://dev.to/nazar-boyko/has-ai-made-you-a-lazier-developer-be-honest-5ack",
-        "reactions": 98
+        "title": "ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents",
+        "summary": "We introduce and release ScienceBuddy, an interactive scientific research workspace that brings continually improving scientific agents into researchers' everyday workflows. ScienceBuddy supports rese...",
+        "url": "http://arxiv.org/abs/2609.17523v1"
+      },
+      {
+        "title": "PhysStream: Streaming Physics-Grounded Video Generation with Structured Scene Memory and Fine-Grained Motion Control",
+        "summary": "Interactive control for video generation is moving from coarse prompts toward fine-grained, physically meaningful manipulation of dynamic scenes. Yet existing controllable methods either require the f...",
+        "url": "http://arxiv.org/abs/2609.17521v1"
+      },
+      {
+        "title": "When Should LLMs Abstain? Chain-of-Self-Questioning for Selective Risk Control",
+        "summary": "Large language models can produce fluent answers when their factual support is weak. This paper introduces Chain-of-Self-Questioning (CoSQ), a prompt-only framework that makes answer commitment condit...",
+        "url": "http://arxiv.org/abs/2609.17516v1"
+      },
+      {
+        "title": "What Breaks Under Pruning in Smart Homes, and When? Evaluating LLM Degradation Across Architectures and Task Complexity",
+        "summary": "Pruning can reduce the deployment cost of large language models (LLMs), but its impact on context-grounded tool calling remains poorly understood. We systematically study pruning-induced degradation i...",
+        "url": "http://arxiv.org/abs/2609.17515v1"
+      }
+    ],
+    "devto": [
+      {
+        "title": "The Slow and Quiet Cognitive Atrophy of a Modern Software Engineer",
+        "description": "Over the past couple of months, I've read a lot of articles about the consequences of AI dependency...",
+        "url": "https://dev.to/codingwithjiro/the-slow-and-quiet-cognitive-atrophy-of-a-modern-software-engineer-3lbh",
+        "reactions": 40
       },
       {
         "title": "AI Avatar v20, Cursor Avatar, Notification Avatar (Voxel Avatar)🧊",
         "description": "Intro   AI Avatar is a free app where your VRoid (VRM) avatar cheers you with all its...",
         "url": "https://dev.to/webdeveloperhyper/ai-avatar-v20-cursor-avatar-notification-avatar-voxel-avatar-4dd2",
-        "reactions": 52
+        "reactions": 59
       },
       {
         "title": "Admit it, you have a favorite AI (just like you have a favorite coworker)",
@@ -127,90 +152,93 @@
         "reactions": 22
       },
       {
-        "title": "Wiring a Reachy Mini into OpenClaw without trusting the robot",
-        "description": "I put a Reachy Mini in the living room.  It is a small desktop robot from Pollen Robotics, now part...",
-        "url": "https://dev.to/bengreenberg/wiring-a-reachy-mini-into-openclaw-without-trusting-the-robot-3lgh",
-        "reactions": 9
+        "title": "Why AI Keeps Making the Same Coding Mistakes—And How Teaching It Pain Gives It Wisdom",
+        "description": "Frontier LLMs excel at textbook code but fail in production. Here is how Synthetic Scars and biological pain give autonomous coding agents real wisdom.",
+        "url": "https://dev.to/gde/why-ai-keeps-making-the-same-coding-mistakes-and-how-teaching-it-pain-gives-it-wisdom-4a9m",
+        "reactions": 16
+      },
+      {
+        "title": "I Built a Mac Menu Bar App Because I Kept Saying \"Wait, What?\" in Every Meeting (Live Demo 🚀)",
+        "description": "Someone on a Zoom call said a URL yesterday. I was still writing down the previous bullet point. By...",
+        "url": "https://dev.to/varshithvhegde/i-built-a-mac-menu-bar-app-because-i-kept-saying-wait-what-in-every-meeting-live-demo--3gkj",
+        "reactions": 26
       }
     ]
   },
-  "trends": "Today's tech landscape is significantly shaped by the increasing prevalence of **Agentic AI**, which is expanding beyond simple task execution to autonomous research and code generation, albeit with growing concerns around **reproducibility and quality assurance**. Developers are actively exploring methods to validate and ensure the integrity of AI-generated content and complex ML experiments. Concurrently, there's a strong drive towards **developer productivity and automation**, focusing on streamlining routine tasks, enhancing QA workflows, and integrating AI as a delegator for web-based actions. The trend towards **local and on-device AI** is notable for privacy and accessibility, particularly with voice-first applications. Underlying these advancements is a growing community discussion about the **impact of AI on developer skill sets** and the importance of maintaining human oversight and critical thinking.",
+  "trends": "The current tech landscape is rapidly advancing in **agentic AI systems**, emphasizing **autonomy, self-improvement, and intelligent task delegation** across research, development, and personal productivity. This is coupled with a strong focus on **MLOps, reproducibility, and robust experiment tracking** to manage complexity and ensure reliability. There's a growing push for **edge AI and privacy-preserving local processing**, alongside critical discussions around **LLM limitations, ensuring \"grounding\" and reliability**, and addressing the **impact of AI on human cognitive skills** and the need for better human-AI interaction patterns, particularly in coding. The pervasive theme is leveraging AI for automation while carefully considering its governance, reliability, and human integration.",
   "ideas": [
     {
-      "title": "Agent-Powered ML Experiment Reproducibility Hub",
-      "difficulty": "Medium",
-      "estimated_hours": 40,
-      "description": "Develop a web-based platform or CLI tool that integrates with Git repositories containing ML projects. This hub will leverage a combination of static analysis (like `repro-lens`) and an AI agent to automatically check for code reproducibility issues, track experiment configurations, manage dependencies, and provide 'before/after' evidence for changes made by coding agents or human developers. It would highlight potential sources of non-reproducibility and suggest fixes, aiming to make ML research and development more trustworthy and auditable.",
-      "tech_stack": [
-        "Python",
-        "Flask/Django (for web UI)",
-        "Git hooks",
-        "Docker (for environment isolation)",
-        "OpenAI API/local LLM (for agent logic)",
-        "repro-lens library"
-      ],
-      "source_inspiration": "steer, repro-lens, 'Let's make quality the norm again', 'How much of F-Droid is LLM generated?'",
-      "steps": [
-        "Set up a Python backend with a web framework to manage projects and repositories.",
-        "Integrate with Git (via webhooks or local hooks) to trigger checks on new commits.",
-        "Implement `repro-lens` for static analysis of ML code and dependency tracking.",
-        "Develop an AI agent module that can analyze changes, identify potential reproducibility risks, and suggest environment setups (e.g., Dockerfiles).",
-        "Create a user interface to display project status, reproducibility scores, and 'evidence' reports for each commit.",
-        "Add features for environment serialization (e.g., exporting `requirements.txt`, `conda.yaml`, or Dockerfile snippets)."
-      ]
-    },
-    {
-      "title": "Voice-First Local Development CLI Assistant (CodeWhisperer)",
+      "title": "AI-Powered \"Micro-Agent\" Dispatcher for Daily Digital Chores",
       "difficulty": "Medium",
       "estimated_hours": 30,
-      "description": "Build a desktop-based command-line interface (CLI) assistant that allows developers to execute common development tasks using natural voice commands. Leveraging an on-device speech-to-text model (like Whisper), the assistant will parse commands such as 'Run all tests for current project', 'Commit staged changes with message fix bug X', 'Create new branch feature/new-component', or 'Open documentation for React hooks'. This reduces keyboard reliance and context switching, enhancing flow and productivity, especially for hands-free or accessibility needs.",
+      "description": "Develop a personal, local-first system where users can define simple, recurring digital tasks using natural language (e.g., 'Summarize unread emails from Project X and add key action items to my Notion task list every morning at 9 AM' or 'Check GitHub for new issues in my watched repos and send a digest to Slack at 5 PM'). The system would leverage an LLM to interpret these instructions and orchestrate 'micro-agents' that perform web scraping, API calls, and text processing. Crucially, it will incorporate user-defined 'governance rules' to ensure actions stay within safe boundaries (e.g., 'only read from these URLs,' 'require approval before sending emails'), addressing the need for controlled agent autonomy.",
       "tech_stack": [
-        "Python",
-        "Whisper (Hugging Face / local models)",
-        "SpeechRecognition library",
-        "Click/Argparse (for CLI)",
-        "GitPython (for Git integration)",
-        "OS-specific command execution (subprocess module)"
+        "Python (LangChain/CrewAI for agents)",
+        "Playwright/BeautifulSoup (for web interaction)",
+        "FastAPI/Flask (for local API/web UI)",
+        "SQLite (for task storage)",
+        "Docker (for easy deployment)",
+        "LLM API (e.g., OpenAI, Anthropic, or local via Ollama)"
       ],
-      "source_inspiration": "WhisperDeck, HAL-Harvest-Advisory-with-Linguistic-Intelligence, 'Wiring a Reachy Mini into OpenClaw without trusting the robot'",
+      "source_inspiration": "STEER, WebGPT, WorkBuddy-Daily, agentrouter-auto-signin, Agentic Societies Need a Social Harness, ScienceBuddy",
       "steps": [
-        "Set up a Python environment and integrate with the Whisper speech-to-text model for local audio processing.",
-        "Design a command parsing engine using regular expressions or a small NLP library to map natural language to specific CLI actions.",
-        "Implement core developer commands: Git operations (commit, branch, push), test execution (e.g., `pytest`, `npm test`), and project setup actions.",
-        "Create OS-level integrations to open files, directories, or web URLs based on voice commands.",
-        "Develop a feedback mechanism (e.g., text-to-speech or CLI output) to confirm actions.",
-        "Build a user-friendly configuration system to define project-specific aliases and custom commands."
+        "Task 1: Set up a basic Python web server (FastAPI) to handle API requests for task definition and status.",
+        "Task 2: Design and implement a simple web UI or CLI for users to define tasks in natural language and view execution logs.",
+        "Task 3: Integrate an LLM to parse natural language task descriptions into structured, executable agent instructions.",
+        "Task 4: Develop a 'Task Executor' module capable of common actions like web scraping, making API calls to popular services (e.g., Notion, Slack), and email interactions.",
+        "Task 5: Implement a 'governance layer' where users can specify constraints, approval steps, and allowed domains for agent actions.",
+        "Task 6: Add a scheduler (e.g., APScheduler) to manage the recurring execution of defined tasks."
       ]
     },
     {
-      "title": "Personalized 'Smart Check-in' Productivity Agent",
-      "difficulty": "Easy",
-      "estimated_hours": 20,
-      "description": "Create a personal desktop or web-based agent that automates daily 'check-in' routines. This agent would, at a scheduled time, perform tasks like fetching summaries from specified Slack channels/email inboxes, checking JIRA/Trello for assigned tasks, logging time (via integrations), and pulling key metrics from development dashboards. It would then synthesize this information into a concise, personalized daily briefing, potentially prompting the user with reflection questions ('What was your biggest AI assistance today?' or 'How did you overcome a challenge?'). This tool aims to reduce context switching and provide a structured start/end to the workday.",
+      "title": "Local ML Experiment Twin: Reproducibility & Privacy Toolkit",
+      "difficulty": "Medium",
+      "estimated_hours": 40,
+      "description": "Build a cross-platform desktop application or IDE extension that monitors an ML project directory to automatically log and package all necessary metadata for experiment reproducibility, without uploading sensitive data. This tool would track code changes (git diffs), environment snapshots (conda/pip freeze), data file hashes (not content), and parsed MLflow/TensorBoard logs. It allows a developer to create a 'reproducibility manifest' – a self-contained, shareable (and optionally encrypted) package containing all metadata required to re-create the exact experiment environment and run, strongly emphasizing local control and privacy.",
       "tech_stack": [
-        "Python",
-        "Flask/FastAPI (for simple web UI/API)",
-        "Schedule library (for task scheduling)",
-        "Slack API",
-        "Gmail API / IMAP",
-        "JIRA/Trello API",
-        "Basic NLP (for summarization, e.g., NLTK/SpaCy or simple regex)"
+        "Python (PyQt/Streamlit for GUI, watchdog, gitpython, hashlib)",
+        "MLflow Client (for log parsing)",
+        "Docker/Conda (for environment snapshotting)",
+        "SQLite (for internal metadata storage)",
+        "Git"
       ],
-      "source_inspiration": "WorkBuddy-Daily, agentrouter-auto-signin, WebGPT, 'Has AI Made You A Lazier Developer? Be Honest.', 'Admit it, you have a favorite AI'",
+      "source_inspiration": "repro-lens, ms-fabric-data-science, WhisperDeck, Mistral X Mozilla, PhysStream",
       "steps": [
-        "Set up a Python backend to manage scheduled tasks and API integrations.",
-        "Integrate with common developer tools (Slack, Gmail, JIRA, etc.) to fetch relevant daily data.",
-        "Implement a summarization module (using basic NLP or a small LLM) to condense fetched information.",
-        "Design a simple interface (CLI, desktop app, or minimal web page) to display the daily briefing and prompt reflection.",
-        "Add configuration options for users to define their tools, relevant channels, dashboards, and reflection questions.",
-        "Implement a persistent storage mechanism to track daily reflections and progress."
+        "Task 1: Design and implement a user interface (e.g., PyQt) for project selection, monitoring control (start/stop), and snapshot creation.",
+        "Task 2: Develop a file system watcher (`watchdog`) to detect and log changes within the specified ML project directory.",
+        "Task 3: Integrate with Git (`gitpython`) to capture code versioning, commit hashes, and diffs related to each experiment run.",
+        "Task 4: Implement functionality to snapshot the project's dependency environment (e.g., `pip freeze`, `conda env export`).",
+        "Task 5: Add data hashing capabilities (e.g., SHA256) for data directories, tracking data versions without storing the actual data content.",
+        "Task 6: Develop parsers to extract relevant metrics and parameters from common ML logging frameworks like MLflow or TensorBoard.",
+        "Task 7: Create a 'snapshot' function that bundles all collected metadata (code diffs, environment, data hashes, logs manifest) into a single, portable, and optionally encrypted archive with a comprehensive manifest file."
+      ]
+    },
+    {
+      "title": "Proactive AI Code Mentor with \"Synthetic Scars\"",
+      "difficulty": "Medium",
+      "estimated_hours": 35,
+      "description": "Build an IDE extension (e.g., for VS Code) that acts as an intelligent coding assistant, going beyond mere code generation. When a developer writes or pastes code (especially LLM-generated snippets or common problematic patterns), the co-pilot proactively surfaces \"synthetic scars\" – real-world examples of how similar code has failed, typical LLM-generated errors, or common pitfalls. It will provide interactive explanations, suggest robust alternatives, or offer improved prompting strategies, aiming to teach developers best practices and critical thinking rather than just providing answers, addressing concerns about cognitive atrophy and LLM reliability.",
+      "tech_stack": [
+        "TypeScript/JavaScript (for VS Code extension API)",
+        "Python (for backend LLM interaction and scar database management, if complex)",
+        "SQLite/local storage (for 'scar' database)",
+        "LLM API (e.g., OpenAI, Mistral, Cohere)"
+      ],
+      "source_inspiration": "Why AI Keeps Making the Same Coding Mistakes—And How Teaching It Pain Gives It Wisdom, The Slow and Quiet Cognitive Atrophy of a Modern Software Engineer, Learning Programming in an Age of LLMs, I Built a Mac Menu Bar App Because I Kept Saying 'Wait, What?' in Every Meeting",
+      "steps": [
+        "Task 1: Develop the basic framework for a VS Code extension, including context-aware code analysis hooks.",
+        "Task 2: Implement code analysis features to detect common coding patterns, including those prone to LLM errors or typical beginner mistakes.",
+        "Task 3: Create a local database of \"synthetic scars.\" Each 'scar' should include a problematic code pattern, a description of the failure/pitfall, and a robust solution or improved prompting strategy. Populate with initial curated examples.",
+        "Task 4: Integrate an LLM (either directly or via a local Python server) to analyze the user's current code snippets and cross-reference them with the 'scar' database.",
+        "Task 5: Implement UI elements within the IDE to display contextual warnings, detailed explanations, and suggested fixes or better prompting techniques when a 'scar' is identified.",
+        "Task 6: Add a feedback mechanism, allowing developers to contribute new 'scars' or validate the effectiveness of the mentor's suggestions, fostering community learning."
       ]
     }
   ],
   "quick_actions": [
-    "Action 1: Dedicate 15 minutes this week to install and run a local AI model (e.g., a small Whisper variant for transcription or a quantized LLM like Llama.cpp) on your machine. Explore its capabilities and limitations.",
-    "Action 2: Identify one repetitive daily task that takes less than 5 minutes (e.g., opening a specific set of applications, checking a specific website, running a simple clean-up script). Automate it using a simple shell script, Python script, or a built-in OS automation tool.",
-    "Action 3: Review your current development workflow and identify if you're consistently using a linter or code formatter (e.g., Prettier, Black, ESLint). If not, integrate one into your IDE or as a pre-commit hook today, ensuring all new code adheres to its standards.",
-    "Action 4: For the next three days, consciously log how you use AI tools (ChatGPT, GitHub Copilot, etc.) and, more importantly, *why* you used them. Reflect on whether it genuinely accelerated learning or merely bypassed critical problem-solving steps. Keep a short note daily."
+    "Action 1: Identify one repetitive digital task you perform weekly (e.g., filling out a timesheet, aggregating specific reports) and dedicate an hour to research if it can be automated with a simple Python script or an existing low-code automation tool.",
+    "Action 2: For any LLM-generated code you use this week, spend an extra 5 minutes critically reviewing its edge cases, error handling, and security implications, instead of just syntax-checking and directly pasting.",
+    "Action 3: Experiment with a local-first AI tool (e.g., using Ollama for a local LLM, or Whisper for on-device audio transcription) on a small personal project to understand its capabilities, limitations, and privacy benefits.",
+    "Action 4: Dedicate 15-30 minutes twice this week to reading a trending arXiv AI/ML paper summary or a thought-provoking Hacker News article on agentic systems or MLOps, to stay abreast of fundamental advancements and foster critical thinking."
   ]
 }
