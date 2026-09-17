@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-16 10:25:45",
+  "last_updated": "2026-09-17 10:35:23",
   "scraped_sources": {
     "github": [
       {
@@ -19,11 +19,19 @@
         "category": "AI / ML"
       },
       {
-        "name": "WhisperDeck",
-        "owner": "FjgarciaMac",
-        "description": "On-device audio transcription toolkit - trim, tag, transcribe and export recordings locally, with a Python engine and an Android demo app.",
-        "stars": 18,
-        "url": "https://github.com/FjgarciaMac/WhisperDeck",
+        "name": "awesome-typesafe",
+        "owner": "AbdelStark",
+        "description": "A curated list of official resources and community projects for TypeSafe, System One models, and Jev.",
+        "stars": 15,
+        "url": "https://github.com/AbdelStark/awesome-typesafe",
+        "category": "AI / ML"
+      },
+      {
+        "name": "group-meeting-materials",
+        "owner": "AI4Science-WestlakeU",
+        "description": "Group meeting materials for Tailin Wu's lab",
+        "stars": 9,
+        "url": "https://github.com/AI4Science-WestlakeU/group-meeting-materials",
         "category": "AI / ML"
       },
       {
@@ -35,18 +43,18 @@
         "category": "AI / ML"
       },
       {
-        "name": "AIChessathon",
-        "owner": "TahaKhanM",
-        "description": "Miskeen: 2nd of 334 teams in AI Chessathon Final Qualification. Python/Numba chess search, integer neural inference, training and reproducible systems benchmarks.",
-        "stars": 5,
-        "url": "https://github.com/TahaKhanM/AIChessathon",
-        "category": "AI / ML"
+        "name": "typesafe-computer-use",
+        "owner": "awlevin",
+        "description": "Computer use for about $0.0002 a step: OCR the screen, classify the next action with TypeSafe, click. macOS.",
+        "stars": 123,
+        "url": "https://github.com/awlevin/typesafe-computer-use",
+        "category": "Automation / Productivity"
       },
       {
         "name": "WorkBuddy-Daily",
         "owner": "L0NE-6",
         "description": "🌱 WorkBuddy 成长中心全能签到脚本 · Token永续 · 18项任务 · 8项玩法 · 自动领奖 · 青龙友好",
-        "stars": 51,
+        "stars": 61,
         "url": "https://github.com/L0NE-6/WorkBuddy-Daily",
         "category": "Automation / Productivity"
       },
@@ -54,191 +62,177 @@
         "name": "WebGPT",
         "owner": "Nhahan",
         "description": "A Codex skill that delegates work to ChatGPT on the web.",
-        "stars": 24,
+        "stars": 28,
         "url": "https://github.com/Nhahan/WebGPT",
         "category": "Automation / Productivity"
       },
       {
-        "name": "Awesome-billing-automation",
-        "owner": "elenahao66",
-        "description": "A curated list of awesome automated billing systems, invoicing tools, and payment workflow hacks for freelancers, developers, and SaaS creators.",
-        "stars": 21,
-        "url": "https://github.com/elenahao66/Awesome-billing-automation",
+        "name": "nucleus-patch-utility-2026",
+        "owner": "sam-plab03c2",
+        "description": "A Python-based utility for managing and testing Roblox client patches. Developed for QA engineers and developers to streamline patch validation workflows. It includes a feature for automated script execution and error logging.",
+        "stars": 19,
+        "url": "https://github.com/sam-plab03c2/nucleus-patch-utility-2026",
         "category": "Automation / Productivity"
       },
       {
-        "name": "agentrouter-auto-signin",
-        "owner": "88lin",
-        "description": "自动领取 AgentRouter 每日签到额度，支持多账号、余额自动换算。纯 Python 本地静默运行，Win / macOS / Linux 定时任务，错过后自动补签，一句话交给 AI 自动配好。",
-        "stars": 21,
-        "url": "https://github.com/88lin/agentrouter-auto-signin",
-        "category": "Automation / Productivity"
-      },
-      {
-        "name": "seo-content-automatisierung",
-        "owner": "forestecho66",
-        "description": "Ein automatisiertes Toolkit zur Optimierung von Online-Marketing-Workflows, SEO-Prozessen und digitaler Produktvermarktung. Spart Zeit und maximiert die Conversion.",
-        "stars": 20,
-        "url": "https://github.com/forestecho66/seo-content-automatisierung",
+        "name": "awesome-ai-productivity-suite",
+        "owner": "designproart",
+        "description": "💻 Essential AI tools, scripts, and automation workflows for modern software engineers. Stop context switching and focus on deep work.",
+        "stars": 12,
+        "url": "https://github.com/designproart/awesome-ai-productivity-suite",
         "category": "Automation / Productivity"
       }
     ],
     "hacker_news": [
       {
-        "title": "Introducing System One Models and Jev",
-        "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
-        "score": 1415
+        "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+        "url": "https://rohanbansal.com/qorl",
+        "score": 558
       },
       {
-        "title": "Learning Programming in an Age of LLMs",
-        "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/",
-        "score": 24
+        "title": "OpenAI Model Misalignment Report",
+        "url": "https://openai.com/index/model-misalignment-reporting-framework/",
+        "score": 25
       },
       {
-        "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
-        "url": "https://mistral.ai/news/mistral-x-mozilla/",
-        "score": 35
-      },
-      {
-        "title": "Why I'm still bearish on LLMs after Navier-Stokes",
-        "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
-        "score": 233
+        "title": "Xiaomi Mimo 2.6 live post-training dashboard",
+        "url": "https://mimo.xiaomi.com/rl/",
+        "score": 439
       }
     ],
     "arxiv": [
       {
-        "title": "Agentic Societies Need a Social Harness",
-        "summary": "An agentic society is a collection of AI agents that coordinate autonomously across trust boundaries, on behalf of different principals whose objectives may only partially align. We show experimentall...",
-        "url": "http://arxiv.org/abs/2609.17527v1"
+        "title": "Objective vs. Search: Decomposing What Makes a Good Tokeniser",
+        "summary": "Two dominant tokenisation algorithms are used by modern language models: byte-pair encoding (BPE) and UnigramLM. These differ along two orthogonal axes: their optimisation objective (compression vs. l...",
+        "url": "http://arxiv.org/abs/2609.19145v1"
       },
       {
-        "title": "ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents",
-        "summary": "We introduce and release ScienceBuddy, an interactive scientific research workspace that brings continually improving scientific agents into researchers' everyday workflows. ScienceBuddy supports rese...",
-        "url": "http://arxiv.org/abs/2609.17523v1"
+        "title": "A Zeroth-Order Paradigm for LLM Preference Alignment",
+        "summary": "Direct preference alignment methods are widely used to align large language models (LLMs) with human preferences because of their computational and memory efficiency. However, likelihood displacement ...",
+        "url": "http://arxiv.org/abs/2609.19144v1"
       },
       {
-        "title": "PhysStream: Streaming Physics-Grounded Video Generation with Structured Scene Memory and Fine-Grained Motion Control",
-        "summary": "Interactive control for video generation is moving from coarse prompts toward fine-grained, physically meaningful manipulation of dynamic scenes. Yet existing controllable methods either require the f...",
-        "url": "http://arxiv.org/abs/2609.17521v1"
+        "title": "PANORAMA: Panoptic Grounded Captioning via Mask Proposal Selection",
+        "summary": "Intelligent systems that act in the world require image understanding that is both comprehensive and spatially grounded. Current vision-language models (VLMs) can generate fluent and detailed image ca...",
+        "url": "http://arxiv.org/abs/2609.19143v1"
       },
       {
-        "title": "When Should LLMs Abstain? Chain-of-Self-Questioning for Selective Risk Control",
-        "summary": "Large language models can produce fluent answers when their factual support is weak. This paper introduces Chain-of-Self-Questioning (CoSQ), a prompt-only framework that makes answer commitment condit...",
-        "url": "http://arxiv.org/abs/2609.17516v1"
+        "title": "Dreaming the Sound of Contact: Leveraging Video and Audio Generation for Zero-Shot Force-Aware Manipulation and Data Generation",
+        "summary": "Recent advances in video generation allow robots to learn manipulation trajectories from generated videos. However, these approaches produce purely kinematic trajectories that lack force information, ...",
+        "url": "http://arxiv.org/abs/2609.19137v1"
       },
       {
-        "title": "What Breaks Under Pruning in Smart Homes, and When? Evaluating LLM Degradation Across Architectures and Task Complexity",
-        "summary": "Pruning can reduce the deployment cost of large language models (LLMs), but its impact on context-grounded tool calling remains poorly understood. We systematically study pruning-induced degradation i...",
-        "url": "http://arxiv.org/abs/2609.17515v1"
+        "title": "Exponential Hardness of Off-Policy Evaluation under History-Dependent Logging",
+        "summary": "Can a logged dataset visit every hidden state frequently and still be exponentially uninformative about a target policy's value? We show that it can when the logger depends on history. For every horiz...",
+        "url": "http://arxiv.org/abs/2609.19135v1"
       }
     ],
     "devto": [
       {
-        "title": "The Slow and Quiet Cognitive Atrophy of a Modern Software Engineer",
-        "description": "Over the past couple of months, I've read a lot of articles about the consequences of AI dependency...",
-        "url": "https://dev.to/codingwithjiro/the-slow-and-quiet-cognitive-atrophy-of-a-modern-software-engineer-3lbh",
-        "reactions": 40
-      },
-      {
         "title": "AI Avatar v20, Cursor Avatar, Notification Avatar (Voxel Avatar)🧊",
         "description": "Intro   AI Avatar is a free app where your VRoid (VRM) avatar cheers you with all its...",
         "url": "https://dev.to/webdeveloperhyper/ai-avatar-v20-cursor-avatar-notification-avatar-voxel-avatar-4dd2",
-        "reactions": 59
+        "reactions": 64
+      },
+      {
+        "title": "The Slow and Quiet Cognitive Atrophy of a Modern Software Engineer",
+        "description": "Over the past couple of months, I've read a lot of articles about the consequences of AI dependency...",
+        "url": "https://dev.to/codingwithjiro/the-slow-and-quiet-cognitive-atrophy-of-a-modern-software-engineer-3lbh",
+        "reactions": 62
+      },
+      {
+        "title": "🧩 Don't make Tech your entire personality.",
+        "description": "This is one of those articles that I wanted to write for many days, but I kept delaying it until, a...",
+        "url": "https://dev.to/tanay_dwivedi9098/dont-make-tech-your-entire-personality-45dc",
+        "reactions": 19
+      },
+      {
+        "title": "Why AI Keeps Making the Same Coding Mistakes—And How Teaching It Pain Gives It Wisdom",
+        "description": "Frontier LLMs excel at textbook code but fail in production. Here is how Synthetic Scars and biological pain give autonomous coding agents real wisdom.",
+        "url": "https://dev.to/gde/why-ai-keeps-making-the-same-coding-mistakes-and-how-teaching-it-pain-gives-it-wisdom-4a9m",
+        "reactions": 20
       },
       {
         "title": "Admit it, you have a favorite AI (just like you have a favorite coworker)",
         "description": "A short rant on the Claude, Gemini, and Microsoft Copilot experience",
         "url": "https://dev.to/missamarakay/admit-it-you-have-a-favorite-ai-just-like-you-have-a-favorite-coworker-1fa0",
         "reactions": 22
-      },
-      {
-        "title": "Why AI Keeps Making the Same Coding Mistakes—And How Teaching It Pain Gives It Wisdom",
-        "description": "Frontier LLMs excel at textbook code but fail in production. Here is how Synthetic Scars and biological pain give autonomous coding agents real wisdom.",
-        "url": "https://dev.to/gde/why-ai-keeps-making-the-same-coding-mistakes-and-how-teaching-it-pain-gives-it-wisdom-4a9m",
-        "reactions": 16
-      },
-      {
-        "title": "I Built a Mac Menu Bar App Because I Kept Saying \"Wait, What?\" in Every Meeting (Live Demo 🚀)",
-        "description": "Someone on a Zoom call said a URL yesterday. I was still writing down the previous bullet point. By...",
-        "url": "https://dev.to/varshithvhegde/i-built-a-mac-menu-bar-app-because-i-kept-saying-wait-what-in-every-meeting-live-demo--3gkj",
-        "reactions": 26
       }
     ]
   },
-  "trends": "The current tech landscape is rapidly advancing in **agentic AI systems**, emphasizing **autonomy, self-improvement, and intelligent task delegation** across research, development, and personal productivity. This is coupled with a strong focus on **MLOps, reproducibility, and robust experiment tracking** to manage complexity and ensure reliability. There's a growing push for **edge AI and privacy-preserving local processing**, alongside critical discussions around **LLM limitations, ensuring \"grounding\" and reliability**, and addressing the **impact of AI on human cognitive skills** and the need for better human-AI interaction patterns, particularly in coding. The pervasive theme is leveraging AI for automation while carefully considering its governance, reliability, and human integration.",
+  "trends": "Today's tech landscape is significantly shaped by the rapid evolution of Agentic AI, moving towards autonomous systems that can interpret, plan, and execute multi-step tasks across diverse interfaces, from code editing to low-level UI automation via vision (OCR, clicks). This is closely coupled with a strong emphasis on MLOps, Reproducibility, and Governance, ensuring that increasingly complex ML experiments are manageable, verifiable, and align with desired outcomes. Developers are actively seeking AI-powered productivity tools to reduce context switching and optimize workflows, while ML itself is being applied to fundamentally improve core infrastructure. Concurrently, there's a growing critical discourse around responsible AI development and mitigating potential cognitive over-reliance.",
   "ideas": [
     {
-      "title": "AI-Powered \"Micro-Agent\" Dispatcher for Daily Digital Chores",
-      "difficulty": "Medium",
-      "estimated_hours": 30,
-      "description": "Develop a personal, local-first system where users can define simple, recurring digital tasks using natural language (e.g., 'Summarize unread emails from Project X and add key action items to my Notion task list every morning at 9 AM' or 'Check GitHub for new issues in my watched repos and send a digest to Slack at 5 PM'). The system would leverage an LLM to interpret these instructions and orchestrate 'micro-agents' that perform web scraping, API calls, and text processing. Crucially, it will incorporate user-defined 'governance rules' to ensure actions stay within safe boundaries (e.g., 'only read from these URLs,' 'require approval before sending emails'), addressing the need for controlled agent autonomy.",
-      "tech_stack": [
-        "Python (LangChain/CrewAI for agents)",
-        "Playwright/BeautifulSoup (for web interaction)",
-        "FastAPI/Flask (for local API/web UI)",
-        "SQLite (for task storage)",
-        "Docker (for easy deployment)",
-        "LLM API (e.g., OpenAI, Anthropic, or local via Ollama)"
-      ],
-      "source_inspiration": "STEER, WebGPT, WorkBuddy-Daily, agentrouter-auto-signin, Agentic Societies Need a Social Harness, ScienceBuddy",
-      "steps": [
-        "Task 1: Set up a basic Python web server (FastAPI) to handle API requests for task definition and status.",
-        "Task 2: Design and implement a simple web UI or CLI for users to define tasks in natural language and view execution logs.",
-        "Task 3: Integrate an LLM to parse natural language task descriptions into structured, executable agent instructions.",
-        "Task 4: Develop a 'Task Executor' module capable of common actions like web scraping, making API calls to popular services (e.g., Notion, Slack), and email interactions.",
-        "Task 5: Implement a 'governance layer' where users can specify constraints, approval steps, and allowed domains for agent actions.",
-        "Task 6: Add a scheduler (e.g., APScheduler) to manage the recurring execution of defined tasks."
-      ]
-    },
-    {
-      "title": "Local ML Experiment Twin: Reproducibility & Privacy Toolkit",
+      "title": "AI-Powered Desktop Copilot for Context-Aware Dev Automation",
       "difficulty": "Medium",
       "estimated_hours": 40,
-      "description": "Build a cross-platform desktop application or IDE extension that monitors an ML project directory to automatically log and package all necessary metadata for experiment reproducibility, without uploading sensitive data. This tool would track code changes (git diffs), environment snapshots (conda/pip freeze), data file hashes (not content), and parsed MLflow/TensorBoard logs. It allows a developer to create a 'reproducibility manifest' – a self-contained, shareable (and optionally encrypted) package containing all metadata required to re-create the exact experiment environment and run, strongly emphasizing local control and privacy.",
+      "description": "Build a local agent that observes a developer's desktop screen (using OCR and image recognition) to identify repetitive tasks within common developer tools (e.g., IDEs, web browsers, terminal). Leveraging an LLM for semantic understanding, the agent can learn patterns from demonstrated actions and suggest or automatically perform sequences like filling out boilerplate code, cross-referencing documentation, or updating project management tickets based on context. This aims to reduce cognitive load and minimize context switching, allowing the developer to focus on deep work.",
       "tech_stack": [
-        "Python (PyQt/Streamlit for GUI, watchdog, gitpython, hashlib)",
-        "MLflow Client (for log parsing)",
-        "Docker/Conda (for environment snapshotting)",
-        "SQLite (for internal metadata storage)",
-        "Git"
+        "Python",
+        "OCR libraries (e.g., Tesseract, EasyOCR)",
+        "LLMs (e.g., OpenAI API, Llama.cpp for local models)",
+        "Desktop automation libraries (e.g., PyAutoGUI, Appium Desktop)",
+        "Screen recording/capture"
       ],
-      "source_inspiration": "repro-lens, ms-fabric-data-science, WhisperDeck, Mistral X Mozilla, PhysStream",
+      "source_inspiration": "typesafe-computer-use, WebGPT, awesome-ai-productivity-suite, 'Why AI Keeps Making the Same Coding Mistakes'",
       "steps": [
-        "Task 1: Design and implement a user interface (e.g., PyQt) for project selection, monitoring control (start/stop), and snapshot creation.",
-        "Task 2: Develop a file system watcher (`watchdog`) to detect and log changes within the specified ML project directory.",
-        "Task 3: Integrate with Git (`gitpython`) to capture code versioning, commit hashes, and diffs related to each experiment run.",
-        "Task 4: Implement functionality to snapshot the project's dependency environment (e.g., `pip freeze`, `conda env export`).",
-        "Task 5: Add data hashing capabilities (e.g., SHA256) for data directories, tracking data versions without storing the actual data content.",
-        "Task 6: Develop parsers to extract relevant metrics and parameters from common ML logging frameworks like MLflow or TensorBoard.",
-        "Task 7: Create a 'snapshot' function that bundles all collected metadata (code diffs, environment, data hashes, logs manifest) into a single, portable, and optionally encrypted archive with a comprehensive manifest file."
+        "Set up screen capture and OCR capabilities to extract text and identify UI elements from the active application window.",
+        "Develop a basic UI for the agent to display observations and potential actions, and to accept user demonstrations.",
+        "Implement a logging mechanism to record user actions (mouse clicks, keyboard inputs) and the screen context (OCR output) during 'demonstration mode'.",
+        "Utilize an LLM to analyze logged actions and context, identify patterns, and generate potential automation scripts or suggestions for future similar scenarios.",
+        "Integrate a desktop automation library to execute generated scripts or user-approved actions, with safeguards like confirmation prompts.",
+        "(Stretch) Implement a feedback loop where the user can correct the agent's actions, and the LLM learns from these 'synthetic scars' to improve future suggestions."
       ]
     },
     {
-      "title": "Proactive AI Code Mentor with \"Synthetic Scars\"",
-      "difficulty": "Medium",
-      "estimated_hours": 35,
-      "description": "Build an IDE extension (e.g., for VS Code) that acts as an intelligent coding assistant, going beyond mere code generation. When a developer writes or pastes code (especially LLM-generated snippets or common problematic patterns), the co-pilot proactively surfaces \"synthetic scars\" – real-world examples of how similar code has failed, typical LLM-generated errors, or common pitfalls. It will provide interactive explanations, suggest robust alternatives, or offer improved prompting strategies, aiming to teach developers best practices and critical thinking rather than just providing answers, addressing concerns about cognitive atrophy and LLM reliability.",
+      "title": "Self-Correcting ML Experimentation Assistant with Reproducibility Guardrails",
+      "difficulty": "Hard",
+      "estimated_hours": 80,
+      "description": "Develop an agentic tool that helps ML developers ensure reproducibility and learn from past experiment failures. This assistant automatically captures and versions experiment metadata (code, environment, hyperparameters, data pointers) using MLOps tools. When an experiment yields unexpected or non-reproducible results, the agent utilizes an LLM to analyze the differences in code/data/environment and past error logs. It then suggests specific corrective actions or even attempts to generate code patches to improve the experiment setup, acting as an 'auto-research' assistant that learns from 'synthetic scars' to build more robust ML pipelines.",
       "tech_stack": [
-        "TypeScript/JavaScript (for VS Code extension API)",
-        "Python (for backend LLM interaction and scar database management, if complex)",
-        "SQLite/local storage (for 'scar' database)",
-        "LLM API (e.g., OpenAI, Mistral, Cohere)"
+        "Python",
+        "Git (for code versioning)",
+        "DVC (Data Version Control) or MLflow (for experiment/data tracking)",
+        "Docker/Conda (for environment reproducibility)",
+        "LLMs (e.g., GPT-4 Code Interpreter, local code LLMs)",
+        "Unit testing frameworks"
       ],
-      "source_inspiration": "Why AI Keeps Making the Same Coding Mistakes—And How Teaching It Pain Gives It Wisdom, The Slow and Quiet Cognitive Atrophy of a Modern Software Engineer, Learning Programming in an Age of LLMs, I Built a Mac Menu Bar App Because I Kept Saying 'Wait, What?' in Every Meeting",
+      "source_inspiration": "steer, repro-lens, ms-fabric-data-science, 'Why AI Keeps Making the Same Coding Mistakes'",
       "steps": [
-        "Task 1: Develop the basic framework for a VS Code extension, including context-aware code analysis hooks.",
-        "Task 2: Implement code analysis features to detect common coding patterns, including those prone to LLM errors or typical beginner mistakes.",
-        "Task 3: Create a local database of \"synthetic scars.\" Each 'scar' should include a problematic code pattern, a description of the failure/pitfall, and a robust solution or improved prompting strategy. Populate with initial curated examples.",
-        "Task 4: Integrate an LLM (either directly or via a local Python server) to analyze the user's current code snippets and cross-reference them with the 'scar' database.",
-        "Task 5: Implement UI elements within the IDE to display contextual warnings, detailed explanations, and suggested fixes or better prompting techniques when a 'scar' is identified.",
-        "Task 6: Add a feedback mechanism, allowing developers to contribute new 'scars' or validate the effectiveness of the mentor's suggestions, fostering community learning."
+        "Integrate with Git to track code changes and with DVC/MLflow to log experiment parameters, metrics, and data dependencies.",
+        "Implement environment capture using `pip freeze` or Dockerfile generation for each experiment run.",
+        "Develop a system to define 'failure conditions' (e.g., low metrics, exceptions, non-reproducible runs between identical setups).",
+        "When a failure is detected, prompt an LLM with relevant context (code diffs, environment differences, logs, DVC/MLflow run comparisons) to identify potential root causes.",
+        "Instruct the LLM to generate potential fixes or suggestions (e.g., code snippets, config changes, environment adjustments) to address the identified issues.",
+        "Implement a mechanism for the user to review and apply these suggestions, feeding successful outcomes back into the agent's learning model (e.g., via fine-tuning or prompt engineering reinforcement)."
+      ]
+    },
+    {
+      "title": "Personalized AI Productivity Assistant for Web Workflows",
+      "difficulty": "Medium",
+      "estimated_hours": 50,
+      "description": "Create a browser extension that uses an LLM to understand and automate a developer's repetitive web-based tasks. Instead of simple macros, the assistant observes common sequences (e.g., navigating to a specific Jira ticket, copying details, then creating a branch name in GitHub based on those details). By leveraging LLM's semantic understanding, it can adapt to minor UI changes on websites and offer intelligent automation suggestions. The user can 'teach' the assistant by demonstrating a workflow once, and the AI will then suggest automating it or execute it on command. This aims to minimize tedious web interactions and free up developer time.",
+      "tech_stack": [
+        "JavaScript (for browser extension, e.g., Manifest V3)",
+        "Python/Node.js (for optional backend LLM integration)",
+        "Puppeteer/Playwright (for advanced web automation if not purely browser-based)",
+        "LLMs (e.g., OpenAI API, Gemini API, or local LLMs)"
+      ],
+      "source_inspiration": "typesafe-computer-use, WebGPT, awesome-ai-productivity-suite",
+      "steps": [
+        "Develop a Chrome/Firefox browser extension that can observe DOM changes, user clicks, and input events.",
+        "Implement a 'record' mode where the extension logs user actions and the relevant HTML context (e.g., element selectors, text content).",
+        "Create an LLM-powered backend (or use a direct API call) that analyzes the recorded sequences to identify common patterns and generalize the workflow.",
+        "Design a user interface within the extension for users to review identified workflows, name them, and trigger their automation.",
+        "Implement a 'replay' mode where the extension uses the LLM's understanding and browser automation APIs to execute the identified workflow.",
+        "Include features for user feedback and correction, allowing the LLM to refine its understanding and automation capabilities over time."
       ]
     }
   ],
   "quick_actions": [
-    "Action 1: Identify one repetitive digital task you perform weekly (e.g., filling out a timesheet, aggregating specific reports) and dedicate an hour to research if it can be automated with a simple Python script or an existing low-code automation tool.",
-    "Action 2: For any LLM-generated code you use this week, spend an extra 5 minutes critically reviewing its edge cases, error handling, and security implications, instead of just syntax-checking and directly pasting.",
-    "Action 3: Experiment with a local-first AI tool (e.g., using Ollama for a local LLM, or Whisper for on-device audio transcription) on a small personal project to understand its capabilities, limitations, and privacy benefits.",
-    "Action 4: Dedicate 15-30 minutes twice this week to reading a trending arXiv AI/ML paper summary or a thought-provoking Hacker News article on agentic systems or MLOps, to stay abreast of fundamental advancements and foster critical thinking."
+    "Hands-on with vision-based automation: Pick a simple, repetitive desktop task (e.g., copying a specific value from an image and pasting it into a text file) and try to automate it using Python with an OCR library (like Tesseract) and PyAutoGUI.",
+    "Start versioning ML experiments: For your next machine learning side project, integrate an MLOps tool like MLflow or DVC. Log all hyperparameters, metrics, and ensure your data dependencies are explicitly tracked, even for small experiments.",
+    "Dedicated 'no-AI' coding sessions: Allocate 30-60 minutes daily to tackle a coding challenge or debug a problem without using AI assistants (like Copilot or ChatGPT). This helps maintain core problem-solving skills and prevents cognitive atrophy.",
+    "Practice structured prompt engineering: When interacting with LLMs for coding tasks, consciously practice crafting prompts that demand specific, structured outputs (e.g., 'Provide the Python code in a JSON object with keys 'code' and 'dependencies'', 'List the steps as a numbered list'). This improves your ability to integrate LLMs into automated workflows."
   ]
 }
