@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-09-18 10:11:10",
+  "last_updated": "2026-09-19 09:52:31",
   "scraped_sources": {
     "github": [
       {
         "name": "awesome-typesafe",
         "owner": "AbdelStark",
         "description": "A curated list of official resources and community projects for TypeSafe, System One models, and Jev.",
-        "stars": 139,
+        "stars": 276,
         "url": "https://github.com/AbdelStark/awesome-typesafe",
         "category": "AI / ML"
       },
       {
-        "name": "ms-fabric-data-science",
-        "owner": "DataFabric-Academy",
-        "description": "Hands-on Microsoft Fabric Data Science labs (FreshMart churn) with Thai study notes, PySpark/MLflow, and DP-604-aligned learning path.",
-        "stars": 96,
-        "url": "https://github.com/DataFabric-Academy/ms-fabric-data-science",
+        "name": "jev-capability-atlas",
+        "owner": "Zaious",
+        "description": "Independent, evidence-based map of when TypeSafe's Jev actually holds up vs. breaks down — real API-call receipts, not a leaderboard. 中文為主的雙語 repo。",
+        "stars": 11,
+        "url": "https://github.com/Zaious/jev-capability-atlas",
         "category": "AI / ML"
       },
       {
@@ -27,18 +27,18 @@
         "category": "AI / ML"
       },
       {
-        "name": "repro-lens",
-        "owner": "00200200",
-        "description": "Static reproducibility checks, experiment replay and before/after evidence for ML code and coding agents — no ML dependencies for scans.",
-        "stars": 9,
-        "url": "https://github.com/00200200/repro-lens",
+        "name": "moonfrost-ai",
+        "owner": "whoashish115",
+        "description": "A 777M-parameter Mixture-of-Experts language model trained from scratch for $55. Multi-head Latent Attention, DeepSeekMoE, own tokenizer.",
+        "stars": 10,
+        "url": "https://github.com/whoashish115/moonfrost-ai",
         "category": "AI / ML"
       },
       {
         "name": "ai-apis-you-can-ship-today",
         "owner": "cporter202",
         "description": "This GitHub repo is a powerhouse collection of AI APIs you can start using immediately to ship real products — from LLM tools to computer vision and agents. One of the most valuable AI API lists on GitHub.",
-        "stars": 8,
+        "stars": 10,
         "url": "https://github.com/cporter202/ai-apis-you-can-ship-today",
         "category": "AI / ML"
       },
@@ -46,63 +46,53 @@
         "name": "typesafe-computer-use",
         "owner": "awlevin",
         "description": "Computer use for about $0.0002 a step: OCR the screen, classify the next action with TypeSafe, click. macOS.",
-        "stars": 182,
+        "stars": 375,
         "url": "https://github.com/awlevin/typesafe-computer-use",
         "category": "Automation / Productivity"
       },
       {
-        "name": "WorkBuddy-Daily",
-        "owner": "L0NE-6",
-        "description": "🌱 WorkBuddy 成长中心全能签到脚本 · Token永续 · 18项任务 · 8项玩法 · 自动领奖 · 青龙友好",
-        "stars": 69,
-        "url": "https://github.com/L0NE-6/WorkBuddy-Daily",
-        "category": "Automation / Productivity"
-      },
-      {
-        "name": "WebGPT",
-        "owner": "Nhahan",
-        "description": "A Codex skill that delegates work to ChatGPT on the web.",
-        "stars": 32,
-        "url": "https://github.com/Nhahan/WebGPT",
-        "category": "Automation / Productivity"
-      },
-      {
-        "name": "nucleus-patch-utility-2026",
-        "owner": "sam-plab03c2",
-        "description": "A Python-based utility for managing and testing Roblox client patches. Developed for QA engineers and developers to streamline patch validation workflows. It includes a feature for automated script execution and error logging.",
-        "stars": 19,
-        "url": "https://github.com/sam-plab03c2/nucleus-patch-utility-2026",
+        "name": "pojia-next",
+        "owner": "z91772524-ai",
+        "description": "一个脚本搞定 DSH / WorkBuddy / ZCode / Codex / Cursor / Claude 六客户端的提示词与人格替换：零依赖、双击即用、可自证、改前备份、一键还原。附 bandit/semgrep 扫描与 SHA256 校验。",
+        "stars": 16,
+        "url": "https://github.com/z91772524-ai/pojia-next",
         "category": "Automation / Productivity"
       },
       {
         "name": "awesome-ai-productivity-suite",
         "owner": "designproart",
         "description": "💻 Essential AI tools, scripts, and automation workflows for modern software engineers. Stop context switching and focus on deep work.",
-        "stars": 14,
+        "stars": 15,
         "url": "https://github.com/designproart/awesome-ai-productivity-suite",
+        "category": "Automation / Productivity"
+      },
+      {
+        "name": "Awesome-ki-audio-automation-de",
+        "owner": "fitnessgymlife",
+        "description": "Schritt-für-Schritt Anleitung: Vollautomatische KI-Hörbücher & Podcasts erstellen ohne eigene Stimme. Inklusive Monetarisierungs-Pipeline für Spotify & Audible.",
+        "stars": 13,
+        "url": "https://github.com/fitnessgymlife/Awesome-ki-audio-automation-de",
+        "category": "Automation / Productivity"
+      },
+      {
+        "name": "digital-asset-growth-engine",
+        "owner": "chefkitchenjoy",
+        "description": "🚀 A high-performance growth hacking and traffic monetization toolkit. Automate lead capture, optimize conversion funnels, and scale digital asset revenue seamlessly.",
+        "stars": 12,
+        "url": "https://github.com/chefkitchenjoy/digital-asset-growth-engine",
         "category": "Automation / Productivity"
       }
     ],
     "hacker_news": [
       {
-        "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
-        "url": "https://prismml.com/news/bonsai-2-27b",
-        "score": 454
-      },
-      {
-        "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
-        "url": "https://bend-lang.com/",
-        "score": 471
-      },
-      {
-        "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
-        "url": "https://www.hacktron.ai/blog/hacking-openai",
-        "score": 358
+        "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
+        "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+        "score": 213
       },
       {
         "title": "How to Write with an LLM",
         "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
-        "score": 172
+        "score": 489
       }
     ],
     "arxiv": [
@@ -137,13 +127,13 @@
         "title": "AI Avatar v20, Cursor Avatar, Notification Avatar (Voxel Avatar)🧊",
         "description": "Intro   AI Avatar is a free app where your VRoid (VRM) avatar cheers you with all its...",
         "url": "https://dev.to/webdeveloperhyper/ai-avatar-v20-cursor-avatar-notification-avatar-voxel-avatar-4dd2",
-        "reactions": 69
+        "reactions": 71
       },
       {
         "title": "The Slow and Quiet Cognitive Atrophy of a Modern Software Engineer",
         "description": "Over the past couple of months, I've read a lot of articles about the consequences of AI dependency...",
         "url": "https://dev.to/codingwithjiro/the-slow-and-quiet-cognitive-atrophy-of-a-modern-software-engineer-3lbh",
-        "reactions": 64
+        "reactions": 69
       },
       {
         "title": "Progressive Disclosure: What, Where, When, and Why",
@@ -158,93 +148,89 @@
         "reactions": 20
       },
       {
-        "title": "Why AI Keeps Making the Same Coding Mistakes—And How Teaching It Pain Gives It Wisdom",
-        "description": "Frontier LLMs excel at textbook code but fail in production. Here is how Synthetic Scars and biological pain give autonomous coding agents real wisdom.",
-        "url": "https://dev.to/gde/why-ai-keeps-making-the-same-coding-mistakes-and-how-teaching-it-pain-gives-it-wisdom-4a9m",
-        "reactions": 20
+        "title": "Building PoCs with Codex and GitHub Copilot while they try to adjust my PoC requirements along the way",
+        "description": "But Amara, you didn't include MY favorite AI!",
+        "url": "https://dev.to/missamarakay/building-pocs-with-codex-and-github-copilot-while-they-try-to-adjust-my-poc-requirements-along-the-1fc9",
+        "reactions": 18
       }
     ]
   },
-  "trends": "Today's tech trends are heavily focused on the practical application and deployment of AI, particularly through the development of **intelligent agents** capable of automating complex digital and physical tasks. There's a strong emphasis on leveraging AI to enhance **personal and professional productivity**, streamlining workflows, minimizing context switching, and enabling 'deep work.' Concurrently, significant attention is being paid to ensuring the **robustness, reproducibility, and safety** of AI systems, addressing concerns around model reliability, efficient error handling, and the potential for 'AI mistakes.' The drive for **efficiency and compression** in ML models (e.g., Bonsai 2 27B) and the expansion of AI into **robotics and real-world physical interactions** (e.g., Coding Agents for Robot Manipulation, Workspace Models) indicate a move towards more tangible and less abstract AI applications. Finally, a critical awareness of **cognitive impact** and the need for thoughtful human integration with AI tools (e.g., avoiding cognitive atrophy, teaching AI 'pain') underscores a maturing approach to AI adoption.",
+  "trends": "Today's tech landscape is defined by the rapid evolution of agentic AI systems, moving towards autonomous, goal-oriented operation in both digital and physical realms, albeit with a crucial emphasis on reliability, verifiability, and safety. There's a strong drive towards practical application and seamless integration of AI APIs and models into existing workflows for immediate product development and business automation, often leveraging cost-effective, specialized models. Concurrently, developer productivity is a key focus, with AI tools designed to minimize context switching and streamline coding. However, this push is tempered by a growing awareness of the potential for cognitive atrophy due to over-reliance on AI, highlighting the importance of balanced human-AI collaboration and maintaining core human skills in problem-solving and critical thinking. Furthermore, advances in generative AI are moving towards fine-grained control and efficient memory mechanisms for complex tasks, especially in robotics and image generation.",
   "ideas": [
     {
-      "title": "Hyper-Contextual Desktop AI Co-Pilot with 'Action Ledger'",
+      "title": "Verifiable Desktop Automation Agent with Activity Logging",
+      "difficulty": "Medium",
+      "estimated_hours": 20,
+      "description": "Build a macOS desktop automation agent that uses a local OCR engine to perceive the screen, classifies the next action using a lightweight local LLM (e.g., leveraging the 'TypeSafe' concept for robust classification), and executes UI actions (clicks, typing). The key differentiator is a comprehensive activity log that records the agent's perception (OCR output), its decision (LLM classification), and the executed action. This allows for 'TypeSafe'-like auditing and debugging of AI agent behavior, addressing the need for understanding when models 'hold up vs. break down' (from `jev-capability-atlas`).",
+      "tech_stack": [
+        "Python",
+        "OCR library (pytesseract or macOS Vision API)",
+        "pynput",
+        "Local LLM (e.g., Llama.cpp for inference)",
+        "SQLite"
+      ],
+      "source_inspiration": "typesafe-computer-use, jev-capability-atlas, awesome-typesafe, Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation",
+      "steps": [
+        "Task 1: Set up a Python environment and install necessary libraries (OCR, UI automation, LLM inference).",
+        "Task 2: Implement screen capture and OCR functionality to extract text and bounding boxes from the current screen.",
+        "Task 3: Develop a prompt engineering strategy for a local LLM to classify the 'next best action' based on OCR output and a predefined set of available actions.",
+        "Task 4: Implement UI interaction (mouse clicks, keyboard input) based on the LLM's classified action.",
+        "Task 5: Design and implement a robust logging mechanism that records the raw screen OCR, the LLM's input prompt, the LLM's output/decision, and the executed UI action, along with timestamps.",
+        "Task 6: Create a simple UI or command-line interface to start/stop the agent and review the audit logs.",
+        "Task 7: Develop a few test automation scripts to demonstrate and test the agent's verifiability."
+      ]
+    },
+    {
+      "title": "Cross-Platform LLM Orchestrator with Dynamic Personas",
+      "difficulty": "Medium",
+      "estimated_hours": 15,
+      "description": "Create a desktop application or web service that centralizes prompt engineering and persona management for multiple AI assistants (e.g., OpenAI's GPT, Claude, local LLMs via API). Users can define reusable 'personas' and 'prompt templates' that can be instantly injected into conversations with different LLMs. It should track conversation history per persona/project, provide quick switching between models, and offer version control for prompts. This addresses the `pojia-next` problem of managing various clients and the `awesome-ai-productivity-suite` goal of reducing context switching.",
+      "tech_stack": [
+        "Python (Flask/FastAPI or Electron/Tauri)",
+        "React/Vue (for frontend if web/Electron)",
+        "SQLite",
+        "OpenAI API",
+        "Anthropic API",
+        "Local LLM wrappers"
+      ],
+      "source_inspiration": "pojia-next, awesome-ai-productivity-suite, How to Write with an LLM",
+      "steps": [
+        "Task 1: Design a data model for personas, prompt templates, and conversation history.",
+        "Task 2: Develop a backend API (or local data store for desktop app) for managing these entities.",
+        "Task 3: Implement API integrations with at least two major LLM providers (e.g., OpenAI, Anthropic) and a generic endpoint for a local LLM.",
+        "Task 4: Build a user interface allowing users to create, edit, select personas, define prompt templates, initiate conversations, and view history.",
+        "Task 5: Add features for quick switching between active LLM contexts and comparing responses from different models.",
+        "Task 6: Implement basic version control for prompt templates, allowing rollback or tracking changes."
+      ]
+    },
+    {
+      "title": "AI-Powered Niche Content Generator with Style & Color Control",
       "difficulty": "Medium",
       "estimated_hours": 25,
-      "description": "Inspired by 'typesafe-computer-use', 'WebGPT', and 'repro-lens', this project involves building a desktop co-pilot that uses OCR and computer vision to understand the active screen's context across multiple applications. Unlike simple automation, it integrates an LLM to interpret higher-level user commands (e.g., 'summarize this article and create a draft email to Alice'). Crucially, it maintains an 'Action Ledger' – a detailed, human-readable log of every step, input, and output performed by the agent, optionally with 'before' and 'after' screenshots for critical actions. This ledger serves as a reproducibility check and a debug tool, addressing the need for transparency and reliability in AI-driven automation.",
+      "description": "Develop a system that automates the creation of visual and audio content for a specific niche (e.g., short educational videos, themed podcasts, product review graphics). The system will leverage LLMs for script generation, text-to-speech for narration, and a generative image model (e.g., Stable Diffusion, DALL-E) with fine-grained control (like 'Paint-Anything' for color, or specific style parameters) for visual assets. The goal is to produce unique, branded content at scale, targeting the `Awesome-ki-audio-automation-de` and `Paint-Anything` trends while also addressing potential monetization avenues from `digital-asset-growth-engine`.",
       "tech_stack": [
         "Python",
-        "OpenCV",
-        "Pillow",
-        "OCR (Tesseract or cloud API)",
-        "PyAutoGUI (or similar UI automation library)",
-        "LLM API (OpenAI, Anthropic, or local OSS LLM)",
-        "SQLite (for Action Ledger storage)",
-        "Tkinter/PyQt (for simple GUI/control panel)"
+        "LLM APIs (OpenAI GPT, Claude)",
+        "Text-to-Speech API (e.g., Eleven Labs, Google TTS)",
+        "Image Generation API (e.g., Stable Diffusion API, DALL-E 3 API)",
+        "MoviePy (for video stitching)"
       ],
-      "source_inspiration": "typesafe-computer-use, WebGPT, repro-lens, awesome-ai-productivity-suite",
+      "source_inspiration": "Awesome-ki-audio-automation-de, Paint-Anything, digital-asset-growth-engine",
       "steps": [
-        "Set up a Python environment with necessary libraries for screen capture, OCR, and UI automation.",
-        "Implement a module to capture screenshots and perform OCR on selected regions or the entire active window.",
-        "Integrate with an LLM API to process OCR output and user commands, generating a sequence of atomic UI actions (e.g., click_coords, type_text, scroll_window).",
-        "Develop the 'Action Ledger' component to log each planned and executed UI action, including timestamps, descriptions, and optional before/after screenshots.",
-        "Create a listener for user voice commands or a simple GUI for text input to interact with the co-pilot.",
-        "Implement robust error handling and a 'pause/resume' functionality for user intervention.",
-        "Develop a UI for reviewing and searching the 'Action Ledger' for past automation sequences and their outcomes."
-      ]
-    },
-    {
-      "title": "ML Model Lineage and Environment Auditor",
-      "difficulty": "Medium",
-      "estimated_hours": 18,
-      "description": "Addressing the challenges of ML reproducibility ('repro-lens') and ensuring model correctness ('Why AI Keeps Making the Same Coding Mistakes'), this tool provides an automated way to audit and compare ML experiment runs. It will automatically capture a snapshot of the code, dependencies (pip freeze), data hashes, and environment variables for every training run. When comparing two models or runs, it generates a comprehensive diff report highlighting changes in any of these parameters. This helps identify the root causes of performance discrepancies, facilitates debugging, and ensures that models can be reliably reproduced or reverted to previous states. It builds upon ideas seen in 'ms-fabric-data-science' labs by making reproducibility central to the development workflow.",
-      "tech_stack": [
-        "Python",
-        "GitPython (or Git CLI integration)",
-        "Hasing libraries (for data integrity checks)",
-        "Virtual environments (venv/conda)",
-        "Click (for CLI interface)",
-        "SQLite (for metadata storage)",
-        "DVC (optional for data versioning integration)"
-      ],
-      "source_inspiration": "repro-lens, ms-fabric-data-science, Why AI Keeps Making the Same Coding Mistakes—And How Teaching It Pain Gives It Wisdom",
-      "steps": [
-        "Develop a Python library/CLI tool that can be integrated into ML project workflows (e.g., via a wrapper script or a context manager).",
-        "Implement functions to capture the current Git commit hash, `pip freeze` output, and a hash of the training data directory.",
-        "Create a metadata storage mechanism (e.g., SQLite database) to log these snapshots along with experiment parameters and metrics.",
-        "Develop a `compare` command that takes two experiment IDs and generates a detailed diff of their code, dependencies, data hashes, and parameters.",
-        "Add a `restore` command that can recreate the exact Python environment (using virtualenv and recorded requirements.txt) and checkout the correct code for a given experiment ID.",
-        "Integrate basic reporting capabilities, perhaps generating a simple Markdown or HTML summary of the differences."
-      ]
-    },
-    {
-      "title": "Agentic Prompt Guardian for Safe LLM Interactions",
-      "difficulty": "Easy",
-      "estimated_hours": 10,
-      "description": "Inspired by 'Bend – A language that blocks AI mistakes via proof' and the OpenAI compromise article, this project focuses on enhancing safety and reliability for users interacting with LLMs. It's a browser extension or API proxy that acts as a 'guardian' for prompts. Before a user's prompt is sent to an LLM, the guardian can perform automated checks: sanitization for sensitive data, detection of potential prompt injection attempts, or even 'proof-checking' against a set of predefined rules or facts to prevent common AI 'hallucinations' or undesirable outputs. This adds a layer of robustness and 'proof' to everyday LLM usage, making interactions safer and more predictable.",
-      "tech_stack": [
-        "JavaScript (for browser extension)",
-        "Python (for API proxy if complex logic needed)",
-        "Regular Expressions (for pattern matching)",
-        "Lightweight local NLP (e.g., spaCy for basic entity recognition)",
-        "LLM API (for meta-prompts to validate user prompts, if applicable)"
-      ],
-      "source_inspiration": "Bend – A language that blocks AI mistakes via proof, A heap overflow and SSO misconfiguration to compromise OpenAI internal repos, How to Write with an LLM",
-      "steps": [
-        "Choose a target browser (Chrome/Firefox) and set up the extension development environment.",
-        "Implement a content script to capture user input from LLM interfaces (e.g., ChatGPT, Claude web UIs).",
-        "Develop background script logic to intercept these prompts before they are sent to the LLM API.",
-        "Implement a prompt sanitization module (e.g., regex for PII, keywords for injection detection).",
-        "Add a 'fact-checking' or 'rule-checking' module (e.g., a small knowledge base or a meta-LLM call) to pre-validate aspects of the prompt or expected output.",
-        "Provide immediate feedback to the user if a prompt is flagged, allowing them to modify it or override the warning.",
-        "Create a simple options page for users to configure guardian rules and preferences."
+        "Task 1: Define a specific content niche and target output format (e.g., 60-second animated explainer videos for eco-friendly products).",
+        "Task 2: Implement an LLM-based script generator that takes a topic/keywords and produces a short, structured script, including descriptions for visual scenes and narration.",
+        "Task 3: Integrate a Text-to-Speech API to convert the narration part of the script into an audio file.",
+        "Task 4: Integrate an Image Generation API, focusing on prompts that allow for explicit style, composition, and color control (mimicking 'Paint-Anything' capabilities).",
+        "Task 5: Develop a mechanism to link generated script segments, audio, and visual assets, using a video editing library like MoviePy to combine them.",
+        "Task 6: Create a user interface or command-line tool to input topics, adjust content parameters (e.g., mood, color palette), and trigger content generation.",
+        "Task 7: Implement a content library for storing and managing generated assets."
       ]
     }
   ],
   "quick_actions": [
-    "Dedicate 15 minutes daily to review a new AI API or framework (e.g., from 'ai-apis-you-can-ship-today' or 'awesome-typesafe') to identify potential quick wins for your workflow, focusing on immediate applicability.",
-    "Implement a simple pre-commit Git hook in your current project to automatically run `pip freeze > requirements.txt` and capture the current Git commit hash, improving your personal project's reproducibility.",
-    "Practice 'focused prompt engineering' for 30 minutes each day: instead of broad requests, craft highly specific, multi-turn prompts for an LLM to solve a single, well-defined problem in your work, aiming to reduce iterative refining and context switching.",
-    "Choose one recurring manual task that takes more than 5 minutes weekly, and spend an hour attempting to automate it with a simple script using Python or an existing AI-powered automation tool (e.g., explore options from 'awesome-ai-productivity-suite')."
+    "Action 1: Map Your Current AI Tool Usage: List all the AI tools, LLMs, and APIs you currently use (or want to use). Identify overlaps and areas where a unified management system could streamline your workflow.",
+    "Action 2: Automate a Micro-Task with OCR/UI Interaction: Pick one repetitive, low-stakes task on your computer (e.g., data entry in a web form) and try to automate a small part of it using a basic OCR library and UI automation tools (like `pyautogui` or system scripting).",
+    "Action 3: Engage in 'AI-Free' Creative Problem Solving: For your next coding challenge or design problem, intentionally avoid using AI assistants (Copilot, ChatGPT) for the initial brainstorming and core logic development. Only introduce AI for specific, targeted tasks after you've established the foundation, to counter cognitive atrophy.",
+    "Action 4: Subscribe to an 'AI API Updates' Newsletter: Stay informed on new AI APIs and model updates without constant active searching. Choose one reputable newsletter and scan it weekly for quick awareness of new capabilities."
   ]
 }
