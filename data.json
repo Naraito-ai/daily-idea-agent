@@ -1,98 +1,98 @@
 {
-  "last_updated": "2026-09-19 09:52:31",
+  "last_updated": "2026-09-20 10:14:29",
   "scraped_sources": {
     "github": [
+      {
+        "name": "laya-mlx",
+        "owner": "mizorewww",
+        "description": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
+        "stars": 462,
+        "url": "https://github.com/mizorewww/laya-mlx",
+        "category": "AI / ML"
+      },
       {
         "name": "awesome-typesafe",
         "owner": "AbdelStark",
         "description": "A curated list of official resources and community projects for TypeSafe, System One models, and Jev.",
-        "stars": 276,
+        "stars": 368,
         "url": "https://github.com/AbdelStark/awesome-typesafe",
         "category": "AI / ML"
       },
       {
-        "name": "jev-capability-atlas",
-        "owner": "Zaious",
-        "description": "Independent, evidence-based map of when TypeSafe's Jev actually holds up vs. breaks down — real API-call receipts, not a leaderboard. 中文為主的雙語 repo。",
-        "stars": 11,
-        "url": "https://github.com/Zaious/jev-capability-atlas",
+        "name": "openJev-verdict-2.0",
+        "owner": "Heman10x-NGU",
+        "description": "Calibrated 151M Non-Autoregressive Decision Engine beating TypeSafe Jev & Laya on LocalLLaMA/typed-decisions (77.10% acc, 0.0636 Brier, 0.0144 ECE)",
+        "stars": 116,
+        "url": "https://github.com/Heman10x-NGU/openJev-verdict-2.0",
         "category": "AI / ML"
       },
       {
-        "name": "group-meeting-materials",
-        "owner": "AI4Science-WestlakeU",
-        "description": "Group meeting materials for Tailin Wu's lab",
-        "stars": 10,
-        "url": "https://github.com/AI4Science-WestlakeU/group-meeting-materials",
+        "name": "von",
+        "owner": "wfzyx",
+        "description": "The open-source System One decision model. Sub-15ms, non-autoregressive, local drop-in alternative to TypeSafe Jev.",
+        "stars": 61,
+        "url": "https://github.com/wfzyx/von",
         "category": "AI / ML"
       },
       {
-        "name": "moonfrost-ai",
-        "owner": "whoashish115",
-        "description": "A 777M-parameter Mixture-of-Experts language model trained from scratch for $55. Multi-head Latent Attention, DeepSeekMoE, own tokenizer.",
-        "stars": 10,
-        "url": "https://github.com/whoashish115/moonfrost-ai",
-        "category": "AI / ML"
-      },
-      {
-        "name": "ai-apis-you-can-ship-today",
-        "owner": "cporter202",
-        "description": "This GitHub repo is a powerhouse collection of AI APIs you can start using immediately to ship real products — from LLM tools to computer vision and agents. One of the most valuable AI API lists on GitHub.",
-        "stars": 10,
-        "url": "https://github.com/cporter202/ai-apis-you-can-ship-today",
+        "name": "awesome-jev",
+        "owner": "kraayenjon",
+        "description": "A curated list of Jev use cases, projects, SDKs, and resources. Jev is TypeSafe AI's System One model for fast, typed decisions in software — Choice, Score, and Noul with calibrated probabilities.",
+        "stars": 41,
+        "url": "https://github.com/kraayenjon/awesome-jev",
         "category": "AI / ML"
       },
       {
         "name": "typesafe-computer-use",
         "owner": "awlevin",
         "description": "Computer use for about $0.0002 a step: OCR the screen, classify the next action with TypeSafe, click. macOS.",
-        "stars": 375,
+        "stars": 560,
         "url": "https://github.com/awlevin/typesafe-computer-use",
+        "category": "Automation / Productivity"
+      },
+      {
+        "name": "awesome-jev",
+        "owner": "kraayenjon",
+        "description": "A curated list of Jev use cases, projects, SDKs, and resources. Jev is TypeSafe AI's System One model for fast, typed decisions in software — Choice, Score, and Noul with calibrated probabilities.",
+        "stars": 41,
+        "url": "https://github.com/kraayenjon/awesome-jev",
+        "category": "Automation / Productivity"
+      },
+      {
+        "name": "OpenDecision",
+        "owner": "deepanwadhwa",
+        "description": "OpenDecision is an open-source semantic decision engine like typesafe's jev.",
+        "stars": 31,
+        "url": "https://github.com/deepanwadhwa/OpenDecision",
+        "category": "Automation / Productivity"
+      },
+      {
+        "name": "agent-dispatcher",
+        "owner": "nahid-sparktales",
+        "description": "Capability-aware Claude Code dispatcher with 27 specialist roles, composable skills, MCP/tool routing, verification workflows, and direct role commands",
+        "stars": 26,
+        "url": "https://github.com/nahid-sparktales/agent-dispatcher",
         "category": "Automation / Productivity"
       },
       {
         "name": "pojia-next",
         "owner": "z91772524-ai",
         "description": "一个脚本搞定 DSH / WorkBuddy / ZCode / Codex / Cursor / Claude 六客户端的提示词与人格替换：零依赖、双击即用、可自证、改前备份、一键还原。附 bandit/semgrep 扫描与 SHA256 校验。",
-        "stars": 16,
+        "stars": 23,
         "url": "https://github.com/z91772524-ai/pojia-next",
-        "category": "Automation / Productivity"
-      },
-      {
-        "name": "awesome-ai-productivity-suite",
-        "owner": "designproart",
-        "description": "💻 Essential AI tools, scripts, and automation workflows for modern software engineers. Stop context switching and focus on deep work.",
-        "stars": 15,
-        "url": "https://github.com/designproart/awesome-ai-productivity-suite",
-        "category": "Automation / Productivity"
-      },
-      {
-        "name": "Awesome-ki-audio-automation-de",
-        "owner": "fitnessgymlife",
-        "description": "Schritt-für-Schritt Anleitung: Vollautomatische KI-Hörbücher & Podcasts erstellen ohne eigene Stimme. Inklusive Monetarisierungs-Pipeline für Spotify & Audible.",
-        "stars": 13,
-        "url": "https://github.com/fitnessgymlife/Awesome-ki-audio-automation-de",
-        "category": "Automation / Productivity"
-      },
-      {
-        "name": "digital-asset-growth-engine",
-        "owner": "chefkitchenjoy",
-        "description": "🚀 A high-performance growth hacking and traffic monetization toolkit. Automate lead capture, optimize conversion funnels, and scale digital asset revenue seamlessly.",
-        "stars": 12,
-        "url": "https://github.com/chefkitchenjoy/digital-asset-growth-engine",
         "category": "Automation / Productivity"
       }
     ],
     "hacker_news": [
       {
-        "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
-        "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
-        "score": 213
+        "title": "Spain Orders Blocks on Archive.today and Its Mirrors",
+        "url": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
+        "score": 126
       },
       {
-        "title": "How to Write with an LLM",
-        "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
-        "score": 489
+        "title": "AI-generated posters don’t have to be horrible",
+        "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+        "score": 1591
       }
     ],
     "arxiv": [
@@ -124,113 +124,111 @@
     ],
     "devto": [
       {
+        "title": "The Slow and Quiet Cognitive Atrophy of a Modern Software Engineer",
+        "description": "Over the past couple of months, I've read a lot of articles about the consequences of AI dependency...",
+        "url": "https://dev.to/codingwithjiro/the-slow-and-quiet-cognitive-atrophy-of-a-modern-software-engineer-3lbh",
+        "reactions": 85
+      },
+      {
         "title": "AI Avatar v20, Cursor Avatar, Notification Avatar (Voxel Avatar)🧊",
         "description": "Intro   AI Avatar is a free app where your VRoid (VRM) avatar cheers you with all its...",
         "url": "https://dev.to/webdeveloperhyper/ai-avatar-v20-cursor-avatar-notification-avatar-voxel-avatar-4dd2",
         "reactions": 71
       },
       {
-        "title": "The Slow and Quiet Cognitive Atrophy of a Modern Software Engineer",
-        "description": "Over the past couple of months, I've read a lot of articles about the consequences of AI dependency...",
-        "url": "https://dev.to/codingwithjiro/the-slow-and-quiet-cognitive-atrophy-of-a-modern-software-engineer-3lbh",
-        "reactions": 69
+        "title": "🧩 Don't make Tech your entire personality.",
+        "description": "This is one of those articles that I wanted to write for many days, but I kept delaying it until, a...",
+        "url": "https://dev.to/tanay_dwivedi9098/dont-make-tech-your-entire-personality-45dc",
+        "reactions": 23
       },
       {
         "title": "Progressive Disclosure: What, Where, When, and Why",
         "description": "Do you remember when we first started using AGENTS.md files?   You would have a project root file...",
         "url": "https://dev.to/reporails/progressive-disclosure-what-where-when-and-why-36m3",
-        "reactions": 15
-      },
-      {
-        "title": "🧩 Don't make Tech your entire personality.",
-        "description": "This is one of those articles that I wanted to write for many days, but I kept delaying it until, a...",
-        "url": "https://dev.to/tanay_dwivedi9098/dont-make-tech-your-entire-personality-45dc",
-        "reactions": 20
+        "reactions": 16
       },
       {
         "title": "Building PoCs with Codex and GitHub Copilot while they try to adjust my PoC requirements along the way",
         "description": "But Amara, you didn't include MY favorite AI!",
         "url": "https://dev.to/missamarakay/building-pocs-with-codex-and-github-copilot-while-they-try-to-adjust-my-poc-requirements-along-the-1fc9",
-        "reactions": 18
+        "reactions": 20
       }
     ]
   },
-  "trends": "Today's tech landscape is defined by the rapid evolution of agentic AI systems, moving towards autonomous, goal-oriented operation in both digital and physical realms, albeit with a crucial emphasis on reliability, verifiability, and safety. There's a strong drive towards practical application and seamless integration of AI APIs and models into existing workflows for immediate product development and business automation, often leveraging cost-effective, specialized models. Concurrently, developer productivity is a key focus, with AI tools designed to minimize context switching and streamline coding. However, this push is tempered by a growing awareness of the potential for cognitive atrophy due to over-reliance on AI, highlighting the importance of balanced human-AI collaboration and maintaining core human skills in problem-solving and critical thinking. Furthermore, advances in generative AI are moving towards fine-grained control and efficient memory mechanisms for complex tasks, especially in robotics and image generation.",
+  "trends": "Today's tech landscape is dominated by a strong push towards hyper-efficient, specialized AI models, particularly 'System One' decision engines (like Jev, Laya, Von) that offer sub-15ms, non-autoregressive, and local inference for precise, typed decisions. This trend emphasizes moving critical decision-making away from large, general-purpose LLMs towards optimized, performant, and often on-device solutions. Alongside this, there's a significant focus on advanced AI agent orchestration, enabling complex automation (e.g., UI control via OCR and decision models, sophisticated robot manipulation, and capability-aware agent dispatching). In generative AI, the emphasis is shifting towards granular control and precision (e.g., any-color control in image generation) to improve quality and adherence to specific requirements. Finally, there's a growing critical dialogue around developer productivity with AI, highlighting concerns about 'cognitive atrophy' from over-reliance on tools like Copilot, and advocating for mindful integration of AI to augment rather than diminish human skills.",
   "ideas": [
     {
-      "title": "Verifiable Desktop Automation Agent with Activity Logging",
+      "title": "LocalFlow Automator: Precision UI Task Decision Engine",
       "difficulty": "Medium",
-      "estimated_hours": 20,
-      "description": "Build a macOS desktop automation agent that uses a local OCR engine to perceive the screen, classifies the next action using a lightweight local LLM (e.g., leveraging the 'TypeSafe' concept for robust classification), and executes UI actions (clicks, typing). The key differentiator is a comprehensive activity log that records the agent's perception (OCR output), its decision (LLM classification), and the executed action. This allows for 'TypeSafe'-like auditing and debugging of AI agent behavior, addressing the need for understanding when models 'hold up vs. break down' (from `jev-capability-atlas`).",
+      "estimated_hours": 28,
+      "description": "Build a desktop application that allows users to 'record' repetitive UI workflows (e.g., form filling, clicking specific buttons, extracting data) by demonstrating them. Instead of simple macro recording, this system captures screen context (using OCR/vision) and user actions. It then trains a lightweight, local 'decision model' (inspired by Laya/Jev) to predict the next UI action based on the current screen state. This provides robust, context-aware automation that's less brittle than traditional pixel-based macros, enabling 'typesafe-computer-use' for everyday tasks.",
       "tech_stack": [
         "Python",
-        "OCR library (pytesseract or macOS Vision API)",
-        "pynput",
-        "Local LLM (e.g., Llama.cpp for inference)",
-        "SQLite"
+        "OpenCV",
+        "Tesseract OCR",
+        "PyAutoGUI (or similar for UI control)",
+        "Scikit-learn (for decision model, or MLX/ONNX for native inference)"
       ],
-      "source_inspiration": "typesafe-computer-use, jev-capability-atlas, awesome-typesafe, Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation",
+      "source_inspiration": "laya-mlx, openJev-verdict-2.0, von, typesafe-computer-use",
       "steps": [
-        "Task 1: Set up a Python environment and install necessary libraries (OCR, UI automation, LLM inference).",
-        "Task 2: Implement screen capture and OCR functionality to extract text and bounding boxes from the current screen.",
-        "Task 3: Develop a prompt engineering strategy for a local LLM to classify the 'next best action' based on OCR output and a predefined set of available actions.",
-        "Task 4: Implement UI interaction (mouse clicks, keyboard input) based on the LLM's classified action.",
-        "Task 5: Design and implement a robust logging mechanism that records the raw screen OCR, the LLM's input prompt, the LLM's output/decision, and the executed UI action, along with timestamps.",
-        "Task 6: Create a simple UI or command-line interface to start/stop the agent and review the audit logs.",
-        "Task 7: Develop a few test automation scripts to demonstrate and test the agent's verifiability."
+        "1. Implement a screen capture module (e.g., using MSS or Pillow) to grab desktop screenshots.",
+        "2. Integrate Tesseract OCR to extract text and identify key UI elements from screenshots.",
+        "3. Develop a 'recording' mode that captures user mouse clicks/keyboard inputs along with the OCR-processed screen context (semantic elements, not just coordinates).",
+        "4. Design a dataset of 'screen state' -> 'user action' pairs. Train a simple classification model (e.g., a Decision Tree, SVM, or a small neural network runnable with MLX/ONNX) to predict actions from states.",
+        "5. Implement an 'execution' mode where the application continuously monitors the screen, feeds OCR output to the trained decision model, and executes predicted UI actions using PyAutoGUI.",
+        "6. Create a simple graphical interface for starting/stopping recording, saving/loading workflows, and visualizing the decision-making process."
       ]
     },
     {
-      "title": "Cross-Platform LLM Orchestrator with Dynamic Personas",
-      "difficulty": "Medium",
-      "estimated_hours": 15,
-      "description": "Create a desktop application or web service that centralizes prompt engineering and persona management for multiple AI assistants (e.g., OpenAI's GPT, Claude, local LLMs via API). Users can define reusable 'personas' and 'prompt templates' that can be instantly injected into conversations with different LLMs. It should track conversation history per persona/project, provide quick switching between models, and offer version control for prompts. This addresses the `pojia-next` problem of managing various clients and the `awesome-ai-productivity-suite` goal of reducing context switching.",
+      "title": "Multi-Specialist Code Review Agent Orchestra",
+      "difficulty": "Hard",
+      "estimated_hours": 45,
+      "description": "Develop a local agentic system for advanced code review. When a developer submits code (e.g., to a local Git hook or an IDE extension), a central 'dispatcher' agent analyzes the codebase. It then intelligently delegates different aspects of the review (e.g., security vulnerabilities, code style, performance bottlenecks, documentation gaps) to specialized, lightweight AI agents. Each specialist agent leverages specific tools (e.g., static analyzers like Bandit, linters, custom rule engines) to provide highly targeted and accurate feedback. The dispatcher aggregates and synthesizes all agent feedback into a cohesive, prioritized review report, akin to the 'agent-dispatcher' for Claude but tailored for code quality.",
       "tech_stack": [
-        "Python (Flask/FastAPI or Electron/Tauri)",
-        "React/Vue (for frontend if web/Electron)",
-        "SQLite",
-        "OpenAI API",
-        "Anthropic API",
-        "Local LLM wrappers"
+        "Python (for agent framework, e.g., custom or using CrewAI/LangGraph concepts)",
+        "Static Analysis Tools (Bandit, Semgrep)",
+        "Linters (ESLint, Pylint, Prettier)",
+        "Git hooks (for integration)",
+        "Possibly a small local LLM for higher-level reasoning or a TypeSafe-like model for specific 'verdicts'"
       ],
-      "source_inspiration": "pojia-next, awesome-ai-productivity-suite, How to Write with an LLM",
+      "source_inspiration": "agent-dispatcher, pojia-next, Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation",
       "steps": [
-        "Task 1: Design a data model for personas, prompt templates, and conversation history.",
-        "Task 2: Develop a backend API (or local data store for desktop app) for managing these entities.",
-        "Task 3: Implement API integrations with at least two major LLM providers (e.g., OpenAI, Anthropic) and a generic endpoint for a local LLM.",
-        "Task 4: Build a user interface allowing users to create, edit, select personas, define prompt templates, initiate conversations, and view history.",
-        "Task 5: Add features for quick switching between active LLM contexts and comparing responses from different models.",
-        "Task 6: Implement basic version control for prompt templates, allowing rollback or tracking changes."
+        "1. Design a modular agent framework in Python, defining interfaces for 'Specialist Agents' and a 'Dispatcher Agent'.",
+        "2. Implement a 'Security Agent' integrating with Bandit or Semgrep to scan for common vulnerabilities.",
+        "3. Create a 'Style Agent' that leverages existing linters (e.g., Pylint for Python, ESLint for JavaScript) to enforce coding standards.",
+        "4. Develop a 'Documentation Agent' that identifies missing or outdated documentation using simple heuristic rules or a small language model.",
+        "5. Implement the 'Dispatcher Agent' to analyze incoming code changes, determine which specialist agents are relevant, route code snippets or files to them, and manage their execution.",
+        "6. Build a feedback aggregation and reporting module that combines outputs from all agents into a unified, actionable review report, perhaps with severity rankings.",
+        "7. Integrate the system as a pre-commit Git hook or a local IDE extension for a seamless developer experience."
       ]
     },
     {
-      "title": "AI-Powered Niche Content Generator with Style & Color Control",
+      "title": "BrandGuard AI Designer with Calibrated Visual Feedback",
       "difficulty": "Medium",
-      "estimated_hours": 25,
-      "description": "Develop a system that automates the creation of visual and audio content for a specific niche (e.g., short educational videos, themed podcasts, product review graphics). The system will leverage LLMs for script generation, text-to-speech for narration, and a generative image model (e.g., Stable Diffusion, DALL-E) with fine-grained control (like 'Paint-Anything' for color, or specific style parameters) for visual assets. The goal is to produce unique, branded content at scale, targeting the `Awesome-ki-audio-automation-de` and `Paint-Anything` trends while also addressing potential monetization avenues from `digital-asset-growth-engine`.",
+      "estimated_hours": 32,
+      "description": "Create a web-based design assistant that enables users to generate visual assets (e.g., social media banners, simple logos, icons) with precise 'any-color control'. Users input text prompts and define a specific brand color palette (e.g., hex codes). The system uses a generative image model to produce visuals adhering to these color constraints. Crucially, it then employs a *local, calibrated decision engine* (inspired by Jev/Laya) to evaluate the generated images against predefined 'brand guidelines' (e.g., contrast ratios, forbidden elements, balance). It provides a 'verdict' and a calibrated probability score, giving designers objective and actionable feedback to ensure brand consistency and quality, addressing the 'AI-generated posters don't have to be horrible' challenge.",
       "tech_stack": [
-        "Python",
-        "LLM APIs (OpenAI GPT, Claude)",
-        "Text-to-Speech API (e.g., Eleven Labs, Google TTS)",
-        "Image Generation API (e.g., Stable Diffusion API, DALL-E 3 API)",
-        "MoviePy (for video stitching)"
+        "Python (Flask/FastAPI for backend)",
+        "React/Vue (for frontend)",
+        "Hugging Face Diffusers or other generative image model API/local model",
+        "OpenCV / scikit-image (for image analysis and guideline checks)",
+        "Scikit-learn (for decision model, mimicking calibrated probabilities)"
       ],
-      "source_inspiration": "Awesome-ki-audio-automation-de, Paint-Anything, digital-asset-growth-engine",
+      "source_inspiration": "Paint-Anything: Unified Any-Color Control for Image Generation and Editing, AI-generated posters don’t have to be horrible, awesome-jev, openJev-verdict-2.0",
       "steps": [
-        "Task 1: Define a specific content niche and target output format (e.g., 60-second animated explainer videos for eco-friendly products).",
-        "Task 2: Implement an LLM-based script generator that takes a topic/keywords and produces a short, structured script, including descriptions for visual scenes and narration.",
-        "Task 3: Integrate a Text-to-Speech API to convert the narration part of the script into an audio file.",
-        "Task 4: Integrate an Image Generation API, focusing on prompts that allow for explicit style, composition, and color control (mimicking 'Paint-Anything' capabilities).",
-        "Task 5: Develop a mechanism to link generated script segments, audio, and visual assets, using a video editing library like MoviePy to combine them.",
-        "Task 6: Create a user interface or command-line tool to input topics, adjust content parameters (e.g., mood, color palette), and trigger content generation.",
-        "Task 7: Implement a content library for storing and managing generated assets."
+        "1. Set up a web frontend where users can input text prompts, upload or define color palettes (e.g., hex codes), and specify design parameters.",
+        "2. Integrate a generative image model backend. Explore methods to enforce 'any-color control' through prompt engineering, ControlNet, or other fine-tuning techniques for color adherence.",
+        "3. Define a set of 'brand guideline' rules (e.g., minimum contrast ratios, specific color dominance, logo placement zones) that can be programmatically checked on an image.",
+        "4. Develop a 'Brand Guideline Decision Engine' using OpenCV and scikit-image to analyze generated images against these rules. Train a lightweight classification model (e.g., logistic regression, SVM) to output a 'verdict' (e.g., 'Pass', 'Minor Issue', 'Fail') along with a confidence score, mimicking Jev's calibrated probabilities.",
+        "5. Implement the backend API to handle image generation requests, run the decision engine, and return the generated image(s) along with the feedback and score.",
+        "6. Display the generated designs in the frontend, along with clear, visual feedback from the 'BrandGuard' engine, allowing users to iterate on designs or download approved ones."
       ]
     }
   ],
   "quick_actions": [
-    "Action 1: Map Your Current AI Tool Usage: List all the AI tools, LLMs, and APIs you currently use (or want to use). Identify overlaps and areas where a unified management system could streamline your workflow.",
-    "Action 2: Automate a Micro-Task with OCR/UI Interaction: Pick one repetitive, low-stakes task on your computer (e.g., data entry in a web form) and try to automate a small part of it using a basic OCR library and UI automation tools (like `pyautogui` or system scripting).",
-    "Action 3: Engage in 'AI-Free' Creative Problem Solving: For your next coding challenge or design problem, intentionally avoid using AI assistants (Copilot, ChatGPT) for the initial brainstorming and core logic development. Only introduce AI for specific, targeted tasks after you've established the foundation, to counter cognitive atrophy.",
-    "Action 4: Subscribe to an 'AI API Updates' Newsletter: Stay informed on new AI APIs and model updates without constant active searching. Choose one reputable newsletter and scan it weekly for quick awareness of new capabilities."
+    "1. Allocate 30 minutes weekly for 'coding blind' sessions: Attempt to solve a small coding problem without relying on an AI assistant (like Copilot) or excessive search, to actively exercise problem-solving and recall, countering potential cognitive atrophy.",
+    "2. Critically review AI-generated code: Before accepting any AI-suggested code, pause and manually trace its logic, identify potential edge cases or inefficiencies, and consider alternative human-written solutions to deepen your understanding and maintain your critical thinking skills.",
+    "3. Experiment with a local, specialized AI model: Download and run a small, non-LLM AI model (e.g., a local image classifier, an MLX-based decision model, or an ONNX runtime model) to understand the principles of efficient, on-device AI for specific tasks, distinct from large cloud-based LLMs.",
+    "4. Automate one small, non-critical personal digital task: Choose a simple, repetitive task (e.g., organizing downloaded files, renaming photos, generating a daily report) and write a short script to automate it. This reinforces practical scripting skills and provides a tangible benefit from automation without impacting core development competencies."
   ]
 }
