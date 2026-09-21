@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-20 10:14:29",
+  "last_updated": "2026-09-21 11:18:38",
   "scraped_sources": {
     "github": [
       {
         "name": "laya-mlx",
         "owner": "mizorewww",
         "description": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
-        "stars": 462,
+        "stars": 2467,
         "url": "https://github.com/mizorewww/laya-mlx",
         "category": "AI / ML"
       },
@@ -14,39 +14,39 @@
         "name": "awesome-typesafe",
         "owner": "AbdelStark",
         "description": "A curated list of official resources and community projects for TypeSafe, System One models, and Jev.",
-        "stars": 368,
+        "stars": 416,
         "url": "https://github.com/AbdelStark/awesome-typesafe",
-        "category": "AI / ML"
-      },
-      {
-        "name": "openJev-verdict-2.0",
-        "owner": "Heman10x-NGU",
-        "description": "Calibrated 151M Non-Autoregressive Decision Engine beating TypeSafe Jev & Laya on LocalLLaMA/typed-decisions (77.10% acc, 0.0636 Brier, 0.0144 ECE)",
-        "stars": 116,
-        "url": "https://github.com/Heman10x-NGU/openJev-verdict-2.0",
         "category": "AI / ML"
       },
       {
         "name": "von",
         "owner": "wfzyx",
         "description": "The open-source System One decision model. Sub-15ms, non-autoregressive, local drop-in alternative to TypeSafe Jev.",
-        "stars": 61,
+        "stars": 307,
         "url": "https://github.com/wfzyx/von",
         "category": "AI / ML"
       },
       {
-        "name": "awesome-jev",
-        "owner": "kraayenjon",
-        "description": "A curated list of Jev use cases, projects, SDKs, and resources. Jev is TypeSafe AI's System One model for fast, typed decisions in software — Choice, Score, and Noul with calibrated probabilities.",
-        "stars": 41,
-        "url": "https://github.com/kraayenjon/awesome-jev",
+        "name": "openJev-verdict-2.0",
+        "owner": "Heman10x-NGU",
+        "description": "Calibrated 151M Non-Autoregressive Decision Engine beating TypeSafe Jev & Laya on LocalLLaMA/typed-decisions (77.10% acc, 0.0636 Brier, 0.0144 ECE)",
+        "stars": 225,
+        "url": "https://github.com/Heman10x-NGU/openJev-verdict-2.0",
+        "category": "AI / ML"
+      },
+      {
+        "name": "topconf-paper-figure-gallery",
+        "owner": "qwdwqfwq",
+        "description": "A searchable gallery of well-designed Figure 1 / teaser figures from ICLR, ICML, NeurIPS, CVPR, ACL, AAAI (2023-2025) — 2,298 curated figures for paper-overview inspiration. Pure static site.",
+        "stars": 219,
+        "url": "https://github.com/qwdwqfwq/topconf-paper-figure-gallery",
         "category": "AI / ML"
       },
       {
         "name": "typesafe-computer-use",
         "owner": "awlevin",
         "description": "Computer use for about $0.0002 a step: OCR the screen, classify the next action with TypeSafe, click. macOS.",
-        "stars": 560,
+        "stars": 696,
         "url": "https://github.com/awlevin/typesafe-computer-use",
         "category": "Automation / Productivity"
       },
@@ -54,7 +54,7 @@
         "name": "awesome-jev",
         "owner": "kraayenjon",
         "description": "A curated list of Jev use cases, projects, SDKs, and resources. Jev is TypeSafe AI's System One model for fast, typed decisions in software — Choice, Score, and Noul with calibrated probabilities.",
-        "stars": 41,
+        "stars": 82,
         "url": "https://github.com/kraayenjon/awesome-jev",
         "category": "Automation / Productivity"
       },
@@ -62,7 +62,7 @@
         "name": "OpenDecision",
         "owner": "deepanwadhwa",
         "description": "OpenDecision is an open-source semantic decision engine like typesafe's jev.",
-        "stars": 31,
+        "stars": 44,
         "url": "https://github.com/deepanwadhwa/OpenDecision",
         "category": "Automation / Productivity"
       },
@@ -70,56 +70,71 @@
         "name": "agent-dispatcher",
         "owner": "nahid-sparktales",
         "description": "Capability-aware Claude Code dispatcher with 27 specialist roles, composable skills, MCP/tool routing, verification workflows, and direct role commands",
-        "stars": 26,
+        "stars": 41,
         "url": "https://github.com/nahid-sparktales/agent-dispatcher",
         "category": "Automation / Productivity"
       },
       {
-        "name": "pojia-next",
-        "owner": "z91772524-ai",
-        "description": "一个脚本搞定 DSH / WorkBuddy / ZCode / Codex / Cursor / Claude 六客户端的提示词与人格替换：零依赖、双击即用、可自证、改前备份、一键还原。附 bandit/semgrep 扫描与 SHA256 校验。",
-        "stars": 23,
-        "url": "https://github.com/z91772524-ai/pojia-next",
+        "name": "AntOmniEvo",
+        "owner": "ant-research",
+        "description": "An auto-evolution framework that optimizes anything — your 7×24 team of algorithm engineers.",
+        "stars": 38,
+        "url": "https://github.com/ant-research/AntOmniEvo",
         "category": "Automation / Productivity"
       }
     ],
     "hacker_news": [
       {
-        "title": "Spain Orders Blocks on Archive.today and Its Mirrors",
-        "url": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
-        "score": 126
+        "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+        "url": "https://github.com/jaredpalmer/kev/tree/main",
+        "score": 135
       },
       {
-        "title": "AI-generated posters don’t have to be horrible",
-        "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-        "score": 1591
+        "title": "Disney+: New user agreement allows ads before movies in all subscriptions",
+        "url": "https://consumerrights.wiki/w/Disney%2B_ad_policy_change",
+        "score": 45
+      },
+      {
+        "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
+        "url": "https://github.com/volotat/mini-AGI/",
+        "score": 112
+      },
+      {
+        "title": "Amiga Unix, Again",
+        "url": "https://amigaux.org/",
+        "score": 109
+      },
+      {
+        "title": "Spain orders blocks on Archive.today and its mirrors",
+        "url": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
+        "score": 447
       }
     ],
     "arxiv": [
       {
-        "title": "Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation",
-        "summary": "Coding agents have emerged as a promising paradigm for robot manipulation: a language model writes the robot controller as a program, and agents built in this way now operate robots without robot-spec...",
-        "url": "http://arxiv.org/abs/2609.20822v1"
+        "title": "Designer-RSI: Evolving Procedural Memory from User Traffic for Agentic Graphic Design",
+        "summary": "Professional graphic design is a long-horizon agentic task in which structured, editable artifacts emerge from many interdependent actions, yet outcomes admit no reliable programmatic oracle. We intro...",
+        "url": "http://arxiv.org/abs/2609.22086v1"
       },
       {
-        "title": "Embedding Models Measure in Peculiar Ways",
-        "summary": "Embedding spaces define notions of semantic similarity and distance. We study whether those embeddings reflect physical measurements of mass, distance, time and volume, which admit a unique, objective...",
-        "url": "http://arxiv.org/abs/2609.20821v1"
+        "title": "Cross-sector generalization of accident-process role classification in occupational accident narratives",
+        "summary": "Occupational accident narratives contain valuable information about work situations, unfavourable conditions, accident events, and their consequences. Automatically structuring these narratives can fa...",
+        "url": "http://arxiv.org/abs/2609.22081v1"
       },
       {
-        "title": "Workspace Models: Lightweight Robotic Memory via Saliency-Driven Supervision",
-        "summary": "Complex robotic manipulation tasks frequently require a long-term memory of past events and actions. As conditioning on full histories renders policies prone to spurious correlations and degrades perf...",
-        "url": "http://arxiv.org/abs/2609.20820v1"
+        "title": "CodeMidas: Scaling Agentic Coding RL Environments from Code Itself",
+        "summary": "Training capable coding agents via reinforcement learning (RL) requires diverse tasks with reliable verifiers. Open-source codebases offer a rich source of such tasks, while existing methods typically...",
+        "url": "http://arxiv.org/abs/2609.22068v1"
       },
       {
-        "title": "FAMOS: Feed-Forward 3D Articulation Modeling from Sparse Observations",
-        "summary": "Modeling articulated objects from sparse monocular views is challenging because each observation reveals only partial geometry and motion evidence. Most feed-forward methods infer articulation from a ...",
-        "url": "http://arxiv.org/abs/2609.20817v1"
+        "title": "Value-Sensitive Delegation in Everyday AI Agent Use: Evidence from OpenClaw",
+        "summary": "Users increasingly delegate work to autonomous AI agents, yet evaluations typically measure task completion rather than the values users prioritize. Using Value Sensitive Design, we analyzed, with LLM...",
+        "url": "http://arxiv.org/abs/2609.22067v1"
       },
       {
-        "title": "Paint-Anything: Unified Any-Color Control for Image Generation and Editing",
-        "summary": "Professional design requires any-color control: the ability to specify an object's target color with any 24-bit hex value for image generation and editing. Prior work has explored color generation, ed...",
-        "url": "http://arxiv.org/abs/2609.20816v1"
+        "title": "BrainWideBench: Benchmarking large-scale pretraining and across-animal transfer in multi-region neural recordings",
+        "summary": "Advances in large-scale neural recording have made it possible to collect data across many animals and distributed brain regions, raising the question of whether this scale can be exploited to learn g...",
+        "url": "http://arxiv.org/abs/2609.22064v1"
       }
     ],
     "devto": [
@@ -127,13 +142,7 @@
         "title": "The Slow and Quiet Cognitive Atrophy of a Modern Software Engineer",
         "description": "Over the past couple of months, I've read a lot of articles about the consequences of AI dependency...",
         "url": "https://dev.to/codingwithjiro/the-slow-and-quiet-cognitive-atrophy-of-a-modern-software-engineer-3lbh",
-        "reactions": 85
-      },
-      {
-        "title": "AI Avatar v20, Cursor Avatar, Notification Avatar (Voxel Avatar)🧊",
-        "description": "Intro   AI Avatar is a free app where your VRoid (VRM) avatar cheers you with all its...",
-        "url": "https://dev.to/webdeveloperhyper/ai-avatar-v20-cursor-avatar-notification-avatar-voxel-avatar-4dd2",
-        "reactions": 71
+        "reactions": 88
       },
       {
         "title": "🧩 Don't make Tech your entire personality.",
@@ -145,90 +154,100 @@
         "title": "Progressive Disclosure: What, Where, When, and Why",
         "description": "Do you remember when we first started using AGENTS.md files?   You would have a project root file...",
         "url": "https://dev.to/reporails/progressive-disclosure-what-where-when-and-why-36m3",
-        "reactions": 16
+        "reactions": 18
       },
       {
         "title": "Building PoCs with Codex and GitHub Copilot while they try to adjust my PoC requirements along the way",
         "description": "But Amara, you didn't include MY favorite AI!",
         "url": "https://dev.to/missamarakay/building-pocs-with-codex-and-github-copilot-while-they-try-to-adjust-my-poc-requirements-along-the-1fc9",
-        "reactions": 20
+        "reactions": 22
+      },
+      {
+        "title": "GMail, please let me hide delegated accounts on my iPhone",
+        "description": "Gmail's delegated accounts have started showing up in the app on my iPhone, and I find this...",
+        "url": "https://dev.to/peter/gmail-please-let-me-hide-delegated-accounts-on-my-iphone-30e",
+        "reactions": 16
       }
     ]
   },
-  "trends": "Today's tech landscape is dominated by a strong push towards hyper-efficient, specialized AI models, particularly 'System One' decision engines (like Jev, Laya, Von) that offer sub-15ms, non-autoregressive, and local inference for precise, typed decisions. This trend emphasizes moving critical decision-making away from large, general-purpose LLMs towards optimized, performant, and often on-device solutions. Alongside this, there's a significant focus on advanced AI agent orchestration, enabling complex automation (e.g., UI control via OCR and decision models, sophisticated robot manipulation, and capability-aware agent dispatching). In generative AI, the emphasis is shifting towards granular control and precision (e.g., any-color control in image generation) to improve quality and adherence to specific requirements. Finally, there's a growing critical dialogue around developer productivity with AI, highlighting concerns about 'cognitive atrophy' from over-reliance on tools like Copilot, and advocating for mindful integration of AI to augment rather than diminish human skills.",
+  "trends": "Today's tech landscape is highly focused on the **specialization and efficiency of AI**, particularly with the emergence of 'System One' decision models (e.g., Jev-like variants) that offer sub-15ms, non-autoregressive, and locally runnable capabilities for specific, typed decision tasks. This signifies a shift away from sole reliance on large, general-purpose LLMs towards highly performant, often edge-compatible, AI for rapid, calibrated judgments. Complementing this is a strong drive towards **advanced agentic automation**, where AI agents are orchestrated to perform complex, long-horizon tasks, automate entire computer usage patterns, and even self-optimize systems (e.g., 'auto-evolution frameworks'). These agents are becoming more sophisticated in handling multi-step workflows, requiring robust dispatchers and verification mechanisms. Simultaneously, there's a critical discussion around **developer productivity and cognitive well-being**, highlighting concerns about AI dependency leading to 'cognitive atrophy' and emphasizing the importance of 'progressive disclosure' in managing complexity, even while leveraging AI for proof-of-concept development and task automation.",
   "ideas": [
     {
-      "title": "LocalFlow Automator: Precision UI Task Decision Engine",
+      "title": "Local Decision Engine for Real-time Anomaly Detection",
       "difficulty": "Medium",
-      "estimated_hours": 28,
-      "description": "Build a desktop application that allows users to 'record' repetitive UI workflows (e.g., form filling, clicking specific buttons, extracting data) by demonstrating them. Instead of simple macro recording, this system captures screen context (using OCR/vision) and user actions. It then trains a lightweight, local 'decision model' (inspired by Laya/Jev) to predict the next UI action based on the current screen state. This provides robust, context-aware automation that's less brittle than traditional pixel-based macros, enabling 'typesafe-computer-use' for everyday tasks.",
+      "estimated_hours": 35,
+      "description": "Leveraging the trend of fast, local 'System One' decision models, this project involves building a lightweight, non-autoregressive AI service designed for real-time anomaly detection in streaming data (e.g., sensor readings, network traffic, application logs). Instead of sending data to a cloud-based LLM or a complex deep learning model, a compact, pre-trained decision model (like Laya-MLX or a Jev-like alternative) runs locally or on an edge device to classify incoming data points as normal or anomalous with sub-15ms latency. This is crucial for applications where immediate responses are critical, such as industrial IoT, security monitoring, or preventative maintenance. The service would provide a 'typed decision' output (e.g., 'Anomaly: High Severity', 'Normal Operation') along with a calibrated probability.",
       "tech_stack": [
         "Python",
-        "OpenCV",
-        "Tesseract OCR",
-        "PyAutoGUI (or similar for UI control)",
-        "Scikit-learn (for decision model, or MLX/ONNX for native inference)"
+        "MLX (for Apple Silicon performance) or ONNX Runtime",
+        "Lightweight ML framework (e.g., scikit-learn for initial models, or custom non-autoregressive model training)",
+        "MQTT or Kafka (for data ingestion)",
+        "Flask/FastAPI (for local API)",
+        "Docker (for deployment)"
       ],
-      "source_inspiration": "laya-mlx, openJev-verdict-2.0, von, typesafe-computer-use",
+      "source_inspiration": "laya-mlx, von, openJev-verdict-2.0, Kev, awesome-jev",
       "steps": [
-        "1. Implement a screen capture module (e.g., using MSS or Pillow) to grab desktop screenshots.",
-        "2. Integrate Tesseract OCR to extract text and identify key UI elements from screenshots.",
-        "3. Develop a 'recording' mode that captures user mouse clicks/keyboard inputs along with the OCR-processed screen context (semantic elements, not just coordinates).",
-        "4. Design a dataset of 'screen state' -> 'user action' pairs. Train a simple classification model (e.g., a Decision Tree, SVM, or a small neural network runnable with MLX/ONNX) to predict actions from states.",
-        "5. Implement an 'execution' mode where the application continuously monitors the screen, feeds OCR output to the trained decision model, and executes predicted UI actions using PyAutoGUI.",
-        "6. Create a simple graphical interface for starting/stopping recording, saving/loading workflows, and visualizing the decision-making process."
+        "Task 1: Select a suitable lightweight decision model architecture (e.g., a small boosted tree ensemble or a simple feed-forward network trained for classification).",
+        "Task 2: Source or synthesize a dataset for anomaly detection in a chosen domain (e.g., server metrics, device sensor data).",
+        "Task 3: Train and quantize the decision model, ensuring it meets low-latency requirements (e.g., sub-15ms inference).",
+        "Task 4: Implement a data ingestion pipeline using MQTT or Kafka to simulate real-time data streams.",
+        "Task 5: Develop a Python service (Flask/FastAPI) that loads the model and processes incoming data for immediate classification.",
+        "Task 6: Create a simple dashboard or logging mechanism to display detected anomalies and their probabilities."
       ]
     },
     {
-      "title": "Multi-Specialist Code Review Agent Orchestra",
-      "difficulty": "Hard",
-      "estimated_hours": 45,
-      "description": "Develop a local agentic system for advanced code review. When a developer submits code (e.g., to a local Git hook or an IDE extension), a central 'dispatcher' agent analyzes the codebase. It then intelligently delegates different aspects of the review (e.g., security vulnerabilities, code style, performance bottlenecks, documentation gaps) to specialized, lightweight AI agents. Each specialist agent leverages specific tools (e.g., static analyzers like Bandit, linters, custom rule engines) to provide highly targeted and accurate feedback. The dispatcher aggregates and synthesizes all agent feedback into a cohesive, prioritized review report, akin to the 'agent-dispatcher' for Claude but tailored for code quality.",
-      "tech_stack": [
-        "Python (for agent framework, e.g., custom or using CrewAI/LangGraph concepts)",
-        "Static Analysis Tools (Bandit, Semgrep)",
-        "Linters (ESLint, Pylint, Prettier)",
-        "Git hooks (for integration)",
-        "Possibly a small local LLM for higher-level reasoning or a TypeSafe-like model for specific 'verdicts'"
-      ],
-      "source_inspiration": "agent-dispatcher, pojia-next, Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation",
-      "steps": [
-        "1. Design a modular agent framework in Python, defining interfaces for 'Specialist Agents' and a 'Dispatcher Agent'.",
-        "2. Implement a 'Security Agent' integrating with Bandit or Semgrep to scan for common vulnerabilities.",
-        "3. Create a 'Style Agent' that leverages existing linters (e.g., Pylint for Python, ESLint for JavaScript) to enforce coding standards.",
-        "4. Develop a 'Documentation Agent' that identifies missing or outdated documentation using simple heuristic rules or a small language model.",
-        "5. Implement the 'Dispatcher Agent' to analyze incoming code changes, determine which specialist agents are relevant, route code snippets or files to them, and manage their execution.",
-        "6. Build a feedback aggregation and reporting module that combines outputs from all agents into a unified, actionable review report, perhaps with severity rankings.",
-        "7. Integrate the system as a pre-commit Git hook or a local IDE extension for a seamless developer experience."
-      ]
-    },
-    {
-      "title": "BrandGuard AI Designer with Calibrated Visual Feedback",
+      "title": "Agentic 'Skill-Scout' for Dev Environment Optimization",
       "difficulty": "Medium",
-      "estimated_hours": 32,
-      "description": "Create a web-based design assistant that enables users to generate visual assets (e.g., social media banners, simple logos, icons) with precise 'any-color control'. Users input text prompts and define a specific brand color palette (e.g., hex codes). The system uses a generative image model to produce visuals adhering to these color constraints. Crucially, it then employs a *local, calibrated decision engine* (inspired by Jev/Laya) to evaluate the generated images against predefined 'brand guidelines' (e.g., contrast ratios, forbidden elements, balance). It provides a 'verdict' and a calibrated probability score, giving designers objective and actionable feedback to ensure brand consistency and quality, addressing the 'AI-generated posters don't have to be horrible' challenge.",
+      "estimated_hours": 40,
+      "description": "Inspired by agentic systems that automate computer use and the need to preserve cognitive function, this project develops an agentic assistant that 'observes' a developer's environment and workflow (via accessible logs, terminal history, IDE extensions, or even screen OCR if permissions allow). Its primary goal is not to automate tasks directly, but to proactively identify repetitive patterns or suboptimal workflows and then suggest specific, context-aware optimizations, custom scripts, or external tools. For example, it could suggest a new alias based on frequent `git` commands, an IDE snippet for a repeated code block, or a small script to automate a common file manipulation task. The suggestions are presented with 'progressive disclosure', explaining the 'why' and 'how' to encourage learning and skill retention rather than blind automation.",
       "tech_stack": [
-        "Python (Flask/FastAPI for backend)",
-        "React/Vue (for frontend)",
-        "Hugging Face Diffusers or other generative image model API/local model",
-        "OpenCV / scikit-image (for image analysis and guideline checks)",
-        "Scikit-learn (for decision model, mimicking calibrated probabilities)"
+        "Python",
+        "LangChain/CrewAI (for agent orchestration and reasoning)",
+        "OS-level process monitoring (e.g., psutil, custom shell scripts)",
+        "IDE APIs/extensions (e.g., VS Code API)",
+        "Optional: OCR library (e.g., Tesseract, PaddleOCR) for screen context on macOS/Linux",
+        "Local LLM (e.g., Llama.cpp for suggestion generation/summarization)",
+        "Notification system (e.g., desktop notifications, simple web UI)"
       ],
-      "source_inspiration": "Paint-Anything: Unified Any-Color Control for Image Generation and Editing, AI-generated posters don’t have to be horrible, awesome-jev, openJev-verdict-2.0",
+      "source_inspiration": "typesafe-computer-use, agent-dispatcher, The Slow and Quiet Cognitive Atrophy of a Modern Software Engineer, Progressive Disclosure",
       "steps": [
-        "1. Set up a web frontend where users can input text prompts, upload or define color palettes (e.g., hex codes), and specify design parameters.",
-        "2. Integrate a generative image model backend. Explore methods to enforce 'any-color control' through prompt engineering, ControlNet, or other fine-tuning techniques for color adherence.",
-        "3. Define a set of 'brand guideline' rules (e.g., minimum contrast ratios, specific color dominance, logo placement zones) that can be programmatically checked on an image.",
-        "4. Develop a 'Brand Guideline Decision Engine' using OpenCV and scikit-image to analyze generated images against these rules. Train a lightweight classification model (e.g., logistic regression, SVM) to output a 'verdict' (e.g., 'Pass', 'Minor Issue', 'Fail') along with a confidence score, mimicking Jev's calibrated probabilities.",
-        "5. Implement the backend API to handle image generation requests, run the decision engine, and return the generated image(s) along with the feedback and score.",
-        "6. Display the generated designs in the frontend, along with clear, visual feedback from the 'BrandGuard' engine, allowing users to iterate on designs or download approved ones."
+        "Task 1: Define a set of 'observables' (e.g., shell history, file system changes, IDE usage statistics, clipboard content) the agent will monitor.",
+        "Task 2: Implement data collectors to gather information from these observables in a privacy-preserving manner.",
+        "Task 3: Develop a 'Skill-Scout' agent using an agentic framework, capable of identifying patterns and 'pain points' from the collected data.",
+        "Task 4: Integrate a local LLM to generate clear, concise, and progressively disclosed optimization suggestions based on identified patterns.",
+        "Task 5: Design a user interface for presenting suggestions, allowing the user to review, accept, or dismiss them.",
+        "Task 6: Implement a feedback mechanism for the agent to learn the effectiveness of its suggestions."
+      ]
+    },
+    {
+      "title": "Research Paper Teaser Figure & Concept Indexer",
+      "difficulty": "Medium",
+      "estimated_hours": 30,
+      "description": "Building on the `topconf-paper-figure-gallery` concept, this project creates an intelligent, automated system to ingest new research papers (e.g., from arXiv), extract their 'Figure 1' or teaser figures, and then use a vision-language model (VLM) or specialized image embedding model combined with text analysis of the abstract/summary to semantically categorize and index these figures. The goal is to create a searchable gallery that allows researchers or developers to find visual inspiration or understand emerging concepts not just by keywords, but by visual similarity, inferred methodology, or high-level conceptual classification. This system would help rapidly survey new research fronts and identify novel visualization techniques or core conceptual models emerging in papers.",
+      "tech_stack": [
+        "Python",
+        "PDF parsing libraries (e.g., PyMuPDF, pdfminer.six)",
+        "Image processing libraries (e.g., Pillow, OpenCV)",
+        "Local VLM (e.g., MiniGPT-4, BLIP-2 variants, or custom image embedding model with CLIP)",
+        "Vector database (e.g., ChromaDB, Faiss) for semantic search",
+        "Web scraping (for arXiv)",
+        "Flask/Django (for gallery interface)"
+      ],
+      "source_inspiration": "topconf-paper-figure-gallery, arXiv AI/ML Papers summaries, Designer-RSI (idea of agentic graphic design)",
+      "steps": [
+        "Task 1: Set up an arXiv scraper to monitor new submissions in relevant AI/ML categories and download PDFs.",
+        "Task 2: Develop a PDF parser to reliably extract the first figure (or figures explicitly labeled as 'teaser'/'overview') and the paper's abstract/summary.",
+        "Task 3: Integrate a local VLM or image embedding model to generate embeddings for extracted figures and text embeddings for summaries.",
+        "Task 4: Design a categorization scheme (e.g., 'architecture diagram', 'performance plot', 'conceptual model') and train/fine-tune a classifier or use prompt engineering with a VLM to classify figures.",
+        "Task 5: Implement a vector database to store figure embeddings, text embeddings, metadata, and categories, enabling semantic search.",
+        "Task 6: Build a web interface (Flask/Django) to browse the gallery, perform searches, and filter figures by category."
       ]
     }
   ],
   "quick_actions": [
-    "1. Allocate 30 minutes weekly for 'coding blind' sessions: Attempt to solve a small coding problem without relying on an AI assistant (like Copilot) or excessive search, to actively exercise problem-solving and recall, countering potential cognitive atrophy.",
-    "2. Critically review AI-generated code: Before accepting any AI-suggested code, pause and manually trace its logic, identify potential edge cases or inefficiencies, and consider alternative human-written solutions to deepen your understanding and maintain your critical thinking skills.",
-    "3. Experiment with a local, specialized AI model: Download and run a small, non-LLM AI model (e.g., a local image classifier, an MLX-based decision model, or an ONNX runtime model) to understand the principles of efficient, on-device AI for specific tasks, distinct from large cloud-based LLMs.",
-    "4. Automate one small, non-critical personal digital task: Choose a simple, repetitive task (e.g., organizing downloaded files, renaming photos, generating a daily report) and write a short script to automate it. This reinforces practical scripting skills and provides a tangible benefit from automation without impacting core development competencies."
+    "Action 1: Dedicate 30 minutes today to identify and document one manual, repetitive task you perform (e.g., a specific file rename pattern, a code formatting step, a data entry chore). Outline the steps, and brainstorm how a small script or shortcut could automate at least part of it, without immediately building it.",
+    "Action 2: For an ongoing project or a new learning topic, write down the absolute minimum first step, followed by what would become apparent next, and then the next (3-5 steps). Practice 'progressive disclosure' in your own thinking/planning rather than trying to map out every single detail upfront or asking an AI for the full plan.",
+    "Action 3: Schedule a 60-minute 'AI-free zone' for tomorrow where you tackle a complex problem, debug a difficult issue, or design an architecture without consulting any LLM, search engine, or AI assistant. Focus on engaging your own critical thinking and problem-solving skills.",
+    "Action 4: Explore the documentation of your primary IDE or editor (e.g., VS Code, IntelliJ, Vim) for 15 minutes. Identify one keyboard shortcut, snippet, or built-in automation feature you're not currently using effectively, and integrate it into your workflow immediately."
   ]
 }
