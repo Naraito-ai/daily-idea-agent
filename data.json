@@ -1,140 +1,59 @@
 {
-  "last_updated": "2026-09-21 11:18:38",
+  "last_updated": "2026-09-22 10:29:16",
   "scraped_sources": {
-    "github": [
-      {
-        "name": "laya-mlx",
-        "owner": "mizorewww",
-        "description": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
-        "stars": 2467,
-        "url": "https://github.com/mizorewww/laya-mlx",
-        "category": "AI / ML"
-      },
-      {
-        "name": "awesome-typesafe",
-        "owner": "AbdelStark",
-        "description": "A curated list of official resources and community projects for TypeSafe, System One models, and Jev.",
-        "stars": 416,
-        "url": "https://github.com/AbdelStark/awesome-typesafe",
-        "category": "AI / ML"
-      },
-      {
-        "name": "von",
-        "owner": "wfzyx",
-        "description": "The open-source System One decision model. Sub-15ms, non-autoregressive, local drop-in alternative to TypeSafe Jev.",
-        "stars": 307,
-        "url": "https://github.com/wfzyx/von",
-        "category": "AI / ML"
-      },
-      {
-        "name": "openJev-verdict-2.0",
-        "owner": "Heman10x-NGU",
-        "description": "Calibrated 151M Non-Autoregressive Decision Engine beating TypeSafe Jev & Laya on LocalLLaMA/typed-decisions (77.10% acc, 0.0636 Brier, 0.0144 ECE)",
-        "stars": 225,
-        "url": "https://github.com/Heman10x-NGU/openJev-verdict-2.0",
-        "category": "AI / ML"
-      },
-      {
-        "name": "topconf-paper-figure-gallery",
-        "owner": "qwdwqfwq",
-        "description": "A searchable gallery of well-designed Figure 1 / teaser figures from ICLR, ICML, NeurIPS, CVPR, ACL, AAAI (2023-2025) — 2,298 curated figures for paper-overview inspiration. Pure static site.",
-        "stars": 219,
-        "url": "https://github.com/qwdwqfwq/topconf-paper-figure-gallery",
-        "category": "AI / ML"
-      },
-      {
-        "name": "typesafe-computer-use",
-        "owner": "awlevin",
-        "description": "Computer use for about $0.0002 a step: OCR the screen, classify the next action with TypeSafe, click. macOS.",
-        "stars": 696,
-        "url": "https://github.com/awlevin/typesafe-computer-use",
-        "category": "Automation / Productivity"
-      },
-      {
-        "name": "awesome-jev",
-        "owner": "kraayenjon",
-        "description": "A curated list of Jev use cases, projects, SDKs, and resources. Jev is TypeSafe AI's System One model for fast, typed decisions in software — Choice, Score, and Noul with calibrated probabilities.",
-        "stars": 82,
-        "url": "https://github.com/kraayenjon/awesome-jev",
-        "category": "Automation / Productivity"
-      },
-      {
-        "name": "OpenDecision",
-        "owner": "deepanwadhwa",
-        "description": "OpenDecision is an open-source semantic decision engine like typesafe's jev.",
-        "stars": 44,
-        "url": "https://github.com/deepanwadhwa/OpenDecision",
-        "category": "Automation / Productivity"
-      },
-      {
-        "name": "agent-dispatcher",
-        "owner": "nahid-sparktales",
-        "description": "Capability-aware Claude Code dispatcher with 27 specialist roles, composable skills, MCP/tool routing, verification workflows, and direct role commands",
-        "stars": 41,
-        "url": "https://github.com/nahid-sparktales/agent-dispatcher",
-        "category": "Automation / Productivity"
-      },
-      {
-        "name": "AntOmniEvo",
-        "owner": "ant-research",
-        "description": "An auto-evolution framework that optimizes anything — your 7×24 team of algorithm engineers.",
-        "stars": 38,
-        "url": "https://github.com/ant-research/AntOmniEvo",
-        "category": "Automation / Productivity"
-      }
-    ],
+    "github": [],
     "hacker_news": [
       {
-        "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
-        "url": "https://github.com/jaredpalmer/kev/tree/main",
-        "score": 135
+        "title": "Can gzip be a language model?",
+        "url": "https://nathan.rs/posts/gzip-lm/",
+        "score": 152
       },
       {
-        "title": "Disney+: New user agreement allows ads before movies in all subscriptions",
-        "url": "https://consumerrights.wiki/w/Disney%2B_ad_policy_change",
-        "score": 45
+        "title": "I said no and Apple said yes",
+        "url": "https://dbushell.com/2026/09/22/apple-intelligence/",
+        "score": 167
       },
       {
-        "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
-        "url": "https://github.com/volotat/mini-AGI/",
-        "score": 112
+        "title": "Transformers Explained Visually",
+        "url": "https://poloclub.github.io/transformer-explainer/",
+        "score": 422
       },
       {
-        "title": "Amiga Unix, Again",
-        "url": "https://amigaux.org/",
-        "score": 109
+        "title": "Study: Young users (9 to 18Y) ditch Google for AI, with unknown consequences",
+        "url": "https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences/",
+        "score": 40
       },
       {
-        "title": "Spain orders blocks on Archive.today and its mirrors",
-        "url": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
-        "score": 447
+        "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+        "url": "https://linear.app/now/ci-bottleneck-reworked",
+        "score": 246
       }
     ],
     "arxiv": [
       {
-        "title": "Designer-RSI: Evolving Procedural Memory from User Traffic for Agentic Graphic Design",
-        "summary": "Professional graphic design is a long-horizon agentic task in which structured, editable artifacts emerge from many interdependent actions, yet outcomes admit no reliable programmatic oracle. We intro...",
-        "url": "http://arxiv.org/abs/2609.22086v1"
+        "title": "GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay",
+        "summary": "Modern video games provide a measurable testbed for AI models, combining abilities of visual understanding, instruction decomposition, goal planning, and precise action control over multiple temporal ...",
+        "url": "http://arxiv.org/abs/2609.25001v1"
       },
       {
-        "title": "Cross-sector generalization of accident-process role classification in occupational accident narratives",
-        "summary": "Occupational accident narratives contain valuable information about work situations, unfavourable conditions, accident events, and their consequences. Automatically structuring these narratives can fa...",
-        "url": "http://arxiv.org/abs/2609.22081v1"
+        "title": "Critical-State RL: Diagnosing Trainable States for Multi-Turn Tool Use",
+        "summary": "Multi-turn tool-use failures can hinge on a single model call, yet reward variation alone does not reveal which call would benefit from training. When rewards depend on later interactions, their varia...",
+        "url": "http://arxiv.org/abs/2609.24985v1"
       },
       {
-        "title": "CodeMidas: Scaling Agentic Coding RL Environments from Code Itself",
-        "summary": "Training capable coding agents via reinforcement learning (RL) requires diverse tasks with reliable verifiers. Open-source codebases offer a rich source of such tasks, while existing methods typically...",
-        "url": "http://arxiv.org/abs/2609.22068v1"
+        "title": "WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory",
+        "summary": "Video world models enable interactive exploration of dynamic environments, yet struggle to respect prior observations over long horizons and across viewpoints. We present WorldCrafter, a video world m...",
+        "url": "http://arxiv.org/abs/2609.24984v1"
       },
       {
-        "title": "Value-Sensitive Delegation in Everyday AI Agent Use: Evidence from OpenClaw",
-        "summary": "Users increasingly delegate work to autonomous AI agents, yet evaluations typically measure task completion rather than the values users prioritize. Using Value Sensitive Design, we analyzed, with LLM...",
-        "url": "http://arxiv.org/abs/2609.22067v1"
+        "title": "onPanda: Efficient Annotation of On-Policy Alignment Data for LLMs and Agents via Token-Level Correction",
+        "summary": "We present onPanda, an interactive tool for efficiently annotating LLM alignment data and agent trajectories. onPanda adopts token-level correction as its core interaction: while reading a model respo...",
+        "url": "http://arxiv.org/abs/2609.24983v1"
       },
       {
-        "title": "BrainWideBench: Benchmarking large-scale pretraining and across-animal transfer in multi-region neural recordings",
-        "summary": "Advances in large-scale neural recording have made it possible to collect data across many animals and distributed brain regions, raising the question of whether this scale can be exploited to learn g...",
-        "url": "http://arxiv.org/abs/2609.22064v1"
+        "title": "LoRA-generating hypernetworks for efficient on-device LLM generative personalization",
+        "summary": "On-device large language models (`LLMs'), e.g. running on mobile phones, are ripe for improvement via personalization. The limited compute resources of mobile devices impose limits on model scale and ...",
+        "url": "http://arxiv.org/abs/2609.24979v1"
       }
     ],
     "devto": [
@@ -148,7 +67,7 @@
         "title": "🧩 Don't make Tech your entire personality.",
         "description": "This is one of those articles that I wanted to write for many days, but I kept delaying it until, a...",
         "url": "https://dev.to/tanay_dwivedi9098/dont-make-tech-your-entire-personality-45dc",
-        "reactions": 23
+        "reactions": 29
       },
       {
         "title": "Progressive Disclosure: What, Where, When, and Why",
@@ -160,7 +79,7 @@
         "title": "Building PoCs with Codex and GitHub Copilot while they try to adjust my PoC requirements along the way",
         "description": "But Amara, you didn't include MY favorite AI!",
         "url": "https://dev.to/missamarakay/building-pocs-with-codex-and-github-copilot-while-they-try-to-adjust-my-poc-requirements-along-the-1fc9",
-        "reactions": 22
+        "reactions": 24
       },
       {
         "title": "GMail, please let me hide delegated accounts on my iPhone",
@@ -170,84 +89,79 @@
       }
     ]
   },
-  "trends": "Today's tech landscape is highly focused on the **specialization and efficiency of AI**, particularly with the emergence of 'System One' decision models (e.g., Jev-like variants) that offer sub-15ms, non-autoregressive, and locally runnable capabilities for specific, typed decision tasks. This signifies a shift away from sole reliance on large, general-purpose LLMs towards highly performant, often edge-compatible, AI for rapid, calibrated judgments. Complementing this is a strong drive towards **advanced agentic automation**, where AI agents are orchestrated to perform complex, long-horizon tasks, automate entire computer usage patterns, and even self-optimize systems (e.g., 'auto-evolution frameworks'). These agents are becoming more sophisticated in handling multi-step workflows, requiring robust dispatchers and verification mechanisms. Simultaneously, there's a critical discussion around **developer productivity and cognitive well-being**, highlighting concerns about AI dependency leading to 'cognitive atrophy' and emphasizing the importance of 'progressive disclosure' in managing complexity, even while leveraging AI for proof-of-concept development and task automation.",
+  "trends": "Today's tech landscape is defined by the rapid and pervasive integration of AI, leading to both immense opportunities and novel challenges. Key themes include the drive for highly efficient, on-device AI for personalization and privacy, alongside the burgeoning field of 'agentic AI' capable of complex, multi-turn interactions. This shift is profoundly impacting developer workflows, introducing bottlenecks in traditional CI/CD pipelines due to accelerated AI-assisted code generation, and sparking critical discussions about potential cognitive atrophy and the balance of human skill versus AI reliance. There's a clear tension between AI's autonomous capabilities and the user's desire for control and transparency, pushing for better human-AI alignment and effective debugging tools.",
   "ideas": [
     {
-      "title": "Local Decision Engine for Real-time Anomaly Detection",
+      "title": "Smart Test & Refactor Co-Pilot for AI-Generated Code",
+      "difficulty": "Medium",
+      "estimated_hours": 28,
+      "description": "As AI coding assistants accelerate code generation, the testing and quality assurance phases often become a bottleneck. This project proposes an intelligent tool that integrates directly into an IDE or CI/CD pipeline. It would analyze newly generated or significantly modified code snippets from AI assistants (like Copilot), then autonomously suggest additional, relevant unit tests to ensure coverage of new logic and potential edge cases. Furthermore, it could identify common AI-generated code patterns that might be sub-optimal or less readable and propose refactoring suggestions, effectively closing the loop on AI-assisted development by enhancing quality and maintainability.",
+      "tech_stack": [
+        "Python",
+        "Language Server Protocol (LSP)",
+        "Pytest",
+        "OpenAI API or local LLM (e.g., Mistral)",
+        "Git hooks"
+      ],
+      "source_inspiration": "AI coding has made CI a bottleneck, so we reworked ours to keep up; Building PoCs with Codex and GitHub Copilot while they try to adjust my PoC requirements along the way; Can gzip be a language model? (for efficient local analysis principles)",
+      "steps": [
+        "Develop a module for AST (Abstract Syntax Tree) parsing to analyze new/modified code sections.",
+        "Integrate with an AI model (cloud or local) to generate new unit test cases and refactoring ideas based on code context and common patterns.",
+        "Build a CLI tool or IDE extension (e.g., VS Code extension) to present suggestions to the developer for review and acceptance.",
+        "Implement hooks (e.g., pre-commit Git hook) to trigger analysis automatically.",
+        "(Advanced) Explore using a highly efficient local model or technique (like Gzip-LM principles) for initial code pattern recognition and basic suggestion generation."
+      ]
+    },
+    {
+      "title": "Localized, Personalized Data-Privacy Assistant",
+      "difficulty": "Hard",
+      "estimated_hours": 50,
+      "description": "Addressing growing privacy concerns and the desire for user control over AI, this project focuses on building an on-device AI assistant. This assistant would help users manage and interact with their personal, local data (e.g., documents, notes, browser history, emails) without sending any information to the cloud. Its core value proposition is personalized interaction: users can efficiently fine-tune the model's behavior, preferences, or specific knowledge domains using LoRA (Low-Rank Adaptation) right on their device. This gives users absolute control over their data and AI's responses, offering a private alternative to generalized cloud-based AI systems and directly countering instances where 'Apple said yes' to data usage.",
+      "tech_stack": [
+        "Python/Rust/Swift (for platform-specific deployment)",
+        "Llama.cpp or MLX (for Apple Silicon)",
+        "Quantized LLMs (e.g., Llama 3, Mistral)",
+        "LoRA fine-tuning libraries",
+        "Vector database (e.g., ChromaDB, LanceDB for RAG)",
+        "GUI framework (e.g., Electron, SwiftUI, Kotlin Multiplatform)"
+      ],
+      "source_inspiration": "LoRA-generating hypernetworks for efficient on-device LLM generative personalization; I said no and Apple said yes; Study: Young users (9 to 18Y) ditch Google for AI, with unknown consequences",
+      "steps": [
+        "Select and integrate a lightweight, quantized local LLM that can run efficiently on typical personal devices.",
+        "Implement a secure, local-first data indexing and retrieval system (RAG) for personal documents and information.",
+        "Develop the LoRA-based personalization module, allowing users to train small, localized adapters on their specific preferences or data.",
+        "Build a user-friendly graphical interface (GUI) for interacting with the assistant and managing personalization settings.",
+        "Ensure robust security measures to guarantee all data processing and model inferencing remain strictly on the user's device.",
+        "Provide clear documentation on how users can export/import their personalized LoRA adapters."
+      ]
+    },
+    {
+      "title": "Multi-Turn AI Agent 'Thought Process' Debugger",
       "difficulty": "Medium",
       "estimated_hours": 35,
-      "description": "Leveraging the trend of fast, local 'System One' decision models, this project involves building a lightweight, non-autoregressive AI service designed for real-time anomaly detection in streaming data (e.g., sensor readings, network traffic, application logs). Instead of sending data to a cloud-based LLM or a complex deep learning model, a compact, pre-trained decision model (like Laya-MLX or a Jev-like alternative) runs locally or on an edge device to classify incoming data points as normal or anomalous with sub-15ms latency. This is crucial for applications where immediate responses are critical, such as industrial IoT, security monitoring, or preventative maintenance. The service would provide a 'typed decision' output (e.g., 'Anomaly: High Severity', 'Normal Operation') along with a calibrated probability.",
+      "description": "As AI agents become more sophisticated, engaging in multi-turn interactions and tool use, understanding and debugging their failures is paramount. Inspired by efficient annotation tools like 'onPanda' and insights from 'Critical-State RL', this project proposes an interactive web-based debugger. It allows developers to run an AI agent's complex trajectory step-by-step, visualizing its internal 'thoughts', tool calls, and observations. Crucially, it provides the ability to pause execution at any point, directly modify the agent's output (e.g., correct a misinterpreted instruction or a failed tool call), and then resume the trajectory. This enables efficient diagnosis, correction, and data generation for improving agent alignment and robustness.",
       "tech_stack": [
-        "Python",
-        "MLX (for Apple Silicon performance) or ONNX Runtime",
-        "Lightweight ML framework (e.g., scikit-learn for initial models, or custom non-autoregressive model training)",
-        "MQTT or Kafka (for data ingestion)",
-        "Flask/FastAPI (for local API)",
-        "Docker (for deployment)"
+        "Python (for agent backend & execution)",
+        "JavaScript/React/Vue (for frontend visualization)",
+        "WebSockets (for real-time interaction)",
+        "LangChain/LlamaIndex (for agent orchestration)",
+        "Docker (for isolated agent environments)"
       ],
-      "source_inspiration": "laya-mlx, von, openJev-verdict-2.0, Kev, awesome-jev",
+      "source_inspiration": "onPanda: Efficient Annotation of On-Policy Alignment Data for LLMs and Agents via Token-Level Correction; Critical-State RL: Diagnosing Trainable States for Multi-Turn Tool Use; GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay",
       "steps": [
-        "Task 1: Select a suitable lightweight decision model architecture (e.g., a small boosted tree ensemble or a simple feed-forward network trained for classification).",
-        "Task 2: Source or synthesize a dataset for anomaly detection in a chosen domain (e.g., server metrics, device sensor data).",
-        "Task 3: Train and quantize the decision model, ensuring it meets low-latency requirements (e.g., sub-15ms inference).",
-        "Task 4: Implement a data ingestion pipeline using MQTT or Kafka to simulate real-time data streams.",
-        "Task 5: Develop a Python service (Flask/FastAPI) that loads the model and processes incoming data for immediate classification.",
-        "Task 6: Create a simple dashboard or logging mechanism to display detected anomalies and their probabilities."
-      ]
-    },
-    {
-      "title": "Agentic 'Skill-Scout' for Dev Environment Optimization",
-      "difficulty": "Medium",
-      "estimated_hours": 40,
-      "description": "Inspired by agentic systems that automate computer use and the need to preserve cognitive function, this project develops an agentic assistant that 'observes' a developer's environment and workflow (via accessible logs, terminal history, IDE extensions, or even screen OCR if permissions allow). Its primary goal is not to automate tasks directly, but to proactively identify repetitive patterns or suboptimal workflows and then suggest specific, context-aware optimizations, custom scripts, or external tools. For example, it could suggest a new alias based on frequent `git` commands, an IDE snippet for a repeated code block, or a small script to automate a common file manipulation task. The suggestions are presented with 'progressive disclosure', explaining the 'why' and 'how' to encourage learning and skill retention rather than blind automation.",
-      "tech_stack": [
-        "Python",
-        "LangChain/CrewAI (for agent orchestration and reasoning)",
-        "OS-level process monitoring (e.g., psutil, custom shell scripts)",
-        "IDE APIs/extensions (e.g., VS Code API)",
-        "Optional: OCR library (e.g., Tesseract, PaddleOCR) for screen context on macOS/Linux",
-        "Local LLM (e.g., Llama.cpp for suggestion generation/summarization)",
-        "Notification system (e.g., desktop notifications, simple web UI)"
-      ],
-      "source_inspiration": "typesafe-computer-use, agent-dispatcher, The Slow and Quiet Cognitive Atrophy of a Modern Software Engineer, Progressive Disclosure",
-      "steps": [
-        "Task 1: Define a set of 'observables' (e.g., shell history, file system changes, IDE usage statistics, clipboard content) the agent will monitor.",
-        "Task 2: Implement data collectors to gather information from these observables in a privacy-preserving manner.",
-        "Task 3: Develop a 'Skill-Scout' agent using an agentic framework, capable of identifying patterns and 'pain points' from the collected data.",
-        "Task 4: Integrate a local LLM to generate clear, concise, and progressively disclosed optimization suggestions based on identified patterns.",
-        "Task 5: Design a user interface for presenting suggestions, allowing the user to review, accept, or dismiss them.",
-        "Task 6: Implement a feedback mechanism for the agent to learn the effectiveness of its suggestions."
-      ]
-    },
-    {
-      "title": "Research Paper Teaser Figure & Concept Indexer",
-      "difficulty": "Medium",
-      "estimated_hours": 30,
-      "description": "Building on the `topconf-paper-figure-gallery` concept, this project creates an intelligent, automated system to ingest new research papers (e.g., from arXiv), extract their 'Figure 1' or teaser figures, and then use a vision-language model (VLM) or specialized image embedding model combined with text analysis of the abstract/summary to semantically categorize and index these figures. The goal is to create a searchable gallery that allows researchers or developers to find visual inspiration or understand emerging concepts not just by keywords, but by visual similarity, inferred methodology, or high-level conceptual classification. This system would help rapidly survey new research fronts and identify novel visualization techniques or core conceptual models emerging in papers.",
-      "tech_stack": [
-        "Python",
-        "PDF parsing libraries (e.g., PyMuPDF, pdfminer.six)",
-        "Image processing libraries (e.g., Pillow, OpenCV)",
-        "Local VLM (e.g., MiniGPT-4, BLIP-2 variants, or custom image embedding model with CLIP)",
-        "Vector database (e.g., ChromaDB, Faiss) for semantic search",
-        "Web scraping (for arXiv)",
-        "Flask/Django (for gallery interface)"
-      ],
-      "source_inspiration": "topconf-paper-figure-gallery, arXiv AI/ML Papers summaries, Designer-RSI (idea of agentic graphic design)",
-      "steps": [
-        "Task 1: Set up an arXiv scraper to monitor new submissions in relevant AI/ML categories and download PDFs.",
-        "Task 2: Develop a PDF parser to reliably extract the first figure (or figures explicitly labeled as 'teaser'/'overview') and the paper's abstract/summary.",
-        "Task 3: Integrate a local VLM or image embedding model to generate embeddings for extracted figures and text embeddings for summaries.",
-        "Task 4: Design a categorization scheme (e.g., 'architecture diagram', 'performance plot', 'conceptual model') and train/fine-tune a classifier or use prompt engineering with a VLM to classify figures.",
-        "Task 5: Implement a vector database to store figure embeddings, text embeddings, metadata, and categories, enabling semantic search.",
-        "Task 6: Build a web interface (Flask/Django) to browse the gallery, perform searches, and filter figures by category."
+        "Implement a simple multi-turn AI agent (e.g., a web search and summarization agent) using an existing framework like LangChain.",
+        "Develop a backend API to execute agent steps, capture all intermediate outputs (LLM calls, tool calls, observations), and manage agent state.",
+        "Design and build a frontend visualization interface that displays the agent's entire 'thought process' chronologically, with clear indications of tool usage and LLM interactions.",
+        "Integrate real-time interaction via WebSockets, allowing developers to pause the agent's execution and directly edit its current 'thought' or output.",
+        "Enable the ability to resume the agent's execution from the modified state, effectively allowing developers to 'steer' the agent.",
+        "Add a feature to save these corrected or guided trajectories as valuable training/alignment data."
       ]
     }
   ],
   "quick_actions": [
-    "Action 1: Dedicate 30 minutes today to identify and document one manual, repetitive task you perform (e.g., a specific file rename pattern, a code formatting step, a data entry chore). Outline the steps, and brainstorm how a small script or shortcut could automate at least part of it, without immediately building it.",
-    "Action 2: For an ongoing project or a new learning topic, write down the absolute minimum first step, followed by what would become apparent next, and then the next (3-5 steps). Practice 'progressive disclosure' in your own thinking/planning rather than trying to map out every single detail upfront or asking an AI for the full plan.",
-    "Action 3: Schedule a 60-minute 'AI-free zone' for tomorrow where you tackle a complex problem, debug a difficult issue, or design an architecture without consulting any LLM, search engine, or AI assistant. Focus on engaging your own critical thinking and problem-solving skills.",
-    "Action 4: Explore the documentation of your primary IDE or editor (e.g., VS Code, IntelliJ, Vim) for 15 minutes. Identify one keyboard shortcut, snippet, or built-in automation feature you're not currently using effectively, and integrate it into your workflow immediately."
+    "Dedicate 30 minutes daily to solve a coding problem or design challenge WITHOUT using an AI assistant, to actively maintain and hone your fundamental problem-solving skills.",
+    "Download and experiment with a local-first LLM (e.g., via Ollama or Llama.cpp). Spend time understanding its setup, capabilities, and limitations, and explore local RAG with some of your own data.",
+    "Identify one process in your current development workflow or a feature in your personal project where 'Progressive Disclosure' could be applied. Plan and implement a simpler, staged information delivery for users or fellow developers.",
+    "Schedule and commit to at least one hour of 'non-tech' personal time each day – engaging in hobbies, exercise, or social activities – to ensure a balanced life and prevent professional identity over-reliance."
   ]
 }
