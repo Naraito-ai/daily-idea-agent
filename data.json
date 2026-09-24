@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-23 10:24:19",
+  "last_updated": "2026-09-24 10:41:04",
   "scraped_sources": {
     "github": [
       {
         "name": "laya-mlx",
         "owner": "mizorewww",
         "description": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
-        "stars": 5719,
+        "stars": 6117,
         "url": "https://github.com/mizorewww/laya-mlx",
         "category": "AI / ML"
       },
@@ -14,31 +14,15 @@
         "name": "von",
         "owner": "wfzyx",
         "description": "The open-source System One decision model. Sub-15ms, non-autoregressive, local drop-in alternative to TypeSafe Jev.",
-        "stars": 528,
+        "stars": 613,
         "url": "https://github.com/wfzyx/von",
-        "category": "AI / ML"
-      },
-      {
-        "name": "awesome-typesafe-jev",
-        "owner": "AbdelStark",
-        "description": "Awesome Jev: a source-backed field guide to TypeSafe's System One model, with SDKs, live demos, agent tools, and independent evaluations.",
-        "stars": 486,
-        "url": "https://github.com/AbdelStark/awesome-typesafe-jev",
-        "category": "AI / ML"
-      },
-      {
-        "name": "topconf-paper-figure-gallery",
-        "owner": "qwdwqfwq",
-        "description": "A searchable gallery of 2,730 well-designed Figure 1 / teaser figures from ICLR, ICML, NeurIPS, CVPR, ACL, AAAI (2023-2025), tagged with Oral / Spotlight / Best-paper tiers.",
-        "stars": 369,
-        "url": "https://github.com/qwdwqfwq/topconf-paper-figure-gallery",
         "category": "AI / ML"
       },
       {
         "name": "openJev-verdict-2.0",
         "owner": "Heman10x-NGU",
         "description": "Calibrated 151M Non-Autoregressive Decision Engine beating TypeSafe Jev & Laya on LocalLLaMA/typed-decisions (77.10% acc, 0.0636 Brier, 0.0144 ECE)",
-        "stars": 273,
+        "stars": 283,
         "url": "https://github.com/Heman10x-NGU/openJev-verdict-2.0",
         "category": "AI / ML"
       },
@@ -46,7 +30,23 @@
         "name": "awesome-jev",
         "owner": "kraayenjon",
         "description": "A curated list of Jev use cases, projects, SDKs, and resources. Jev is TypeSafe AI's System One model for fast, typed decisions in software — Choice, Score, and Noul with calibrated probabilities.",
-        "stars": 114,
+        "stars": 130,
+        "url": "https://github.com/kraayenjon/awesome-jev",
+        "category": "AI / ML"
+      },
+      {
+        "name": "jev-capability-atlas",
+        "owner": "Zaious",
+        "description": "Independent, evidence-based map of when TypeSafe's Jev actually holds up vs. breaks down — real API-call receipts, not a leaderboard. 中文為主的雙語 repo。",
+        "stars": 26,
+        "url": "https://github.com/Zaious/jev-capability-atlas",
+        "category": "AI / ML"
+      },
+      {
+        "name": "awesome-jev",
+        "owner": "kraayenjon",
+        "description": "A curated list of Jev use cases, projects, SDKs, and resources. Jev is TypeSafe AI's System One model for fast, typed decisions in software — Choice, Score, and Noul with calibrated probabilities.",
+        "stars": 130,
         "url": "https://github.com/kraayenjon/awesome-jev",
         "category": "Automation / Productivity"
       },
@@ -54,82 +54,80 @@
         "name": "cli-faq-shortcuts",
         "owner": "kishormorol",
         "description": "An Agent Skill that turns the asks you keep typing into short commands, mined from your own Claude Code and Codex history. Works in Claude Code, Codex and Cursor.",
-        "stars": 101,
+        "stars": 103,
         "url": "https://github.com/kishormorol/cli-faq-shortcuts",
-        "category": "Automation / Productivity"
-      },
-      {
-        "name": "OpenDecision",
-        "owner": "deepanwadhwa",
-        "description": "OpenDecision is an open-source semantic decision engine like typesafe's jev.",
-        "stars": 55,
-        "url": "https://github.com/deepanwadhwa/OpenDecision",
         "category": "Automation / Productivity"
       },
       {
         "name": "agent-dispatcher",
         "owner": "nahid-sparktales",
         "description": "Repository retrieval and context engine for Claude Code and Codex: finds relevant code, reuses project knowledge, and pairs each task with specialist skills and verification.",
-        "stars": 47,
+        "stars": 50,
         "url": "https://github.com/nahid-sparktales/agent-dispatcher",
         "category": "Automation / Productivity"
       },
       {
-        "name": "pojia-next",
-        "owner": "z91772524-ai",
-        "description": "一个脚本搞定 DSH / WorkBuddy / ZCode / Codex / Cursor / Claude 六客户端的提示词与人格替换：零依赖、双击即用、可自证、改前备份、一键还原。附 bandit/semgrep 扫描与 SHA256 校验。",
-        "stars": 34,
-        "url": "https://github.com/z91772524-ai/pojia-next",
+        "name": "Mac-Arch-Installer",
+        "owner": "AyaseEli-Bing",
+        "description": "Mac 虚拟机安装 Arch Linux 懒人包｜在 Apple Silicon + Parallels Desktop 上自动安装 Arch Linux ARM（官方 ISO 仅 x86_64，无法直接启动）",
+        "stars": 28,
+        "url": "https://github.com/AyaseEli-Bing/Mac-Arch-Installer",
+        "category": "Automation / Productivity"
+      },
+      {
+        "name": "Jev-Register-Tool",
+        "owner": "2951461586",
+        "description": "TypeSafe（Jev / System One）申请 → 确认邮件 → 获批 → 注册 → 建 API Key 全链路工具，纯 HTTP 无浏览器",
+        "stars": 26,
+        "url": "https://github.com/2951461586/Jev-Register-Tool",
         "category": "Automation / Productivity"
       }
     ],
     "hacker_news": [
       {
-        "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
-        "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
-        "score": 661
+        "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
+        "url": "https://transluce.org/agent-activity",
+        "score": 139
+      },
+      {
+        "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
+        "url": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
+        "score": 135
+      },
+      {
+        "title": "Contrastive Language Models",
+        "url": "https://contrastive-lm.notion.site/",
+        "score": 80
       }
     ],
     "arxiv": [
       {
-        "title": "Flash-dLLM: IO-Aware KV Caching and Parallel Decoding for Fast, Memory-Efficient Diffusion LLMs",
-        "summary": "Diffusion Large Language Models (dLLMs) have recently emerged as a promising alternative to autoregressive LLMs by enabling non-autoregressive text generation. However, their practical deployment rema...",
-        "url": "http://arxiv.org/abs/2609.26796v1"
+        "title": "On the Diffusibility of High-Dimensional Latents",
+        "summary": "Representation Autoencoders (RAEs) enable diffusion models to operate in the feature spaces of pretrained visual encoders. However, many off-the-shelf encoders are not optimized for faithful reconstru...",
+        "url": "http://arxiv.org/abs/2609.28473v1"
       },
       {
-        "title": "A Decentralized Partially Observable Team Decision Methodology with Delayed Information Sharing",
-        "summary": "We study decentralized partially observable team decision problems with low-rank latent dynamics and unknown system models. The proposed framework combines team-theoretic equivalence with low-rank mod...",
-        "url": "http://arxiv.org/abs/2609.26783v1"
+        "title": "Contrastive Learning for Authorship Verification",
+        "summary": "Our results show that contrastive learning outperforms a classification-based approach to authorship verification under the tested settings. We identify loss function, batch size, training duration, p...",
+        "url": "http://arxiv.org/abs/2609.28471v1"
       },
       {
-        "title": "Agensh: Scaling Organizational Intelligence to 1,024 Agents",
-        "summary": "A multi-agent system can reduce latency on complex tasks by executing work concurrently. Several pioneering harness frameworks support multi-agent systems. However, the scalability of current multi-ag...",
-        "url": "http://arxiv.org/abs/2609.26781v1"
+        "title": "StudentBench: AI and human tutoring yield equivalent GRE learning gains",
+        "summary": "Artificial intelligence offers an unprecedented opportunity to augment human capabilities, yet progress at the frontier has focused primarily on advancing model capabilities. We introduce StudentBench...",
+        "url": "http://arxiv.org/abs/2609.28470v1"
       },
       {
-        "title": "SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue",
-        "summary": "Long-term conversational memory in multi-party settings requires more than retrieving relevant content from long-term conversations: it must distinguish who said what, whom each statement concerns, ho...",
-        "url": "http://arxiv.org/abs/2609.26780v1"
+        "title": "Where Should I Join? Robot Group Joining via Language-Guided Goal Prediction",
+        "summary": "Social navigation typically assumes a specified goal and focuses on reaching it while respecting social conventions, whereas robot group joining requires predicting where to join based on the group's ...",
+        "url": "http://arxiv.org/abs/2609.28467v1"
       },
       {
-        "title": "CliffCompaction: Cost-Efficient Compaction for Long-Horizon Coding Agents",
-        "summary": "Agents often work on complex problems that require millions of tokens of context, which necessitates compacting across sessions due to limited context windows. We develop CliffCompaction, an autocompa...",
-        "url": "http://arxiv.org/abs/2609.26779v1"
+        "title": "Even Sharper Bounds for Transductive Learning and Its Applications",
+        "summary": "We introduce Sharper Transductive Local Complexity (STLC), a localized complexity method for transductive learning under uniform sampling without replacement. The construction starts from a Bernstein-...",
+        "url": "http://arxiv.org/abs/2609.28459v1"
       }
     ],
     "devto": [
-      {
-        "title": "Progressive Disclosure: What, Where, When, and Why",
-        "description": "Do you remember when we first started using AGENTS.md files?   You would have a project root file...",
-        "url": "https://dev.to/reporails/progressive-disclosure-what-where-when-and-why-36m3",
-        "reactions": 22
-      },
-      {
-        "title": "Building PoCs with Codex and GitHub Copilot while they try to adjust my PoC requirements along the way",
-        "description": "But Amara, you didn't include MY favorite AI!",
-        "url": "https://dev.to/missamarakay/building-pocs-with-codex-and-github-copilot-while-they-try-to-adjust-my-poc-requirements-along-the-1fc9",
-        "reactions": 24
-      },
       {
         "title": "GMail, please let me hide delegated accounts on my iPhone",
         "description": "Gmail's delegated accounts have started showing up in the app on my iPhone, and I find this...",
@@ -140,89 +138,106 @@
         "title": "Why AI Coding Agents Crash at 3 AM: The Happy-Path Mirage & The Forced Continuity Defect",
         "description": "Why LLMs fail in production, why \"more RLHF\" cannot fix it, and how transferring 3 AM pager-duty trauma gives autonomous coding agents real survival instincts.",
         "url": "https://dev.to/gde/why-ai-coding-agents-crash-at-3-am-the-happy-path-mirage-the-forced-continuity-defect-46pd",
-        "reactions": 10
+        "reactions": 12
       },
       {
         "title": "Blacksmith's GitHub Actions runners finished the same job 3 to 4 times faster than GitHub hosted Actions, across 10 trials",
         "description": "I benchmarked Blacksmith against github-hosted ubuntu-latest with 10 repeated trials each on an identical GitHub Actions job. Blacksmith ran 3.17x to 3.77x faster with noticeably tighter variance, but it wouldn't even queue until I moved the repo into an organization.",
         "url": "https://dev.to/alexgeorgiev17/blacksmiths-github-actions-runners-finished-the-same-job-3-to-4-times-faster-than-github-hosted-59oj",
-        "reactions": 22
+        "reactions": 23
+      },
+      {
+        "title": "Traditional Coding vs Agentic Coding: The Flow State Problem",
+        "description": "One of the things I've always enjoyed about coding is getting completely locked into a problem. You...",
+        "url": "https://dev.to/bradtraversy/traditional-coding-vs-agentic-coding-the-flow-state-problem-57p5",
+        "reactions": 32
+      },
+      {
+        "title": "Dev log #22 Tearing out the old: Deleting 3,800 lines of legacy p2p code",
+        "description": "Hi, glad you found your way here. I'm Yash, a developer who contributes to open source, mostly p2p...",
+        "url": "https://dev.to/yashksaini/dev-log-22-tearing-out-the-old-deleting-3800-lines-of-legacy-p2p-code-3n0i",
+        "reactions": 40
       }
     ]
   },
-  "trends": "Today's tech landscape is highly focused on optimizing AI models for speed, efficiency, and local execution, particularly for specific, typed decision-making tasks (e.g., sub-15ms inference for 'Choice, Score, Noul' models like Jev and Laya). Concurrently, there's a strong drive to enhance the capabilities and robustness of AI agentic systems, tackling challenges like scalability, persistent context management over long tasks, and graceful failure handling. Developer productivity remains a core theme, with increasing reliance on AI coding assistants (Copilot, Codex) and a demand for optimizing development workflows, exemplified by faster CI/CD runners and tools for personalizing AI agent interactions and managing complex prompts. The broader AI frontier continues to advance with breakthroughs in complex problem-solving, while research explores non-autoregressive LLMs and decentralized decision methodologies, all pointing towards more specialized, efficient, and resilient AI systems integrated deeply into developer tooling.",
+  "trends": "Today's tech landscape in AI and development is characterized by a strong push towards highly specialized, local-first AI models for rapid, precise decision-making, moving beyond generalized large language models for specific high-performance tasks. Simultaneously, there's a significant focus on agentic AI for developer productivity, but with an emerging critical awareness of its real-world reliability challenges, such as 'happy-path mirages' and 'forced continuity defects' that lead to failures in complex workflows. This duality highlights a demand for both efficient, purpose-built AI and robust, observable agentic systems. Furthermore, overall developer productivity is being optimized through tools that automate repetitive tasks, enhance CLI interaction, and accelerate CI/CD pipelines, all while grappling with the implications of AI's integration into traditional coding 'flow states' and its security considerations.",
   "ideas": [
     {
-      "title": "Edge-Native Predictive Form & UI Assistant",
+      "title": "Local-First 'System One' Decision Microservice for Edge Analytics",
+      "difficulty": "Medium",
+      "estimated_hours": 20,
+      "description": "Leveraging the trend of fast, local, non-autoregressive decision models like Jev and MLX, this project involves building a lightweight microservice. Its purpose is to perform rapid 'System One' type decisions (e.g., fraud scoring, content categorization, anomaly detection) directly on edge devices or within a tightly scoped backend environment. The goal is sub-15ms inference times, reducing reliance on expensive and high-latency cloud APIs for common, high-volume decisions, and ensuring data privacy by keeping processing local. This would be ideal for scenarios requiring quick, calibrated probabilistic outcomes without the overhead of full LLMs.",
+      "tech_stack": [
+        "Python",
+        "MLX (for Apple Silicon) or ONNX Runtime (for cross-platform)",
+        "FastAPI/Flask",
+        "Docker",
+        "SQLite (for local model storage/metadata)"
+      ],
+      "source_inspiration": "laya-mlx, von, openJev-verdict-2.0 GitHub repositories",
+      "steps": [
+        "Research and select a suitable fast decision model framework (e.g., MLX for M-series Macs, or ONNX Runtime with a pre-trained model like a small XGBoost or LightGBM).",
+        "Define a specific, simple decision task suitable for 'System One' type AI (e.g., 'classify email as spam/not-spam' based on header features).",
+        "Create or acquire a small, relevant dataset for training and evaluation.",
+        "Implement and train a local decision model, focusing on speed and accuracy. Export it to a portable format if using ONNX.",
+        "Develop a lightweight API (using FastAPI or Flask) to expose the model for inference.",
+        "Containerize the microservice using Docker for easy deployment and portability.",
+        "Benchmark inference speeds and accuracy, comparing against a simple rule-based system or a hypothetical cloud API call."
+      ]
+    },
+    {
+      "title": "Agentic Workflow Resilience Auditor & Debugger",
+      "difficulty": "Hard",
+      "estimated_hours": 40,
+      "description": "Inspired by the challenges of 'AI Coding Agents Crash at 3 AM,' this project aims to build a tool that helps developers debug and improve the reliability of their AI agent workflows. The 'Agentic Workflow Resilience Auditor' would observe agent execution, log all intermediate steps (prompts, tool calls, tool outputs, agent thoughts), and then analyze these traces for common failure patterns like the 'happy-path mirage' (agents assuming success without robust error handling) or 'forced continuity defect' (agents getting stuck trying to force an outcome). It would provide visualizations and actionable insights to strengthen agent prompts and tool integrations, making agents more robust in production.",
+      "tech_stack": [
+        "Python",
+        "LangChain / CrewAI / AutoGen (for agent orchestration)",
+        "Logging Framework (e.g., Loguru)",
+        "Database (PostgreSQL / SQLite for trace storage)",
+        "Web Framework (e.g., Streamlit / Dash for visualization)",
+        "Natural Language Processing (for analyzing agent thoughts/logs)"
+      ],
+      "source_inspiration": "Why AI Coding Agents Crash at 3 AM: The Happy-Path Mirage & The Forced Continuity Defect (Dev.to article)",
+      "steps": [
+        "Set up a sample multi-step AI agent workflow (e.g., an agent that researches an API, writes code, and tests it) using a framework like LangChain.",
+        "Instrument the agent's execution to log every interaction: input, agent decision, tool used, tool output, and observed outcome, including timestamps.",
+        "Develop a data model and storage mechanism (e.g., SQLite) to persist these detailed execution traces.",
+        "Implement analysis logic to identify common failure patterns: repeated errors, loops, unhandled exceptions, and 'premature success' signals.",
+        "Create a dashboard (using Streamlit or Dash) to visualize agent traces, highlight failure points, and categorize identified defects.",
+        "Develop a feedback mechanism where developers can annotate traces with 'expected behavior' or 'root cause' for continuous learning.",
+        "Integrate basic NLP to summarize failure modes or suggest prompt refinements based on recurring issues."
+      ]
+    },
+    {
+      "title": "Contextual Developer 'Skill Agent' for CLI & IDE",
       "difficulty": "Medium",
       "estimated_hours": 30,
-      "description": "Develop a lightweight, local-first AI module that can be integrated directly into web or mobile UIs to provide instant, type-safe decisions. Imagine a complex form where, as a user types, the assistant immediately validates inputs, suggests auto-completions for structured data (e.g., product codes, service types), or dynamically adjusts subsequent form fields based on prior choices. This goes beyond simple regex validation by using a small ML model trained on common patterns or business rules. Leveraging technologies like MLX, this assistant would run entirely on the client (or edge server), offering sub-15ms response times, enhancing user experience without server roundtrips.",
+      "description": "Building on the concepts of 'cli-faq-shortcuts' and 'agent-dispatcher,' this project creates a personal, context-aware 'skill agent' that proactively enhances developer productivity. Instead of just short-commands, it leverages local codebases, documentation, and personal usage history to offer intelligent suggestions for complex CLI commands, API usage, or even boilerplate code snippets, directly within the terminal or IDE. It would understand the developer's current project context and suggest 'skills' (e.g., 'how to run tests for this module,' 'syntax for a common ORM query in this project') mined from past actions or project knowledge, making it a truly 'smart' assistant.",
       "tech_stack": [
-        "Python (MLX for model training/conversion)",
-        "TypeScript/JavaScript",
-        "WebAssembly (for browser deployment)",
-        "Optional: React/Vue/Angular for UI integration"
+        "Python",
+        "Shell Scripting (Bash/Zsh integration)",
+        "Local Embedding Models (e.g., Sentence Transformers)",
+        "Vector Database (e.g., ChromaDB, FAISS for local embeddings)",
+        "CLI Framework (e.g., Click, Typer)",
+        "Regex / AST Parsers (for code/documentation analysis)"
       ],
-      "source_inspiration": "laya-mlx, von, openJev-verdict-2.0 (emphasis on fast, local, typed decision models)",
+      "source_inspiration": "cli-faq-shortcuts, agent-dispatcher GitHub repositories",
       "steps": [
-        "Task 1: Identify a common UI decision problem (e.g., validating a sequence of inputs, suggesting next steps in a wizard, dynamic pricing based on a few parameters).",
-        "Task 2: Collect or generate a small, representative dataset for the chosen decision problem, including input features and desired output types (Choice, Score, Noul).",
-        "Task 3: Train a simple decision model (e.g., a shallow neural network, a boosted tree) using Python and a framework like PyTorch or JAX.",
-        "Task 4: Convert the trained model to a format compatible with MLX (if using Python) or explore options for compiling to WebAssembly (e.g., ONNX Runtime Web, TensorFlow.js).",
-        "Task 5: Develop a client-side (TypeScript/JavaScript) library that loads the WebAssembly model and exposes a simple API for predictions.",
-        "Task 6: Integrate the client-side library into a sample UI (e.g., a React component) to demonstrate real-time, local decision-making and measure performance."
-      ]
-    },
-    {
-      "title": "Adaptive 'Survival-Instinct' Code Agent for Non-Trivial Refactoring",
-      "difficulty": "Hard",
-      "estimated_hours": 60,
-      "description": "Building on the insights about AI agents failing on non-happy paths and the need for robust context, this project aims to create a coding agent focused on complex refactoring tasks. The agent will maintain a 'persistent problem context' (similar to CliffCompaction for long-horizon agents) across multiple attempts. When a refactoring step fails (e.g., CI/CD error, test failure), instead of giving up, it analyzes the failure (using internal LLM reasoning), updates its understanding of the code's constraints and the problem, and proposes an alternative strategy. It will employ a 'pre-mortem' step, simulating potential failure modes before acting, and suggest rollback strategies, making it more robust and 'aware' of its own limitations.",
-      "tech_stack": [
-        "Python (for orchestration and agent logic)",
-        "Local LLM (e.g., Llama.cpp, Ollama for internal reasoning)",
-        "Git (for version control and rollback)",
-        "AST parsers (e.g., `ast` module in Python, `ts-morph` for TypeScript) for code analysis",
-        "Testing frameworks (e.g., Pytest, Jest) for validation"
-      ],
-      "source_inspiration": "Why AI Coding Agents Crash at 3 AM: The Happy-Path Mirage & The Forced Continuity Defect, CliffCompaction: Cost-Efficient Compaction for Long-Horizon Coding Agents, agent-dispatcher",
-      "steps": [
-        "Task 1: Set up an agent execution environment capable of interacting with a codebase (read, write, execute tests, commit changes).",
-        "Task 2: Implement a 'persistent problem context' mechanism: a structured knowledge base (e.g., a YAML or JSON file) that stores code structure, refactoring goals, identified constraints, and a history of successful/failed attempts.",
-        "Task 3: Develop a core 'Refactor Planning' module that, given a task and current context, generates a sequence of refactoring actions using a local LLM.",
-        "Task 4: Implement a 'Failure Analysis & Adaptation' module: if an action fails (e.g., tests break), analyze the error messages and update the 'persistent problem context' with new constraints or insights, then regenerate a plan.",
-        "Task 5: Integrate a version control system (Git) for checkpointing before major changes and implementing rollback capabilities.",
-        "Task 6: Create a 'Pre-Mortem' step where the agent simulates the impact of its planned changes on known code patterns or potential error sources, using its internal knowledge and LLM reasoning."
-      ]
-    },
-    {
-      "title": "Visual AI/ML Paper Diagram-to-Code Generator",
-      "difficulty": "Medium",
-      "estimated_hours": 40,
-      "description": "Develop a tool that can parse common AI/ML architectural diagrams (e.g., 'Figure 1' from papers showing network layouts, data pipelines) and generate skeletal code for popular ML frameworks like PyTorch or TensorFlow. Users upload an image, and the system identifies components (e.g., Conv2D, MaxPooling, FullyConnected layers), connections, and flow, then outputs a basic Python class with the `__init__` and `forward` methods, including placeholders for specific layer parameters. This streamlines the process of translating academic research into practical implementations, leveraging the insight that visual representations are key in papers.",
-      "tech_stack": [
-        "Python (for backend logic)",
-        "OpenCV/Pillow (for image processing)",
-        "YOLO or similar object detection model (to identify diagram elements) - potentially fine-tuned",
-        "OCR library (e.g., Tesseract) for text extraction from diagrams",
-        "PyTorch/TensorFlow (for code generation templates)",
-        "Streamlit/Flask for a simple web interface"
-      ],
-      "source_inspiration": "topconf-paper-figure-gallery (highlights importance of visual figures in research), Building PoCs with Codex and GitHub Copilot (shows desire for AI-assisted code generation)",
-      "steps": [
-        "Task 1: Design a vocabulary of common ML diagram components (e.g., Conv, Pool, Dense, Activation, Skip Connection, arrows) and their visual representations.",
-        "Task 2: Curate a dataset of architectural diagrams from papers (potentially using `topconf-paper-figure-gallery` as a starting point) and manually label components and connections.",
-        "Task 3: Train or fine-tune an object detection model (e.g., YOLOv8) to identify these components within an uploaded image.",
-        "Task 4: Implement image processing and graph construction logic to represent the detected components and their connections as a directed graph.",
-        "Task 5: Develop a code generation engine that translates this graph representation into a skeletal Python class for PyTorch or TensorFlow, including appropriate layer definitions and `forward` pass logic.",
-        "Task 6: Build a simple web interface (e.g., Streamlit or Flask with a basic HTML form) for users to upload images and view the generated code."
+        "Develop a data ingestion module to process developer's shell history, project READMEs, and selected code files (e.g., common utility scripts).",
+        "Implement a local embedding pipeline using Sentence Transformers to convert text snippets (commands, code comments, FAQs) into vector representations.",
+        "Set up a local vector database (e.g., ChromaDB) to store these embeddings and enable efficient similarity search.",
+        "Build a CLI interface that captures current shell context (current directory, partial command input) and queries the vector database.",
+        "Implement logic to suggest relevant commands, file paths, or even code snippets based on the context and similarity scores.",
+        "Add a 'learning' mechanism where the tool can observe successful command executions or user-defined aliases and integrate them into its knowledge base.",
+        "Explore basic IDE integration (e.g., a VS Code extension) to provide contextual suggestions directly within the editor."
       ]
     }
   ],
   "quick_actions": [
-    "Action 1: Dedicate 1-2 hours this week to explore and run a local decision model like `laya-mlx` or a 'Jev' alternative to understand its API and performance characteristics.",
-    "Action 2: Identify 3-5 frequently used commands or prompt sequences for your AI coding assistant (Copilot Chat, Claude Code, Cursor) and create custom CLI aliases or script wrappers to automate their execution.",
-    "Action 3: For your next coding task, explicitly document the 'failure conditions' or 'edge cases' you anticipate, and consider how an AI agent (or even you) would handle them beyond the 'happy path'.",
-    "Action 4: Benchmark a critical part of your current CI/CD pipeline (e.g., a test suite or build step) by running it multiple times, then research and note down 2-3 potential optimizations like specialized runners or caching strategies."
+    "Action 1: Dedicate 30 minutes to exploring a local-first AI framework (e.g., MLX or ONNX Runtime) by running a simple inference example to understand its performance and deployment benefits.",
+    "Action 2: For your next small coding task involving an AI agent, create explicit logging for every step, including tool calls and agent 'thoughts,' to proactively identify potential 'happy-path mirage' or 'forced continuity defect' scenarios.",
+    "Action 3: Benchmark your existing CI/CD pipeline (e.g., a GitHub Actions workflow) and research options for custom/self-hosted runners, aiming to reduce build times by at least 2x, inspired by performance optimization trends.",
+    "Action 4: Start a 'decision log' for any critical actions or outputs generated by AI agents you use, noting the context, the agent's output, and why you accepted or rejected it. This practice builds 'survival instincts' and helps identify systemic agent failures."
   ]
 }
