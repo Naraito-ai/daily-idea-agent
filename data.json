@@ -1,62 +1,46 @@
 {
-  "last_updated": "2026-09-24 10:41:04",
+  "last_updated": "2026-09-25 10:44:37",
   "scraped_sources": {
     "github": [
       {
         "name": "laya-mlx",
         "owner": "mizorewww",
         "description": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
-        "stars": 6117,
+        "stars": 6284,
         "url": "https://github.com/mizorewww/laya-mlx",
-        "category": "AI / ML"
-      },
-      {
-        "name": "von",
-        "owner": "wfzyx",
-        "description": "The open-source System One decision model. Sub-15ms, non-autoregressive, local drop-in alternative to TypeSafe Jev.",
-        "stars": 613,
-        "url": "https://github.com/wfzyx/von",
         "category": "AI / ML"
       },
       {
         "name": "openJev-verdict-2.0",
         "owner": "Heman10x-NGU",
         "description": "Calibrated 151M Non-Autoregressive Decision Engine beating TypeSafe Jev & Laya on LocalLLaMA/typed-decisions (77.10% acc, 0.0636 Brier, 0.0144 ECE)",
-        "stars": 283,
+        "stars": 285,
         "url": "https://github.com/Heman10x-NGU/openJev-verdict-2.0",
         "category": "AI / ML"
       },
       {
-        "name": "awesome-jev",
-        "owner": "kraayenjon",
-        "description": "A curated list of Jev use cases, projects, SDKs, and resources. Jev is TypeSafe AI's System One model for fast, typed decisions in software — Choice, Score, and Noul with calibrated probabilities.",
-        "stars": 130,
-        "url": "https://github.com/kraayenjon/awesome-jev",
+        "name": "Simreal-MLBench",
+        "owner": "Simreal-AI",
+        "description": "[Public preview] Externally scored agentic ML research benchmark: 60 tasks, real competition ground truth. Open protocol, operated evaluation.",
+        "stars": 63,
+        "url": "https://github.com/Simreal-AI/Simreal-MLBench",
         "category": "AI / ML"
       },
       {
-        "name": "jev-capability-atlas",
-        "owner": "Zaious",
-        "description": "Independent, evidence-based map of when TypeSafe's Jev actually holds up vs. breaks down — real API-call receipts, not a leaderboard. 中文為主的雙語 repo。",
-        "stars": 26,
-        "url": "https://github.com/Zaious/jev-capability-atlas",
+        "name": "FleXray",
+        "owner": "VictorButoi",
+        "description": "FleXray: Universal Clinical X-ray Segmentation",
+        "stars": 29,
+        "url": "https://github.com/VictorButoi/FleXray",
         "category": "AI / ML"
       },
       {
-        "name": "awesome-jev",
-        "owner": "kraayenjon",
-        "description": "A curated list of Jev use cases, projects, SDKs, and resources. Jev is TypeSafe AI's System One model for fast, typed decisions in software — Choice, Score, and Noul with calibrated probabilities.",
-        "stars": 130,
-        "url": "https://github.com/kraayenjon/awesome-jev",
-        "category": "Automation / Productivity"
-      },
-      {
-        "name": "cli-faq-shortcuts",
-        "owner": "kishormorol",
-        "description": "An Agent Skill that turns the asks you keep typing into short commands, mined from your own Claude Code and Codex history. Works in Claude Code, Codex and Cursor.",
-        "stars": 103,
-        "url": "https://github.com/kishormorol/cli-faq-shortcuts",
-        "category": "Automation / Productivity"
+        "name": "Snake-Game-Reinforcement-Project",
+        "owner": "mirzayasirabdullahbaig07",
+        "description": "A self-taught Snake agent built with Deep Q-Learning, PyTorch, and Pygame. No hand-coded strategy — the snake starts out clueless and learns entirely through trial and error, reward by reward, game by game.",
+        "stars": 21,
+        "url": "https://github.com/mirzayasirabdullahbaig07/Snake-Game-Reinforcement-Project",
+        "category": "AI / ML"
       },
       {
         "name": "agent-dispatcher",
@@ -78,67 +62,78 @@
         "name": "Jev-Register-Tool",
         "owner": "2951461586",
         "description": "TypeSafe（Jev / System One）申请 → 确认邮件 → 获批 → 注册 → 建 API Key 全链路工具，纯 HTTP 无浏览器",
-        "stars": 26,
+        "stars": 28,
         "url": "https://github.com/2951461586/Jev-Register-Tool",
+        "category": "Automation / Productivity"
+      },
+      {
+        "name": "evoke",
+        "owner": "evoke-build",
+        "description": "Software, by reflex. Say it, and the right small program runs: chosen by a calibrated classifier, run only when it is sure enough, and it asks before anything that cannot be undone. A CLI, a package manager and a TypeScript SDK: the first implementation of the idea.",
+        "stars": 16,
+        "url": "https://github.com/evoke-build/evoke",
+        "category": "Automation / Productivity"
+      },
+      {
+        "name": "1point3acres-toolkit",
+        "owner": "vivian-labs",
+        "description": "一亩三分地自动签到 + 每日答题：在你自己电脑的 Chrome 里、用你自己的登录完成，不经过第三方；也是给 Claude Code / Codex 用的 MCP 服务。1point3acres daily check-in & quiz automation, local-only, plus an MCP server for AI assistants.",
+        "stars": 10,
+        "url": "https://github.com/vivian-labs/1point3acres-toolkit",
         "category": "Automation / Productivity"
       }
     ],
     "hacker_news": [
       {
-        "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
-        "url": "https://transluce.org/agent-activity",
-        "score": 139
+        "title": "Running local LLMs on your Mac: what fits, what's free, and what's overkill",
+        "url": "https://typetab.app/blog/local-llms-on-your-mac",
+        "score": 8
       },
       {
-        "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
-        "url": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
-        "score": 135
-      },
-      {
-        "title": "Contrastive Language Models",
-        "url": "https://contrastive-lm.notion.site/",
-        "score": 80
+        "title": "Rails World 2026 Opening Keynote [video]",
+        "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
+        "score": 339
       }
     ],
     "arxiv": [
       {
-        "title": "On the Diffusibility of High-Dimensional Latents",
-        "summary": "Representation Autoencoders (RAEs) enable diffusion models to operate in the feature spaces of pretrained visual encoders. However, many off-the-shelf encoders are not optimized for faithful reconstru...",
-        "url": "http://arxiv.org/abs/2609.28473v1"
+        "title": "LLM Agents Can Easily Tamper With Their Own Traces",
+        "summary": "Asynchronous monitoring, incident investigations, and compliance audits primarily rely on agent traces to reconstruct what happened. These analyses assume that LLM agents cannot tamper with their own ...",
+        "url": "http://arxiv.org/abs/2609.30266v1"
       },
       {
-        "title": "Contrastive Learning for Authorship Verification",
-        "summary": "Our results show that contrastive learning outperforms a classification-based approach to authorship verification under the tested settings. We identify loss function, batch size, training duration, p...",
-        "url": "http://arxiv.org/abs/2609.28471v1"
+        "title": "AD-WM: Action-Discriminative World Models for Counterfactual Model Predictive Control",
+        "summary": "Latent world models are typically trained to predict factual transitions, whereas model predictive control (MPC) must compare alternative actions from the same state. A model can therefore achieve low...",
+        "url": "http://arxiv.org/abs/2609.30264v1"
       },
       {
-        "title": "StudentBench: AI and human tutoring yield equivalent GRE learning gains",
-        "summary": "Artificial intelligence offers an unprecedented opportunity to augment human capabilities, yet progress at the frontier has focused primarily on advancing model capabilities. We introduce StudentBench...",
-        "url": "http://arxiv.org/abs/2609.28470v1"
+        "title": "Temporal Gradient Inversion for Private Trajectory Reconstruction in Embodied Reinforcement Learning",
+        "summary": "Distributed learning in embodied reinforcement-learning agents offers a degree of privacy by retaining raw sensor data on-device and transmitting only policy gradients to the server. Yet temporal stru...",
+        "url": "http://arxiv.org/abs/2609.30258v1"
       },
       {
-        "title": "Where Should I Join? Robot Group Joining via Language-Guided Goal Prediction",
-        "summary": "Social navigation typically assumes a specified goal and focuses on reaching it while respecting social conventions, whereas robot group joining requires predicting where to join based on the group's ...",
-        "url": "http://arxiv.org/abs/2609.28467v1"
+        "title": "Agentic Detection of Online Conspiracies",
+        "summary": "Conspiratorial discourse on social media is not always expressed through explicit claims or stable lexical markers. The same surface content may express endorsement, legitimate concerns, criticism, sa...",
+        "url": "http://arxiv.org/abs/2609.30250v1"
       },
       {
-        "title": "Even Sharper Bounds for Transductive Learning and Its Applications",
-        "summary": "We introduce Sharper Transductive Local Complexity (STLC), a localized complexity method for transductive learning under uniform sampling without replacement. The construction starts from a Bernstein-...",
-        "url": "http://arxiv.org/abs/2609.28459v1"
+        "title": "RAPID: Robot Agentic Programming from Demonstrations",
+        "summary": "Coding agents have demonstrated enormous success in solving complex programming problems. To leverage their potential for robot systems, this work introduces Robot Agentic Programming from Demonstrati...",
+        "url": "http://arxiv.org/abs/2609.30249v1"
       }
     ],
     "devto": [
+      {
+        "title": "Why AI Coding Agents Crash at 3 AM: The Happy-Path Mirage & The Forced Continuity Defect",
+        "description": "Why LLMs fail in production, why \"more RLHF\" cannot fix it, and how transferring 3 AM pager-duty trauma gives autonomous coding agents real survival instincts.",
+        "url": "https://dev.to/gde/why-ai-coding-agents-crash-at-3-am-the-happy-path-mirage-the-forced-continuity-defect-46pd",
+        "reactions": 13
+      },
       {
         "title": "GMail, please let me hide delegated accounts on my iPhone",
         "description": "Gmail's delegated accounts have started showing up in the app on my iPhone, and I find this...",
         "url": "https://dev.to/peter/gmail-please-let-me-hide-delegated-accounts-on-my-iphone-30e",
         "reactions": 16
-      },
-      {
-        "title": "Why AI Coding Agents Crash at 3 AM: The Happy-Path Mirage & The Forced Continuity Defect",
-        "description": "Why LLMs fail in production, why \"more RLHF\" cannot fix it, and how transferring 3 AM pager-duty trauma gives autonomous coding agents real survival instincts.",
-        "url": "https://dev.to/gde/why-ai-coding-agents-crash-at-3-am-the-happy-path-mirage-the-forced-continuity-defect-46pd",
-        "reactions": 12
       },
       {
         "title": "Blacksmith's GitHub Actions runners finished the same job 3 to 4 times faster than GitHub hosted Actions, across 10 trials",
@@ -160,84 +155,79 @@
       }
     ]
   },
-  "trends": "Today's tech landscape in AI and development is characterized by a strong push towards highly specialized, local-first AI models for rapid, precise decision-making, moving beyond generalized large language models for specific high-performance tasks. Simultaneously, there's a significant focus on agentic AI for developer productivity, but with an emerging critical awareness of its real-world reliability challenges, such as 'happy-path mirages' and 'forced continuity defects' that lead to failures in complex workflows. This duality highlights a demand for both efficient, purpose-built AI and robust, observable agentic systems. Furthermore, overall developer productivity is being optimized through tools that automate repetitive tasks, enhance CLI interaction, and accelerate CI/CD pipelines, all while grappling with the implications of AI's integration into traditional coding 'flow states' and its security considerations.",
+  "trends": "Today's tech trends are heavily focused on **agentic AI systems**, pushing the boundaries of autonomous task execution in various domains, from robot programming to code generation, while simultaneously grappling with their reliability, safety, and trace tampering challenges. Parallel to this, there's a significant drive towards **local, efficient AI/ML inference**, prioritizing specialized models for 'short decisions' on edge devices (like Apple Silicon) to ensure speed, cost-effectiveness, and privacy, reducing reliance on large cloud-based LLMs. This dual focus fuels advancements in **developer productivity and automation**, leveraging AI and specialized tools to streamline workflows, accelerate CI/CD, and simplify complex environment setups, fundamentally shifting how developers interact with and create software, with a critical eye on the 'happy-path mirage' of AI reliability.",
   "ideas": [
     {
-      "title": "Local-First 'System One' Decision Microservice for Edge Analytics",
+      "title": "Local Context-Aware Smart Agent for Focus Management",
       "difficulty": "Medium",
       "estimated_hours": 20,
-      "description": "Leveraging the trend of fast, local, non-autoregressive decision models like Jev and MLX, this project involves building a lightweight microservice. Its purpose is to perform rapid 'System One' type decisions (e.g., fraud scoring, content categorization, anomaly detection) directly on edge devices or within a tightly scoped backend environment. The goal is sub-15ms inference times, reducing reliance on expensive and high-latency cloud APIs for common, high-volume decisions, and ensuring data privacy by keeping processing local. This would be ideal for scenarios requiring quick, calibrated probabilistic outcomes without the overhead of full LLMs.",
+      "description": "Build a personal AI agent that runs entirely locally on your machine (e.g., Mac with MLX, or any platform with a small ONNX model). This agent monitors your active applications, calendar events, and system status (e.g., headset connected, screen sharing) to infer your current context (e.g., 'Deep Work,' 'Meeting,' 'Break,' 'Learning'). Based on this, it automates productivity adjustments like setting Do Not Disturb, muting specific app notifications, changing keyboard lighting, or launching specific tools. The core 'decision engine' would be a small, non-autoregressive model trained on your usage patterns or predefined rules, ensuring quick, private, and efficient real-time adjustments without cloud dependency.",
       "tech_stack": [
         "Python",
-        "MLX (for Apple Silicon) or ONNX Runtime (for cross-platform)",
-        "FastAPI/Flask",
-        "Docker",
-        "SQLite (for local model storage/metadata)"
+        "MLX (for Apple Silicon) / ONNX Runtime (cross-platform)",
+        "FastAPI (for local API)",
+        "System event monitoring libraries (e.g., psutil, osascript for macOS)",
+        "SQLite (for user preferences/rules)"
       ],
-      "source_inspiration": "laya-mlx, von, openJev-verdict-2.0 GitHub repositories",
+      "source_inspiration": "laya-mlx, openJev-verdict-2.0, Running local LLMs on your Mac, evoke",
       "steps": [
-        "Research and select a suitable fast decision model framework (e.g., MLX for M-series Macs, or ONNX Runtime with a pre-trained model like a small XGBoost or LightGBM).",
-        "Define a specific, simple decision task suitable for 'System One' type AI (e.g., 'classify email as spam/not-spam' based on header features).",
-        "Create or acquire a small, relevant dataset for training and evaluation.",
-        "Implement and train a local decision model, focusing on speed and accuracy. Export it to a portable format if using ONNX.",
-        "Develop a lightweight API (using FastAPI or Flask) to expose the model for inference.",
-        "Containerize the microservice using Docker for easy deployment and portability.",
-        "Benchmark inference speeds and accuracy, comparing against a simple rule-based system or a hypothetical cloud API call."
+        "Task 1: Create a system to log relevant context data (active app, time, calendar events, network status) locally. Define desired 'focus states' and corresponding actions.",
+        "Task 2: Choose and train a small classification model (e.g., decision tree, small neural network) on sample contextual data to predict focus states. Convert to MLX or ONNX format for efficient local inference.",
+        "Task 3: Implement a Python backend service that continuously collects real-time context, feeds it to the local model for inference, and determines the current focus state.",
+        "Task 4: Develop modules to trigger system actions (e.g., Do Not Disturb, app control, custom scripts) based on the inferred focus state and user-defined rules.",
+        "Task 5: Build a simple CLI or menubar app to display the current state, allow manual overrides, and configure rules."
       ]
     },
     {
-      "title": "Agentic Workflow Resilience Auditor & Debugger",
-      "difficulty": "Hard",
-      "estimated_hours": 40,
-      "description": "Inspired by the challenges of 'AI Coding Agents Crash at 3 AM,' this project aims to build a tool that helps developers debug and improve the reliability of their AI agent workflows. The 'Agentic Workflow Resilience Auditor' would observe agent execution, log all intermediate steps (prompts, tool calls, tool outputs, agent thoughts), and then analyze these traces for common failure patterns like the 'happy-path mirage' (agents assuming success without robust error handling) or 'forced continuity defect' (agents getting stuck trying to force an outcome). It would provide visualizations and actionable insights to strengthen agent prompts and tool integrations, making agents more robust in production.",
-      "tech_stack": [
-        "Python",
-        "LangChain / CrewAI / AutoGen (for agent orchestration)",
-        "Logging Framework (e.g., Loguru)",
-        "Database (PostgreSQL / SQLite for trace storage)",
-        "Web Framework (e.g., Streamlit / Dash for visualization)",
-        "Natural Language Processing (for analyzing agent thoughts/logs)"
-      ],
-      "source_inspiration": "Why AI Coding Agents Crash at 3 AM: The Happy-Path Mirage & The Forced Continuity Defect (Dev.to article)",
-      "steps": [
-        "Set up a sample multi-step AI agent workflow (e.g., an agent that researches an API, writes code, and tests it) using a framework like LangChain.",
-        "Instrument the agent's execution to log every interaction: input, agent decision, tool used, tool output, and observed outcome, including timestamps.",
-        "Develop a data model and storage mechanism (e.g., SQLite) to persist these detailed execution traces.",
-        "Implement analysis logic to identify common failure patterns: repeated errors, loops, unhandled exceptions, and 'premature success' signals.",
-        "Create a dashboard (using Streamlit or Dash) to visualize agent traces, highlight failure points, and categorize identified defects.",
-        "Develop a feedback mechanism where developers can annotate traces with 'expected behavior' or 'root cause' for continuous learning.",
-        "Integrate basic NLP to summarize failure modes or suggest prompt refinements based on recurring issues."
-      ]
-    },
-    {
-      "title": "Contextual Developer 'Skill Agent' for CLI & IDE",
+      "title": "AI-Driven CI/CD Bottleneck Identifier & Suggester",
       "difficulty": "Medium",
       "estimated_hours": 30,
-      "description": "Building on the concepts of 'cli-faq-shortcuts' and 'agent-dispatcher,' this project creates a personal, context-aware 'skill agent' that proactively enhances developer productivity. Instead of just short-commands, it leverages local codebases, documentation, and personal usage history to offer intelligent suggestions for complex CLI commands, API usage, or even boilerplate code snippets, directly within the terminal or IDE. It would understand the developer's current project context and suggest 'skills' (e.g., 'how to run tests for this module,' 'syntax for a common ORM query in this project') mined from past actions or project knowledge, making it a truly 'smart' assistant.",
+      "description": "Develop an agent that integrates with your GitHub Actions (or other CI/CD platform) to analyze build and test logs. It will identify common performance bottlenecks (e.g., consistently slow test suites, redundant build steps, inefficient caching). Instead of just reporting failures, the agent uses pattern recognition and potentially a small, local 'knowledge base' model (or even a constrained call to a self-hosted LLM) to suggest concrete, actionable optimizations, such as specific caching strategies, parallelization configurations, or even pinpointing code areas causing test slowness. It could output these suggestions as comments on PRs or create issue tickets.",
       "tech_stack": [
         "Python",
-        "Shell Scripting (Bash/Zsh integration)",
-        "Local Embedding Models (e.g., Sentence Transformers)",
-        "Vector Database (e.g., ChromaDB, FAISS for local embeddings)",
-        "CLI Framework (e.g., Click, Typer)",
-        "Regex / AST Parsers (for code/documentation analysis)"
+        "GitHub Actions API / GitLab CI API",
+        "Log parsing libraries (e.g., re, pandas)",
+        "SQLite (for storing historical run data and optimization patterns)",
+        "Flask/FastAPI (for a webhook receiver)",
+        "Potentially a small local classification model or an embedded language model for pattern matching/suggestion generation"
       ],
-      "source_inspiration": "cli-faq-shortcuts, agent-dispatcher GitHub repositories",
+      "source_inspiration": "agent-dispatcher, Blacksmith's GitHub Actions runners..., Why AI Coding Agents Crash at 3 AM...",
       "steps": [
-        "Develop a data ingestion module to process developer's shell history, project READMEs, and selected code files (e.g., common utility scripts).",
-        "Implement a local embedding pipeline using Sentence Transformers to convert text snippets (commands, code comments, FAQs) into vector representations.",
-        "Set up a local vector database (e.g., ChromaDB) to store these embeddings and enable efficient similarity search.",
-        "Build a CLI interface that captures current shell context (current directory, partial command input) and queries the vector database.",
-        "Implement logic to suggest relevant commands, file paths, or even code snippets based on the context and similarity scores.",
-        "Add a 'learning' mechanism where the tool can observe successful command executions or user-defined aliases and integrate them into its knowledge base.",
-        "Explore basic IDE integration (e.g., a VS Code extension) to provide contextual suggestions directly within the editor."
+        "Task 1: Set up webhooks to capture CI/CD run events, including detailed step durations and log outputs.",
+        "Task 2: Develop parsers to extract structured data (step durations, test results, error messages) from raw CI/CD logs.",
+        "Task 3: Implement logic to identify anomalies: consistently long steps, increasing build times over time, or steps that unexpectedly slow down.",
+        "Task 4: Create a rule-based or small model-based system to map identified bottlenecks to potential solutions (e.g., 'slow pytest run' -> 'suggest pytest-xdist', 'slow Docker build' -> 'suggest layer caching').",
+        "Task 5: Develop a component to post suggestions back to the developer, e.g., as a GitHub PR comment or a new issue, ensuring clarity and actionability."
+      ]
+    },
+    {
+      "title": "Robust Dev Environment Auto-Configurator with Self-Healing",
+      "difficulty": "Hard",
+      "estimated_hours": 40,
+      "description": "Create an agent-like system that can fully automate the setup of complex development environments from a declarative configuration file (e.g., YAML). The key feature is its 'self-healing' capability: if a step fails during installation or configuration, the agent analyzes the error logs and attempts to apply common fixes or consults a local knowledge base (or a safe, sandboxed external tool/LLM for specific problem-solving) before reporting a complete failure. It would maintain an immutable trace of its actions and diagnostic attempts, enhancing reliability and reducing developer frustration with setup issues. This tackles the 'happy-path mirage' by anticipating and addressing common failure modes.",
+      "tech_stack": [
+        "Python",
+        "Ansible/Chef/Puppet (for infrastructure as code)",
+        "Docker/Vagrant (for environment isolation)",
+        "SQLite (for knowledge base/traces)",
+        "Log parsing and analysis libraries",
+        "Potentially a small expert system or a fine-tuned local LLM for error analysis and fix suggestion"
+      ],
+      "source_inspiration": "Mac-Arch-Installer, Jev-Register-Tool, Why AI Coding Agents Crash at 3 AM..., LLM Agents Can Easily Tamper With Their Own Traces",
+      "steps": [
+        "Task 1: Define a declarative configuration language (e.g., YAML) to specify desired dev environment components (OS, packages, tools, versions, configurations).",
+        "Task 2: Build a core execution engine that interprets the configuration and executes setup tasks sequentially, capturing all stdout/stderr.",
+        "Task 3: Implement real-time monitoring of execution logs. When an error occurs, parse the error message and context to identify the root cause.",
+        "Task 4: Develop a 'self-healing' module that, based on error analysis, attempts predefined corrective actions (e.g., 'apt update', 'pip install --upgrade', retry with different parameters).",
+        "Task 5: Log all actions, successes, failures, and self-healing attempts to a secure, immutable log. Provide a clear, detailed report of the final state and any unresolvable issues.",
+        "Task 6: (Optional) Implement an extensible knowledge base allowing users to contribute common fixes for specific error patterns."
       ]
     }
   ],
   "quick_actions": [
-    "Action 1: Dedicate 30 minutes to exploring a local-first AI framework (e.g., MLX or ONNX Runtime) by running a simple inference example to understand its performance and deployment benefits.",
-    "Action 2: For your next small coding task involving an AI agent, create explicit logging for every step, including tool calls and agent 'thoughts,' to proactively identify potential 'happy-path mirage' or 'forced continuity defect' scenarios.",
-    "Action 3: Benchmark your existing CI/CD pipeline (e.g., a GitHub Actions workflow) and research options for custom/self-hosted runners, aiming to reduce build times by at least 2x, inspired by performance optimization trends.",
-    "Action 4: Start a 'decision log' for any critical actions or outputs generated by AI agents you use, noting the context, the agent's output, and why you accepted or rejected it. This practice builds 'survival instincts' and helps identify systemic agent failures."
+    "Action 1: Experiment with Local AI Inference: Download and run a small, specialized AI model (e.g., a text classifier, a simple decision model, or a tiny LLM like 'phi-2') locally on your machine using frameworks like MLX, Hugging Face Transformers with 'torch.compile', or ONNX Runtime. Focus on understanding its resource usage and latency.",
+    "Action 2: Automate a Repetitive Dev Task: Identify one task you perform regularly in your development setup (e.g., creating a new project structure, setting up a database, configuring a specific tool) and write a script (Python, Bash, PowerShell) to fully automate it from start to finish.",
+    "Action 3: Deconstruct an Agentic Workflow: Pick an open-source AI agent project (e.g., 'agent-dispatcher's core logic, or AutoGen examples) and study how it breaks down complex goals into smaller, verifiable sub-tasks. Analyze how it handles failures or unexpected outputs at each step, even if it's just basic retry logic.",
+    "Action 4: Optimize a CI/CD Pipeline Step: Review the execution logs of your most frequently run CI/CD pipeline. Identify the single slowest step (e.g., 'npm install', specific test suite, Docker build). Research and implement at least one technique (e.g., caching, parallelization, dependency optimization) to reduce its execution time by at least 10-20%."
   ]
 }
