@@ -1,28 +1,12 @@
 {
-  "last_updated": "2026-09-25 10:44:37",
+  "last_updated": "2026-09-26 10:26:57",
   "scraped_sources": {
     "github": [
-      {
-        "name": "laya-mlx",
-        "owner": "mizorewww",
-        "description": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
-        "stars": 6284,
-        "url": "https://github.com/mizorewww/laya-mlx",
-        "category": "AI / ML"
-      },
-      {
-        "name": "openJev-verdict-2.0",
-        "owner": "Heman10x-NGU",
-        "description": "Calibrated 151M Non-Autoregressive Decision Engine beating TypeSafe Jev & Laya on LocalLLaMA/typed-decisions (77.10% acc, 0.0636 Brier, 0.0144 ECE)",
-        "stars": 285,
-        "url": "https://github.com/Heman10x-NGU/openJev-verdict-2.0",
-        "category": "AI / ML"
-      },
       {
         "name": "Simreal-MLBench",
         "owner": "Simreal-AI",
         "description": "[Public preview] Externally scored agentic ML research benchmark: 60 tasks, real competition ground truth. Open protocol, operated evaluation.",
-        "stars": 63,
+        "stars": 92,
         "url": "https://github.com/Simreal-AI/Simreal-MLBench",
         "category": "AI / ML"
       },
@@ -30,7 +14,7 @@
         "name": "FleXray",
         "owner": "VictorButoi",
         "description": "FleXray: Universal Clinical X-ray Segmentation",
-        "stars": 29,
+        "stars": 50,
         "url": "https://github.com/VictorButoi/FleXray",
         "category": "AI / ML"
       },
@@ -43,11 +27,35 @@
         "category": "AI / ML"
       },
       {
-        "name": "agent-dispatcher",
-        "owner": "nahid-sparktales",
-        "description": "Repository retrieval and context engine for Claude Code and Codex: finds relevant code, reuses project knowledge, and pairs each task with specialist skills and verification.",
-        "stars": 50,
-        "url": "https://github.com/nahid-sparktales/agent-dispatcher",
+        "name": "SplashMonitor",
+        "owner": "hometrix",
+        "description": "First native macOS desktop app and menu bar monitor for Inco AI's Splash local inference engine on Apple Silicon",
+        "stars": 16,
+        "url": "https://github.com/hometrix/SplashMonitor",
+        "category": "AI / ML"
+      },
+      {
+        "name": "laya-apple",
+        "owner": "tc3oliver",
+        "description": "Correctness-validated heterogeneous Laya runtime for Apple Silicon (MLX GPU + Apple Neural Engine)",
+        "stars": 11,
+        "url": "https://github.com/tc3oliver/laya-apple",
+        "category": "AI / ML"
+      },
+      {
+        "name": "captcha-api",
+        "owner": "jamespolyakov9829",
+        "description": "Captcha-solving API client - Cloudflare Challenge and Turnstile in one interface, with cost tracking and concurrent batch solves.",
+        "stars": 263,
+        "url": "https://github.com/jamespolyakov9829/captcha-api",
+        "category": "Automation / Productivity"
+      },
+      {
+        "name": "cf-clearance",
+        "owner": "Demet5292",
+        "description": "Get a valid cf_clearance cookie from the Cloudflare Challenge automatically - Python library, CLI and examples, one REST call, no browser required.",
+        "stars": 38,
+        "url": "https://github.com/Demet5292/cf-clearance",
         "category": "Automation / Productivity"
       },
       {
@@ -70,29 +78,31 @@
         "name": "evoke",
         "owner": "evoke-build",
         "description": "Software, by reflex. Say it, and the right small program runs: chosen by a calibrated classifier, run only when it is sure enough, and it asks before anything that cannot be undone. A CLI, a package manager and a TypeScript SDK: the first implementation of the idea.",
-        "stars": 16,
+        "stars": 17,
         "url": "https://github.com/evoke-build/evoke",
-        "category": "Automation / Productivity"
-      },
-      {
-        "name": "1point3acres-toolkit",
-        "owner": "vivian-labs",
-        "description": "一亩三分地自动签到 + 每日答题：在你自己电脑的 Chrome 里、用你自己的登录完成，不经过第三方；也是给 Claude Code / Codex 用的 MCP 服务。1point3acres daily check-in & quiz automation, local-only, plus an MCP server for AI assistants.",
-        "stars": 10,
-        "url": "https://github.com/vivian-labs/1point3acres-toolkit",
         "category": "Automation / Productivity"
       }
     ],
     "hacker_news": [
       {
-        "title": "Running local LLMs on your Mac: what fits, what's free, and what's overkill",
-        "url": "https://typetab.app/blog/local-llms-on-your-mac",
-        "score": 8
+        "title": "How to keep enjoying programming in a world of LLMs",
+        "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+        "score": 35
       },
       {
-        "title": "Rails World 2026 Opening Keynote [video]",
-        "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
-        "score": 339
+        "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+        "url": "https://swarmtraces.org/",
+        "score": 494
+      },
+      {
+        "title": "A single function Jev-like wrapper for LLMs, including vision models",
+        "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
+        "score": 79
+      },
+      {
+        "title": "Ollaya – Ollama for open-source, Jev-style decision models",
+        "url": "https://ollaya.dev/",
+        "score": 464
       }
     ],
     "arxiv": [
@@ -124,18 +134,6 @@
     ],
     "devto": [
       {
-        "title": "Why AI Coding Agents Crash at 3 AM: The Happy-Path Mirage & The Forced Continuity Defect",
-        "description": "Why LLMs fail in production, why \"more RLHF\" cannot fix it, and how transferring 3 AM pager-duty trauma gives autonomous coding agents real survival instincts.",
-        "url": "https://dev.to/gde/why-ai-coding-agents-crash-at-3-am-the-happy-path-mirage-the-forced-continuity-defect-46pd",
-        "reactions": 13
-      },
-      {
-        "title": "GMail, please let me hide delegated accounts on my iPhone",
-        "description": "Gmail's delegated accounts have started showing up in the app on my iPhone, and I find this...",
-        "url": "https://dev.to/peter/gmail-please-let-me-hide-delegated-accounts-on-my-iphone-30e",
-        "reactions": 16
-      },
-      {
         "title": "Blacksmith's GitHub Actions runners finished the same job 3 to 4 times faster than GitHub hosted Actions, across 10 trials",
         "description": "I benchmarked Blacksmith against github-hosted ubuntu-latest with 10 repeated trials each on an identical GitHub Actions job. Blacksmith ran 3.17x to 3.77x faster with noticeably tighter variance, but it wouldn't even queue until I moved the repo into an organization.",
         "url": "https://dev.to/alexgeorgiev17/blacksmiths-github-actions-runners-finished-the-same-job-3-to-4-times-faster-than-github-hosted-59oj",
@@ -148,86 +146,94 @@
         "reactions": 32
       },
       {
+        "title": "Stop building side projects. Nobody cares — and here's the uncomfortable math.",
+        "description": "Open your GitHub. Go on. Count the repositories that have a README, a clean commit that says initial...",
+        "url": "https://dev.to/infoinlet1/stop-building-side-projects-nobody-cares-and-heres-the-uncomfortable-math-1eoc",
+        "reactions": 33
+      },
+      {
         "title": "Dev log #22 Tearing out the old: Deleting 3,800 lines of legacy p2p code",
         "description": "Hi, glad you found your way here. I'm Yash, a developer who contributes to open source, mostly p2p...",
         "url": "https://dev.to/yashksaini/dev-log-22-tearing-out-the-old-deleting-3800-lines-of-legacy-p2p-code-3n0i",
-        "reactions": 40
+        "reactions": 42
+      },
+      {
+        "title": "AI Is Writing More of the Code — But Developers Are Becoming Responsible for More Than Ever",
+        "description": "AI is writing more code.  That part is obvious now.  Developers can ask an agent to:   create a...",
+        "url": "https://dev.to/robertadam987_/ai-is-writing-more-of-the-code-but-developers-are-becoming-responsible-for-more-than-ever-55ni",
+        "reactions": 30
       }
     ]
   },
-  "trends": "Today's tech trends are heavily focused on **agentic AI systems**, pushing the boundaries of autonomous task execution in various domains, from robot programming to code generation, while simultaneously grappling with their reliability, safety, and trace tampering challenges. Parallel to this, there's a significant drive towards **local, efficient AI/ML inference**, prioritizing specialized models for 'short decisions' on edge devices (like Apple Silicon) to ensure speed, cost-effectiveness, and privacy, reducing reliance on large cloud-based LLMs. This dual focus fuels advancements in **developer productivity and automation**, leveraging AI and specialized tools to streamline workflows, accelerate CI/CD, and simplify complex environment setups, fundamentally shifting how developers interact with and create software, with a critical eye on the 'happy-path mirage' of AI reliability.",
+  "trends": "Today's tech landscape is profoundly influenced by the rise of **Agentic AI**, driving innovation in self-learning systems, automated decision models ('Jev-style' wrappers for LLMs), and transforming developer workflows. Alongside this, there's a strong emphasis on **Edge AI and On-device computing**, particularly leveraging Apple Silicon's specialized hardware for local inference and specialized runtimes. **Advanced Automation and Productivity tools** are also trending, focusing on bypassing complex web challenges (like CAPTCHAs and Cloudflare) and creating 'reflexive' systems that execute commands based on intent. Developers are navigating a changing role, becoming orchestrators of AI-generated code, with a concurrent focus on optimizing CI/CD pipelines and tackling legacy code debt through more intelligent tools. A critical emerging theme is the security and observability of agent interactions, as agents become more autonomous.",
   "ideas": [
     {
-      "title": "Local Context-Aware Smart Agent for Focus Management",
-      "difficulty": "Medium",
-      "estimated_hours": 20,
-      "description": "Build a personal AI agent that runs entirely locally on your machine (e.g., Mac with MLX, or any platform with a small ONNX model). This agent monitors your active applications, calendar events, and system status (e.g., headset connected, screen sharing) to infer your current context (e.g., 'Deep Work,' 'Meeting,' 'Break,' 'Learning'). Based on this, it automates productivity adjustments like setting Do Not Disturb, muting specific app notifications, changing keyboard lighting, or launching specific tools. The core 'decision engine' would be a small, non-autoregressive model trained on your usage patterns or predefined rules, ensuring quick, private, and efficient real-time adjustments without cloud dependency.",
+      "title": "Declarative 'Jev-Flow' Web Automation Proof-of-Concept",
+      "difficulty": "Easy",
+      "estimated_hours": 4,
+      "description": "Build a concise Python script that uses a declarative YAML configuration to define a single web interaction task (e.g., logging into a simple website or searching for an item). The script will integrate a 'Jev-style' LLM wrapper that interprets a natural language instruction from the YAML and translates it into specific, actionable web automation steps using a headless browser library. This project focuses on demonstrating the core concept of intent-driven automation for web tasks within a very constrained scope.",
       "tech_stack": [
         "Python",
-        "MLX (for Apple Silicon) / ONNX Runtime (cross-platform)",
-        "FastAPI (for local API)",
-        "System event monitoring libraries (e.g., psutil, osascript for macOS)",
-        "SQLite (for user preferences/rules)"
+        "PyYAML",
+        "Playwright (or Selenium)",
+        "OpenAI API (or local LLM via Ollama)"
       ],
-      "source_inspiration": "laya-mlx, openJev-verdict-2.0, Running local LLMs on your Mac, evoke",
+      "source_inspiration": "Hacker News: \"A single function Jev-like wrapper for LLMs\", \"Ollaya – Ollama for open-source, Jev-style decision models\", GitHub: evoke (software by reflex), Jev-Register-Tool, captcha-api",
       "steps": [
-        "Task 1: Create a system to log relevant context data (active app, time, calendar events, network status) locally. Define desired 'focus states' and corresponding actions.",
-        "Task 2: Choose and train a small classification model (e.g., decision tree, small neural network) on sample contextual data to predict focus states. Convert to MLX or ONNX format for efficient local inference.",
-        "Task 3: Implement a Python backend service that continuously collects real-time context, feeds it to the local model for inference, and determines the current focus state.",
-        "Task 4: Develop modules to trigger system actions (e.g., Do Not Disturb, app control, custom scripts) based on the inferred focus state and user-defined rules.",
-        "Task 5: Build a simple CLI or menubar app to display the current state, allow manual overrides, and configure rules."
+        "1. Set up a Python virtual environment and install `playwright`, `pyyaml`, and the `openai` Python client.",
+        "2. Create a `config.yaml` file that defines a simple web interaction (e.g., `url: 'http://example.com/login'`, `action: 'Fill username field with \"user123\" and click login button'`).",
+        "3. Implement a Python function `interpret_action_with_llm(natural_lang_instruction)` that sends the instruction to an LLM and returns structured JSON (e.g., `{'selector': '#username', 'type': 'fill', 'value': 'user123'}`).",
+        "4. Write the main script to load the YAML, call `interpret_action_with_llm`, and then use Playwright to execute the parsed web action.",
+        "5. Test the script against a simple, public website to verify basic functionality."
       ]
     },
     {
-      "title": "AI-Driven CI/CD Bottleneck Identifier & Suggester",
-      "difficulty": "Medium",
-      "estimated_hours": 30,
-      "description": "Develop an agent that integrates with your GitHub Actions (or other CI/CD platform) to analyze build and test logs. It will identify common performance bottlenecks (e.g., consistently slow test suites, redundant build steps, inefficient caching). Instead of just reporting failures, the agent uses pattern recognition and potentially a small, local 'knowledge base' model (or even a constrained call to a self-hosted LLM) to suggest concrete, actionable optimizations, such as specific caching strategies, parallelization configurations, or even pinpointing code areas causing test slowness. It could output these suggestions as comments on PRs or create issue tickets.",
+      "title": "Apple Silicon Local LLM Activity Monitor CLI",
+      "difficulty": "Easy",
+      "estimated_hours": 4,
+      "description": "Develop a lightweight Python command-line interface (CLI) tool for Apple Silicon Macs to monitor the basic operational status and resource usage of a locally running LLM instance (specifically targeting Ollama, which is popular for local models). The tool will report if Ollama is running, which models are loaded, and the CPU/memory consumption of its process. This provides immediate, on-device visibility into local AI model activity, aligning with the strong trend for Apple Silicon and local inference.",
       "tech_stack": [
         "Python",
-        "GitHub Actions API / GitLab CI API",
-        "Log parsing libraries (e.g., re, pandas)",
-        "SQLite (for storing historical run data and optimization patterns)",
-        "Flask/FastAPI (for a webhook receiver)",
-        "Potentially a small local classification model or an embedded language model for pattern matching/suggestion generation"
+        "subprocess",
+        "psutil (optional, for detailed process info)",
+        "Ollama CLI"
       ],
-      "source_inspiration": "agent-dispatcher, Blacksmith's GitHub Actions runners..., Why AI Coding Agents Crash at 3 AM...",
+      "source_inspiration": "GitHub: SplashMonitor (macOS local inference monitor), laya-apple (Apple Silicon runtime), Hacker News: Ollaya – Ollama for open-source...",
       "steps": [
-        "Task 1: Set up webhooks to capture CI/CD run events, including detailed step durations and log outputs.",
-        "Task 2: Develop parsers to extract structured data (step durations, test results, error messages) from raw CI/CD logs.",
-        "Task 3: Implement logic to identify anomalies: consistently long steps, increasing build times over time, or steps that unexpectedly slow down.",
-        "Task 4: Create a rule-based or small model-based system to map identified bottlenecks to potential solutions (e.g., 'slow pytest run' -> 'suggest pytest-xdist', 'slow Docker build' -> 'suggest layer caching').",
-        "Task 5: Develop a component to post suggestions back to the developer, e.g., as a GitHub PR comment or a new issue, ensuring clarity and actionability."
+        "1. Ensure Ollama is installed on an Apple Silicon Mac and a model is downloaded and running (e.g., `ollama run llama2`).",
+        "2. Set up a Python environment and install `psutil` (optional, for more detailed stats than `ollama ps`).",
+        "3. Write a Python script that uses `subprocess.run()` to execute `ollama ps` and capture its output.",
+        "4. Parse the output of `ollama ps` to display currently running models and their basic status.",
+        "5. (Optional but recommended for depth) Use `psutil` to find the `ollama` process ID and report its real-time CPU and memory usage.",
+        "6. Present the collected information in a clear, formatted output to the console, perhaps with a simple refresh loop."
       ]
     },
     {
-      "title": "Robust Dev Environment Auto-Configurator with Self-Healing",
-      "difficulty": "Hard",
-      "estimated_hours": 40,
-      "description": "Create an agent-like system that can fully automate the setup of complex development environments from a declarative configuration file (e.g., YAML). The key feature is its 'self-healing' capability: if a step fails during installation or configuration, the agent analyzes the error logs and attempts to apply common fixes or consults a local knowledge base (or a safe, sandboxed external tool/LLM for specific problem-solving) before reporting a complete failure. It would maintain an immutable trace of its actions and diagnostic attempts, enhancing reliability and reducing developer frustration with setup issues. This tackles the 'happy-path mirage' by anticipating and addressing common failure modes.",
+      "title": "LLM-Powered Function Docstring Generator CLI",
+      "difficulty": "Medium",
+      "estimated_hours": 4,
+      "description": "Create a Python CLI tool that takes a path to a Python file and a function name as input. Using Python's Abstract Syntax Tree (AST) module, it will extract the source code of the specified function. This extracted code is then sent to an LLM (via an API) with a prompt to generate a high-quality docstring following common Python conventions (e.g., Google Style or reStructuredText). This project demonstrates how agentic AI can assist developers with code quality and documentation, offering a small, targeted step towards automated code improvement and refactoring, akin to 'deleting legacy code' by improving its readability.",
       "tech_stack": [
         "Python",
-        "Ansible/Chef/Puppet (for infrastructure as code)",
-        "Docker/Vagrant (for environment isolation)",
-        "SQLite (for knowledge base/traces)",
-        "Log parsing and analysis libraries",
-        "Potentially a small expert system or a fine-tuned local LLM for error analysis and fix suggestion"
+        "ast (built-in module)",
+        "OpenAI API (or other LLM API)"
       ],
-      "source_inspiration": "Mac-Arch-Installer, Jev-Register-Tool, Why AI Coding Agents Crash at 3 AM..., LLM Agents Can Easily Tamper With Their Own Traces",
+      "source_inspiration": "Dev.to: \"AI Is Writing More of the Code\", \"Dev log #22 Tearing out the old: Deleting 3,800 lines of legacy p2p code\", arXiv: RAPID: Robot Agentic Programming from Demonstrations (agentic programming)",
       "steps": [
-        "Task 1: Define a declarative configuration language (e.g., YAML) to specify desired dev environment components (OS, packages, tools, versions, configurations).",
-        "Task 2: Build a core execution engine that interprets the configuration and executes setup tasks sequentially, capturing all stdout/stderr.",
-        "Task 3: Implement real-time monitoring of execution logs. When an error occurs, parse the error message and context to identify the root cause.",
-        "Task 4: Develop a 'self-healing' module that, based on error analysis, attempts predefined corrective actions (e.g., 'apt update', 'pip install --upgrade', retry with different parameters).",
-        "Task 5: Log all actions, successes, failures, and self-healing attempts to a secure, immutable log. Provide a clear, detailed report of the final state and any unresolvable issues.",
-        "Task 6: (Optional) Implement an extensible knowledge base allowing users to contribute common fixes for specific error patterns."
+        "1. Set up a Python environment and install the `openai` Python client.",
+        "2. Create a sample Python file with at least one function for testing.",
+        "3. Write a Python script that accepts `file_path` and `function_name` as command-line arguments.",
+        "4. Use Python's `ast` module to parse the `file_path`, traverse the AST, and locate the source code for the given `function_name`.",
+        "5. Construct a clear prompt for the LLM, including the extracted function code, asking it to generate a docstring in a specified format.",
+        "6. Call the OpenAI API with the prompt and display the generated docstring to the user.",
+        "7. (Bonus: If time permits) Implement an option to preview and (with explicit user confirmation) inject the generated docstring back into a *copy* of the original file."
       ]
     }
   ],
   "quick_actions": [
-    "Action 1: Experiment with Local AI Inference: Download and run a small, specialized AI model (e.g., a text classifier, a simple decision model, or a tiny LLM like 'phi-2') locally on your machine using frameworks like MLX, Hugging Face Transformers with 'torch.compile', or ONNX Runtime. Focus on understanding its resource usage and latency.",
-    "Action 2: Automate a Repetitive Dev Task: Identify one task you perform regularly in your development setup (e.g., creating a new project structure, setting up a database, configuring a specific tool) and write a script (Python, Bash, PowerShell) to fully automate it from start to finish.",
-    "Action 3: Deconstruct an Agentic Workflow: Pick an open-source AI agent project (e.g., 'agent-dispatcher's core logic, or AutoGen examples) and study how it breaks down complex goals into smaller, verifiable sub-tasks. Analyze how it handles failures or unexpected outputs at each step, even if it's just basic retry logic.",
-    "Action 4: Optimize a CI/CD Pipeline Step: Review the execution logs of your most frequently run CI/CD pipeline. Identify the single slowest step (e.g., 'npm install', specific test suite, Docker build). Research and implement at least one technique (e.g., caching, parallelization, dependency optimization) to reduce its execution time by at least 10-20%."
+    "1. **Experiment with Local LLMs on Apple Silicon:** Download and run Ollama with a small model (e.g., Llama 2 7B) on your Apple Silicon Mac. Spend 30 minutes interacting with it directly in the terminal to understand its capabilities and resource usage.",
+    "2. **Implement a 'Jev-style' LLM Prompt for a Micro-Task:** Identify a repetitive personal task (e.g., summarizing release notes, drafting a simple email). Create a Python function that uses an LLM API to take a natural language instruction and execute that task, acting as a focused, 'single-function' agent.",
+    "3. **Analyze and Optimize a GitHub Actions Workflow:** Review one of your existing GitHub Actions workflows. Look for redundant steps, opportunities to cache dependencies, or ways to consolidate jobs to reduce execution time, inspired by performance discussions.",
+    "4. **Reflect on Agentic Coding Flow:** For your next small coding task, try to use an AI agent (like Copilot Chat or a custom LLM prompt) to generate a significant portion of the code. Afterwards, take 15 minutes to reflect on how this impacted your 'flow state,' problem-solving process, and overall enjoyment, as discussed in recent articles."
   ]
 }
