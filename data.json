@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-26 10:26:57",
+  "last_updated": "2026-09-27 10:58:12",
   "scraped_sources": {
     "github": [
       {
         "name": "Simreal-MLBench",
         "owner": "Simreal-AI",
         "description": "[Public preview] Externally scored agentic ML research benchmark: 60 tasks, real competition ground truth. Open protocol, operated evaluation.",
-        "stars": 92,
+        "stars": 116,
         "url": "https://github.com/Simreal-AI/Simreal-MLBench",
         "category": "AI / ML"
       },
@@ -14,7 +14,7 @@
         "name": "FleXray",
         "owner": "VictorButoi",
         "description": "FleXray: Universal Clinical X-ray Segmentation",
-        "stars": 50,
+        "stars": 60,
         "url": "https://github.com/VictorButoi/FleXray",
         "category": "AI / ML"
       },
@@ -22,24 +22,24 @@
         "name": "Snake-Game-Reinforcement-Project",
         "owner": "mirzayasirabdullahbaig07",
         "description": "A self-taught Snake agent built with Deep Q-Learning, PyTorch, and Pygame. No hand-coded strategy — the snake starts out clueless and learns entirely through trial and error, reward by reward, game by game.",
-        "stars": 21,
+        "stars": 23,
         "url": "https://github.com/mirzayasirabdullahbaig07/Snake-Game-Reinforcement-Project",
         "category": "AI / ML"
       },
       {
-        "name": "SplashMonitor",
-        "owner": "hometrix",
-        "description": "First native macOS desktop app and menu bar monitor for Inco AI's Splash local inference engine on Apple Silicon",
-        "stars": 16,
-        "url": "https://github.com/hometrix/SplashMonitor",
+        "name": "neural-network-digits",
+        "owner": "dev-luigi",
+        "description": "Neural network from scratch in pure Python + NumPy that recognises handwritten digits (MNIST), with an educational GUI: watch it learn, tweak it while it trains, look inside every layer.",
+        "stars": 21,
+        "url": "https://github.com/dev-luigi/neural-network-digits",
         "category": "AI / ML"
       },
       {
-        "name": "laya-apple",
-        "owner": "tc3oliver",
-        "description": "Correctness-validated heterogeneous Laya runtime for Apple Silicon (MLX GPU + Apple Neural Engine)",
-        "stars": 11,
-        "url": "https://github.com/tc3oliver/laya-apple",
+        "name": "ipasAI",
+        "owner": "zero2005x",
+        "description": "iPAS AI 應用規劃師（中級）考綱教科書 v0.3 開源版（含三冊完整教材、219 題模擬題、300 題官方試題解析索引與 PDF 編譯工具）",
+        "stars": 16,
+        "url": "https://github.com/zero2005x/ipasAI",
         "category": "AI / ML"
       },
       {
@@ -67,42 +67,42 @@
         "category": "Automation / Productivity"
       },
       {
-        "name": "Jev-Register-Tool",
-        "owner": "2951461586",
-        "description": "TypeSafe（Jev / System One）申请 → 确认邮件 → 获批 → 注册 → 建 API Key 全链路工具，纯 HTTP 无浏览器",
-        "stars": 28,
-        "url": "https://github.com/2951461586/Jev-Register-Tool",
-        "category": "Automation / Productivity"
-      },
-      {
         "name": "evoke",
         "owner": "evoke-build",
         "description": "Software, by reflex. Say it, and the right small program runs: chosen by a calibrated classifier, run only when it is sure enough, and it asks before anything that cannot be undone. A CLI, a package manager and a TypeScript SDK: the first implementation of the idea.",
-        "stars": 17,
+        "stars": 18,
         "url": "https://github.com/evoke-build/evoke",
+        "category": "Automation / Productivity"
+      },
+      {
+        "name": "clodfarm",
+        "owner": "matank001",
+        "description": "clodfarm (say it out loud): a farm of Claude Code agents. Plant a mission, they split it into sub-agents, open the work, and pace themselves on each account's real 5-hour and weekly usage. Steer it from the Claude app.",
+        "stars": 10,
+        "url": "https://github.com/matank001/clodfarm",
         "category": "Automation / Productivity"
       }
     ],
     "hacker_news": [
       {
-        "title": "How to keep enjoying programming in a world of LLMs",
-        "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
-        "score": 35
+        "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+        "url": "https://arxiv.org/abs/2609.25021",
+        "score": 18
       },
       {
-        "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-        "url": "https://swarmtraces.org/",
-        "score": 494
+        "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
+        "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
+        "score": 232
       },
       {
-        "title": "A single function Jev-like wrapper for LLMs, including vision models",
-        "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
-        "score": 79
+        "title": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",
+        "url": "https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/",
+        "score": 177
       },
       {
-        "title": "Ollaya – Ollama for open-source, Jev-style decision models",
-        "url": "https://ollaya.dev/",
-        "score": 464
+        "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
+        "url": "https://www.movingimagearchive.com/",
+        "score": 176
       }
     ],
     "arxiv": [
@@ -134,22 +134,22 @@
     ],
     "devto": [
       {
-        "title": "Blacksmith's GitHub Actions runners finished the same job 3 to 4 times faster than GitHub hosted Actions, across 10 trials",
-        "description": "I benchmarked Blacksmith against github-hosted ubuntu-latest with 10 repeated trials each on an identical GitHub Actions job. Blacksmith ran 3.17x to 3.77x faster with noticeably tighter variance, but it wouldn't even queue until I moved the repo into an organization.",
-        "url": "https://dev.to/alexgeorgiev17/blacksmiths-github-actions-runners-finished-the-same-job-3-to-4-times-faster-than-github-hosted-59oj",
-        "reactions": 23
-      },
-      {
         "title": "Traditional Coding vs Agentic Coding: The Flow State Problem",
         "description": "One of the things I've always enjoyed about coding is getting completely locked into a problem. You...",
         "url": "https://dev.to/bradtraversy/traditional-coding-vs-agentic-coding-the-flow-state-problem-57p5",
-        "reactions": 32
+        "reactions": 34
       },
       {
         "title": "Stop building side projects. Nobody cares — and here's the uncomfortable math.",
         "description": "Open your GitHub. Go on. Count the repositories that have a README, a clean commit that says initial...",
         "url": "https://dev.to/infoinlet1/stop-building-side-projects-nobody-cares-and-heres-the-uncomfortable-math-1eoc",
-        "reactions": 33
+        "reactions": 36
+      },
+      {
+        "title": "Blacksmith's GitHub Actions runners finished the same job 3 to 4 times faster than GitHub hosted Actions, across 10 trials",
+        "description": "I benchmarked Blacksmith against github-hosted ubuntu-latest with 10 repeated trials each on an identical GitHub Actions job. Blacksmith ran 3.17x to 3.77x faster with noticeably tighter variance, but it wouldn't even queue until I moved the repo into an organization.",
+        "url": "https://dev.to/alexgeorgiev17/blacksmiths-github-actions-runners-finished-the-same-job-3-to-4-times-faster-than-github-hosted-59oj",
+        "reactions": 23
       },
       {
         "title": "Dev log #22 Tearing out the old: Deleting 3,800 lines of legacy p2p code",
@@ -158,82 +158,92 @@
         "reactions": 42
       },
       {
-        "title": "AI Is Writing More of the Code — But Developers Are Becoming Responsible for More Than Ever",
-        "description": "AI is writing more code.  That part is obvious now.  Developers can ask an agent to:   create a...",
-        "url": "https://dev.to/robertadam987_/ai-is-writing-more-of-the-code-but-developers-are-becoming-responsible-for-more-than-ever-55ni",
-        "reactions": 30
+        "title": "Vim's Swan Song: Is It Time to :q!?",
+        "description": "Table of Contents    Hotel California Hands Off the Mouse Vim Was Never About Typing...",
+        "url": "https://dev.to/georgekobaidze/vims-swan-song-is-it-time-to-q-eek",
+        "reactions": 12
       }
     ]
   },
-  "trends": "Today's tech landscape is profoundly influenced by the rise of **Agentic AI**, driving innovation in self-learning systems, automated decision models ('Jev-style' wrappers for LLMs), and transforming developer workflows. Alongside this, there's a strong emphasis on **Edge AI and On-device computing**, particularly leveraging Apple Silicon's specialized hardware for local inference and specialized runtimes. **Advanced Automation and Productivity tools** are also trending, focusing on bypassing complex web challenges (like CAPTCHAs and Cloudflare) and creating 'reflexive' systems that execute commands based on intent. Developers are navigating a changing role, becoming orchestrators of AI-generated code, with a concurrent focus on optimizing CI/CD pipelines and tackling legacy code debt through more intelligent tools. A critical emerging theme is the security and observability of agent interactions, as agents become more autonomous.",
+  "trends": "The current tech landscape is profoundly shaped by the rapid evolution and practical deployment of **Agentic AI**. We're seeing intense focus on designing intelligent agents capable of complex tasks, orchestrating multi-agent systems, and establishing robust benchmarks for their performance in real-world scenarios, particularly in specialized fields like healthcare. Concurrently, critical attention is being paid to the **security, privacy, and ethical implications** of autonomous agents, addressing concerns around data tampering, privacy in distributed learning, and responsible content analysis. **Automation** continues its expansion into sophisticated challenges, from bypassing anti-bot systems to streamlining intricate system deployments. Finally, the developer ecosystem is actively adapting to these shifts, exploring new **productivity paradigms** influenced by agentic coding and emphasizing performance optimization in CI/CD pipelines.",
   "ideas": [
     {
-      "title": "Declarative 'Jev-Flow' Web Automation Proof-of-Concept",
-      "difficulty": "Easy",
-      "estimated_hours": 4,
-      "description": "Build a concise Python script that uses a declarative YAML configuration to define a single web interaction task (e.g., logging into a simple website or searching for an item). The script will integrate a 'Jev-style' LLM wrapper that interprets a natural language instruction from the YAML and translates it into specific, actionable web automation steps using a headless browser library. This project focuses on demonstrating the core concept of intent-driven automation for web tasks within a very constrained scope.",
-      "tech_stack": [
-        "Python",
-        "PyYAML",
-        "Playwright (or Selenium)",
-        "OpenAI API (or local LLM via Ollama)"
-      ],
-      "source_inspiration": "Hacker News: \"A single function Jev-like wrapper for LLMs\", \"Ollaya – Ollama for open-source, Jev-style decision models\", GitHub: evoke (software by reflex), Jev-Register-Tool, captcha-api",
-      "steps": [
-        "1. Set up a Python virtual environment and install `playwright`, `pyyaml`, and the `openai` Python client.",
-        "2. Create a `config.yaml` file that defines a simple web interaction (e.g., `url: 'http://example.com/login'`, `action: 'Fill username field with \"user123\" and click login button'`).",
-        "3. Implement a Python function `interpret_action_with_llm(natural_lang_instruction)` that sends the instruction to an LLM and returns structured JSON (e.g., `{'selector': '#username', 'type': 'fill', 'value': 'user123'}`).",
-        "4. Write the main script to load the YAML, call `interpret_action_with_llm`, and then use Playwright to execute the parsed web action.",
-        "5. Test the script against a simple, public website to verify basic functionality."
-      ]
-    },
-    {
-      "title": "Apple Silicon Local LLM Activity Monitor CLI",
-      "difficulty": "Easy",
-      "estimated_hours": 4,
-      "description": "Develop a lightweight Python command-line interface (CLI) tool for Apple Silicon Macs to monitor the basic operational status and resource usage of a locally running LLM instance (specifically targeting Ollama, which is popular for local models). The tool will report if Ollama is running, which models are loaded, and the CPU/memory consumption of its process. This provides immediate, on-device visibility into local AI model activity, aligning with the strong trend for Apple Silicon and local inference.",
-      "tech_stack": [
-        "Python",
-        "subprocess",
-        "psutil (optional, for detailed process info)",
-        "Ollama CLI"
-      ],
-      "source_inspiration": "GitHub: SplashMonitor (macOS local inference monitor), laya-apple (Apple Silicon runtime), Hacker News: Ollaya – Ollama for open-source...",
-      "steps": [
-        "1. Ensure Ollama is installed on an Apple Silicon Mac and a model is downloaded and running (e.g., `ollama run llama2`).",
-        "2. Set up a Python environment and install `psutil` (optional, for more detailed stats than `ollama ps`).",
-        "3. Write a Python script that uses `subprocess.run()` to execute `ollama ps` and capture its output.",
-        "4. Parse the output of `ollama ps` to display currently running models and their basic status.",
-        "5. (Optional but recommended for depth) Use `psutil` to find the `ollama` process ID and report its real-time CPU and memory usage.",
-        "6. Present the collected information in a clear, formatted output to the console, perhaps with a simple refresh loop."
-      ]
-    },
-    {
-      "title": "LLM-Powered Function Docstring Generator CLI",
+      "title": "Transparent & Verifiable CI/CD Agent Assistant",
       "difficulty": "Medium",
-      "estimated_hours": 4,
-      "description": "Create a Python CLI tool that takes a path to a Python file and a function name as input. Using Python's Abstract Syntax Tree (AST) module, it will extract the source code of the specified function. This extracted code is then sent to an LLM (via an API) with a prompt to generate a high-quality docstring following common Python conventions (e.g., Google Style or reStructuredText). This project demonstrates how agentic AI can assist developers with code quality and documentation, offering a small, targeted step towards automated code improvement and refactoring, akin to 'deleting legacy code' by improving its readability.",
+      "estimated_hours": 80,
+      "description": "Develop an intelligent agent that monitors CI/CD pipelines, identifies opportunities for optimization (e.g., faster builds, dependency updates, security vulnerabilities), and suggests actionable changes to configuration or code. Crucially, the agent generates a detailed, human-readable trace of its analysis and proposed actions, along with reasoning. Before implementing any changes, it requires explicit human confirmation. The system ensures the integrity and tamper-proof nature of these traces, allowing for rigorous auditing and building trust in automated suggestions. This directly addresses the 'LLM Agents Can Easily Tamper With Their Own Traces' concern by focusing on verifiable accountability.",
       "tech_stack": [
         "Python",
-        "ast (built-in module)",
-        "OpenAI API (or other LLM API)"
+        "LangChain/Autogen",
+        "GitHub Actions/GitLab CI API",
+        "Docker (for isolated execution)",
+        "PostgreSQL (for trace storage)",
+        "Web UI Framework (e.g., Flask/React) for visualization and approval"
       ],
-      "source_inspiration": "Dev.to: \"AI Is Writing More of the Code\", \"Dev log #22 Tearing out the old: Deleting 3,800 lines of legacy p2p code\", arXiv: RAPID: Robot Agentic Programming from Demonstrations (agentic programming)",
+      "source_inspiration": "Simreal-MLBench, evoke, clodfarm, LLM Agents Can Easily Tamper With Their Own Traces, Blacksmith's GitHub Actions runners finished the same job 3 to 4 times faster than GitHub hosted Actions",
       "steps": [
-        "1. Set up a Python environment and install the `openai` Python client.",
-        "2. Create a sample Python file with at least one function for testing.",
-        "3. Write a Python script that accepts `file_path` and `function_name` as command-line arguments.",
-        "4. Use Python's `ast` module to parse the `file_path`, traverse the AST, and locate the source code for the given `function_name`.",
-        "5. Construct a clear prompt for the LLM, including the extracted function code, asking it to generate a docstring in a specified format.",
-        "6. Call the OpenAI API with the prompt and display the generated docstring to the user.",
-        "7. (Bonus: If time permits) Implement an option to preview and (with explicit user confirmation) inject the generated docstring back into a *copy* of the original file."
+        "Set up a Python backend with a web framework (e.g., FastAPI) to receive CI/CD webhook events.",
+        "Integrate with a CI/CD platform API (e.g., GitHub Actions API) to fetch pipeline run data and status.",
+        "Design an agentic workflow using LangChain or Autogen: a 'Monitor' agent analyzes pipeline logs, a 'Propose' agent suggests optimizations, and an 'Explain' agent generates trace details.",
+        "Implement a secure, immutable logging mechanism (e.g., signed logs, blockchain-like append-only ledger) for all agent analyses and proposals to ensure trace integrity.",
+        "Develop a web UI to display pipeline statuses, agent-generated suggestions, and require explicit human approval for proposed changes.",
+        "Integrate a 'Sandbox' execution environment (e.g., Docker container) for testing proposed changes before applying them to the main repository/pipeline.",
+        "Implement the ability for the 'Propose' agent to automatically generate Pull Requests with suggested changes upon human approval."
+      ]
+    },
+    {
+      "title": "Privacy-Preserving Edge Agent for Clinical Image Pre-annotation",
+      "difficulty": "Medium",
+      "estimated_hours": 100,
+      "description": "Build a desktop application or local web service featuring an AI agent that assists medical professionals (e.g., radiologists) by pre-annotating clinical images (e.g., X-rays, CT scans) for common conditions or structures. The core innovation is that all image processing and inference happen entirely on the local device, ensuring patient data never leaves the secure environment. If desired, the agent could optionally participate in a federated learning scheme, sending only anonymized, aggregated model gradients (not raw data) to a central server to improve a global model, directly addressing privacy concerns highlighted by recent research.",
+      "tech_stack": [
+        "Python",
+        "PyTorch/TensorFlow Lite (for edge inference)",
+        "OpenCV",
+        "Electron/PyQt (for desktop UI) or Flask/Streamlit (for local web UI)",
+        "Docker (for packaging/deployment)",
+        "Optional: OpenMined's PySyft (for federated learning gradient exchange)"
+      ],
+      "source_inspiration": "FleXray: Universal Clinical X-ray Segmentation, Temporal Gradient Inversion for Private Trajectory Reconstruction in Embodied Reinforcement Learning",
+      "steps": [
+        "Select an open-source medical imaging dataset (e.g., chest X-rays from NIH) and pre-train a segmentation or classification model (e.g., U-Net, ResNet).",
+        "Convert the trained model to a lightweight format suitable for edge deployment (e.g., ONNX, TensorFlow Lite).",
+        "Develop a desktop application using Electron or PyQt, or a local web application using Flask/Streamlit, allowing users to upload (local file path) and view medical images.",
+        "Integrate the lightweight AI model into the application for on-device inference, enabling the agent to perform real-time pre-annotation (e.g., segmenting lungs, identifying nodules).",
+        "Implement robust privacy measures: ensure all image data remains local and no raw data is transmitted externally.",
+        "Optionally, explore and integrate a federated learning client-side component that can securely send anonymized gradient updates to a simulated or real central server without sharing patient data.",
+        "Provide tools within the UI for medical professionals to review, correct, and finalize the agent's pre-annotations, enhancing their workflow."
+      ]
+    },
+    {
+      "title": "Conversational OS & Environment Management Agent",
+      "difficulty": "Medium",
+      "estimated_hours": 60,
+      "description": "Create a command-line interface (CLI) or desktop agent that allows users to manage their operating system and development environments using natural language commands. Instead of memorizing complex CLI commands or navigating GUI menus, users can simply tell the agent what they want to achieve (e.g., 'Install VS Code and Node.js', 'Set up a Python data science environment', 'Fix permissions for my web server'). The agent, using an internal calibrated classifier and 'software by reflex' principle, breaks down the request into executable steps, suggests appropriate actions, and prompts for explicit confirmation before executing any system-altering commands. It can also learn common user patterns and offer proactive suggestions for maintenance or setup.",
+      "tech_stack": [
+        "Python",
+        "Click/Argparse (for CLI)",
+        "System Shell Integration (subprocess module)",
+        "SQLite (for preferences and learned patterns)",
+        "Lightweight LLM (e.g., local small model, or API for complex parsing)",
+        "YAML/JSON (for configuration of common tasks)"
+      ],
+      "source_inspiration": "Mac-Arch-Installer, evoke, clodfarm, Traditional Coding vs Agentic Coding: The Flow State Problem",
+      "steps": [
+        "Develop a core Python application that can execute system commands and manage files.",
+        "Implement a natural language processing (NLP) module (can be a simple rule-based system initially, or integrate with a local LLM like Llama.cpp) to interpret user commands.",
+        "Create a knowledge base (e.g., YAML files or a simple database) for common software installations, environment setups, and troubleshooting steps (e.g., 'install anaconda' -> `conda install ...`).",
+        "Design an agentic decision-making flow: receive user intent, classify it, propose a series of system commands/scripts, and prompt the user for confirmation before execution.",
+        "Implement a 'rollback' mechanism or at least clear warnings for potentially destructive commands.",
+        "Add a learning component where the agent can store successful command sequences and user preferences, offering them as proactive suggestions in the future.",
+        "Build robust error handling and user feedback mechanisms, explaining why a command failed or what needs to be done manually."
       ]
     }
   ],
   "quick_actions": [
-    "1. **Experiment with Local LLMs on Apple Silicon:** Download and run Ollama with a small model (e.g., Llama 2 7B) on your Apple Silicon Mac. Spend 30 minutes interacting with it directly in the terminal to understand its capabilities and resource usage.",
-    "2. **Implement a 'Jev-style' LLM Prompt for a Micro-Task:** Identify a repetitive personal task (e.g., summarizing release notes, drafting a simple email). Create a Python function that uses an LLM API to take a natural language instruction and execute that task, acting as a focused, 'single-function' agent.",
-    "3. **Analyze and Optimize a GitHub Actions Workflow:** Review one of your existing GitHub Actions workflows. Look for redundant steps, opportunities to cache dependencies, or ways to consolidate jobs to reduce execution time, inspired by performance discussions.",
-    "4. **Reflect on Agentic Coding Flow:** For your next small coding task, try to use an AI agent (like Copilot Chat or a custom LLM prompt) to generate a significant portion of the code. Afterwards, take 15 minutes to reflect on how this impacted your 'flow state,' problem-solving process, and overall enjoyment, as discussed in recent articles."
+    "Identify one recurring, manual task in your daily developer workflow (e.g., git branching, dependency updates, test running) and spend 30 minutes scripting or prompting an AI agent to automate at least a part of it.",
+    "Review the performance of a recent GitHub Actions (or similar CI/CD) job in one of your projects; identify the longest-running step and research concrete ways to optimize it (e.g., caching, parallelization, using specific runners).",
+    "Experiment with an existing agentic programming framework (e.g., LangChain, Autogen, crewAI) by attempting to solve a small, well-defined problem; pay attention to how it impacts your 'flow state' compared to traditional coding.",
+    "Practice defining an 'intent' for a complex task rather than explicit steps. For example, instead of 'cd into project, activate venv, run tests,' try to formulate a single command or prompt like 'Run all tests for my current project' and then build a script that interprets this intent."
   ]
 }
