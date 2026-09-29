@@ -1,29 +1,21 @@
 {
-  "last_updated": "2026-09-28 12:15:44",
+  "last_updated": "2026-09-29 11:44:11",
   "scraped_sources": {
     "github": [
-      {
-        "name": "FleXray",
-        "owner": "VictorButoi",
-        "description": "FleXray: Universal Clinical X-ray Segmentation",
-        "stars": 66,
-        "url": "https://github.com/VictorButoi/FleXray",
-        "category": "AI / ML"
-      },
       {
         "name": "neural-network-digits",
         "owner": "dev-luigi",
         "description": "Neural network from scratch in pure Python + NumPy that recognises handwritten digits (MNIST), with an educational GUI: watch it learn, tweak it while it trains, look inside every layer.",
-        "stars": 27,
+        "stars": 30,
         "url": "https://github.com/dev-luigi/neural-network-digits",
         "category": "AI / ML"
       },
       {
-        "name": "Snake-Game-Reinforcement-Project",
-        "owner": "mirzayasirabdullahbaig07",
-        "description": "A self-taught Snake agent built with Deep Q-Learning, PyTorch, and Pygame. No hand-coded strategy — the snake starts out clueless and learns entirely through trial and error, reward by reward, game by game.",
-        "stars": 23,
-        "url": "https://github.com/mirzayasirabdullahbaig07/Snake-Game-Reinforcement-Project",
+        "name": "financial-research-optimizer",
+        "owner": "ceyyy427",
+        "description": "Auditable, point-in-time financial research workflow for data lineage, model validation, backtest diagnostics, and constrained portfolio analysis.",
+        "stars": 29,
+        "url": "https://github.com/ceyyy427/financial-research-optimizer",
         "category": "AI / ML"
       },
       {
@@ -35,11 +27,19 @@
         "category": "AI / ML"
       },
       {
-        "name": "financial-research-optimizer",
-        "owner": "ceyyy427",
-        "description": "Auditable, point-in-time financial research workflow for data lineage, model validation, backtest diagnostics, and constrained portfolio analysis.",
-        "stars": 14,
-        "url": "https://github.com/ceyyy427/financial-research-optimizer",
+        "name": "tachyroute",
+        "owner": "DhanushNehru",
+        "description": "The blazing-fast, multimodal AI decision engine. Uses adaptive early-exit computing and attention rollout for sub-15ms explainable zero-shot classification",
+        "stars": 13,
+        "url": "https://github.com/DhanushNehru/tachyroute",
+        "category": "AI / ML"
+      },
+      {
+        "name": "typed-lm",
+        "owner": "neurono-ml",
+        "description": "Single-forward-pass semantic routing in Rust: turn dense LLMs (Llama, Qwen, Mistral, Gemma) into a typed decision API with LoRA/QLoRA training and FP8/FP4 quantization, built on Candle.",
+        "stars": 9,
+        "url": "https://github.com/neurono-ml/typed-lm",
         "category": "AI / ML"
       },
       {
@@ -54,7 +54,7 @@
         "name": "clodfarm",
         "owner": "matank001",
         "description": "clodfarm (say it out loud): a farm of Claude Code agents. Plant a mission, they split it into sub-agents, open the work, and pace themselves on each account's real 5-hour and weekly usage. Steer it from the Claude app.",
-        "stars": 62,
+        "stars": 80,
         "url": "https://github.com/matank001/clodfarm",
         "category": "Automation / Productivity"
       },
@@ -67,72 +67,95 @@
         "category": "Automation / Productivity"
       },
       {
-        "name": "stallkit",
-        "owner": "MoneyPrintLabs",
-        "description": "Open-source Etsy seller automation CLI: bulk listings from CSV, order and tracking sync, SEO analysis, and designs-to-drafts via the official Etsy Open API v3. Runs locally with your own API app.",
-        "stars": 13,
-        "url": "https://github.com/MoneyPrintLabs/stallkit",
+        "name": "jobradar",
+        "owner": "suvamneog",
+        "description": "Watches company job boards, scores openings against your resume, and emails you when something worth applying to shows up.",
+        "stars": 27,
+        "url": "https://github.com/suvamneog/jobradar",
         "category": "Automation / Productivity"
       },
       {
-        "name": "1point3acres-toolkit",
-        "owner": "vivian-labs",
-        "description": "一亩三分地自动签到 + 每日答题：在你自己电脑的 Chrome 里、用你自己的登录完成，不经过第三方；也是给 Claude Code / Codex 用的 MCP 服务。1point3acres daily check-in & quiz automation, local-only, plus an MCP server for AI assistants.",
-        "stars": 11,
-        "url": "https://github.com/vivian-labs/1point3acres-toolkit",
+        "name": "stallkit",
+        "owner": "MoneyPrintLabs",
+        "description": "Open-source Etsy seller automation CLI: bulk listings from CSV, order and tracking sync, SEO analysis, and designs-to-drafts via the official Etsy Open API v3. Runs locally with your own API app.",
+        "stars": 14,
+        "url": "https://github.com/MoneyPrintLabs/stallkit",
         "category": "Automation / Productivity"
       }
     ],
     "hacker_news": [
       {
-        "title": "Parley: Federated, decentralised chat that speaks plain IRC",
-        "url": "https://git.mills.io/prologic/parley",
-        "score": 78
+        "title": "AI companies leak data to advertisers [pdf]",
+        "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+        "score": 132
       },
       {
-        "title": "AI companies in race to demonstrate their model most threatening to humanity",
-        "url": "https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/",
-        "score": 103
+        "title": "Jeeves. Reasoning improves Jev-like decision models",
+        "url": "https://github.com/PostHog/jeeves",
+        "score": 17
       },
       {
-        "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
-        "url": "https://arxiv.org/abs/2110.01834",
-        "score": 123
+        "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
+        "url": "https://stateofutopia.com/experiments/microllmlab/",
+        "score": 252
       },
       {
-        "title": "Nissan's third generation e-POWER powertrain",
-        "url": "https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/",
-        "score": 88
+        "title": "12,000-year-old Göbeklitepe burials explain scattered bones",
+        "url": "https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/",
+        "score": 145
+      },
+      {
+        "title": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
+        "url": "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster",
+        "score": 108
       }
     ],
     "arxiv": [
       {
-        "title": "Learning to Stop without Learning to Stop: Self-Supervised Confidence Training Improves Reasoning Efficiency",
-        "summary": "Reasoning models often generate very long reasoning traces, making inference computationally expensive. Existing approaches typically improve efficiency either through inference-time early-stopping me...",
-        "url": "http://arxiv.org/abs/2609.31619v1"
+        "title": "FurE: Efficient Instance-Specific 3D Fur Reconstruction without Animal-Fur Datasets",
+        "summary": "Realistic and editable animal fur reconstruction from multi-view images is challenging due to fine-scale detail, self-occlusion and obfuscation, and, unlike human hair, the lack of animal-fur datasets...",
+        "url": "http://arxiv.org/abs/2609.35770v1"
       },
       {
-        "title": "Gap-free Differentially Private PCA for Gaussian Data",
-        "summary": "We give a gap-free differentially private algorithm for the principal component analysis (PCA) problem with Gaussian data....",
-        "url": "http://arxiv.org/abs/2609.31614v1"
+        "title": "Telescopic Language Models",
+        "summary": "One deployed language model must often serve many compute budgets, yet serving each budget still means a separate training or compression run per point. We train a Telescopic Language Model (TLM) to b...",
+        "url": "http://arxiv.org/abs/2609.35769v1"
       },
       {
-        "title": "First-Order Stationarity of Reverse Diffusions",
-        "summary": "Recent literature has shown a strong connection between optimization and sampling. We develop the corresponding first-order theory for diffusion models. First, the SDE-based reverse-time flows of over...",
-        "url": "http://arxiv.org/abs/2609.31612v1"
+        "title": "PDMD: Projected Distribution Matching Distillation for Video Diffusion Models",
+        "summary": "Modern video diffusion models require tens of denoising evaluations over long spatiotemporal token sequences. Distribution Matching Distillation (DMD) reduces the number of function evaluations (NFE) ...",
+        "url": "http://arxiv.org/abs/2609.35768v1"
       },
       {
-        "title": "Statistical attribute alignment for black-box generative AI via output post-processing",
-        "summary": "Generative AI systems are increasingly used, but aligning their outputs with user requirements poses a continuing challenge. Here, we aim to ensure that the distribution of an attribute of an AI-gener...",
-        "url": "http://arxiv.org/abs/2609.31607v1"
+        "title": "Learning Native Reflection in Unified Models with Interleaved Reinforcement Learning",
+        "summary": "Unified multimodal models can both look at and render images, so in principle they can repair their own generations: diagnose what an image gets wrong, revise it, observe the result, and diagnose agai...",
+        "url": "http://arxiv.org/abs/2609.35767v1"
       },
       {
-        "title": "User Model Extraction via Belief Self-Distillation",
-        "summary": "Large language models (LLMs) implicitly infer attributes of their users and adapt their behavior accordingly, yet these beliefs remain difficult to inspect and causally manipulate. We introduce Belief...",
-        "url": "http://arxiv.org/abs/2609.31603v1"
+        "title": "Retrieving Biblical Intertextual References in Karen Blixen's Seven Gothic Tales",
+        "summary": "Identifying intertextual references is central to literary scholarship, but computationally difficult when source material is transformed through paraphrase, allusion, historical language, and transla...",
+        "url": "http://arxiv.org/abs/2609.35765v1"
       }
     ],
     "devto": [
+      {
+        "title": "I burned out. Now I don't know how to start again.",
+        "description": "Hi, devs! I'm back. I wish I could return with a major success, a discovery, or a new achievement,...",
+        "url": "https://dev.to/embernoglow/i-burned-out-now-i-dont-know-how-to-start-again-1h79",
+        "reactions": 51
+      },
+      {
+        "title": "Claude e Obsidian - Como uma QA utiliza essas ferramentas no dia-a-dia",
+        "description": "🇺🇸 You can also read the English version of this article on AWS Community Builders.   Ser QA nessa...",
+        "url": "https://dev.to/he4rt/claude-e-obsidian-como-uma-qa-utiliza-essas-ferramentas-no-dia-a-dia-51jc",
+        "reactions": 94
+      },
+      {
+        "title": "Vim's Swan Song: Is It Time to :q!?",
+        "description": "Table of Contents    Hotel California Hands Off the Mouse Vim Was Never About Typing...",
+        "url": "https://dev.to/georgekobaidze/vims-swan-song-is-it-time-to-q-eek",
+        "reactions": 24
+      },
       {
         "title": "Stop building side projects. Nobody cares — and here's the uncomfortable math.",
         "description": "Open your GitHub. Go on. Count the repositories that have a README, a clean commit that says initial...",
@@ -140,110 +163,86 @@
         "reactions": 39
       },
       {
-        "title": "Vim's Swan Song: Is It Time to :q!?",
-        "description": "Table of Contents    Hotel California Hands Off the Mouse Vim Was Never About Typing...",
-        "url": "https://dev.to/georgekobaidze/vims-swan-song-is-it-time-to-q-eek",
-        "reactions": 21
-      },
-      {
         "title": "If AI Writes the Code and AI Reviews the Code, What Exactly Is the Developer Verifying?",
         "description": "AI can now write the feature.  Then AI can write the tests.  Then AI can open the pull request.  Then...",
         "url": "https://dev.to/robertadam987_/if-ai-writes-the-code-and-ai-reviews-the-code-what-exactly-is-the-developer-verifying-b5h",
-        "reactions": 37
-      },
-      {
-        "title": "I burned out. Now I don't know how to start again.",
-        "description": "Hi, devs! I'm back. I wish I could return with a major success, a discovery, or a new achievement,...",
-        "url": "https://dev.to/embernoglow/i-burned-out-now-i-dont-know-how-to-start-again-1h79",
-        "reactions": 24
-      },
-      {
-        "title": "AI Is Writing More of the Code — But Developers Are Becoming Responsible for More Than Ever",
-        "description": "AI is writing more code.  That part is obvious now.  Developers can ask an agent to:   create a...",
-        "url": "https://dev.to/robertadam987_/ai-is-writing-more-of-the-code-but-developers-are-becoming-responsible-for-more-than-ever-55ni",
-        "reactions": 31
+        "reactions": 41
       }
     ]
   },
-  "trends": "Today's tech landscape is dominated by the rapid evolution of AI towards more specialized, agentic, and explainable systems. There's a strong push for AI to automate complex, multi-step workflows, exemplified by projects like 'clodfarm' and specialized financial or medical AI. Concurrently, the 'Automation / Productivity' sector highlights an ongoing arms race against web anti-bot measures (CAPTCHAs, Cloudflare) and a significant shift in the developer's role. Developers are increasingly becoming orchestrators and verifiers of AI-generated code, rather than primary code writers, leading to both productivity gains and concerns about burnout and the ultimate value of side projects. Research continues to focus on improving AI efficiency, control, and alignment with user intent, addressing both performance and ethical considerations.",
+  "trends": "Today's tech landscape is defined by the relentless pursuit of AI efficiency and accessibility, particularly with Large Language Models (LLMs) which are being optimized for smaller footprints, faster inference (Telescopic LMs, quantization), and deployment on edge devices (MicroLLMs, ESP32 clusters). A significant shift towards agentic AI is evident, with multi-agent systems automating complex workflows (e.g., Clodfarm for managing Claude agents, financial research, Etsy automation). Simultaneously, there's a strong emphasis on specialized AI applications tackling niche, complex problems (3D fur reconstruction, literary analysis) and a growing need for explainability and auditability in AI decision-making. Developer productivity remains a critical concern, with AI assisting in code generation and review, prompting discussions about the evolving role of developers, while also fueling innovative automation tools for daily tasks. Privacy concerns surrounding AI data usage are also coming to the forefront.",
   "ideas": [
     {
-      "title": "Adaptive Web Automation Agent for Niche Data Collection",
+      "title": "AI-Powered \"Skill Agent\" Orchestrator",
       "difficulty": "Medium",
       "estimated_hours": 30,
-      "description": "Build a personal, local-first intelligent agent that automates data collection from specific, user-defined niche websites (e.g., specialized job boards, academic paper aggregators, local market listings). Unlike generic scrapers, this agent leverages browser automation (headless browser) and includes a self-healing mechanism to adapt to minor UI changes or dynamic content. It incorporates a basic 'anti-anti-bot' strategy, drawing inspiration from projects like 'captcha-api' and 'cf-clearance', to handle common bot detection techniques (e.g., cookie management, realistic browsing patterns). The user defines tasks through a simple configuration file or natural language prompts, and the agent executes, extracts, and structures the data into a usable format.",
+      "description": "Develop a central orchestration system where a main AI agent takes a high-level goal from the user, breaks it down into sub-tasks, and dynamically delegates these sub-tasks to specialized 'skill agents.' These skill agents can be local scripts, wrappers around external APIs (like a web search tool, a summarization service, or a code generation tool), or even other LLM instances. The orchestrator monitors agent progress, integrates outputs, and refines subsequent steps, enabling complex, multi-modal workflows to be automated from a single prompt. This moves beyond simple prompt chaining to intelligent, adaptive workflow management.",
       "tech_stack": [
         "Python",
-        "Playwright or Selenium",
-        "FastAPI (for local interface)",
-        "SQLite (for task/state management)",
-        "Regex or Beautiful Soup (for data extraction)",
-        "Optional: Small local LLM (e.g., Llama.cpp) for task interpretation"
+        "FastAPI",
+        "LangChain/LlamaIndex",
+        "Docker",
+        "Ollama/LM Studio (for local LLMs) or Cloud LLM APIs"
       ],
-      "source_inspiration": "clodfarm, captcha-api, cf-clearance, 1point3acres-toolkit",
+      "source_inspiration": "clodfarm, jobradar, stallkit, Dev.to article 'Claude e Obsidian - Como uma QA utiliza essas ferramentas no dia-a-dia'",
       "steps": [
-        "Task 1: Set up a Python environment with Playwright/Selenium and a local web framework (FastAPI).",
-        "Task 2: Develop a core web interaction module for navigation, clicking, and form filling.",
-        "Task 3: Implement basic anti-detection strategies (e.g., user-agent rotation, managing cookies, introducing delays).",
-        "Task 4: Create a configuration system (e.g., YAML/JSON) for users to define target websites and data points.",
-        "Task 5: Implement a data extraction and structuring module to save scraped data.",
-        "Task 6: Build a simple API endpoint for starting/stopping tasks and viewing status.",
-        "Task 7: (Advanced) Integrate a lightweight LLM to interpret natural language task requests into structured configurations."
+        "Task 1: Implement a Python-based orchestrator core that accepts user goals and uses an LLM to generate an initial task breakdown.",
+        "Task 2: Design a standardized API or interface (e.g., Python functions with decorators) for 'skill agents' to adhere to.",
+        "Task 3: Develop initial skill agents, such as a 'Web Search Agent' (using requests/BeautifulSoup), a 'Text Summarization Agent' (using a local LLM), and a 'File Operations Agent'.",
+        "Task 4: Create an agent registry system allowing the orchestrator to discover and dynamically load/dispatch tasks to available agents.",
+        "Task 5: Implement a feedback loop where agents report results or failures back to the orchestrator, allowing for adaptive task refinement or re-delegation.",
+        "Task 6: Build a simple command-line interface or web frontend (e.g., using Streamlit) for users to input goals and view the execution flow."
       ]
     },
     {
-      "title": "Interactive Model Explainability & Tuning Workbench",
-      "difficulty": "Medium",
-      "estimated_hours": 40,
-      "description": "Develop a web-based application that allows developers and data scientists to interactively explore and understand the decision-making process of small, pre-trained machine learning models. Users can upload a dataset (CSV), select a pre-defined model type (e.g., Decision Tree, Logistic Regression, a simple Neural Network trained on MNIST-like data), and then visualize its internal workings. Key features would include: visualizing feature importance, explaining individual predictions using techniques like LIME or SHAP (for simplicity, focus on tabular data), and allowing users to 'tweak' input features to immediately see how the prediction changes. This project aligns with the trend of making AI more transparent, controllable, and educational, addressing the need to look 'inside every layer' of an AI model.",
+      "title": "Edge-Optimized Intelligent LLM Router",
+      "difficulty": "Hard",
+      "estimated_hours": 60,
+      "description": "Create a lightweight, on-device semantic router that intelligently directs user queries to the most appropriate processing backend. This router will utilize a highly quantized, tiny local language model (or a specialized classification model) to perform rapid intent detection or content classification. Based on this, it decides whether to: 1) answer locally with a small, specialized model for efficiency/privacy, 2) route to a more powerful local LLM instance (e.g., via Ollama), 3) forward to a more expensive cloud-based LLM API, or 4) trigger a specific local tool or function. This project optimizes for cost, latency, and privacy by maximizing local processing and intelligent resource allocation.",
       "tech_stack": [
-        "Python (Flask/FastAPI)",
-        "Scikit-learn",
-        "LIME or SHAP (for explainability)",
-        "Pandas (data handling)",
-        "JavaScript (React/Vue for frontend)",
-        "D3.js or Plotly.js (for interactive visualizations)"
+        "Rust",
+        "Candle/GGML/llama.cpp",
+        "ONNX Runtime/TFLite",
+        "Python (for model conversion/training)"
       ],
-      "source_inspiration": "neural-network-digits, Learning to Stop without Learning to Stop, Statistical attribute alignment for black-box generative AI",
+      "source_inspiration": "typed-lm, tachyroute, Hacker News 'MicroLLM Lab' and 'ESP32S3 cluster running 1.58-bit (BitNet) Language model', arXiv 'Telescopic Language Models'",
       "steps": [
-        "Task 1: Set up a Python backend with Flask/FastAPI and a frontend framework (e.g., React).",
-        "Task 2: Implement data upload functionality (CSV) and basic data preprocessing.",
-        "Task 3: Integrate common Scikit-learn models (e.g., Decision Tree Classifier/Regressor).",
-        "Task 4: Implement model training and prediction endpoints.",
-        "Task 5: Integrate LIME/SHAP for local interpretability of model predictions.",
-        "Task 6: Develop interactive frontend visualizations for feature importance, prediction explanations, and input perturbation.",
-        "Task 7: Add a UI element to visualize model parameters or decision boundaries (for simpler models)."
+        "Task 1: Select a suitable small base model (e.g., a highly quantized Llama variant or a fine-tuned BERT model) and train/fine-tune it for intent classification/routing.",
+        "Task 2: Convert and optimize the chosen model for efficient inference on edge devices using tools like Candle or GGML, ideally with Rust bindings.",
+        "Task 3: Develop the core routing logic in Rust, enabling the tiny model to classify incoming queries into predefined categories (e.g., 'code generation', 'general Q&A', 'sensitive data processing').",
+        "Task 4: Implement proxy endpoints or connectors for various target backends: a local, larger LLM server (e.g., via a gRPC interface to Ollama), an external cloud LLM API, and a custom function/tool executor.",
+        "Task 5: Build a high-performance Rust service that exposes an API endpoint, takes user queries, runs them through the local router, and forwards them to the determined backend.",
+        "Task 6: Conduct extensive benchmarking for latency, memory footprint, and routing accuracy, iterating on model selection, quantization techniques, and Rust implementation details."
       ]
     },
     {
-      "title": "LLM-Powered Code Output Validator & Test Case Generator",
-      "difficulty": "Medium",
-      "estimated_hours": 35,
-      "description": "Create a tool that enhances developer productivity by verifying and strengthening AI-generated code. This application takes an LLM's code output (e.g., a function, a class) and a natural language description of its intended functionality (the prompt given to the LLM). It then generates a suite of targeted unit tests and validation checks. These tests would not only confirm basic functionality but also probe for common LLM 'hallucinations' or edge cases, focusing on input validation, error handling, and performance (for simple cases). The tool provides a feedback loop, highlighting where the AI's code might fail requirements, thereby empowering the developer in their new role as an AI output verifier.",
+      "title": "Decentralized & Auditable Financial Research Environment",
+      "difficulty": "Medium-Hard",
+      "estimated_hours": 45,
+      "description": "Construct a local, containerized development environment specifically tailored for financial research, integrating AI assistants with robust auditable data lineage. This sandbox will allow researchers to leverage LLMs for tasks like market analysis, quantitative modeling, and report generation, while ensuring every AI interaction, data transformation, and model decision is meticulously logged, version-controlled, and explainable. The primary goal is to address the critical need for transparency, compliance, and data privacy in financial applications, particularly in light of concerns about AI data leakage and model opacity.",
       "tech_stack": [
         "Python",
-        "LangChain or LlamaIndex (for LLM orchestration)",
-        "pytest (for test execution)",
-        "OpenAI API or Anthropic API (or local LLM via Llama.cpp)",
-        "AST module (for basic code parsing/analysis)",
-        "Flask/FastAPI (for local service/API)"
+        "Pandas/NumPy/Scikit-learn",
+        "Docker",
+        "DVC (Data Version Control)",
+        "Streamlit/Dash",
+        "Ollama/LM Studio (for local LLMs) or Controlled LLM API Proxy"
       ],
-      "source_inspiration": "If AI Writes the Code and AI Reviews the Code, What Exactly Is the Developer Verifying?, AI Is Writing More of the Code — But Developers Are Becoming Responsible for More Than Ever, Statistical attribute alignment for black-box generative AI",
+      "source_inspiration": "financial-research-optimizer, Hacker News 'AI companies leak data to advertisers [pdf]', arXiv 'Jeeves. Reasoning improves Jev-like decision models'",
       "steps": [
-        "Task 1: Set up a Python project with an LLM interaction library (e.g., LangChain) and pytest.",
-        "Task 2: Implement a module to accept LLM-generated code and the original prompt/requirements.",
-        "Task 3: Develop prompt templates for an LLM to generate unit tests based on code and requirements (focus on common test cases, edge cases, input validation).",
-        "Task 4: Implement a mechanism to execute the generated tests against the LLM's code.",
-        "Task 5: Create a reporting feature to show test results and highlight areas of concern.",
-        "Task 6: (Advanced) Implement basic static analysis using Python's `ast` module to identify potential issues before generating tests.",
-        "Task 7: (Advanced) Provide suggestions on how to refine the original LLM prompt to improve code quality based on test failures."
+        "Task 1: Set up a Docker container providing a pre-configured Python environment with essential data science and financial libraries (Pandas, NumPy, etc.).",
+        "Task 2: Develop a custom proxy layer for all LLM interactions (whether local or external), ensuring that every prompt, response, and associated metadata is logged securely.",
+        "Task 3: Integrate a data version control system like DVC to track and audit all input data, intermediate processed datasets, model artifacts, and generated reports, establishing clear data lineage.",
+        "Task 4: Implement 'auditor' functions or a dedicated agent that can review the logs and DVC history to verify research steps and AI decisions, flagging any inconsistencies or non-transparent actions.",
+        "Task 5: Create a set of Python helper functions or scripts that wrap LLM calls for common financial research tasks (e.g., 'analyze quarterly report', 'generate stock sentiment summary'), ensuring these are integrated with the logging and DVC systems.",
+        "Task 6: Build a user-friendly web-based interface (e.g., using Streamlit or Dash) to manage research projects, interact with AI assistants, and visualize audit trails and data lineage."
       ]
     }
   ],
   "quick_actions": [
-    "Action 1: Dedicate 30 minutes daily to practicing advanced prompt engineering techniques for code generation or complex problem-solving with an LLM.",
-    "Action 2: For any AI-generated code you use, commit to spending an equal amount of time reviewing, understanding, and critically validating it as you would writing it yourself.",
-    "Action 3: Identify one small, repetitive personal or development workflow task this week and build a quick script or use an existing no-code tool to automate it.",
-    "Action 4: Experiment with an LLM by asking it to explain its reasoning for a specific output (e.g., a code snippet, a summary) and then critically evaluate its 'self-explanation'."
+    "Action 1: Dedicate 30 minutes this week to review the privacy settings of 2-3 AI tools (e.g., ChatGPT, Copilot) you regularly use. Understand their data retention policies and opt-out options for model training to safeguard your data.",
+    "Action 2: Install a local LLM environment (e.g., Ollama or LM Studio) and spend an hour experimenting with automating a small, repetitive task, such as summarizing a document or generating boilerplate code, to understand local AI's practical application.",
+    "Action 3: For the next week, consciously timebox 'deep work' sessions (problem-solving, design) where you minimize AI assistance, and separate 'AI-assisted work' sessions (code generation, refactoring). This helps preserve critical thinking and clarifies your role alongside AI.",
+    "Action 4: Identify one tiny, repetitive manual task you perform daily or weekly (e.g., organizing downloads, checking a specific news feed) and spend 1-2 hours scripting a simple automation for it, leveraging Python or shell scripts to gain immediate productivity."
   ]
 }
