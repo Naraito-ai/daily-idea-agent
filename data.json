@@ -1,68 +1,52 @@
 {
-  "last_updated": "2026-10-01 11:58:47",
+  "last_updated": "2026-10-02 11:30:19",
   "scraped_sources": {
     "github": [
       {
-        "name": "financial-research-optimizer",
-        "owner": "ceyyy427",
-        "description": "Auditable, point-in-time financial research workflow for data lineage, model validation, backtest diagnostics, and constrained portfolio analysis.",
-        "stars": 66,
-        "url": "https://github.com/ceyyy427/financial-research-optimizer",
+        "name": "strands-decider",
+        "owner": "strands-labs",
+        "description": "A small, fast decision model, or system one model, for agentic workflows. Pick between options or rate on a scale faster than an LLM, with a calibrated confidence on every decision.",
+        "stars": 117,
+        "url": "https://github.com/strands-labs/strands-decider",
         "category": "AI / ML"
       },
       {
-        "name": "neural-network-digits",
-        "owner": "dev-luigi",
-        "description": "Neural network from scratch in pure Python + NumPy that recognises handwritten digits (MNIST), with an educational GUI: watch it learn, tweak it while it trains, look inside every layer.",
-        "stars": 33,
-        "url": "https://github.com/dev-luigi/neural-network-digits",
-        "category": "AI / ML"
-      },
-      {
-        "name": "ipasAI",
-        "owner": "zero2005x",
-        "description": "iPAS AI 應用規劃師（中級）考綱教科書 v0.3 開源版（含三冊完整教材、219 題模擬題、300 題官方試題解析索引與 PDF 編譯工具）",
-        "stars": 22,
-        "url": "https://github.com/zero2005x/ipasAI",
+        "name": "self-driving-car",
+        "owner": "Stxqq",
+        "description": "Self-driving car in plain JavaScript: a neural network evolved by a genetic algorithm drives highway traffic",
+        "stars": 46,
+        "url": "https://github.com/Stxqq/self-driving-car",
         "category": "AI / ML"
       },
       {
         "name": "awesome-llmsecops",
         "owner": "ARUNAGIRINATHAN-K",
         "description": "✨LLM Security Operations for securing AI systems throughout their lifecycle.",
-        "stars": 11,
+        "stars": 12,
         "url": "https://github.com/ARUNAGIRINATHAN-K/awesome-llmsecops",
         "category": "AI / ML"
       },
       {
-        "name": "typed-lm",
-        "owner": "neurono-ml",
-        "description": "Single-forward-pass semantic routing in Rust: turn dense LLMs (Llama, Qwen, Mistral, Gemma) into a typed decision API with LoRA/QLoRA training and FP8/FP4 quantization, built on Candle.",
-        "stars": 10,
-        "url": "https://github.com/neurono-ml/typed-lm",
+        "name": "ProactiveInquirer",
+        "owner": "dolev31",
+        "description": "Asking for What Was Never Requested: horizontal and vertical proactivity in LLM agents. Need-graph metrics (no LLM judge) and Q&D, which trains a questioner from the consequences of its questions.",
+        "stars": 11,
+        "url": "https://github.com/dolev31/ProactiveInquirer",
         "category": "AI / ML"
       },
       {
-        "name": "captcha-api",
-        "owner": "jamespolyakov9829",
-        "description": "Captcha-solving API client - Cloudflare Challenge and Turnstile in one interface, with cost tracking and concurrent batch solves.",
-        "stars": 261,
-        "url": "https://github.com/jamespolyakov9829/captcha-api",
-        "category": "Automation / Productivity"
-      },
-      {
-        "name": "clodfarm",
-        "owner": "matank001",
-        "description": "clodfarm (say it out loud): a farm of Claude Code agents. Plant a mission, they split it into sub-agents, open the work, and pace themselves on each account's real 5-hour and weekly usage. Steer it from the Claude app.",
-        "stars": 105,
-        "url": "https://github.com/matank001/clodfarm",
-        "category": "Automation / Productivity"
+        "name": "jailbreak-archives",
+        "owner": "e2sy",
+        "description": "A structured, versioned archive of adversarial prompt engineering techniques against Large Language Models — for AI safety research, red-teaming, and defensive hardening.",
+        "stars": 10,
+        "url": "https://github.com/e2sy/jailbreak-archives",
+        "category": "AI / ML"
       },
       {
         "name": "cline-pilot",
         "owner": "gongdear",
         "description": "An Agent Skill: drive Cline CLI coding tasks as the user's proxy.",
-        "stars": 73,
+        "stars": 102,
         "url": "https://github.com/gongdear/cline-pilot",
         "category": "Automation / Productivity"
       },
@@ -75,51 +59,62 @@
         "category": "Automation / Productivity"
       },
       {
-        "name": "cf-clearance",
-        "owner": "Demet5292",
-        "description": "Get a valid cf_clearance cookie from the Cloudflare Challenge automatically - Python library, CLI and examples, one REST call, no browser required.",
-        "stars": 37,
-        "url": "https://github.com/Demet5292/cf-clearance",
+        "name": "pymacos",
+        "owner": "JeanExtreme002",
+        "description": "A Python library for automating and controlling macOS.",
+        "stars": 20,
+        "url": "https://github.com/JeanExtreme002/pymacos",
+        "category": "Automation / Productivity"
+      },
+      {
+        "name": "tweetytweets",
+        "owner": "vedantdhande04",
+        "description": "Autonomous X/Twitter posting pipeline for your AI agent. No API key, no paid scrapers: researches your niche, writes in your voice, publishes through a real browser, and verifies its own posts.",
+        "stars": 20,
+        "url": "https://github.com/vedantdhande04/tweetytweets",
+        "category": "Automation / Productivity"
+      },
+      {
+        "name": "minimax-agent-automation",
+        "owner": "0xgetz",
+        "description": "Automated MiniMax Agent account signup + daily check-in + JWT/cookie harvester. Uses Zenvex disposable email and Playwright. | Automasi daftar akun MiniMax Agent, check-in harian, dan ambil token/cookies.",
+        "stars": 13,
+        "url": "https://github.com/0xgetz/minimax-agent-automation",
         "category": "Automation / Productivity"
       }
     ],
     "hacker_news": [
       {
-        "title": "Surprisingly complex waves reveal the brain's inner workings",
-        "url": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
-        "score": 201
-      },
-      {
-        "title": "Halfspace experimental IDE for solid modeling with distance fields",
-        "url": "https://www.mattkeeter.com/projects/halfspace/",
-        "score": 145
+        "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
+        "url": "https://blog.cloudflare.com/clef-decision-models/",
+        "score": 529
       }
     ],
     "arxiv": [
       {
-        "title": "Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis",
-        "summary": "Multimodal large language models (MLLMs) are rapidly advancing clinical diagnosis, yet their adaptation pipelines remain anchored to accuracy-based objectives. Clinical data are heavily class-imbalanc...",
-        "url": "http://arxiv.org/abs/2609.40361v1"
+        "title": "One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars",
+        "summary": "3D Gaussian avatars support fast rendering, however, their real-time animation is often challenged by the costly neural inference. We address this bottleneck and show that the animation of pretrained ...",
+        "url": "http://arxiv.org/abs/2610.02207v1"
       },
       {
-        "title": "Semifactual Credit-Augmented Policy Optimization",
-        "summary": "Reinforcement learning with verifiable rewards (RLVR) has improved the reasoning capabilities of large language models (LLMs), yet their predictions remain sensitive to task-irrelevant prompt features...",
-        "url": "http://arxiv.org/abs/2609.40360v1"
+        "title": "KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards",
+        "summary": "LLMs are increasingly applied to cybersecurity workflows, where they are expected to translate analysts' intent into tool invocations. However, existing evaluations focus on knowledge-based assessment...",
+        "url": "http://arxiv.org/abs/2610.02206v1"
       },
       {
-        "title": "Removing Timing Shortcuts Improves Non-Invasive Brain-to-Text",
-        "summary": "We find that major reported improvements in decoding words from non-invasive brain recordings are largely reproducible without any brain data. In the influential work of d'Ascoli et al. (2025), time s...",
-        "url": "http://arxiv.org/abs/2609.40359v1"
+        "title": "Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents",
+        "summary": "Building reliable robot capabilities across diverse tasks requires substantial human effort to develop and maintain skills, design rewards, and integrate perception with control. We present Reconstruc...",
+        "url": "http://arxiv.org/abs/2610.02204v1"
       },
       {
-        "title": "ViTeX-Bench: Benchmarking High-Fidelity Video Scene Text Editing",
-        "summary": "Recent video generation is increasingly realistic and controllable, yet video editing remains less developed, particularly for precise local edits that must preserve the original scene dynamics. Video...",
-        "url": "http://arxiv.org/abs/2609.40356v1"
+        "title": "Embedding Prediction Helps Image Generation",
+        "summary": "In diffusion transformers, a class label or a text prompt is embedded once, and the same condition is reused at every denoising step. We ask whether predicted embeddings can serve as this condition in...",
+        "url": "http://arxiv.org/abs/2610.02203v1"
       },
       {
-        "title": "Image Classifiers are Efficient Self-Supervised Video Representation Learners",
-        "summary": "We introduce VideoMSN, a Masked Siamese Network framework for efficient self-supervised spatio-temporal representation learning in videos. Instead of relying on heavy 3D architectures or reconstructio...",
-        "url": "http://arxiv.org/abs/2609.40347v1"
+        "title": "ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research",
+        "summary": "What makes great scientists great? Even as AI systems start to make progress on open problems, scientists remain far ahead of them at sensing which prior idea, buried in an ever-growing archive of res...",
+        "url": "http://arxiv.org/abs/2610.02202v1"
       }
     ],
     "devto": [
@@ -127,13 +122,13 @@
         "title": "I burned out. Now I don't know how to start again.",
         "description": "Hi, devs! I'm back. I wish I could return with a major success, a discovery, or a new achievement,...",
         "url": "https://dev.to/embernoglow/i-burned-out-now-i-dont-know-how-to-start-again-1h79",
-        "reactions": 98
+        "reactions": 124
       },
       {
         "title": "Claude e Obsidian - Como uma QA utiliza essas ferramentas no dia-a-dia",
         "description": "🇺🇸 You can also read the English version of this article on AWS Community Builders.   Ser QA nessa...",
         "url": "https://dev.to/he4rt/claude-e-obsidian-como-uma-qa-utiliza-essas-ferramentas-no-dia-a-dia-51jc",
-        "reactions": 104
+        "reactions": 105
       },
       {
         "title": "Vim's Swan Song: Is It Time to :q!?",
@@ -151,88 +146,86 @@
         "title": "Everything About This Secrets Manager Screamed 'Too Good to Be True.' So I Tested That.",
         "description": "I've been on a bit of a \"install random dev tools and see if they actually hold up\" kick lately, and...",
         "url": "https://dev.to/varshithvhegde/everything-about-this-secrets-manager-screamed-too-good-to-be-true-so-i-tested-that-5e8a",
-        "reactions": 15
+        "reactions": 16
       }
     ]
   },
-  "trends": "Today's tech landscape is dominated by the rapid advancement and practical application of autonomous AI agents, moving beyond simple chatbots to perform complex, multi-step tasks across various domains. There's a strong focus on enhancing developer productivity through these agents, often integrated with existing tools and workflows (CLI, PC automation). Concurrently, Large Language Models (LLMs) are being refined for specialized, 'typed' decision-making APIs, with significant attention paid to security (LLMsecops) and efficiency (quantization, Rust implementations). The challenges and opportunities presented by AI are actively reshaping the developer's role, prompting discussions around code verification, the nature of work, and the pervasive issue of developer burnout. Furthermore, there's a practical drive towards automating tedious web-based challenges (like Cloudflare bypasses) to facilitate data access and operational efficiency.",
+  "trends": "Today's tech landscape is heavily defined by the maturation and practical application of agentic AI. There's a strong focus on building 'system one' fast decision models for agents, enhancing their proactivity, and embedding them into practical, localized automation workflows across various platforms (CLI, PC, macOS, social media). Concurrently, the security posture of LLM-powered systems is a critical and growing concern, leading to significant activity in LLM security operations, red-teaming, and adversarial prompt engineering. Research continues to push boundaries in embodied agents and efficient generative AI (e.g., real-time 3D avatars, embedding-guided image generation). Developers are also grappling with the changing nature of their work due to AI code generation and review, alongside increased awareness of burnout and the adoption of new productivity tools for knowledge management and task automation. The emergence of open-weight models for core AI capabilities is democratizing access and fostering innovation.",
   "ideas": [
     {
-      "title": "AI-Powered 'DevOps Scout' - Autonomous Project Management Agent",
+      "title": "LLM Agent Adversarial Resilience & Security Sandbox",
       "difficulty": "Medium",
+      "estimated_hours": 28,
+      "description": "Develop a local, containerized sandbox environment where developers can deploy and test their custom LLM agents against a curated, evolving set of adversarial prompts and 'jailbreak' techniques. The sandbox would provide metrics on the agent's resilience, identify vulnerabilities, and suggest potential hardening strategies based on the test results. This tool would empower developers to proactively secure their agentic systems before real-world deployment, addressing the critical security concerns around LLMs.",
+      "tech_stack": [
+        "Python (LangChain/LlamaIndex)",
+        "Docker",
+        "Streamlit (for UI)",
+        "SQLite (for logging test results)",
+        "Ollama (for local LLM inference)"
+      ],
+      "source_inspiration": "jailbreak-archives, awesome-llmsecops, ProactiveInquirer, KaliBench",
+      "steps": [
+        "Task 1: Set up a Dockerized environment to run a local LLM (e.g., using Ollama) and a basic LangChain agent.",
+        "Task 2: Implement a module to load adversarial prompt templates and jailbreak techniques from a structured archive (mimicking 'jailbreak-archives').",
+        "Task 3: Develop a test runner that systematically applies these adversarial inputs to the deployed LLM agent.",
+        "Task 4: Create a scoring or evaluation system (e.g., using regex matching, or a smaller, calibrated decision model like 'strands-decider') to determine if the agent was compromised or deviated from its intended behavior.",
+        "Task 5: Build a Streamlit UI to display test results, visualize vulnerabilities, and offer suggestions for prompt engineering or agent policy adjustments.",
+        "Task 6: Add functionality for users to contribute new adversarial tests or agent hardening configurations."
+      ]
+    },
+    {
+      "title": "Contextual 'Research Catalyst' Personal AI Assistant",
+      "difficulty": "Hard",
       "estimated_hours": 40,
-      "description": "Inspired by 'clodfarm's' multi-agent orchestration and the evolving discussions on AI's role in development, this project involves building an autonomous 'Scout' agent. This agent will take a high-level development task (e.g., 'Implement user authentication for feature X'), decompose it into granular sub-tasks, and dynamically assign them to specialized sub-agents (e.g., 'Code Agent', 'Test Agent', 'Documentation Agent', 'Research Agent'). Each sub-agent would leverage LLMs and other tools (like CLI interfaces via 'cline-pilot' concepts) to execute its part, track progress, and report back. The system would provide a visual dashboard for the developer to oversee the 'farm' of agents, intervene if necessary, and review outputs. This aims to offload routine and well-defined coding/dev tasks, providing intelligent insights and freeing the developer for higher-level problem-solving and creativity, directly addressing burnout concerns raised in Dev.to.",
+      "description": "Build a personal AI assistant that acts as a 'ScholarCatalyst' by observing a developer's active project context (e.g., current repository, tech stack, open issues) and proactively suggesting relevant academic papers, trending GitHub repositories, or Dev.to articles. It should leverage a 'decision model' to filter and prioritize content based on inferred user intent and project needs, then summarize the most pertinent information. This goes beyond simple search by actively anticipating information needs and providing curated insights, mirroring a human researcher's intuition.",
       "tech_stack": [
-        "Python",
-        "LangChain/Agentic Framework (e.g., CrewAI)",
-        "OpenAI/Claude API (for LLMs)",
-        "Docker (for agent isolation)",
-        "Flask/Django (for dashboard API)",
-        "React/Vue.js (for frontend dashboard)",
-        "Git (for code interaction)"
+        "Python (LangChain/LlamaIndex)",
+        "Sentence Transformers (for embeddings)",
+        "Vector Database (e.g., ChromaDB, Weaviate)",
+        "Git hooks / VS Code Extension (for context awareness)",
+        "FastAPI (for backend API)",
+        "React/Vue (for web UI)"
       ],
-      "source_inspiration": "clodfarm, cline-pilot, ai-agent-for-pc, Dev.to articles on AI & developer burnout.",
+      "source_inspiration": "ScholarCatalyst, strands-decider, ProactiveInquirer",
       "steps": [
-        "1. Define core agent roles (Scout, Coder, Tester, Documenter, Researcher) and their responsibilities.",
-        "2. Implement the 'Scout' agent for task intake, decomposition using an LLM, and sub-task assignment logic.",
-        "3. Develop basic 'Coder' and 'Tester' agents capable of interacting with codebases (e.g., generating code snippets, running tests via CLI) using LLMs.",
-        "4. Integrate a local code execution environment (e.g., isolated Docker containers) for agents to operate safely.",
-        "5. Create a simple web-based dashboard to visualize agent activities, sub-task progress, and allow developer intervention/review.",
-        "6. Add a feedback loop where the 'Scout' learns from successful/failed sub-task completions to refine future decompositions."
+        "Task 1: Develop a system to capture developer context (e.g., current Git repo, opened files, recently run commands, project dependencies).",
+        "Task 2: Integrate APIs/scrapers for arXiv, GitHub trending, and Dev.to articles, periodically fetching new data.",
+        "Task 3: Implement an embedding model to convert context and retrieved content into vector representations.",
+        "Task 4: Build a 'decision model' (could be a fine-tuned small LLM or rule-based system inspired by 'strands-decider') to rank and filter content based on contextual relevance and user preferences.",
+        "Task 5: Use a larger LLM to generate concise, relevant summaries and highlight key takeaways from selected content.",
+        "Task 6: Create a user interface (e.g., a desktop app or web dashboard) to display the curated insights, allowing feedback to refine the decision model.",
+        "Task 7: Implement proactive notification mechanisms (e.g., daily digest email or desktop alert)."
       ]
     },
     {
-      "title": "Semantic API Gateway with Typed LLM Routing & Security",
+      "title": "Hyper-Adaptive CLI Workflow Pilot Agent",
       "difficulty": "Medium",
-      "estimated_hours": 30,
-      "description": "Drawing inspiration from 'typed-lm's' concept of turning LLMs into typed decision APIs and the emergence of 'awesome-llmsecops', this project is an intelligent API gateway. It utilizes an LLM to semantically understand incoming API requests (which could be natural language prompts, loosely structured JSON, or even multimodal inputs) and dynamically route them to appropriate backend microservices or functions based on semantic meaning and predefined schemas. The gateway would enforce type safety for extracted parameters, perform LLM-driven input validation to mitigate common vulnerabilities (e.g., prompt injection, data schema violations), and transform inputs into the expected format for the downstream services. This enhances API flexibility, reduces the need for rigid endpoint definitions, and builds security directly into the ingress layer.",
+      "estimated_hours": 24,
+      "description": "Create an AI agent that deeply integrates with the command-line interface, observing common developer tasks and environments. Instead of just suggesting commands, this agent would learn repetitive multi-step CLI workflows (e.g., 'setup new feature branch,' 'run all tests, build, and deploy to staging') and offer to execute them. It would be 'hyper-adaptive' by adjusting its suggestions based on the project's tech stack, current directory, and even recent command history, significantly boosting productivity by automating complex, context-dependent sequences.",
       "tech_stack": [
-        "Rust (for performance, inspired by 'typed-lm')",
-        "Python (for LLM orchestration/wrappers)",
-        "FastAPI/gRPC (for API endpoints)",
-        "OpenAI/Anthropic/Local LLM (e.g., via Hugging Face Transformers)",
-        "Pydantic (for schema validation)",
-        "OIDC/JWT (for authentication)"
+        "Python (subprocess, `shlex`, `os`)",
+        "LLM API (OpenAI, Anthropic, or local via Ollama)",
+        "YAML/JSON (for workflow definitions)",
+        "Bash/Zsh hooks (for context capture)",
+        "Text-based UI (e.g., `rich` or `prompt_toolkit`)"
       ],
-      "source_inspiration": "typed-lm, awesome-llmsecops, financial-research-optimizer (focus on structured data/auditable workflows).",
+      "source_inspiration": "cline-pilot, ai-agent-for-pc, pymacos",
       "steps": [
-        "1. Set up a basic Rust/Python API gateway capable of receiving HTTP requests.",
-        "2. Define a set of backend 'semantic functions' or microservices with clear input/output schemas.",
-        "3. Integrate an LLM (local or cloud-based) within the gateway to interpret incoming requests and map them to the most relevant semantic function.",
-        "4. Implement a 'type-safe extraction' layer using the LLM to pull parameters from the request and validate them against the target function's schema (e.g., using Pydantic).",
-        "5. Develop basic LLMsecops features: input sanitization, checking for common prompt injection patterns, and enforcing access controls based on semantic intent.",
-        "6. Create a routing mechanism that forwards the validated and transformed request to the appropriate backend service."
-      ]
-    },
-    {
-      "title": "SentinelScrape: Intelligent Cloudflare-Resilient Data Harvester",
-      "difficulty": "Medium",
-      "estimated_hours": 25,
-      "description": "Capitalizing on the high interest in Cloudflare challenge bypass tools like 'captcha-api' and 'cf-clearance', this project focuses on building a robust, ethical data harvesting framework. 'SentinelScrape' will dynamically navigate and overcome various Cloudflare protections (CAPTCHA, Turnstile, 'cf_clearance' cookies) to reliably extract public web data. It will integrate multiple bypass strategies – from headless browser automation to direct API interactions and third-party CAPTCHA solving services – selecting the most effective method based on the challenge type and real-time success rates. The framework will be designed for modularity, allowing users to define data extraction rules, schedule recurring scrapes, and manage proxies, creating a resilient pipeline for competitive intelligence, market research, or personal data aggregation, minimizing manual intervention.",
-      "tech_stack": [
-        "Python",
-        "Playwright/Selenium (for headless browser automation)",
-        "requests-html / BeautifulSoup (for parsing)",
-        "cf-clearance (Python library)",
-        "API integration with CAPTCHA solving services (e.g., 2Captcha, Anti-Captcha)",
-        "SQLite/PostgreSQL (for data storage and tracking)",
-        "Redis (for rate limiting, proxy management)"
-      ],
-      "source_inspiration": "captcha-api, cf-clearance, financial-research-optimizer (data lineage/auditing aspects for collected data).",
-      "steps": [
-        "1. Develop a core Python module to perform HTTP requests and detect Cloudflare challenges (e.g., status codes, specific HTML elements).",
-        "2. Integrate 'cf-clearance' library for automated cf_clearance cookie acquisition.",
-        "3. Implement headless browser automation (e.g., Playwright) for challenges requiring JavaScript execution or more complex interaction.",
-        "4. Create a modular interface to integrate with one or more third-party CAPTCHA solving services.",
-        "5. Develop a 'strategy manager' that intelligently decides which bypass method to attempt based on the identified challenge and configurable priorities/cost.",
-        "6. Build a simple data extraction and storage pipeline for the harvested data, including basic logging and audit trails for successful scrapes."
+        "Task 1: Develop a CLI monitoring component (e.g., a shell hook or wrapper) to capture commands, current directory, and active repository information.",
+        "Task 2: Implement a context engine that analyzes the captured data to identify project type, dependencies, and recurring command patterns.",
+        "Task 3: Integrate an LLM to interpret natural language requests or infer user intent based on context, generating a sequence of CLI commands.",
+        "Task 4: Build a workflow execution module that can safely execute generated command sequences, with user confirmation at critical steps.",
+        "Task 5: Design a feedback loop where users can correct or approve proposed workflows, helping the agent learn and adapt over time.",
+        "Task 6: Create a system for users to define and store custom 'macros' or workflows that the agent can then adapt and suggest contextually.",
+        "Task 7: Add a simple text-based interface for interaction and displaying suggested actions."
       ]
     }
   ],
   "quick_actions": [
-    "Action 1: Experiment with a local AI agent (e.g., 'ai-agent-for-pc') today. Install it and give it a simple task to understand its capabilities and limitations on your system.",
-    "Action 2: Spend 15-30 minutes reviewing an article or resource on LLM Security Operations ('awesome-llmsecops') to understand common vulnerabilities like prompt injection and data leakage.",
-    "Action 3: Intentionally use an AI assistant (like GitHub Copilot, Claude, or another LLM) for a specific, well-defined coding task (e.g., generating boilerplate, writing a test case, drafting a function's docstring) for the next 3 days.",
-    "Action 4: Schedule at least one 2-hour 'deep work' block and two 15-minute 'no-screen' breaks into your calendar for tomorrow, to actively counter burnout and foster focused concentration."
+    "Action 1: Dedicate 15 minutes today to documenting a personal, repetitive digital task you perform weekly. Brainstorm how an AI agent, even a simple script, could automate part or all of it.",
+    "Action 2: Spend 30 minutes researching basic LLM adversarial prompt techniques or 'jailbreaks.' Understanding these will make you a more critical user and developer of AI systems, especially when verifying AI-generated code.",
+    "Action 3: Integrate a lightweight 'cognitive offload' habit into your daily routine, like jotting down a few key tasks, ideas, or blockers in a plain text file or Obsidian before starting and ending your workday, to reduce mental fatigue and improve clarity.",
+    "Action 4: Experiment with a micro-automation for a non-coding task. For example, use a tool like 'pymacos' principles (even if on Windows/Linux) to automate a file cleanup, notification management, or a specific browser action."
   ]
 }
