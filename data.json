@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-04 11:27:31",
+  "last_updated": "2026-10-05 12:54:02",
   "scraped_sources": {
     "github": [
       {
         "name": "strands-decider",
         "owner": "strands-labs",
         "description": "A small, fast decision model, or system one model, for agentic workflows. Pick between options or rate on a scale faster than an LLM, with a calibrated confidence on every decision.",
-        "stars": 315,
+        "stars": 360,
         "url": "https://github.com/strands-labs/strands-decider",
         "category": "AI / ML"
       },
@@ -22,7 +22,7 @@
         "name": "jailbreak-archives",
         "owner": "e2sy",
         "description": "A structured, versioned archive of adversarial prompt engineering techniques against Large Language Models — for AI safety research, red-teaming, and defensive hardening.",
-        "stars": 13,
+        "stars": 18,
         "url": "https://github.com/e2sy/jailbreak-archives",
         "category": "AI / ML"
       },
@@ -35,18 +35,18 @@
         "category": "AI / ML"
       },
       {
-        "name": "genpark-scalar-autograd-computational-graph-skill",
+        "name": "genpark-pairwise-bradley-terry-reward-model-skill",
         "owner": "alphaparkinc",
-        "description": "Reverse-mode automatic differentiation engine with DAG tape and chain rule backpropagation",
+        "description": "Bradley-Terry preference model computing choice probabilities, binary cross-entropy loss, and reward gradient updates",
         "stars": 7,
-        "url": "https://github.com/alphaparkinc/genpark-scalar-autograd-computational-graph-skill",
+        "url": "https://github.com/alphaparkinc/genpark-pairwise-bradley-terry-reward-model-skill",
         "category": "AI / ML"
       },
       {
         "name": "tweetytweets",
         "owner": "vedantdhande04",
         "description": "Autonomous X/Twitter posting pipeline for your AI agent. No API key, no paid scrapers: researches your niche, writes in your voice, publishes through a real browser, and verifies its own posts.",
-        "stars": 51,
+        "stars": 56,
         "url": "https://github.com/vedantdhande04/tweetytweets",
         "category": "Automation / Productivity"
       },
@@ -54,86 +54,64 @@
         "name": "ai-agent-for-pc",
         "owner": "VoltEmperorChaos",
         "description": "A simple Windows AI agent that runs locally with a single .exe file. No command line or complex setup required.",
-        "stars": 46,
+        "stars": 47,
         "url": "https://github.com/VoltEmperorChaos/ai-agent-for-pc",
+        "category": "Automation / Productivity"
+      },
+      {
+        "name": "tokenmix-bulk-creator",
+        "owner": "0xgetz",
+        "description": "Bulk-provision TokenMix accounts with disposable temp-mail.io inboxes and auto-generate API keys with random names. Turnstile-aware, Playwright-driven, JSON/CSV output.",
+        "stars": 23,
+        "url": "https://github.com/0xgetz/tokenmix-bulk-creator",
         "category": "Automation / Productivity"
       },
       {
         "name": "etsy-engine",
         "owner": "oguzhankayan",
         "description": "Open-source Etsy digital product engine: demand-validated printables, mockups, SEO and drafts. Images by Raywake.",
-        "stars": 13,
+        "stars": 14,
         "url": "https://github.com/oguzhankayan/etsy-engine",
-        "category": "Automation / Productivity"
-      },
-      {
-        "name": "minimax-agent-automation",
-        "owner": "0xgetz",
-        "description": "Automated MiniMax Agent account signup + daily check-in + JWT/cookie harvester. Uses Zenvex disposable email and Playwright. | Automasi daftar akun MiniMax Agent, check-in harian, dan ambil token/cookies.",
-        "stars": 13,
-        "url": "https://github.com/0xgetz/minimax-agent-automation",
         "category": "Automation / Productivity"
       },
       {
         "name": "apmix-automation",
         "owner": "0xgetz",
         "description": "End-to-end apmix.ai account + API key automation. Temp inbox, magic-link signup, automatic Cloudflare Turnstile, and auto-generated API keys — in Python and Node.js.",
-        "stars": 12,
+        "stars": 14,
         "url": "https://github.com/0xgetz/apmix-automation",
         "category": "Automation / Productivity"
       }
     ],
-    "hacker_news": [
-      {
-        "title": "Why don't more developers “use the platform”?",
-        "url": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
-        "score": 159
-      },
-      {
-        "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-        "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
-        "score": 160
-      },
-      {
-        "title": "In Ukraine, distributed renewables foil Russia's assaults",
-        "url": "https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/",
-        "score": 93
-      }
-    ],
+    "hacker_news": [],
     "arxiv": [
       {
-        "title": "One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars",
-        "summary": "3D Gaussian avatars support fast rendering, however, their real-time animation is often challenged by the costly neural inference. We address this bottleneck and show that the animation of pretrained ...",
-        "url": "http://arxiv.org/abs/2610.02207v1"
+        "title": "Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis",
+        "summary": "This paper examines the role of Novel View Synthesis (NVS) in geometric representation learning. In principle, NVS should reason about 3D scene structure, thereby enabling transferable multi-view geom...",
+        "url": "http://arxiv.org/abs/2610.03717v1"
       },
       {
-        "title": "KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards",
-        "summary": "LLMs are increasingly applied to cybersecurity workflows, where they are expected to translate analysts' intent into tool invocations. However, existing evaluations focus on knowledge-based assessment...",
-        "url": "http://arxiv.org/abs/2610.02206v1"
+        "title": "4DCodeBench: Benchmarking Agents on Inverse Graphics of Dynamic Scenes",
+        "summary": "We introduce 4DCodeBench, a benchmark for 4D inverse graphics through code generation, in which agents reconstruct dynamic scenes from video as executable graphics programs. To accomplish this, agents...",
+        "url": "http://arxiv.org/abs/2610.03715v1"
       },
       {
-        "title": "Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents",
-        "summary": "Building reliable robot capabilities across diverse tasks requires substantial human effort to develop and maintain skills, design rewards, and integrate perception with control. We present Reconstruc...",
-        "url": "http://arxiv.org/abs/2610.02204v1"
+        "title": "What Should World Models Forget? Stratified Retention for Continual Adaptation",
+        "summary": "Continual learning treats degradation on previously seen data as evidence of failure, a convention inherited from settings with a stationary prediction target, where a correct label remains correct in...",
+        "url": "http://arxiv.org/abs/2610.03713v1"
       },
       {
-        "title": "Embedding Prediction Helps Image Generation",
-        "summary": "In diffusion transformers, a class label or a text prompt is embedded once, and the same condition is reused at every denoising step. We ask whether predicted embeddings can serve as this condition in...",
-        "url": "http://arxiv.org/abs/2610.02203v1"
+        "title": "RNADyn: A Benchmark for Generating and Understanding RNA Dynamics",
+        "summary": "Ribonucleic acid (RNA) functions through conformational changes that are not fully captured by static structures. However, large-scale standardized RNA dynamics data remain limited, and existing appro...",
+        "url": "http://arxiv.org/abs/2610.03712v1"
       },
       {
-        "title": "ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research",
-        "summary": "What makes great scientists great? Even as AI systems start to make progress on open problems, scientists remain far ahead of them at sensing which prior idea, buried in an ever-growing archive of res...",
-        "url": "http://arxiv.org/abs/2610.02202v1"
+        "title": "EyeRobot 2.0: Active Gaze for Precise Manipulation without Wrist Cameras",
+        "summary": "Inspired by human vision, we introduce a framework using active gaze to enable fine-grained bimanual manipulation with only a single stereo camera. EyeRobot 2.0 physically attends to a 3D fixation poi...",
+        "url": "http://arxiv.org/abs/2610.03710v1"
       }
     ],
     "devto": [
-      {
-        "title": "I burned out. Now I don't know how to start again.",
-        "description": "Hi, devs! I'm back. I wish I could return with a major success, a discovery, or a new achievement,...",
-        "url": "https://dev.to/embernoglow/i-burned-out-now-i-dont-know-how-to-start-again-1h79",
-        "reactions": 132
-      },
       {
         "title": "Claude e Obsidian - Como uma QA utiliza essas ferramentas no dia-a-dia",
         "description": "🇺🇸 You can also read the English version of this article on AWS Community Builders.   Ser QA nessa...",
@@ -141,95 +119,102 @@
         "reactions": 110
       },
       {
+        "title": "So, We Don't Need to Learn or Use Basic Math / Arithmetic Anymore? 😜",
+        "description": "Have you heard about calculators?  Do you know that calculators can do addition, subtraction,...",
+        "url": "https://dev.to/fm/we-dont-need-to-learn-basic-math-arithmetic-anymore-3e6b",
+        "reactions": 17
+      },
+      {
         "title": "I Made 866 Commits in 5 Weeks. My Understanding Didn't Keep Up.",
         "description": "AI has made me dramatically faster at building software. You can see it on my GitHub: a sudden surge...",
         "url": "https://dev.to/mikachu/i-made-866-commits-in-5-weeks-my-understanding-didnt-keep-up-cmo",
-        "reactions": 42
+        "reactions": 45
       },
       {
         "title": "How One \"Generate Draft\" Button Changed the Design of My Writing Tool",
         "description": "Here is the line that changed my project:    Next · Generate draft        Enter fullscreen mode    ...",
         "url": "https://dev.to/mikachu/how-one-generate-draft-button-changed-the-design-of-my-writing-tool-1jc0",
-        "reactions": 36
+        "reactions": 39
       },
       {
-        "title": "Everything About This Secrets Manager Screamed 'Too Good to Be True.' So I Tested That.",
-        "description": "I've been on a bit of a \"install random dev tools and see if they actually hold up\" kick lately, and...",
-        "url": "https://dev.to/varshithvhegde/everything-about-this-secrets-manager-screamed-too-good-to-be-true-so-i-tested-that-5e8a",
-        "reactions": 16
+        "title": "Nudging with Questions: Why Telling Your AI What to Fix Triggers an Apology Death Spiral (And How to Advance Juniors)",
+        "description": "What I learned mentoring juniors for four decades seems to apply to today's agentic coding: why barking code fixes triggers sycophantic panic, and how Socratic questions yield 95%+ first-pass success.",
+        "url": "https://dev.to/gde/nudging-with-questions-why-telling-your-ai-what-to-fix-triggers-an-apology-death-spiral-and-how-5gm4",
+        "reactions": 10
       }
     ]
   },
-  "trends": "Today's tech trends reveal a strong push towards sophisticated 'agentic' AI systems capable of autonomous, multi-step tasks, often interacting with the real world through advanced web automation. There's a significant focus on optimizing these agents for faster decision-making and robustness, alongside a growing emphasis on AI safety, red-teaming, and understanding model vulnerabilities. Concurrently, generative AI continues to mature, moving beyond text to areas like real-time 3D avatars and targeted e-commerce content, while discussions around developer productivity highlight the double-edged sword of AI acceleration – enabling rapid output but also necessitating deeper human understanding and addressing potential burnout. The need for accessible, local AI deployments for experimentation and practical use cases is also prominent.",
+  "trends": "Today's tech landscape is dominated by the rapid evolution of agentic AI, moving beyond simple prompts to autonomous, multi-step systems capable of sophisticated web interaction and decision-making. There's a clear trend towards specialized, fast AI models (System 1 thinking) for specific tasks, often supplementing larger LLMs. Automation is pushing into complex 'anti-friction' scenarios, enabling agents to navigate CAPTCHAs and temporary accounts. Concurrently, developer productivity is seeing a paradox: AI significantly boosts output speed, but also highlights a critical need for human understanding and effective AI-human collaboration, with a focus on 'nudging' AI and managing knowledge retention. Research frontiers are expanding into embodied AI, 3D/4D scene understanding, and continual learning, while AI safety and adversarial robustness remain crucial.",
   "ideas": [
     {
-      "title": "Intelligent Web Automation Agent with 'System One' Decisioning",
-      "difficulty": "Medium",
-      "estimated_hours": 60,
-      "description": "Build an AI agent capable of performing complex web-based tasks (e.g., job applications, market research, dynamic data collection) that goes beyond simple scripting. This agent will integrate a 'system one' fast decision model to rapidly evaluate options or rate scenarios, providing calibrated confidence for actions like navigating ambiguous prompts, choosing between search results, or confirming data inputs. Instead of just following a pre-defined path, the agent will adapt and make human-like micro-decisions, potentially leveraging real browser automation (e.g., Playwright) to bypass traditional API limitations and mimic human interaction patterns more closely.",
-      "tech_stack": [
-        "Python",
-        "Playwright",
-        "OpenAI API or local LLM (e.g., Ollama)",
-        "Custom decision model logic (inspired by Strands Decider)"
-      ],
-      "source_inspiration": "strands-decider (GitHub) and tweetytweets (GitHub)",
-      "steps": [
-        "Task 1: Set up a Playwright-based browser automation framework in Python.",
-        "Task 2: Develop a simple 'system one' decision model (e.g., a small, fine-tuned sentiment classifier or a rule-based system) to choose between options with a confidence score.",
-        "Task 3: Integrate the decision model into the Playwright flow to handle dynamic web elements or choices (e.g., 'Click button A or B?').",
-        "Task 4: Implement robust error handling and logging for decision points and actions.",
-        "Task 5: Create a configurable workflow for a specific task (e.g., searching for products, applying filters, extracting specific information) to demonstrate adaptive behavior."
-      ]
-    },
-    {
-      "title": "AI-Powered Research & Development Inspiration Catalyst",
-      "difficulty": "Medium",
-      "estimated_hours": 50,
-      "description": "Develop a tool that acts as a 'ScholarCatalyst' for software developers. Given a project idea, a code snippet, or a high-level problem statement, this system would leverage LLMs and embedding techniques to scan trending repositories (GitHub), academic papers (arXiv), and developer articles (Dev.to). Its goal is to identify and present relevant, inspiring, or complementary technologies, architectural patterns, and research breakthroughs that could accelerate or enhance the user's current development efforts, providing summaries and links. It aims to reduce cognitive load in discovering cutting-edge solutions and foster deeper understanding.",
-      "tech_stack": [
-        "Python",
-        "LangChain/LlamaIndex",
-        "OpenAI API / Hugging Face Transformers for embeddings and LLMs",
-        "Web scraping (BeautifulSoup, Playwright for dynamic content) or APIs for GitHub/arXiv/Dev.to",
-        "Vector database (e.g., ChromaDB, Pinecone) for similarity search",
-        "Flask/Streamlit for user interface"
-      ],
-      "source_inspiration": "ScholarCatalyst (arXiv) and I Made 866 Commits in 5 Weeks. My Understanding Didn't Keep Up. (Dev.to)",
-      "steps": [
-        "Task 1: Set up data ingestion pipelines for GitHub (trending repos), arXiv (recent AI/ML papers), and Dev.to (trending articles).",
-        "Task 2: Implement text embedding generation for ingested data using pre-trained models.",
-        "Task 3: Store embeddings in a vector database for efficient similarity searching.",
-        "Task 4: Develop a user interface (e.g., Streamlit app) where users can input project ideas or code snippets.",
-        "Task 5: Implement a retrieval mechanism that queries the vector database based on user input, followed by an LLM summarization and recommendation layer to present findings and links."
-      ]
-    },
-    {
-      "title": "Localized AI Agent 'Red-Teaming' Workbench",
+      "title": "Hyper-Autonomous Web Interaction Agent Framework",
       "difficulty": "Medium",
       "estimated_hours": 40,
-      "description": "Create a secure, local-first workbench application for developers to experiment with and 'red-team' small AI agents and prompt engineering techniques. Inspired by the need for AI safety and understanding vulnerabilities (like 'jailbreaks'), this tool would allow users to deploy local LLMs (e.g., using Ollama), set up controlled 'target' environments (e.g., mock APIs, simple web pages), and test agent behavior, resilience to adversarial prompts, and adherence to safety guidelines without cloud costs or exposing sensitive data. It would facilitate controlled experimentation with different prompts, agent configurations, and safety filters.",
+      "description": "Develop a customizable framework for building highly autonomous web agents that can reliably perform complex, multi-step tasks on websites, even those with anti-bot measures. This framework would abstract away common challenges like handling Cloudflare Turnstile, managing disposable email inboxes for sign-ups, and simulating realistic user behavior (via Playwright/Selenium). The core value is creating 'anti-friction' agents that can self-provision, interact with web elements, and execute workflows resiliently without requiring manual intervention for common hurdles.",
       "tech_stack": [
-        "Python (backend for LLM interaction)",
-        "Ollama (for local LLM hosting)",
-        "Flask/FastAPI (for local API)",
-        "React/Vue/Svelte (for a desktop-like web UI) or Electron/PyQt for a native app",
-        "Docker (for isolated target environments)"
+        "Python (Playwright, BeautifulSoup, asyncio)",
+        "Node.js (for backend API, if needed)",
+        "Docker (for isolated agent environments)",
+        "Optional: Third-party CAPTCHA solving service API integration"
       ],
-      "source_inspiration": "jailbreak-archives (GitHub) and ai-agent-for-pc (GitHub)",
+      "source_inspiration": "tweetytweets, tokenmix-bulk-creator, apmix-automation",
       "steps": [
-        "Task 1: Set up a local LLM environment using Ollama or a similar framework, ensuring basic text generation capabilities.",
-        "Task 2: Develop a simple web-based UI for interacting with the local LLM, allowing users to input prompts and view responses.",
-        "Task 3: Implement features for saving and categorizing prompt 'jailbreaks' or adversarial examples.",
-        "Task 4: Create a 'target' sandbox environment (e.g., a mock API or a simple static website) that the local AI agent can interact with programmatically.",
-        "Task 5: Develop tools within the workbench to analyze agent interactions with the target, logging outputs and identifying potential security or safety failures based on predefined rules."
+        "Task 1: Set up a basic Playwright (or Selenium) Python project for browser automation.",
+        "Task 2: Implement a module for temporary email generation and parsing magic links (e.g., using a service like temp-mail.io).",
+        "Task 3: Develop a robust mechanism for handling dynamic web elements and navigation (e.g., explicit waits, retries).",
+        "Task 4: Research and integrate a strategy for bypassing or solving CAPTCHAs (e.g., 2Captcha, anti-captcha.com API).",
+        "Task 5: Create a configuration layer to define multi-step workflows (e.g., YAML/JSON for a sequence of browser actions, inputs, and checks).",
+        "Task 6: Build a simple command-line interface or web UI to manage and monitor agent tasks."
+      ]
+    },
+    {
+      "title": "Localized Code Decision & Feedback IDE Plugin",
+      "difficulty": "Medium",
+      "estimated_hours": 30,
+      "description": "Create an IDE plugin (e.g., for VS Code) that acts as a 'System 1' decision agent, offering fast, localized feedback on code snippets or design choices. Unlike a generative LLM, this agent would be trained or configured to quickly assess specific aspects of code (e.g., security best practices, performance anti-patterns, compliance with a team's style guide, or suitability for a specific library) and provide a confidence-calibrated rating or select the 'best' option from a few alternatives. It would emphasize asking 'Socratic' questions or providing contextual nudges rather than just rewriting code, fostering deeper developer understanding.",
+      "tech_stack": [
+        "TypeScript/JavaScript (for VS Code Extension API)",
+        "Python (for backend logic, possibly a small, fine-tuned decision model or rule engine)",
+        "Language Server Protocol (LSP) integration for real-time analysis"
+      ],
+      "source_inspiration": "strands-decider, Nudging with Questions: Why Telling Your AI What to Fix Triggers an Apology Death Spiral...",
+      "steps": [
+        "Task 1: Develop a basic VS Code extension that can read the currently active file and selection.",
+        "Task 2: Define a set of specific code 'rules' or 'patterns' (e.g., common security flaws, performance pitfalls) that the agent should assess.",
+        "Task 3: Implement a local Python service (or directly within the extension using WebAssembly for Python) that takes code snippets and applies these rules/patterns to make a rapid decision/rating.",
+        "Task 4: Design the feedback mechanism: instead of direct fixes, provide a rating, highlight problematic areas, and suggest 'Socratic' questions (e.g., 'Consider the edge cases for X.').",
+        "Task 5: Integrate this feedback into the IDE, showing warnings, suggestions, or quick-fix options based on the decision agent's output.",
+        "Task 6: Explore fine-tuning a small, specialized transformer model (e.g., a BERT variant) on code decision tasks to enhance accuracy and calibration for specific domains."
+      ]
+    },
+    {
+      "title": "Proactive Dev 'Knowledge Gap' Notifier & Learning Companion",
+      "difficulty": "Hard",
+      "estimated_hours": 60,
+      "description": "Build an AI-powered desktop application that monitors a developer's local coding activity (Git commits, file edits, new dependencies) and actively identifies potential knowledge gaps. It then proactively suggests relevant learning resources (docs, tutorials, internal wikis) tailored to the specific context of the code being worked on. The system would use 'stratified retention' principles to track what the developer has reviewed and resurface topics for reinforcement. It aims to ensure a developer's *understanding* keeps pace with their AI-assisted coding speed, potentially integrating with personal knowledge bases like Obsidian.",
+      "tech_stack": [
+        "Python (for Git hooks, file system watchers, LLM integration, embeddings)",
+        "Electron/React (for cross-platform desktop UI)",
+        "Local Vector Database (e.g., ChromaDB, FAISS) for knowledge storage and retrieval",
+        "OpenAI API or local LLM (e.g., Llama.cpp) for summarization and resource suggestion",
+        "Optional: Obsidian API for notes integration"
+      ],
+      "source_inspiration": "I Made 866 Commits in 5 Weeks. My Understanding Didn't Keep Up., What Should World Models Forget? Stratified Retention for Continual Adaptation, Claude e Obsidian - Como uma QA utiliza essas ferramentas no dia-a-dia",
+      "steps": [
+        "Task 1: Develop a background service (e.g., Python) that monitors Git repository changes and file system events in designated project directories.",
+        "Task 2: Implement code analysis to extract keywords, dependencies, and code patterns from modified files and commit messages.",
+        "Task 3: Set up a local vector database to store and embed relevant learning resources (documentation, blog posts, personal notes).",
+        "Task 4: Develop an LLM-based component that, given the current code context, queries the vector database and suggests specific, concise learning resources or questions to prompt deeper understanding.",
+        "Task 5: Create a desktop UI (Electron/React) to display these proactive suggestions, allow users to mark topics as understood, and track their learning progress.",
+        "Task 6: Implement a 'stratified retention' algorithm that intelligently resurfaces previously 'understood' topics for spaced repetition to reinforce knowledge over time.",
+        "Task 7: Explore integration with a note-taking app like Obsidian, allowing the agent to suggest creating new notes based on detected gaps or link to existing ones."
       ]
     }
   ],
   "quick_actions": [
-    "Action 1: Integrate an AI-powered drafting tool (e.g., ChatGPT, Claude) into your daily communication or documentation workflow. Spend 15 minutes today using it to outline an email or draft meeting notes.",
-    "Action 2: After your next AI-assisted coding session, schedule a dedicated 30-minute block for 'deep understanding.' Focus on reviewing, refactoring, and documenting the AI-generated code to solidify your comprehension.",
-    "Action 3: Explore and set up a local LLM (e.g., using Ollama) on your machine. Spend an hour experimenting with basic prompt engineering to understand its local capabilities and limitations without external APIs.",
-    "Action 4: Implement a 'digital disconnect' routine. For the next three evenings, put away all work-related devices at least 1-2 hours before bed, focusing on non-screen activities to mitigate burnout."
+    "Action 1: When using AI for coding, consciously practice 'Socratic prompting' – instead of asking it to 'fix this bug,' ask questions like 'What are the security implications of this approach?' or 'How could this function be made more testable?' to guide it to better solutions and deepen your own understanding.",
+    "Action 2: After generating a complex code block with AI, dedicate 15-20 minutes to 'understanding time.' Read every line, explain it to yourself out loud, and try to refactor a small part manually to internalize the logic, rather than just copying and pasting.",
+    "Action 3: Experiment with a simple browser automation script using Playwright or Selenium. Try automating a personal multi-step task that involves logging in and interacting with a form, focusing on making it resilient to minor UI changes.",
+    "Action 4: Set up a personal knowledge management system (e.g., Obsidian, Logseq) and integrate AI summarization or ideation tools. Aim to capture insights, code snippets, and learning resources in a structured way that AI can then help you navigate or expand upon."
   ]
 }
