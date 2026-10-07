@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-06 12:22:13",
+  "last_updated": "2026-10-07 12:13:37",
   "scraped_sources": {
     "github": [
       {
@@ -8,14 +8,6 @@
         "description": "Self-driving car in plain JavaScript: a neural network evolved by a genetic algorithm drives highway traffic",
         "stars": 46,
         "url": "https://github.com/Stxqq/self-driving-car",
-        "category": "AI / ML"
-      },
-      {
-        "name": "jailbreak-archives",
-        "owner": "e2sy",
-        "description": "A structured, versioned archive of adversarial prompt engineering techniques against Large Language Models — for AI safety research, red-teaming, and defensive hardening.",
-        "stars": 23,
-        "url": "https://github.com/e2sy/jailbreak-archives",
         "category": "AI / ML"
       },
       {
@@ -30,15 +22,23 @@
         "name": "AI-Research-Guide",
         "owner": "Takamatsu-Hikaru",
         "description": "AI 科研入门指南：大学选择、科研 60 问、入门项目、学习路线与论文卡片。A bilingual guide to getting started in AI research.",
-        "stars": 8,
+        "stars": 11,
         "url": "https://github.com/Takamatsu-Hikaru/AI-Research-Guide",
+        "category": "AI / ML"
+      },
+      {
+        "name": "semq",
+        "owner": "The-SEMQ-Group",
+        "description": "Deterministic symbolic codes for embedding vectors. Byte-identical across CPUs and languages, content-addressed, diffable and verifiable. C core with Python, Rust, Go and TypeScript bindings.",
+        "stars": 9,
+        "url": "https://github.com/The-SEMQ-Group/semq",
         "category": "AI / ML"
       },
       {
         "name": "LibLayaX",
         "owner": "DaragonTech",
         "description": "Fast local AI decisions inside your application. A shared library and C API built on laya.cpp that runs the Laya typed-decision model in-process: no server, no Python. Windows, Linux and macOS, x64 and ARM64, CPU or GPU. An open-source alternative to Jev",
-        "stars": 7,
+        "stars": 8,
         "url": "https://github.com/DaragonTech/LibLayaX",
         "category": "AI / ML"
       },
@@ -46,16 +46,16 @@
         "name": "tweetytweets",
         "owner": "vedantdhande04",
         "description": "Autonomous X/Twitter posting pipeline for your AI agent. No API key, no paid scrapers: researches your niche, writes in your voice, publishes through a real browser, and verifies its own posts.",
-        "stars": 60,
+        "stars": 61,
         "url": "https://github.com/vedantdhande04/tweetytweets",
         "category": "Automation / Productivity"
       },
       {
-        "name": "ai-agent-for-pc",
-        "owner": "VoltEmperorChaos",
-        "description": "A simple Windows AI agent that runs locally with a single .exe file. No command line or complex setup required.",
-        "stars": 47,
-        "url": "https://github.com/VoltEmperorChaos/ai-agent-for-pc",
+        "name": "omo-dori-mode-experimental",
+        "owner": "sisyphuslabs",
+        "description": "Dori mode: an always-on messenger agent that launches, tracks and closes coding-agent sessions in herdr (skill + bun CLI). Experimental.",
+        "stars": 49,
+        "url": "https://github.com/sisyphuslabs/omo-dori-mode-experimental",
         "category": "Automation / Productivity"
       },
       {
@@ -67,59 +67,74 @@
         "category": "Automation / Productivity"
       },
       {
-        "name": "tokenmix-bulk-creator",
-        "owner": "0xgetz",
-        "description": "Bulk-provision TokenMix accounts with disposable temp-mail.io inboxes and auto-generate API keys with random names. Turnstile-aware, Playwright-driven, JSON/CSV output.",
-        "stars": 28,
-        "url": "https://github.com/0xgetz/tokenmix-bulk-creator",
-        "category": "Automation / Productivity"
-      },
-      {
         "name": "tokenharbor-bulk-creator",
         "owner": "0xgetz",
         "description": "Bulk, end-to-end provisioning of Token Harbor (tokenharbor.ai) accounts and API keys through temp-email.dev disposable inboxes. Playwright-driven, MIT, no CI.",
-        "stars": 24,
+        "stars": 33,
         "url": "https://github.com/0xgetz/tokenharbor-bulk-creator",
+        "category": "Automation / Productivity"
+      },
+      {
+        "name": "tokenmix-bulk-creator",
+        "owner": "0xgetz",
+        "description": "Bulk-provision TokenMix accounts with disposable temp-mail.io inboxes and auto-generate API keys with random names. Turnstile-aware, Playwright-driven, JSON/CSV output.",
+        "stars": 30,
+        "url": "https://github.com/0xgetz/tokenmix-bulk-creator",
         "category": "Automation / Productivity"
       }
     ],
     "hacker_news": [
       {
-        "title": "Beam: Reflection's 501B open-weight model",
-        "url": "https://reflection.ai/blog/introducing-beam",
-        "score": 478
+        "title": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
+        "url": "https://www.nobelprize.org/prizes/chemistry/2026/press-release/",
+        "score": 72
       },
       {
-        "title": "Dust: Pretraining Transformers Without Backpropagation",
-        "url": "https://qlabs.sh/research/dust",
-        "score": 222
+        "title": "Sharing AI progress in mathematics",
+        "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+        "score": 985
+      },
+      {
+        "title": "Strands Decider 2B: a small, open-source, decision model",
+        "url": "https://strandsagents.com/blog/introducing-strands-decider/",
+        "score": 208
+      },
+      {
+        "title": "Show HN: AstroHelm – Use your phone camera to aim a telescope or telephoto lens",
+        "url": "https://astrohelm.app/",
+        "score": 12
+      },
+      {
+        "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
+        "score": 353
       }
     ],
     "arxiv": [
       {
-        "title": "One Figure, Every Canvas: Editable Flowchart Relayout via Agentic Pipeline",
-        "summary": "Pipeline figures in ML papers must be repurposed across many canvases, including paper columns, 16:9 slides, portrait posters, 1:1 social teasers, 9:16 phone previews. Each format imposes a different ...",
-        "url": "http://arxiv.org/abs/2610.06852v1"
+        "title": "QF3: Fast Flow RL with Filtered Q-Gradients",
+        "summary": "Flow policies have become a standard policy class for learning robot behaviors from demonstrations, but reinforcement learning is still critical for improving pre-trained flow policies or learning the...",
+        "url": "http://arxiv.org/abs/2610.08789v1"
       },
       {
-        "title": "Base Models Can Reason By Taking a Cue From Training Data",
-        "summary": "In this paper, we study how training data creates associations between the tokens at the start of a base model's response and the reasoning behavior that follows. First, we demonstrate that fixing par...",
-        "url": "http://arxiv.org/abs/2610.06851v1"
+        "title": "Conformal Prediction Sets Quantify Information Gain: A Theoretical Perspective",
+        "summary": "Conformal prediction is a popular tool for uncertainty quantification that outputs prediction sets with finite-sample coverage guarantees. While prediction set size is commonly used as a heuristic mea...",
+        "url": "http://arxiv.org/abs/2610.08785v1"
       },
       {
-        "title": "BiasFlow: Geometric Monitoring and Backbone Regularization for Spurious Feature Reliance",
-        "summary": "Worst-group accuracy (WGA) evaluates a trained predictor but does not characterize how its frozen backbone behaves when a new head is learned. We introduce BiasFlow, a hook-based toolkit for monitorin...",
-        "url": "http://arxiv.org/abs/2610.06846v1"
+        "title": "4D-HOF: Hand-Object Flow Matching for Feed-Forward 4D Interaction Reconstruction",
+        "summary": "Existing methods for 4D hand-object reconstruction often rely on costly per-sequence optimization, while generative approaches typically synthesize interactions from random noise, which can lead to un...",
+        "url": "http://arxiv.org/abs/2610.08782v1"
       },
       {
-        "title": "Learning to Read the Contextual Tokens in Diffusion Transformers",
-        "summary": "Multimodal Diffusion Transformers (MM-DiTs) jointly process visual and textual representations throughout generation. These models repeatedly update the text tokens through multimodal attention, formi...",
-        "url": "http://arxiv.org/abs/2610.06844v1"
+        "title": "IdeaAnchor: Teaching LLMs to Turn Literature into Research Ideas",
+        "summary": "Scientific research often begins by synthesizing ideas from a set of related papers to identify gaps and formulate new directions. However, training language models to perform this form of literature-...",
+        "url": "http://arxiv.org/abs/2610.08781v1"
       },
       {
-        "title": "Recursive Video In-Context Learning for Agentic Robot",
-        "summary": "LLM agents that orchestrate frozen vision-language-action (VLA) policies improve across episodes through text memory, which records what the agent did but not how the task is done. A demonstration vid...",
-        "url": "http://arxiv.org/abs/2610.06843v1"
+        "title": "DepthWorld: 3D World Model for Robot Manipulation",
+        "summary": "World models offer a data-driven alternative to traditional simulators for robotics, with applications spanning policy evaluation, improvement, and planning. All of these uses depend on faithful 3D ge...",
+        "url": "http://arxiv.org/abs/2610.08780v1"
       }
     ],
     "devto": [
@@ -127,110 +142,112 @@
         "title": "So, We Don't Need to Learn or Use Basic Math / Arithmetic Anymore? 😜",
         "description": "Have you heard about calculators?  Do you know that calculators can do addition, subtraction,...",
         "url": "https://dev.to/fm/we-dont-need-to-learn-basic-math-arithmetic-anymore-3e6b",
-        "reactions": 18
+        "reactions": 27
       },
       {
         "title": "I Made 866 Commits in 5 Weeks. My Understanding Didn't Keep Up.",
         "description": "AI has made me dramatically faster at building software. You can see it on my GitHub: a sudden surge...",
         "url": "https://dev.to/mikachu/i-made-866-commits-in-5-weeks-my-understanding-didnt-keep-up-cmo",
-        "reactions": 48
+        "reactions": 49
+      },
+      {
+        "title": "Curiosity Over Comfort",
+        "description": "I’m More Interested in Why Things Break Than Why They Work   I don’t think I became...",
+        "url": "https://dev.to/marceli/curiosity-over-comfort-5cki",
+        "reactions": 12
       },
       {
         "title": "How One \"Generate Draft\" Button Changed the Design of My Writing Tool",
         "description": "Here is the line that changed my project:    Next · Generate draft        Enter fullscreen mode    ...",
         "url": "https://dev.to/mikachu/how-one-generate-draft-button-changed-the-design-of-my-writing-tool-1jc0",
-        "reactions": 41
+        "reactions": 42
       },
       {
         "title": "Nudging with Questions: Why Telling Your AI What to Fix Triggers an Apology Death Spiral (And How to Advance Juniors)",
         "description": "What I learned mentoring juniors for four decades seems to apply to today's agentic coding: why barking code fixes triggers sycophantic panic, and how Socratic questions yield 95%+ first-pass success.",
         "url": "https://dev.to/gde/nudging-with-questions-why-telling-your-ai-what-to-fix-triggers-an-apology-death-spiral-and-how-5gm4",
         "reactions": 10
-      },
-      {
-        "title": "Everything About This Secrets Manager Screamed 'Too Good to Be True.' So I Tested That.",
-        "description": "I've been on a bit of a \"install random dev tools and see if they actually hold up\" kick lately, and...",
-        "url": "https://dev.to/varshithvhegde/everything-about-this-secrets-manager-screamed-too-good-to-be-true-so-i-tested-that-5e8a",
-        "reactions": 16
       }
     ]
   },
-  "trends": "Today's tech landscape is defined by the rapid advancement and deployment of **agentic AI**, evident in autonomous systems for complex tasks like social media automation and robot control, often designed for local or in-process execution without heavy infrastructure. There's a strong focus on **making AI accessible and efficient**, allowing powerful models to run on diverse hardware. Simultaneously, **AI safety and robustness** are paramount, with significant interest in adversarial prompt engineering, bias detection, and understanding how LLMs reason. Developers are experiencing **supercharged productivity** through AI-integrated workflows and generative tools, but this also highlights the need for deeper understanding and effective, Socratic prompting techniques to avoid superficial knowledge. Finally, progress in **multi-modal and contextual AI** is enabling more sophisticated applications, particularly in areas like visual content adaptation and learning from demonstrations in robotics.",
+  "trends": "The current tech landscape is dominated by a strong emphasis on **agentic AI**, moving beyond simple task automation to complex, multi-step autonomous operations (e.g., self-driving simulations, social media agents, coding session managers). Concurrently, there's a significant push towards **efficient, localized AI inference** with lightweight, open-source models capable of running in-process or on edge devices, addressing critical concerns around latency, privacy, and computational cost. AI applications are rapidly deepening into **specialized scientific and robotic domains**, focusing on robust foundational models (e.g., world models for robotics, 4D interaction reconstruction) and the need for verifiable, trustworthy outcomes (e.g., uncertainty quantification, deterministic embeddings). This rapid integration of AI dramatically boosts **developer productivity** and content creation, but also highlights a critical need for developers to actively maintain and deepen their understanding of AI-generated content and code. This drives the adoption of new interaction paradigms, such as Socratic prompting, to maximize AI's utility and prevent knowledge gaps.",
   "ideas": [
     {
-      "title": "Local Adversarial LLM Red-Teaming Sandbox",
+      "title": "Agentic Social Media Campaign Manager with Browser Automation",
       "difficulty": "Medium",
-      "estimated_hours": 30,
-      "description": "Develop a cross-platform desktop application that enables developers and AI safety researchers to easily test Large Language Models (LLMs) against a structured archive of adversarial prompt engineering techniques. The tool would allow users to select from various 'jailbreak' methods, apply them to chosen local LLM instances (e.g., via Ollama) or API endpoints, and log the LLM's responses. This helps in understanding model vulnerabilities, identifying defensive hardening needs, and contributing to AI safety research by providing a practical red-teaming environment without relying on external, potentially restrictive, services.",
+      "estimated_hours": 70,
+      "description": "Develop an autonomous agent capable of conceptualizing, executing, and optimizing social media campaigns for a specific niche. Leveraging headless browser automation (e.g., Playwright) instead of traditional APIs, the agent will research trending topics within its niche, generate tailored content (text, image ideas), schedule posts, and even perform strategic interactions (likes, replies) based on real-time engagement data. This system mimics human browsing behavior to bypass API restrictions and limitations, making it robust and versatile across various platforms. The core value is to free up human marketers/creators from repetitive, strategic content cycles.",
       "tech_stack": [
-        "Python (for LLM interaction)",
-        "Electron or Tauri (for desktop UI)",
-        "Local LLM client library (e.g., `ollama` Python client)",
-        "SQLite (for logging test results and prompt archives)",
-        "YAML/JSON (for prompt template storage)"
+        "Python",
+        "Playwright",
+        "LangChain/CrewAI (for agent orchestration)",
+        "OpenAI API (or other LLM)",
+        "SQLite (for campaign state and data logging)",
+        "Requests (for web content fetching)"
       ],
-      "source_inspiration": "GitHub: jailbreak-archives, LibLayaX; arXiv: BiasFlow",
+      "source_inspiration": "tweetytweets (Autonomous X/Twitter posting pipeline), omo-dori-mode-experimental (Always-on messenger agent, launches coding sessions), Dev.to: 'How One \"Generate Draft\" Button Changed the Design...'",
       "steps": [
-        "1. Set up a basic Electron/Tauri desktop application structure.",
-        "2. Implement a Python backend service (e.g., Flask/FastAPI) that the frontend communicates with, or use Python directly within the desktop app context if supported (e.g., via `pyo3` and Rust for Tauri).",
-        "3. Integrate with an LLM client library to send prompts to local or remote LLMs.",
-        "4. Design and implement a user interface for managing LLM configurations (API keys, local model paths) and a prompt entry/selection area.",
-        "5. Develop a module to load and apply adversarial prompt templates from a structured archive.",
-        "6. Implement a logging system (SQLite) to record prompts, LLM responses, and user-flagged 'successes' or 'failures' of adversarial techniques.",
-        "7. Add basic reporting features to visualize the effectiveness of different jailbreaks.",
-        "8. Package the application into a single executable for Windows, Linux, and macOS."
+        "Set up a Python environment and install Playwright, LangChain/CrewAI, and LLM libraries.",
+        "Implement a headless browser automation module to interact with a target social media platform (e.g., X) for posting and monitoring.",
+        "Develop an initial agentic structure that can perform niche research (e.g., identify keywords, trending topics via browser search).",
+        "Integrate an LLM to generate diverse content drafts (posts, replies) based on research and campaign goals.",
+        "Implement a scheduling mechanism and a 'posting agent' that uses Playwright to publish content.",
+        "Add a monitoring agent that scrapes post engagement data and feeds it back into the LLM/agent for analysis and strategy adjustment.",
+        "Create a simple command-line interface or a basic web UI (e.g., Streamlit) to define campaign goals and review agent progress."
       ]
     },
     {
-      "title": "Agentic Multi-Canvas Diagram Relayout Assistant",
+      "title": "Local-First Lightweight Decision Engine Library",
       "difficulty": "Medium",
-      "estimated_hours": 40,
-      "description": "Create an AI-powered tool that automatically or semi-automatically adjusts complex diagrams (e.g., flowcharts, pipeline figures) to fit various target canvas sizes and aspect ratios (e.g., 16:9 for presentations, 1:1 for social media, 9:16 for mobile previews). The 'agentic pipeline' approach would analyze the diagram's structure and relationships, then propose or execute intelligent relayouts, potentially leveraging visual cues and user preferences. This project solves a common pain point for content creators and researchers who need to repurpose visual information across diverse media, ensuring legibility and aesthetic appeal.",
+      "estimated_hours": 50,
+      "description": "Create a cross-platform, lightweight library that enables applications to embed specialized AI decision models directly into their process, eliminating the need for server-side inference or heavy Python runtimes. This library would focus on 'typed decisions' or small classification/regression tasks, providing extremely low-latency responses. It could be used for in-game AI logic, real-time personalization in desktop applications, or intelligent control in embedded systems, prioritizing speed, privacy, and minimal resource footprint. The goal is to make AI-driven choices as fast and integrated as a traditional function call.",
       "tech_stack": [
-        "Python (for diagram parsing, layout logic, AI agent)",
-        "JavaScript/React (for web-based interactive editor)",
-        "Mermaid.js or PlantUML (for input diagram formats, or parsing their output)",
-        "Konva.js or Fabric.js (for canvas manipulation and rendering)",
-        "Optional: Small visual LLM/agent for layout suggestions (e.g., fine-tuned open-source model)"
+        "Rust (for core library due to performance and FFI capabilities)",
+        "ONNX Runtime / Candle (for lightweight inference)",
+        "Python (for model training and bindings generation)",
+        "PyTorch/TensorFlow (for training small decision models)",
+        "WebAssembly (for potential browser integration)"
       ],
-      "source_inspiration": "arXiv: One Figure, Every Canvas: Editable Flowchart Relayout via Agentic Pipeline; GitHub: genaiguide",
+      "source_inspiration": "LibLayaX (Fast local AI decisions inside your application), Strands Decider 2B (A small, open-source, decision model), EmbeddingGemma 2 (An open, lightweight multimodal embedding model).",
       "steps": [
-        "1. Develop a web-based editor interface using React for importing and displaying diagrams.",
-        "2. Implement a parser for common diagram text formats (e.g., Mermaid.js, DOT language for Graphviz) to convert them into an internal, editable object model.",
-        "3. Develop core layout algorithms (e.g., force-directed, grid-based, hierarchical) capable of adapting to various aspect ratio constraints.",
-        "4. Create an 'agentic' module in Python that analyzes the diagram's structure and semantic groups, then applies or suggests layout adjustments based on predefined rules or a learned model for visual balance.",
-        "5. Integrate a 'Generate Layout' button that triggers the agentic relayout process, allowing users to preview and accept changes.",
-        "6. Add functionality to export the relayouted diagram in various image formats (PNG, SVG) and pre-set canvas dimensions.",
-        "7. Allow manual adjustments to the relayouted diagram elements for fine-tuning."
+        "Choose a core language (e.g., Rust) and a lightweight inference framework (e.g., Candle, or a simple ONNX runtime wrapper).",
+        "Define a generic API for loading a pre-trained decision model and performing inference (e.g., `load_model(path)`, `predict(input_data)`).",
+        "Train a small, task-specific neural network (e.g., using PyTorch for a classification task) and export it to an ONNX format.",
+        "Implement model loading and inference logic within the Rust core, ensuring minimal overhead and fast execution.",
+        "Develop language bindings (e.g., using `pyo3` for Python, `napi-rs` for Node.js) to expose the library's API to other programming languages.",
+        "Create a demonstration application (e.g., a simple game character AI or a smart filter in a desktop app) that uses the local decision engine.",
+        "Optimize for memory footprint and CPU/GPU usage, ensuring it's truly 'lightweight' for in-process execution."
       ]
     },
     {
-      "title": "Socratic Developer Co-Pilot IDE Extension",
+      "title": "Socratic Research Assistant with Understanding Verification",
       "difficulty": "Hard",
-      "estimated_hours": 60,
-      "description": "Build an IDE extension that acts as a proactive, Socratic co-pilot, designed to deepen a developer's understanding rather than just accelerate code generation. When AI-generated code is integrated, or during code review, the extension would prompt the developer with guiding questions ('Why did you choose this pattern?', 'What are the potential side effects?', 'How would you test this specific edge case?') instead of direct corrections. It could also analyze commit history for 'AI-speed' surges in code without corresponding documentation or test changes, flagging these areas for thoughtful review and Socratic reflection, helping developers keep their understanding in pace with AI-boosted productivity.",
+      "estimated_hours": 100,
+      "description": "Build an interactive AI assistant that helps users generate novel research ideas from a corpus of academic literature, but critically integrates a 'Socratic' dialogue mechanism to ensure the user deeply understands the ideas and their foundational concepts. Unlike typical idea generators, this tool will actively challenge the user, ask clarifying questions, point to specific sections within source papers (using Retrieval-Augmented Generation - RAG), and prompt them to articulate the implications of the generated ideas. This directly addresses the problem of AI boosting productivity without necessarily fostering deeper understanding, transforming the AI from a mere idea provider to a true intellectual sparring partner.",
       "tech_stack": [
-        "TypeScript/JavaScript (for VS Code Extension API)",
-        "LLM API (e.g., OpenAI, Anthropic, or local LLM via `ollama` client)",
-        "Git client library (for commit history analysis)",
-        "Static code analysis library (for basic code understanding)"
+        "Python",
+        "LangChain/LlamaIndex (for RAG and agentic conversation flow)",
+        "OpenAI API (or other advanced LLM)",
+        "Streamlit/Gradio (for interactive user interface)",
+        "PyPDF2/PDFMiner (for PDF parsing)",
+        "Vector database (e.g., ChromaDB, FAISS, Weaviate)"
       ],
-      "source_inspiration": "Dev.to: I Made 866 Commits in 5 Weeks. My Understanding Didn't Keep Up.; Nudging with Questions: Why Telling Your AI What to Fix Triggers an Apology Death Spiral; How One \"Generate Draft\" Button Changed the Design of My Writing Tool",
+      "source_inspiration": "IdeaAnchor (Teaching LLMs to Turn Literature into Research Ideas), AI-Research-Guide (Bilingual guide to getting started in AI research), Dev.to: 'Nudging with Questions: Why Telling Your AI What to Fix...' and 'I Made 866 Commits in 5 Weeks. My Understanding Didn't Keep Up.'",
       "steps": [
-        "1. Initialize a VS Code extension project.",
-        "2. Integrate with an LLM API to send code snippets and receive contextual feedback/suggestions.",
-        "3. Develop a 'Socratic Nudging' module: instead of displaying direct code fixes from the LLM, rephrase them into open-ended questions based on common programming principles, best practices, and potential pitfalls.",
-        "4. Implement code analysis to detect when AI-generated code is being pasted or accepted, and trigger relevant Socratic prompts.",
-        "5. Add Git integration to monitor commit velocity and code changes. Identify 'large' or 'fast' AI-assisted commits and suggest a Socratic review of those changes, prompting the user to explain the rationale or potential impact.",
-        "6. Design a UI for the extension to display questions, capture user responses (optional), and provide historical context.",
-        "7. Implement a feedback mechanism for users to rate the helpfulness of the Socratic questions, allowing for iterative improvement of the prompting strategy."
+        "Set up a Python environment with RAG-specific libraries, LLM integrations, and a vector database.",
+        "Develop a document ingestion pipeline to parse academic papers (PDFs) and chunk their content for embedding.",
+        "Create a vector database to store the embeddings and metadata of the ingested research papers.",
+        "Implement a core LLM prompt strategy that leverages RAG to generate novel research ideas based on user input and the vectorized literature.",
+        "Design a 'Socratic Agent' that, after an idea is generated, formulates challenging questions to the user about the idea's novelty, feasibility, ethical implications, and connection to existing research.",
+        "Integrate the ability for the Socratic Agent to retrieve and cite specific passages from the source documents to support its questions or explanations.",
+        "Build an interactive web interface (Streamlit/Gradio) where users can upload papers, define research areas, receive ideas, and engage in the Socratic dialogue."
       ]
     }
   ],
   "quick_actions": [
-    "Action 1: Dedicate 15 minutes this week to set up and experiment with a local AI agent (e.g., `ai-agent-for-pc` or Ollama with a small model) to understand local execution and deployment of AI.",
-    "Action 2: For your next coding task using an LLM (Copilot, ChatGPT), consciously shift from direct commands to Socratic questions (e.g., 'What are three alternative ways to implement this and their tradeoffs?').",
-    "Action 3: After using an AI to generate or refactor code, commit extra time to thoroughly review the generated output, focusing not just on correctness, but on understanding *why* it works and identifying potential subtle issues or biases.",
-    "Action 4: Spend 10-20 minutes exploring resources like `jailbreak-archives` to familiarize yourself with common adversarial prompt engineering techniques and the broader implications for AI safety and robust design."
+    "Integrate a 'Generate Draft' or 'Suggest Completion' button/shortcut into one of your existing personal coding or writing workflows this week, to directly experience and analyze the immediate productivity boost and its impact on your creative process.",
+    "Practice 'Socratic Prompting' with your AI tools (e.g., ChatGPT, CoPilot): Instead of just correcting output, ask 'Why did you suggest X?' or 'Can you explain the reasoning behind this approach?' to refine the AI's response and deepen your own understanding.",
+    "Perform a 'Understanding Check' on a recent piece of AI-assisted code or content: Select a complex section and try to explain it thoroughly, from first principles, without consulting the AI's explanation. Identify any knowledge gaps and actively fill them.",
+    "Download and experiment with a lightweight, local AI model (e.g., a smaller open-source LLM, an embedding model like EmbeddingGemma 2, or a decision model if available). Run it on your local machine to understand its capabilities, performance, and resource usage first-hand, exploring the 'edge AI' trend."
   ]
 }
