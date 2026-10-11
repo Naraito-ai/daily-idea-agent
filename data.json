@@ -1,20 +1,12 @@
 {
-  "last_updated": "2026-10-10 11:30:41",
+  "last_updated": "2026-10-11 11:44:14",
   "scraped_sources": {
     "github": [
-      {
-        "name": "vectra-core",
-        "owner": "ronitgupta138",
-        "description": "⚡ In-Memory Vector Search Engine & HNSW ANN Graph in Java 21 Loom. Sub-millisecond KNN retrieval, 8-bit scalar quantization (SQ8), 16,000+ QPS.",
-        "stars": 41,
-        "url": "https://github.com/ronitgupta138/vectra-core",
-        "category": "AI / ML"
-      },
       {
         "name": "AI-Research-Guide",
         "owner": "Takamatsu-Hikaru",
         "description": "AI 科研入门指南：大学选择、科研 60 问、入门项目、学习路线与论文卡片。A bilingual guide to getting started in AI research.",
-        "stars": 21,
+        "stars": 25,
         "url": "https://github.com/Takamatsu-Hikaru/AI-Research-Guide",
         "category": "AI / ML"
       },
@@ -22,16 +14,8 @@
         "name": "Autotrader",
         "owner": "PkLavc",
         "description": "Autonomous AI trading system powered by Kronos. Forecasts markets, builds portfolios and paper-trades automatically with GitHub Actions.",
-        "stars": 19,
+        "stars": 23,
         "url": "https://github.com/PkLavc/Autotrader",
-        "category": "AI / ML"
-      },
-      {
-        "name": "s6e8-lookup-transformer",
-        "owner": "Spydonny",
-        "description": "My Lookup-Transformer solution for Kaggle S6E8: public LB ROC AUC 0.97041. Adopted in a 14th-place solution; 11 verified Kaggle references.",
-        "stars": 12,
-        "url": "https://github.com/Spydonny/s6e8-lookup-transformer",
         "category": "AI / ML"
       },
       {
@@ -41,6 +25,38 @@
         "stars": 11,
         "url": "https://github.com/The-SEMQ-Group/semq",
         "category": "AI / ML"
+      },
+      {
+        "name": "s6e8-lookup-transformer",
+        "owner": "Spydonny",
+        "description": "My Lookup-Transformer solution for Kaggle S6E8: public LB ROC AUC 0.97041. Adopted in a 14th-place solution; 11 verified Kaggle references.",
+        "stars": 11,
+        "url": "https://github.com/Spydonny/s6e8-lookup-transformer",
+        "category": "AI / ML"
+      },
+      {
+        "name": "HeroFig",
+        "owner": "matteodisalvo",
+        "description": "A visual desktop editor for creating publication-ready scientific figures, with domain-specific libraries, real-time collaboration, and export to PDF, SVG, PNG, and LaTeX/TikZ.",
+        "stars": 10,
+        "url": "https://github.com/matteodisalvo/HeroFig",
+        "category": "AI / ML"
+      },
+      {
+        "name": "SoundSwitch",
+        "owner": "GulfHairdresser",
+        "description": "Per-app audio device profiles that actually stick between reboots",
+        "stars": 119,
+        "url": "https://github.com/GulfHairdresser/SoundSwitch",
+        "category": "Automation / Productivity"
+      },
+      {
+        "name": "dsh-wechat",
+        "owner": "xcisxc29",
+        "description": "WeChat channel for DeepSeek Harness",
+        "stars": 101,
+        "url": "https://github.com/xcisxc29/dsh-wechat",
+        "category": "Automation / Productivity"
       },
       {
         "name": "mcpdelta",
@@ -59,40 +75,24 @@
         "category": "Automation / Productivity"
       },
       {
-        "name": "dsh-wechat",
-        "owner": "xcisxc29",
-        "description": "WeChat channel for DeepSeek Harness",
-        "stars": 50,
-        "url": "https://github.com/xcisxc29/dsh-wechat",
-        "category": "Automation / Productivity"
-      },
-      {
         "name": "SoloMCN",
         "owner": "ymybxx",
         "description": "把 Claude Code 变成你的短视频团队：不搭工作流，直接让 Claude 干活，从国内热榜、推特热帖到抖音、小红书、B站、YouTube、推特发布。Turn Claude Code into your short-video team — no workflows, from trends and X posts to publishing.",
-        "stars": 42,
+        "stars": 50,
         "url": "https://github.com/ymybxx/SoloMCN",
-        "category": "Automation / Productivity"
-      },
-      {
-        "name": "tokenharbor-bulk-creator",
-        "owner": "0xgetz",
-        "description": "Bulk, end-to-end provisioning of Token Harbor (tokenharbor.ai) accounts and API keys through temp-email.dev disposable inboxes. Playwright-driven, MIT, no CI.",
-        "stars": 38,
-        "url": "https://github.com/0xgetz/tokenharbor-bulk-creator",
         "category": "Automation / Productivity"
       }
     ],
     "hacker_news": [
       {
-        "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-        "url": "https://github.com/rociiu/talorys",
-        "score": 6
+        "title": "Build your own decision model",
+        "url": "https://nishtahir.com/build-your-own-decision-model/",
+        "score": 338
       },
       {
-        "title": "Food processing influences metabolism and brain activity",
-        "url": "https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html",
-        "score": 52
+        "title": "Retrofitting language models to operate over bytes",
+        "url": "https://www.nature.com/articles/s41586-026-11111-4",
+        "score": 71
       }
     ],
     "arxiv": [
@@ -127,106 +127,99 @@
         "title": "I Think We're Forgetting How to Be Bored",
         "description": "You know the moment. You're waiting for the kettle, or the elevator, or a page to load, or a friend...",
         "url": "https://dev.to/james_anderson_h/i-think-were-forgetting-how-to-be-bored-3pe5",
-        "reactions": 72
+        "reactions": 75
       },
       {
         "title": "I Write on a 2006 iMac and Code on a $200 Laptop",
         "description": "I've always loved the idea of reusing old hardware, especially when it's still more than capable of...",
         "url": "https://dev.to/mikachu/i-write-on-a-2006-imac-and-code-on-a-200-laptop-9n4",
-        "reactions": 56
+        "reactions": 57
       },
       {
         "title": "Curiosity Over Comfort",
         "description": "I’m More Interested in Why Things Break Than Why They Work   I don’t think I became...",
         "url": "https://dev.to/marceli/curiosity-over-comfort-5cki",
-        "reactions": 22
+        "reactions": 23
       },
       {
         "title": "The September cut took 17% of my Claude Code week. Subagents were taking 48%.",
         "description": "My Claude Code week started ending on Wednesday. I blamed the September 14 cut, like everyone on...",
         "url": "https://dev.to/aidiveyt/the-september-cut-took-17-of-my-claude-code-week-subagents-were-taking-48-98n",
-        "reactions": 10
+        "reactions": 11
       },
       {
-        "title": "I Made 866 Commits in 5 Weeks. My Understanding Didn't Keep Up.",
-        "description": "AI has made me dramatically faster at building software. You can see it on my GitHub: a sudden surge...",
-        "url": "https://dev.to/mikachu/i-made-866-commits-in-5-weeks-my-understanding-didnt-keep-up-cmo",
-        "reactions": 62
+        "title": "How to resolve merge conflicts in Git without guessing: markers, --ours/--theirs and the rebase flip",
+        "description": "You are rebasing your branch onto main. Git stops on a conflict in limits.py. You want to keep your...",
+        "url": "https://dev.to/devopsdaily/how-to-resolve-merge-conflicts-in-git-without-guessing-markers-ours-theirs-and-the-rebase-flip-b4g",
+        "reactions": 25
       }
     ]
   },
-  "trends": "The current tech landscape is dominated by the rapid evolution and operationalization of AI agents across diverse domains, from autonomous trading to code generation and content creation. There's a parallel focus on developing efficient, specialized AI infrastructure like in-memory vector search and symbolic embeddings, moving towards more performant and domain-specific AI solutions. Crucially, as AI agents become more sophisticated, significant attention is being paid to AI safety, security, and rigorous evaluation methodologies to mitigate risks and ensure reliable deployment. Concurrently, discussions around developer productivity are nuanced: while AI dramatically accelerates output, there's a growing recognition of the \"productivity paradox,\" where over-reliance on AI can hinder deep understanding and introduce new complexities in workflow management. This emphasizes the importance of balancing AI-driven speed with human curiosity, foundational knowledge, and intentional downtime.",
+  "trends": "Today's tech landscape is dominated by the rapid evolution and practical application of agentic AI, moving beyond single-task models to autonomous, orchestrated systems handling complex workflows like trading, creative content generation, and specialized design. A critical parallel trend is the increasing focus on AI safety, security, and efficiency, particularly concerning agent interactions in real-world environments and managing token costs. Concurrently, developer productivity is being enhanced through smarter automation tools, LLM workflow optimization, and a renewed emphasis on fundamental skills and mindful work habits to combat digital overload.",
   "ideas": [
     {
-      "title": "AI Agent Workflow Visualizer & Debugger",
-      "difficulty": "Medium",
-      "estimated_hours": 30,
-      "description": "Build a local-first application that acts as a proxy or wrapper for AI agent API calls (e.g., to OpenAI, Anthropic). It should intercept, log, and visualize the sequence of prompts, tool calls, responses, and token usage for a given agentic workflow. The goal is to provide transparency into complex multi-step agent interactions, allowing developers to debug agent failures, optimize token costs, and understand decision paths, similar to how a debugger works for traditional code. It could offer a 'replay' feature for specific workflow runs.",
-      "tech_stack": [
-        "Python",
-        "FastAPI",
-        "SQLite",
-        "React/Vue.js",
-        "Docker",
-        "LangChain/LlamaIndex (for example agent integrations)"
-      ],
-      "source_inspiration": "mcpdelta, omo-dori-mode-experimental, SoloMCN, 'The September cut took 17% of my Claude Code week. Subagents were taking 48%.'",
-      "steps": [
-        "Task 1: Set up a local proxy server (e.g., FastAPI) to intercept API requests from common AI SDKs.",
-        "Task 2: Implement a logging mechanism to record prompt inputs, API responses, tool executions, and token counts for each interaction.",
-        "Task 3: Design a simple web UI (React/Vue) to display recorded agent workflows as a chronological graph or timeline.",
-        "Task 4: Add features to filter, search, and drill down into individual agent steps, showing raw inputs/outputs and token usage.",
-        "Task 5: Implement a 'replay' feature that allows re-running a specific agent step with modified inputs for debugging.",
-        "Task 6: Create integration examples with a popular agent framework (e.g., LangChain agents) to demonstrate usage."
-      ]
-    },
-    {
-      "title": "Self-Hosted Private RAG System with In-Memory Vector Search",
-      "difficulty": "Medium",
-      "estimated_hours": 25,
-      "description": "Develop a personal, self-hostable RAG (Retrieval Augmented Generation) system that operates entirely locally. It will leverage an in-memory vector database (like a wrapper around `vectra-core` or similar library) to index personal documents (e.g., PDFs, markdown files, notes) and integrate with a local Large Language Model (LLM) (e.g., via Llama.cpp or Ollama). This provides a secure and private way for users to query their own data with AI without sending sensitive information to external services, aligning with the trend of self-hosted personal AI.",
-      "tech_stack": [
-        "Python",
-        "Faiss/ChromaDB (local mode) or custom `vectra-core` integration",
-        "Llama.cpp/Ollama",
-        "Streamlit/Gradio",
-        "Docker"
-      ],
-      "source_inspiration": "vectra-core, Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-      "steps": [
-        "Task 1: Set up a local environment for running a small, open-source LLM (e.g., Mistral, Llama 3) via Llama.cpp or Ollama.",
-        "Task 2: Implement a document ingestion pipeline to parse various file types (PDF, TXT, MD) into text chunks.",
-        "Task 3: Integrate an in-memory vector database for indexing and retrieval (e.g., embed text chunks using a local embedding model and store in Faiss or a local vector store, or integrate with `vectra-core` if possible).",
-        "Task 4: Develop a RAG pipeline that takes a user query, retrieves relevant document chunks from the vector store, and feeds them to the local LLM.",
-        "Task 5: Build a user-friendly web interface (Streamlit or Gradio) for document upload, management, and query submission.",
-        "Task 6: Containerize the application using Docker for easy self-hosting."
-      ]
-    },
-    {
-      "title": "Cognitive Space - Intentional 'Boredom' & Prompt Tool",
+      "title": "LLM Proxy: Token & Cost Monitor",
       "difficulty": "Easy",
-      "estimated_hours": 15,
-      "description": "Create a minimalist desktop or CLI application designed to foster deep thinking and combat cognitive overload. The tool would allow users to schedule 'unstructured thinking time' during which it temporarily blocks distracting websites/applications. During this period, it could optionally present a single, non-AI-generated, thought-provoking prompt or question to encourage lateral thinking, journaling, or problem-solving without immediate access to external information or AI assistance. This promotes the 'Curiosity Over Comfort' and 'Forgetting How to Be Bored' principles by encouraging genuine human insight.",
+      "estimated_hours": 4,
+      "description": "Develop a lightweight local proxy server that intercepts API calls to large language models (LLMs). This proxy will log request and response data, calculate token usage, and estimate API costs in real-time. A simple web dashboard will display these metrics, helping developers understand and optimize their LLM expenditures, especially in complex agentic workflows where subagent calls can accumulate rapidly. This provides immediate visibility into the financial impact of LLM usage.",
       "tech_stack": [
-        "Python (with `psutil` and `tkinter`/`pyautogui` for desktop, or just CLI)",
-        "Node.js (for desktop with Electron/Tauri)",
-        "Operating System APIs (for blocking)"
+        "Python",
+        "Flask",
+        "LLM API Client (e.g., OpenAI, Anthropic)",
+        "Basic HTML/CSS/JavaScript"
       ],
-      "source_inspiration": "I Think We're Forgetting How to Be Bored, Curiosity Over Comfort, I Made 866 Commits in 5 Weeks. My Understanding Didn't Keep Up.",
+      "source_inspiration": "GitHub: 'mcpdelta' (AI app orchestration, token efficiency), Dev.to: 'The September cut took 17% of my Claude Code week. Subagents were taking 48%.' (LLM cost management)",
       "steps": [
-        "Task 1: Develop a core function to temporarily block access to a predefined list of distracting websites (via hosts file modification) and applications.",
-        "Task 2: Implement a timer function to manage scheduled 'unstructured thinking sessions' (e.g., 15-30 minutes).",
-        "Task 3: Create a curated list of non-AI generated, open-ended thought prompts or philosophical questions.",
-        "Task 4: Build a simple CLI or desktop GUI (e.g., using Python's `tkinter` or a cross-platform framework like Electron/Tauri) to configure block lists, schedule sessions, and display prompts.",
-        "Task 5: Add a journaling feature where users can type their thoughts in response to the prompt within the app.",
-        "Task 6: Ensure the blocking mechanism is reversible and user-controlled, with an emergency override."
+        "Set up a Flask server to act as an intermediary for LLM API calls.",
+        "Implement a /v1/chat/completions endpoint that proxies requests to the actual LLM API.",
+        "Before forwarding, parse the request to calculate input tokens; upon receiving response, calculate output tokens.",
+        "Store token counts and estimated costs (based on LLM pricing tiers) in memory or a simple flat file.",
+        "Create a basic HTML dashboard accessible via a local endpoint to display real-time token usage and cost metrics."
+      ]
+    },
+    {
+      "title": "Basic Agent Safety Rule Enforcer (Prototype)",
+      "difficulty": "Medium",
+      "estimated_hours": 4,
+      "description": "Build a Python script that acts as a rudimentary 'safety gate' for AI agent actions. Given a textual description of an agent's proposed action and a simple JSON-defined 'scene context' (e.g., objects present, user state) and 'safety rules' (e.g., 'do not interact with person X if object Y is present'), the script will use a small local LLM or rule-based system to flag potential safety violations. This provides an early feedback mechanism for developers building autonomous agents, promoting proactive safety considerations.",
+      "tech_stack": [
+        "Python",
+        "JSON",
+        "Local LLM (e.g., via Ollama/Llama.cpp client for small models like Mistral/Gemma) or advanced regex/keyword matching"
+      ],
+      "source_inspiration": "arXiv: 'CSF: Contextual Safety Filtering for Motion Generators' (scene-dependent safety), 'From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents' (AI agent security)",
+      "steps": [
+        "Define a simple JSON schema for 'scene context' and 'safety rules'.",
+        "Develop a Python function that takes an agent's proposed action (string), the scene context, and safety rules as input.",
+        "Integrate a local LLM (e.g., via a client to an Ollama instance) to evaluate if the proposed action, given the context, might violate any safety rules.",
+        "If a violation is flagged, output a clear warning message and the specific rule potentially broken.",
+        "Create a few example contexts and safety rules to demonstrate its functionality."
+      ]
+    },
+    {
+      "title": "App-Context Audio Profile Switcher",
+      "difficulty": "Easy",
+      "estimated_hours": 4,
+      "description": "Create a desktop utility that automatically switches your audio output device (e.g., between headphones and speakers) or adjusts volume levels based on the currently active foreground application. This enhances developer productivity by removing manual adjustments, ensuring the right audio setup for coding, calls, or media consumption, mimicking the 'per-app profiles' concept seen in trending repos.",
+      "tech_stack": [
+        "Python",
+        "psutil (for process monitoring)",
+        "OS-specific audio control libraries (e.g., pycaw for Windows, subprocess with osascript for macOS, pactl/amixer for Linux)"
+      ],
+      "source_inspiration": "GitHub: 'SoundSwitch' (Per-app audio device profiles), general 'Automation / Productivity' trends.",
+      "steps": [
+        "Identify the necessary OS-specific commands or libraries to change the default audio output device or adjust volume.",
+        "Use `psutil` or similar to continuously monitor the active foreground application.",
+        "Create a simple configuration file (e.g., JSON or YAML) mapping application names to desired audio profiles (output device, volume).",
+        "Implement logic to detect changes in the active application and apply the corresponding audio profile if different from the current.",
+        "Add a basic system tray icon or console output to indicate the current profile or running status."
       ]
     }
   ],
   "quick_actions": [
-    "Action 1: Dedicate 10-15 minutes daily to 'unstructured thinking time' – put away all screens, avoid podcasts, and simply let your mind wander or focus on a single, non-work-related thought.",
-    "Action 2: For any AI-generated code or content you receive, critically review it line-by-line. Actively try to find flaws, suggest improvements, and understand the 'why' behind its output, rather than just accepting it.",
-    "Action 3: Before adopting a new complex AI tool or agent workflow, take 30 minutes to review one of your existing personal or team workflows. Identify one manual step that could be simplified or automated with a basic script, rather than a full-fledged agent.",
-    "Action 4: Pick one AI agent framework (e.g., LangChain, CrewAI) or a specific agent-based project from GitHub. Spend focused time (1-2 hours) understanding its core mechanics: prompt chaining, tool integration, and state management, to grasp how it truly operates and what its limitations might be."
+    "Allocate 15-30 minutes of 'Unscheduled Focus Time' daily: Step away from all screens and distractions to think, brainstorm, or simply be bored, fostering creativity.",
+    "Review your recent LLM API usage logs: Identify your top 3 most token-expensive calls/workflows and brainstorm one immediate optimization for each.",
+    "Deep-dive a recent bug or unexpected behavior: Instead of just fixing it, spend an extra hour understanding the complete root cause and exploring why it failed, aligning with 'Curiosity Over Comfort'.",
+    "Practice an advanced Git conflict resolution technique: Experiment with `git rebase -i` or resolving a complex merge conflict using `--ours`/`--theirs` to strengthen fundamental development skills."
   ]
 }
