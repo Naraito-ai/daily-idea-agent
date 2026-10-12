@@ -1,29 +1,13 @@
 {
-  "last_updated": "2026-10-11 11:44:14",
+  "last_updated": "2026-10-12 13:45:53",
   "scraped_sources": {
     "github": [
-      {
-        "name": "AI-Research-Guide",
-        "owner": "Takamatsu-Hikaru",
-        "description": "AI 科研入门指南：大学选择、科研 60 问、入门项目、学习路线与论文卡片。A bilingual guide to getting started in AI research.",
-        "stars": 25,
-        "url": "https://github.com/Takamatsu-Hikaru/AI-Research-Guide",
-        "category": "AI / ML"
-      },
       {
         "name": "Autotrader",
         "owner": "PkLavc",
         "description": "Autonomous AI trading system powered by Kronos. Forecasts markets, builds portfolios and paper-trades automatically with GitHub Actions.",
-        "stars": 23,
+        "stars": 25,
         "url": "https://github.com/PkLavc/Autotrader",
-        "category": "AI / ML"
-      },
-      {
-        "name": "semq",
-        "owner": "The-SEMQ-Group",
-        "description": "Deterministic symbolic codes for embedding vectors. Byte-identical across CPUs and languages, content-addressed, diffable and verifiable. C core with Python, Rust, Go and TypeScript bindings.",
-        "stars": 11,
-        "url": "https://github.com/The-SEMQ-Group/semq",
         "category": "AI / ML"
       },
       {
@@ -35,12 +19,44 @@
         "category": "AI / ML"
       },
       {
-        "name": "HeroFig",
-        "owner": "matteodisalvo",
-        "description": "A visual desktop editor for creating publication-ready scientific figures, with domain-specific libraries, real-time collaboration, and export to PDF, SVG, PNG, and LaTeX/TikZ.",
-        "stars": 10,
-        "url": "https://github.com/matteodisalvo/HeroFig",
+        "name": "neurips-explorer",
+        "owner": "flecomet",
+        "description": "Interactive semantic map of all 9,110 accepted NeurIPS 2026 papers using SPECTER2, UMAP and HDBSCAN.",
+        "stars": 8,
+        "url": "https://github.com/flecomet/neurips-explorer",
         "category": "AI / ML"
+      },
+      {
+        "name": "dsh-plugin-ml-phase-gate",
+        "owner": "lerqian883-alt",
+        "description": "Evidence-backed ML phase gates, live visualization, and portable project bootstrap for DeepSeek Harness.",
+        "stars": 7,
+        "url": "https://github.com/lerqian883-alt/dsh-plugin-ml-phase-gate",
+        "category": "AI / ML"
+      },
+      {
+        "name": "pax-chess",
+        "owner": "mf4633",
+        "description": "A tribute to Len Dorfman's PAX Chess (2001): his opening book and art, with the learning he planned.",
+        "stars": 5,
+        "url": "https://github.com/mf4633/pax-chess",
+        "category": "AI / ML"
+      },
+      {
+        "name": "dsh-wechat",
+        "owner": "xcisxc29",
+        "description": "WeChat channel for DeepSeek Harness",
+        "stars": 130,
+        "url": "https://github.com/xcisxc29/dsh-wechat",
+        "category": "Automation / Productivity"
+      },
+      {
+        "name": "esp32-iphone-agent",
+        "owner": "onehumanbeing",
+        "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+        "stars": 125,
+        "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+        "category": "Automation / Productivity"
       },
       {
         "name": "SoundSwitch",
@@ -48,14 +64,6 @@
         "description": "Per-app audio device profiles that actually stick between reboots",
         "stars": 119,
         "url": "https://github.com/GulfHairdresser/SoundSwitch",
-        "category": "Automation / Productivity"
-      },
-      {
-        "name": "dsh-wechat",
-        "owner": "xcisxc29",
-        "description": "WeChat channel for DeepSeek Harness",
-        "stars": 101,
-        "url": "https://github.com/xcisxc29/dsh-wechat",
         "category": "Automation / Productivity"
       },
       {
@@ -70,56 +78,43 @@
         "name": "omo-dori-mode-experimental",
         "owner": "sisyphuslabs",
         "description": "Dori mode: an always-on messenger agent that launches, tracks and closes coding-agent sessions in herdr (skill + bun CLI). Experimental.",
-        "stars": 69,
+        "stars": 72,
         "url": "https://github.com/sisyphuslabs/omo-dori-mode-experimental",
-        "category": "Automation / Productivity"
-      },
-      {
-        "name": "SoloMCN",
-        "owner": "ymybxx",
-        "description": "把 Claude Code 变成你的短视频团队：不搭工作流，直接让 Claude 干活，从国内热榜、推特热帖到抖音、小红书、B站、YouTube、推特发布。Turn Claude Code into your short-video team — no workflows, from trends and X posts to publishing.",
-        "stars": 50,
-        "url": "https://github.com/ymybxx/SoloMCN",
         "category": "Automation / Productivity"
       }
     ],
     "hacker_news": [
       {
-        "title": "Build your own decision model",
-        "url": "https://nishtahir.com/build-your-own-decision-model/",
-        "score": 338
-      },
-      {
-        "title": "Retrofitting language models to operate over bytes",
-        "url": "https://www.nature.com/articles/s41586-026-11111-4",
-        "score": 71
+        "title": "QGIS bans AI assisted contributions",
+        "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+        "score": 202
       }
     ],
     "arxiv": [
       {
-        "title": "CSF: Contextual Safety Filtering for Motion Generators",
-        "summary": "Text-conditioned motion generators produce trackable whole-body motion, but they have no notion of scene-dependent safety: the same action may target an object or a person. Existing safeguards either ...",
-        "url": "http://arxiv.org/abs/2610.12467v1"
+        "title": "Can Language Models Play the Wikipedia Game?",
+        "summary": "Language models increasingly support or automate information retrieval from document collections too large to index. This task is difficult when it requires specialist linguistic or scientific knowled...",
+        "url": "http://arxiv.org/abs/2610.13948v1"
       },
       {
-        "title": "On the estimation and validity of AI time horizons---a statistical look at the METR plot",
-        "summary": "METR's 50\\% time horizon measures the human completion time of software tasks that an AI solves with 50\\% probability, allowing AI capabilities to be expressed in interpretable units. On 228 tasks and...",
-        "url": "http://arxiv.org/abs/2610.12466v1"
+        "title": "Hide and Seek: HIDE Concepts to SEEK explanations for black box models",
+        "summary": "Interpreting machine learning model predictions is a central challenge, particularly for black-box vision models. Concept-based attribution methods interpret models using human-understandable concepts...",
+        "url": "http://arxiv.org/abs/2610.13935v1"
       },
       {
-        "title": "A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control",
-        "summary": "General-purpose robots must perform a wide range of tasks from agile locomotion to dexterous manipulation. While sim-to-real reinforcement learning (RL) has proven to be a useful tool for this goal, c...",
-        "url": "http://arxiv.org/abs/2610.12465v1"
+        "title": "Constructive Bounds for the Topological Expressivity of Neural Networks",
+        "summary": "The expressivity of a neural network $Φ$ describes the class of functions that a network can express. The term topological expressivity refers to a family of measures particularly suited to understand...",
+        "url": "http://arxiv.org/abs/2610.13931v1"
       },
       {
-        "title": "From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents",
-        "summary": "In 2026, cybersecurity evaluations involving OpenAI, Anthropic, and Google agents reached real systems outside their authorized test scope. The paths were different. OpenAI agents exploited research i...",
-        "url": "http://arxiv.org/abs/2610.12463v1"
+        "title": "AI Models Can Provably Hide Arbitrary Capabilities",
+        "summary": "Capability evaluations aim to surface dangerous model behaviors before deployment, but their reliability depends on the assumption that hidden capabilities can be elicited. We show this assumption doe...",
+        "url": "http://arxiv.org/abs/2610.13928v1"
       },
       {
-        "title": "BrickBench: Evaluating Agentic Brick Design",
-        "summary": "We propose BrickBench, a benchmark for agentic text-conditioned LEGO-set design. Given a prompt, an agent is tasked with producing an assembly that not only satisfies semantic and design criteria, but...",
-        "url": "http://arxiv.org/abs/2610.12452v1"
+        "title": "KL Before and After Mixing: A Round-Complexity Separation in Parallel Sampling",
+        "summary": "A parallel sampler can choose at random which coordinates to generate together. For a target $p$ and the output law $q_U$ of a schedule $U$ drawn afresh for each output, we compare the schedule-averag...",
+        "url": "http://arxiv.org/abs/2610.13924v1"
       }
     ],
     "devto": [
@@ -127,13 +122,19 @@
         "title": "I Think We're Forgetting How to Be Bored",
         "description": "You know the moment. You're waiting for the kettle, or the elevator, or a page to load, or a friend...",
         "url": "https://dev.to/james_anderson_h/i-think-were-forgetting-how-to-be-bored-3pe5",
-        "reactions": 75
+        "reactions": 83
       },
       {
         "title": "I Write on a 2006 iMac and Code on a $200 Laptop",
         "description": "I've always loved the idea of reusing old hardware, especially when it's still more than capable of...",
         "url": "https://dev.to/mikachu/i-write-on-a-2006-imac-and-code-on-a-200-laptop-9n4",
-        "reactions": 57
+        "reactions": 65
+      },
+      {
+        "title": "\"Light don go\": when Nigeria''s power cuts out, my laptop sends me outside",
+        "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 1: Touch Grass          ...",
+        "url": "https://dev.to/dannwaneri/light-don-go-when-nigerias-power-cuts-out-my-laptop-sends-me-outside-38k8",
+        "reactions": 23
       },
       {
         "title": "Curiosity Over Comfort",
@@ -146,80 +147,81 @@
         "description": "My Claude Code week started ending on Wednesday. I blamed the September 14 cut, like everyone on...",
         "url": "https://dev.to/aidiveyt/the-september-cut-took-17-of-my-claude-code-week-subagents-were-taking-48-98n",
         "reactions": 11
-      },
-      {
-        "title": "How to resolve merge conflicts in Git without guessing: markers, --ours/--theirs and the rebase flip",
-        "description": "You are rebasing your branch onto main. Git stops on a conflict in limits.py. You want to keep your...",
-        "url": "https://dev.to/devopsdaily/how-to-resolve-merge-conflicts-in-git-without-guessing-markers-ours-theirs-and-the-rebase-flip-b4g",
-        "reactions": 25
       }
     ]
   },
-  "trends": "Today's tech landscape is dominated by the rapid evolution and practical application of agentic AI, moving beyond single-task models to autonomous, orchestrated systems handling complex workflows like trading, creative content generation, and specialized design. A critical parallel trend is the increasing focus on AI safety, security, and efficiency, particularly concerning agent interactions in real-world environments and managing token costs. Concurrently, developer productivity is being enhanced through smarter automation tools, LLM workflow optimization, and a renewed emphasis on fundamental skills and mindful work habits to combat digital overload.",
+  "trends": "Today's tech landscape is dominated by the rapid evolution of **Agentic AI**, pushing beyond simple queries to autonomous execution in diverse domains from finance to physical device control. There's a clear trend towards **integrating AI with the physical world** through low-cost hardware interfaces, alongside sophisticated **AI orchestration and optimization** to manage costs and complex workflows. Concurrently, significant attention is being paid to **AI safety, explainability, and ethics**, driven by concerns around hidden capabilities and responsible contribution. In parallel, the focus on **knowledge discovery and semantic mapping** from vast data continues to grow. Contrasting with this hyper-digital push, a strong **digital wellness and sustainable productivity** movement is emerging, advocating for mindful engagement, leveraging older tech, and embracing 'unplugged' moments to foster creativity and deeper understanding.",
   "ideas": [
     {
-      "title": "LLM Proxy: Token & Cost Monitor",
-      "difficulty": "Easy",
-      "estimated_hours": 4,
-      "description": "Develop a lightweight local proxy server that intercepts API calls to large language models (LLMs). This proxy will log request and response data, calculate token usage, and estimate API costs in real-time. A simple web dashboard will display these metrics, helping developers understand and optimize their LLM expenditures, especially in complex agentic workflows where subagent calls can accumulate rapidly. This provides immediate visibility into the financial impact of LLM usage.",
-      "tech_stack": [
-        "Python",
-        "Flask",
-        "LLM API Client (e.g., OpenAI, Anthropic)",
-        "Basic HTML/CSS/JavaScript"
-      ],
-      "source_inspiration": "GitHub: 'mcpdelta' (AI app orchestration, token efficiency), Dev.to: 'The September cut took 17% of my Claude Code week. Subagents were taking 48%.' (LLM cost management)",
-      "steps": [
-        "Set up a Flask server to act as an intermediary for LLM API calls.",
-        "Implement a /v1/chat/completions endpoint that proxies requests to the actual LLM API.",
-        "Before forwarding, parse the request to calculate input tokens; upon receiving response, calculate output tokens.",
-        "Store token counts and estimated costs (based on LLM pricing tiers) in memory or a simple flat file.",
-        "Create a basic HTML dashboard accessible via a local endpoint to display real-time token usage and cost metrics."
-      ]
-    },
-    {
-      "title": "Basic Agent Safety Rule Enforcer (Prototype)",
+      "title": "Low-Cost Embodied AI Companion for 'Dumb' Devices",
       "difficulty": "Medium",
-      "estimated_hours": 4,
-      "description": "Build a Python script that acts as a rudimentary 'safety gate' for AI agent actions. Given a textual description of an agent's proposed action and a simple JSON-defined 'scene context' (e.g., objects present, user state) and 'safety rules' (e.g., 'do not interact with person X if object Y is present'), the script will use a small local LLM or rule-based system to flag potential safety violations. This provides an early feedback mechanism for developers building autonomous agents, promoting proactive safety considerations.",
+      "estimated_hours": 30,
+      "description": "Build an AI agent that can interact with and control common, non-smart home or office appliances using an inexpensive microcontroller (like ESP32 or Raspberry Pi Zero). The system will interpret natural language commands through an LLM and translate them into physical actions (e.g., pressing buttons via a servo, sending IR signals, toggling relays). This allows users to 'smartify' legacy devices without replacing them, leveraging the power of embodied AI at a fraction of the cost of commercial smart devices. Imagine telling your AI, 'Make me coffee,' and it activates your old coffeemaker.",
       "tech_stack": [
-        "Python",
-        "JSON",
-        "Local LLM (e.g., via Ollama/Llama.cpp client for small models like Mistral/Gemma) or advanced regex/keyword matching"
+        "Python (FastAPI/Flask)",
+        "MicroPython/C++ (for ESP32)",
+        "OpenAI API or local LLM (e.g., Llama.cpp)",
+        "MQTT/WebSockets",
+        "Basic electronics (relays, IR blasters, servos)"
       ],
-      "source_inspiration": "arXiv: 'CSF: Contextual Safety Filtering for Motion Generators' (scene-dependent safety), 'From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents' (AI agent security)",
+      "source_inspiration": "esp32-iphone-agent, mcpdelta",
       "steps": [
-        "Define a simple JSON schema for 'scene context' and 'safety rules'.",
-        "Develop a Python function that takes an agent's proposed action (string), the scene context, and safety rules as input.",
-        "Integrate a local LLM (e.g., via a client to an Ollama instance) to evaluate if the proposed action, given the context, might violate any safety rules.",
-        "If a violation is flagged, output a clear warning message and the specific rule potentially broken.",
-        "Create a few example contexts and safety rules to demonstrate its functionality."
+        "Select a 'dumb' appliance (e.g., an old fan, a coffee machine, a simple lamp) and identify its control mechanisms (buttons, knobs, IR).",
+        "Develop a microcontroller (ESP32) program to physically interface with the appliance. This might involve setting up relays, IR LEDs, or small servos to mimic human interaction.",
+        "Create a Python backend server that hosts an API for the ESP32 and integrates with an LLM. The LLM will translate natural language requests into specific microcontroller commands.",
+        "Implement communication between the Python server and the ESP32 (e.g., via MQTT or WebSockets) to send and receive commands.",
+        "Build a simple web interface or CLI tool to send natural language commands to your AI agent, and allow for basic routine scheduling."
       ]
     },
     {
-      "title": "App-Context Audio Profile Switcher",
-      "difficulty": "Easy",
-      "estimated_hours": 4,
-      "description": "Create a desktop utility that automatically switches your audio output device (e.g., between headphones and speakers) or adjusts volume levels based on the currently active foreground application. This enhances developer productivity by removing manual adjustments, ensuring the right audio setup for coding, calls, or media consumption, mimicking the 'per-app profiles' concept seen in trending repos.",
+      "title": "AI Workflow Sentinel & Undo System",
+      "difficulty": "Medium",
+      "estimated_hours": 40,
+      "description": "Develop a local proxy or wrapper application that sits between a developer's environment and external AI services (like OpenAI, Anthropic). This 'Sentinel' will monitor and log all AI interactions, including prompts, responses, and estimated token/API costs. Critically, it will implement a robust 'undo' system for AI-generated changes (e.g., code modifications, file writes) by creating snapshots before AI execution. It also offers insights into cost overruns and allows for 'replay' of tasks with optimized prompts, directly addressing efficiency, cost management, and the need for robust, auditable AI automation.",
       "tech_stack": [
-        "Python",
-        "psutil (for process monitoring)",
-        "OS-specific audio control libraries (e.g., pycaw for Windows, subprocess with osascript for macOS, pactl/amixer for Linux)"
+        "Python (FastAPI/Flask)",
+        "SQLite/PostgreSQL (for logging)",
+        "Git (for version control/snapshots)",
+        "Diff/Patch libraries",
+        "OpenAI Python client (or similar LLM clients)"
       ],
-      "source_inspiration": "GitHub: 'SoundSwitch' (Per-app audio device profiles), general 'Automation / Productivity' trends.",
+      "source_inspiration": "mcpdelta, Dev.to article on Claude Code week cut",
       "steps": [
-        "Identify the necessary OS-specific commands or libraries to change the default audio output device or adjust volume.",
-        "Use `psutil` or similar to continuously monitor the active foreground application.",
-        "Create a simple configuration file (e.g., JSON or YAML) mapping application names to desired audio profiles (output device, volume).",
-        "Implement logic to detect changes in the active application and apply the corresponding audio profile if different from the current.",
-        "Add a basic system tray icon or console output to indicate the current profile or running status."
+        "Create a Python-based proxy server that intercepts API calls to popular LLM services (e.g., by wrapping the client libraries or using a custom endpoint).",
+        "Implement comprehensive logging for each AI interaction: prompt, response, model used, timestamp, and estimated token/cost.",
+        "Integrate a 'snapshot' system. Before an AI agent is allowed to modify files, the system should automatically create a versioned backup (e.g., using Git for code, or a simple file copy for data).",
+        "Develop a CLI or simple GUI that displays AI interaction history, token usage, and allows users to 'undo' recent AI-made changes by reverting to a previous snapshot.",
+        "Add functionality to analyze token usage patterns and suggest prompt optimizations, or allow re-running a previous prompt with a slightly modified instruction to compare outcomes and costs."
+      ]
+    },
+    {
+      "title": "Semantic ML Project & Experiment Explorer",
+      "difficulty": "Hard",
+      "estimated_hours": 60,
+      "description": "Build an interactive tool that helps ML developers navigate and understand complex projects. It will ingest various project artifacts—code, documentation, experiment logs, model cards, and even research papers—and use advanced semantic embedding techniques (like SPECTER2 or Sentence Transformers) to create an 'intelligent map' of the project's knowledge space. Users can interactively explore relationships between models, datasets, and experiments, and query the system in natural language (e.g., 'Show me experiments optimizing accuracy for 'X' model on 'Y' dataset'). The tool will also visualize 'phase gates' or project milestones, enhancing MLOps transparency and explainability.",
+      "tech_stack": [
+        "Python (backend, data processing)",
+        "Sentence Transformers/OpenAI embeddings",
+        "UMAP/HDBSCAN (for dimensionality reduction and clustering)",
+        "FastAPI",
+        "React/Vue.js (frontend)",
+        "D3.js/Plotly (for interactive visualizations)",
+        "Git integration"
+      ],
+      "source_inspiration": "neurips-explorer, dsh-plugin-ml-phase-gate, arXiv papers on XAI ('Hide and Seek')",
+      "steps": [
+        "Develop a Python backend service capable of parsing and extracting relevant text (code comments, Markdown docs, log snippets) from a given ML project directory.",
+        "Implement a process to generate semantic embeddings for all extracted text chunks using a pre-trained model like Sentence Transformers.",
+        "Apply dimensionality reduction (UMAP) and clustering (HDBSCAN) to these embeddings to create a meaningful, lower-dimensional representation of the project's semantic space.",
+        "Design and build an interactive web-based frontend using a framework like React/Vue.js and a visualization library (D3.js) to display the semantic clusters and relationships.",
+        "Integrate a natural language search interface that uses embedding similarity to find relevant project components and, using an LLM, generates concise explanations or summaries of queried elements (e.g., 'Explain the purpose of this experiment')."
       ]
     }
   ],
   "quick_actions": [
-    "Allocate 15-30 minutes of 'Unscheduled Focus Time' daily: Step away from all screens and distractions to think, brainstorm, or simply be bored, fostering creativity.",
-    "Review your recent LLM API usage logs: Identify your top 3 most token-expensive calls/workflows and brainstorm one immediate optimization for each.",
-    "Deep-dive a recent bug or unexpected behavior: Instead of just fixing it, spend an extra hour understanding the complete root cause and exploring why it failed, aligning with 'Curiosity Over Comfort'.",
-    "Practice an advanced Git conflict resolution technique: Experiment with `git rebase -i` or resolving a complex merge conflict using `--ours`/`--theirs` to strengthen fundamental development skills."
+    "Embrace 'Micro-Boredom': During your next short wait (e.g., code compiling, kettle boiling, page loading), consciously resist reaching for a device. Allow your mind to wander for 60-90 seconds, fostering a moment of unplugged reflection.",
+    "Perform an AI Usage Audit: For any AI tool or API you regularly use, dedicate 15 minutes this week to review your usage logs or estimated costs. Identify one prompt or workflow that could be optimized for efficiency or token reduction.",
+    "Adopt the 'Break & Observe' Habit: The next time you encounter a bug or unexpected behavior in your code, instead of immediately searching for a solution, take 5 minutes to just 'observe' the symptoms and try to understand the underlying 'why' before attempting a fix.",
+    "Schedule an 'Analog Deep Work' Block: Designate one 30-60 minute slot this week for a task that requires no internet or digital distractions. This could be planning with pen and paper, reading a physical book, or coding on a local-only project."
   ]
 }
