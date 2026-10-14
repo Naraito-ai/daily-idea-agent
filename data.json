@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-10-13 13:05:31",
+  "last_updated": "2026-10-14 10:46:46",
   "scraped_sources": {
     "github": [
       {
-        "name": "Autotrader",
-        "owner": "PkLavc",
-        "description": "Autonomous AI trading system powered by Kronos. Forecasts markets, builds portfolios and paper-trades automatically with GitHub Actions.",
-        "stars": 27,
-        "url": "https://github.com/PkLavc/Autotrader",
+        "name": "Vela",
+        "owner": "AllSpark-Research",
+        "description": "Vela: User Behavior as Supervision Sparks LLM Intelligence — official paper, task templates, and prompts from AllSpark at Xiaohongshu.",
+        "stars": 14,
+        "url": "https://github.com/AllSpark-Research/Vela",
         "category": "AI / ML"
       },
       {
@@ -27,83 +27,112 @@
         "category": "AI / ML"
       },
       {
-        "name": "nn-htop",
-        "owner": "marviecephas",
-        "description": "htop for Neural Networks: A terminal monitor for PyTorch layer activations and gradients",
-        "stars": 4,
-        "url": "https://github.com/marviecephas/nn-htop",
+        "name": "expression-lab",
+        "owner": "CaioScura",
+        "description": "Aplicação de visão computacional que reconhece gestos com as mãos e expressões faciais em tempo real pela webcam, permitindo associar gestos personalizados a imagens e GIFs.",
+        "stars": 6,
+        "url": "https://github.com/CaioScura/expression-lab",
         "category": "AI / ML"
       },
       {
-        "name": "ai-agent-data-apis",
-        "owner": "cporter202",
-        "description": "A mega collection of 2,070 AI agent data APIs: MCP servers, LLM tools, RAG pipelines, live web data, vision & voice. Give your AI agent live web data.",
-        "stars": 4,
-        "url": "https://github.com/cporter202/ai-agent-data-apis",
+        "name": "podsieve",
+        "owner": "rezasouri",
+        "description": "Speaker diarization and vocal separation with a native Qt desktop UI and Python CLI. Turn podcasts and interviews into speaker-labeled audio datasets.",
+        "stars": 6,
+        "url": "https://github.com/rezasouri/podsieve",
         "category": "AI / ML"
+      },
+      {
+        "name": "esp32-iphone-agent",
+        "owner": "onehumanbeing",
+        "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+        "stars": 1885,
+        "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+        "category": "Automation / Productivity"
+      },
+      {
+        "name": "SoundSwitch",
+        "owner": "GulfHairdresser",
+        "description": "Per-app audio device profiles that actually stick between reboots",
+        "stars": 119,
+        "url": "https://github.com/GulfHairdresser/SoundSwitch",
+        "category": "Automation / Productivity"
+      },
+      {
+        "name": "Satori_LocalAssistant",
+        "owner": "NotSatoriKomeiji",
+        "description": "(Cyber)Satori（赛博觉妖怪）是一款本地优先的 Windows 桌面助手，支持使用习惯学习、常用应用推荐、快速词输入、音量与外接显示器亮度调节。基础功能无需 API；可选 AI 接口用于辅助分析陌生情况，经用户确认的经验保存在本地并复用。(暂时维修中，目前发现了一个长期使用下会影响基本功能的逻辑bug）",
+        "stars": 97,
+        "url": "https://github.com/NotSatoriKomeiji/Satori_LocalAssistant",
+        "category": "Automation / Productivity"
+      },
+      {
+        "name": "SoloMCN",
+        "owner": "ymybxx",
+        "description": "把 Claude Code 变成你的短视频团队：不搭工作流，直接让 Claude 干活，从国内热榜、推特热帖到抖音、小红书、B站、YouTube、推特发布。Turn Claude Code into your short-video team — no workflows, from trends and X posts to publishing.",
+        "stars": 53,
+        "url": "https://github.com/ymybxx/SoloMCN",
+        "category": "Automation / Productivity"
+      },
+      {
+        "name": "zcode-claim-9router",
+        "owner": "0xgetz",
+        "description": "Automate the ZCode free Start-Plan claim (z.ai token/cookies -> ZCode JWT -> Start Plan) and wire GLM into 9Router as a glm provider pool. Web UI console + CLI. Reverse-engineered from ZCode 3.14.4.",
+        "stars": 39,
+        "url": "https://github.com/0xgetz/zcode-claim-9router",
+        "category": "Automation / Productivity"
       }
     ],
     "hacker_news": [
       {
-        "title": "An hour of audio transcribed in about 13s on MacBook Air",
-        "url": "https://eg2.haku.sh/",
-        "score": 109
+        "title": "I let an AI run my startup for a week",
+        "url": "https://daily.tinyprojects.dev/221",
+        "score": 16
       },
       {
-        "title": "Show HN: Use your OpenAI subscription to create audiobooks",
-        "url": "https://pdftomp3.com/connect-ai/",
-        "score": 67
+        "title": "Show HN: Building an LLM from Scratch in TypeScript",
+        "url": "https://book.humanexperiences.io/",
+        "score": 4
       },
       {
-        "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
-        "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
-        "score": 263
+        "title": "AI Laser Locking for Quantum Computers: How QuEra Automates It",
+        "url": "https://www.quera.com/blog-posts/holding-the-light-teaching-an-ai-to-lock-and-tune-our-quantum-computers-lasers",
+        "score": 3
       },
       {
-        "title": "Character.ai Files for Bankruptcy",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
-        "score": 66
-      },
-      {
-        "title": "Character.ai files for Chapter 11 bankruptcy",
-        "url": "https://blog.character.ai/an-update-on-character-ai/",
-        "score": 30
+        "title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
+        "url": "https://github.com/android/ndk/issues/2260",
+        "score": 280
       }
     ],
     "arxiv": [
       {
-        "title": "Can Language Models Play the Wikipedia Game?",
-        "summary": "Language models increasingly support or automate information retrieval from document collections too large to index. This task is difficult when it requires specialist linguistic or scientific knowled...",
-        "url": "http://arxiv.org/abs/2610.13948v1"
+        "title": "ChunkAct: Action Chunking for Agentic Robotics",
+        "summary": "Agentic robotics places a large language model (LLM) agent in the robot control loop, where it composes perception, motion, and vision-language-action (VLA) tools under the guidance of a memory and th...",
+        "url": "http://arxiv.org/abs/2610.18874v1"
       },
       {
-        "title": "Hide and Seek: HIDE Concepts to SEEK explanations for black box models",
-        "summary": "Interpreting machine learning model predictions is a central challenge, particularly for black-box vision models. Concept-based attribution methods interpret models using human-understandable concepts...",
-        "url": "http://arxiv.org/abs/2610.13935v1"
+        "title": "Cepheid: Decoupling Scale from Structure for Cross-Family Motion Completion",
+        "summary": "Sparse-to-dense motion completion recovers dense mesh motion from sparse vertex displacements. Residual priors trained on one geometry family frequently fail to beat parameter-free harmonic extension ...",
+        "url": "http://arxiv.org/abs/2610.18871v1"
       },
       {
-        "title": "Constructive Bounds for the Topological Expressivity of Neural Networks",
-        "summary": "The expressivity of a neural network $Φ$ describes the class of functions that a network can express. The term topological expressivity refers to a family of measures particularly suited to understand...",
-        "url": "http://arxiv.org/abs/2610.13931v1"
+        "title": "What Matters in Quality-Aware VLA Pretraining: A Benchmark and Empirical Study",
+        "summary": "How should demonstration quality be used during vision-language-action (VLA) pretraining to improve performance after target-task fine-tuning? We compare weighting, filtering, and conditioning across ...",
+        "url": "http://arxiv.org/abs/2610.18869v1"
       },
       {
-        "title": "AI Models Can Provably Hide Arbitrary Capabilities",
-        "summary": "Capability evaluations aim to surface dangerous model behaviors before deployment, but their reliability depends on the assumption that hidden capabilities can be elicited. We show this assumption doe...",
-        "url": "http://arxiv.org/abs/2610.13928v1"
+        "title": "Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rewards",
+        "summary": "Long-horizon agents have drawn growing attention for their ability to work autonomously -- from hours to days -- on economically valuable tasks, a capability essential to automated discovery and recur...",
+        "url": "http://arxiv.org/abs/2610.18868v1"
       },
       {
-        "title": "KL Before and After Mixing: A Round-Complexity Separation in Parallel Sampling",
-        "summary": "A parallel sampler can choose at random which coordinates to generate together. For a target $p$ and the output law $q_U$ of a schedule $U$ drawn afresh for each output, we compare the schedule-averag...",
-        "url": "http://arxiv.org/abs/2610.13924v1"
+        "title": "Data Free Training of Diffusion Models for Lattice Field Theories",
+        "summary": "Sampling equilibrium field configurations remains a major computational bottleneck in lattice field theory, motivating the development of generative samplers that can produce independent configuration...",
+        "url": "http://arxiv.org/abs/2610.18863v1"
       }
     ],
     "devto": [
-      {
-        "title": "I Think We're Forgetting How to Be Bored",
-        "description": "You know the moment. You're waiting for the kettle, or the elevator, or a page to load, or a friend...",
-        "url": "https://dev.to/james_anderson_h/i-think-were-forgetting-how-to-be-bored-3pe5",
-        "reactions": 85
-      },
       {
         "title": "I Write on a 2006 iMac and Code on a $200 Laptop",
         "description": "I've always loved the idea of reusing old hardware, especially when it's still more than capable of...",
@@ -120,94 +149,94 @@
         "title": "If You Never Do Anything Else to Fix Your Prompts, Do This One Thing",
         "description": "Why do LLMs confidently invent APIs that have never existed in the history of the universe? It is not a memory defect. Agents hallucinated because they were committed to the prompt—and Fernando Flores solved the root cause in 1986.",
         "url": "https://dev.to/gde/if-you-never-do-anything-else-to-fix-your-prompts-do-this-one-thing-3069",
-        "reactions": 12
+        "reactions": 15
       },
       {
         "title": "It's Not the Model, It's You",
         "description": "Every time a new frontier model comes out, we go through the same rituals: benchmarks get reported,...",
         "url": "https://dev.to/dailycontext/its-not-the-model-its-you-1ngi",
         "reactions": 9
+      },
+      {
+        "title": "The September cut took 17% of my Claude Code week. Subagents were taking 48%.",
+        "description": "My Claude Code week started ending on Wednesday. I blamed the September 14 cut, like everyone on...",
+        "url": "https://dev.to/aidiveyt/the-september-cut-took-17-of-my-claude-code-week-subagents-were-taking-48-98n",
+        "reactions": 13
       }
     ]
   },
-  "trends": "Today's tech landscape is defined by the rapid advancement and practical application of Agentic AI, with a strong emphasis on leveraging real-time data and automated workflows for complex tasks like financial trading. There's a parallel drive for efficiency and accessibility in AI, evident in fast, local inference models for productivity tools (e.g., audio processing) and the strategic use of existing APIs. Concurrently, the community is deeply engaged in understanding and interpreting advanced Language Models (LLMs), focusing on explainable AI (XAI), AI safety, and the critical role of human expertise in prompt engineering and effective human-AI collaboration. Beyond core AI, there's a growing counter-movement towards mindful productivity and sustainable tech practices, advocating for digital detox, leveraging existing hardware, and prioritizing human well-being alongside technological progress.",
+  "trends": "Today's tech landscape is overwhelmingly defined by the rapid evolution of **Agentic AI**, where Large Language Models (LLMs) are moving beyond mere conversational interfaces to become autonomous, proactive entities. This manifests in direct control over physical devices (e.g., iPhones via ESP32) and complex workflows (e.g., managing entire content creation pipelines or scientific experiments). Accompanying this is a strong emphasis on **Personalized and Local-First Automation**, with tools designed to adapt to individual user habits, perform tasks directly on desktop environments, and enhance daily productivity through tailored experiences. Concurrently, there's a growing recognition of the importance of **Robust MLOps and Human-in-the-Loop practices**, indicating a maturity in ML development that prioritizes disciplined deployment, empirical validation (phase gates), and effective prompt engineering over solely relying on model capabilities. Finally, a spirit of **Resourcefulness and Efficiency** permeates, with developers seeking to maximize utility from existing hardware and optimize their personal workflows amidst these advanced technological shifts.",
   "ideas": [
     {
-      "title": "Agentic Market Watchdog & Scenario Planner",
-      "difficulty": "Medium",
-      "estimated_hours": 40,
-      "description": "Build an autonomous AI agent system that monitors financial markets, analyzes news sentiment using LLMs, and simulates portfolio adjustments based on predefined strategies or user-defined scenarios. The system should automatically generate daily summaries, risk assessments, and 'what-if' analyses for specific stocks or sectors. It can be extended to paper-trade or suggest rebalancing, leveraging automation tools for scheduled execution and reporting. The core value lies in providing proactive, data-driven insights and enabling users to test strategies without direct, real-time engagement.",
-      "tech_stack": [
-        "Python",
-        "Pandas",
-        "NumPy",
-        "OpenAI API (or similar LLM)",
-        "Financial Data APIs (e.g., Alpha Vantage, Yahoo Finance)",
-        "Streamlit/Flask (for UI)",
-        "GitHub Actions",
-        "Docker (optional)"
-      ],
-      "source_inspiration": "Autotrader (GitHub), ai-agent-data-apis (GitHub), Can Language Models Play the Wikipedia Game? (arXiv)",
-      "steps": [
-        "Task 1: Set up a Python environment and integrate with a chosen financial data API to fetch real-time and historical stock data.",
-        "Task 2: Develop a module for news aggregation (e.g., using news APIs like NewsAPI or scraping) and implement LLM-based sentiment analysis for relevant financial articles.",
-        "Task 3: Design and implement core agent logic to combine market data and sentiment, generating daily insights and potential portfolio adjustments.",
-        "Task 4: Create a simulation engine to model 'paper trades' and evaluate strategy performance over time based on the agent's suggestions.",
-        "Task 5: Build a simple web-based dashboard (Streamlit or Flask) to visualize daily reports, market trends, and portfolio simulation results.",
-        "Task 6: Configure GitHub Actions for automated daily data fetching, analysis, report generation, and dashboard updates."
-      ]
-    },
-    {
-      "title": "Local-First 'Cognitive Offload' Assistant",
+      "title": "Smart Gesture-to-Action Accessibility Agent",
       "difficulty": "Medium",
       "estimated_hours": 30,
-      "description": "Develop a desktop application that leverages local AI models to act as a personal 'cognitive offload' assistant, enhancing developer productivity and privacy. Key features would include real-time meeting transcription (using local Whisper-like models), quick voice-to-code snippet generation, local document summarization without cloud uploads, and context-aware reminders. This tool emphasizes speed, privacy, and reducing mental load by processing common information and task fragments directly on the user's machine, aligning with trends in local AI efficiency and mindful productivity.",
+      "description": "Develop a local-first application that uses real-time computer vision (webcam) to detect predefined hand gestures and facial expressions, mapping them to specific actions on the user's computer or connected smart devices. This could serve as an accessibility tool, a hands-free productivity enhancer, or a novel input method for presentations and media control. Users could train custom gestures and link them to system commands (e.g., 'play/pause' media, 'next slide', 'launch application', 'mute mic'). The agent would learn from user corrections to refine gesture recognition over time.",
       "tech_stack": [
         "Python",
-        "Electron/PyQt (for desktop UI)",
-        "Hugging Face `transformers` (for local models like Whisper, Llama.cpp)",
-        "FFmpeg (for audio processing)",
-        "SpeechRecognition library",
-        "Local vector database (e.g., ChromaDB, LanceDB)"
+        "OpenCV",
+        "MediaPipe (for gesture/face tracking)",
+        "PyAutoGUI (for OS control)",
+        "Flask/Streamlit (for simple UI)",
+        "Local vector database (e.g., ChromaDB) for gesture embeddings"
       ],
-      "source_inspiration": "An hour of audio transcribed in about 13s on MacBook Air (Hacker News), I Think We're Forgetting How to Be Bored (Dev.to), If You Never Do Anything Else to Fix Your Prompts (Dev.to)",
+      "source_inspiration": "esp32-iphone-agent, expression-lab, Vela: User Behavior as Supervision Sparks LLM Intelligence, ChunkAct: Action Chunking for Agentic Robotics",
       "steps": [
-        "Task 1: Research and integrate a performant, local-first speech-to-text model (e.g., fine-tuned Whisper) into a Python backend service.",
-        "Task 2: Develop a desktop application UI (using Electron or PyQt) with controls for recording audio, displaying transcriptions, and managing local documents.",
-        "Task 3: Implement a feature for real-time transcription of meetings or voice notes, storing text locally.",
-        "Task 4: Integrate a local LLM (e.g., Llama.cpp via `ctransformers`) to perform summarization on transcribed text and locally stored documents.",
-        "Task 5: Add a voice-to-code snippet generator, allowing users to speak programming concepts or function requests and receive basic code output from the local LLM.",
-        "Task 6: Create a simple 'context-aware' reminder system that can trigger based on keywords in transcribed text or summarized documents."
+        "Task 1: Set up a Python environment with OpenCV and MediaPipe for real-time webcam feed and pose/hand/face landmark detection.",
+        "Task 2: Implement core gesture recognition logic. Start with simple gestures (e.g., 'thumb up', 'open hand') using MediaPipe's hand tracking or facial landmarks.",
+        "Task 3: Develop a mapping system where users can define gestures and associate them with OS-level actions (e.g., keyboard shortcuts, mouse clicks via PyAutoGUI).",
+        "Task 4: Create a simple web-based or desktop UI (Flask/Streamlit) for gesture management, action mapping, and real-time visualization of detected gestures.",
+        "Task 5: (Optional) Integrate a local vector database to store and compare custom gesture embeddings, allowing for more personalized and robust gesture training and recognition, learning from user feedback."
       ]
     },
     {
-      "title": "ML Model Interpretability & Phase Gate Dashboard",
-      "difficulty": "Medium",
-      "estimated_hours": 50,
-      "description": "Create a MLOps dashboard focusing on model interpretability and 'phase gate' evaluation. This tool would allow ML developers to upload their trained models and dataset samples, then visualize key performance metrics alongside concept-based explanations for predictions (e.g., using SHAP or LIME). The 'phase gates' would be customizable rules (e.g., 'Accuracy > 90%', 'SHAP feature importance for 'age' must be positive') that a model must pass before being considered production-ready. This enhances trust, debugging, and compliance by providing transparent insights into black-box models and enforcing quality checkpoints.",
+      "title": "Local AI 'Workflow Gardener' for Developers",
+      "difficulty": "Hard",
+      "estimated_hours": 60,
+      "description": "Build a desktop-centric AI agent that passively observes a developer's local activities (e.g., opened IDE files, browser tabs related to documentation, Git commit messages, local project directories). Using this context, it proactively suggests relevant code snippets, documentation links, existing solutions from the codebase, or even flags potential areas for refactoring based on 'best practices' learned from the developer's historical coding patterns or common open-source conventions. It operates entirely locally, prioritizing data privacy and minimizing external API calls where possible, leveraging local LLM inference.",
       "tech_stack": [
         "Python",
-        "Flask/FastAPI (backend API)",
-        "Streamlit/Dash (frontend for dashboard)",
-        "Scikit-learn/PyTorch/TensorFlow (for model loading)",
-        "SHAP/LIME/Captum (for interpretability)",
-        "MLflow (for experiment tracking/model registry)"
+        "Electron/PyQt (for desktop app framework)",
+        "Ollama/Llama.cpp (for local LLM inference)",
+        "Local vector database (e.g., ChromaDB, LanceDB)",
+        "File system watchers",
+        "Browser history/tab APIs (via extension or OS-specific hooks)"
       ],
-      "source_inspiration": "dsh-plugin-ml-phase-gate (GitHub), Hide and Seek: HIDE Concepts to SEEK explanations for black box models (arXiv), nn-htop (GitHub)",
+      "source_inspiration": "SoloMCN, Satori_LocalAssistant, Vela: User Behavior as Supervision Sparks LLM Intelligence, If You Never Do Anything Else to Fix Your Prompts, Do This One Thing",
       "steps": [
-        "Task 1: Set up a Python backend service to receive and manage ML model artifacts and datasets.",
-        "Task 2: Integrate popular Explainable AI (XAI) libraries (e.g., SHAP, LIME) to generate concept-based explanations for model predictions.",
-        "Task 3: Design a dashboard interface (using Streamlit or Dash) to visualize model performance metrics (accuracy, precision, recall, etc.) and the generated XAI insights.",
-        "Task 4: Implement a 'Phase Gate' configuration system where users can define custom rules based on model metrics and interpretability scores.",
-        "Task 5: Develop a module to evaluate uploaded models against the defined phase gates and display their pass/fail status on the dashboard.",
-        "Task 6: (Optional) Integrate with an experiment tracking tool like MLflow to register models and link them to their interpretability reports and phase gate outcomes."
+        "Task 1: Develop a background service (e.g., Python script) to monitor local developer activity: open files, active applications, Git repository changes.",
+        "Task 2: Implement a local vector database to store embeddings of relevant code, documentation, and project knowledge from the user's environment.",
+        "Task 3: Integrate a local LLM (e.g., via Ollama/Llama.cpp) for semantic search, summarization, and contextual generation based on the vector store.",
+        "Task 4: Create a desktop UI (Electron/PyQt) to display contextual suggestions (e.g., 'similar function used here', 'relevant Stack Overflow thread for current error', 'next logical step in project based on commit history').",
+        "Task 5: Design a feedback mechanism where the user can rate suggestions, helping the agent learn and refine its recommendations over time using user behavior as supervision."
+      ]
+    },
+    {
+      "title": "Micro MLOps Project Health & 'Phase Gate' Dashboard",
+      "difficulty": "Medium",
+      "estimated_hours": 25,
+      "description": "Create a lightweight, personal MLOps dashboard tailored for individual developers or small teams managing ML experiments. This tool would track key project metrics (e.g., model accuracy, training time, resource usage) across different experiment runs. Its core feature would be 'Micro Phase Gates' – configurable checkpoints that enforce best practices (e.g., 'data versioned', 'unit tests passed', 'model performance above X%') before moving a model from 'experimentation' to 'validation' or 'deployment'. It provides visual feedback on project health and readiness, promoting structured and reproducible ML development without enterprise overhead.",
+      "tech_stack": [
+        "Python",
+        "Streamlit (for interactive dashboard UI)",
+        "DVC (Data Version Control)",
+        "MLflow (local tracking server or direct SQLite logging)",
+        "Git hooks (for automation of checks)"
+      ],
+      "source_inspiration": "dsh-plugin-ml-phase-gate, AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs (highlights need for structure), It's Not the Model, It's You",
+      "steps": [
+        "Task 1: Integrate DVC into a sample ML project to manage data and model versioning.",
+        "Task 2: Set up MLflow (local tracking server) to log experiment parameters, metrics, and artifacts for model training runs.",
+        "Task 3: Develop a Streamlit dashboard that visualizes MLflow run data, comparing metrics across different models and experiments.",
+        "Task 4: Implement 'Phase Gate' logic within the Streamlit app: define configurable rules (e.g., 'accuracy > 0.9', 'test coverage > 80%', 'data checksum matches') that determine a model's readiness.",
+        "Task 5: Create pre-commit or pre-push Git hooks that run basic data validation, dependency checks, or trigger a dashboard update, ensuring gate criteria are considered before changes are pushed."
       ]
     }
   ],
   "quick_actions": [
-    "Action 1: Integrate short, deliberate 'boredom breaks' into your workday. Step away from your screen for 5-10 minutes without engaging with other digital devices (e.g., walk, stare out a window, make tea) to foster mental rest and creative problem-solving.",
-    "Action 2: Dedicate 15 minutes daily to prompt engineering experimentation. Actively test and refine different phrasings, constraints, and few-shot examples for your most common LLM queries to enhance your human-AI interaction skills and gain deeper insight into AI behavior.",
-    "Action 3: Explore local-first AI tools for personal development tasks. Research and experiment with a local AI model (e.g., Whisper for transcription, a Llama.cpp variant for text generation) on your machine to understand its capabilities, optimize for privacy, and find fast, offline solutions for common coding or documentation tasks.",
-    "Action 4: Audit your development environment for efficiency gains and sustainable practices. Review your current hardware, software setup, and digital habits. Can you optimize resource usage, declutter your digital workspace, or even repurpose older hardware for specific tasks to reduce digital friction and embrace a 'less is more' approach?"
+    "Action 1: Dedicate 15 minutes today to critically review one common prompt you use for an LLM (e.g., ChatGPT, Claude) and identify 2-3 specific constraints or desired output formats you can add for more consistent, higher-quality results. Focus on clarity, not length.",
+    "Action 2: Experiment with a local LLM (e.g., install Ollama and download a small model) to handle a personal text processing task (e.g., summarizing an article, generating a short email draft) to understand its capabilities and limitations compared to cloud-based APIs.",
+    "Action 3: Pick one repetitive digital task you perform daily or weekly (e.g., organizing downloads, resizing images, generating boilerplate code) and brainstorm how a simple script or an AI agent could automate or significantly assist with it.",
+    "Action 4: Reflect on your current coding environment. Can you repurpose an older device (laptop, Raspberry Pi) for a specific, less intensive development task like running tests, hosting a local service, or serving as a dedicated writing machine, extending its useful life?"
   ]
 }
