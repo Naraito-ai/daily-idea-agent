@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-10-14 10:46:46",
+  "last_updated": "2026-10-15 10:29:43",
   "scraped_sources": {
     "github": [
       {
         "name": "Vela",
         "owner": "AllSpark-Research",
         "description": "Vela: User Behavior as Supervision Sparks LLM Intelligence — official paper, task templates, and prompts from AllSpark at Xiaohongshu.",
-        "stars": 14,
+        "stars": 16,
         "url": "https://github.com/AllSpark-Research/Vela",
         "category": "AI / ML"
       },
       {
-        "name": "s6e8-lookup-transformer",
-        "owner": "Spydonny",
-        "description": "My Lookup-Transformer solution for Kaggle S6E8: public LB ROC AUC 0.97041. Adopted in a 14th-place solution; 11 verified Kaggle references.",
-        "stars": 11,
-        "url": "https://github.com/Spydonny/s6e8-lookup-transformer",
+        "name": "expression-lab",
+        "owner": "CaioScura",
+        "description": "Aplicação de visão computacional que reconhece gestos com as mãos e expressões faciais em tempo real pela webcam, permitindo associar gestos personalizados a imagens e GIFs.",
+        "stars": 15,
+        "url": "https://github.com/CaioScura/expression-lab",
         "category": "AI / ML"
       },
       {
@@ -27,26 +27,26 @@
         "category": "AI / ML"
       },
       {
-        "name": "expression-lab",
-        "owner": "CaioScura",
-        "description": "Aplicação de visão computacional que reconhece gestos com as mãos e expressões faciais em tempo real pela webcam, permitindo associar gestos personalizados a imagens e GIFs.",
-        "stars": 6,
-        "url": "https://github.com/CaioScura/expression-lab",
-        "category": "AI / ML"
-      },
-      {
         "name": "podsieve",
         "owner": "rezasouri",
         "description": "Speaker diarization and vocal separation with a native Qt desktop UI and Python CLI. Turn podcasts and interviews into speaker-labeled audio datasets.",
-        "stars": 6,
+        "stars": 7,
         "url": "https://github.com/rezasouri/podsieve",
+        "category": "AI / ML"
+      },
+      {
+        "name": "quantlab-oss",
+        "owner": "dennynan",
+        "description": "AI 驱动的量化分析平台（开源版）：因子分析 / 选股 / 多因子轮动回测 / 模型实验室 / 自动因子挖掘 · Qlib + Alpha158 + FastAPI + Vue3",
+        "stars": 5,
+        "url": "https://github.com/dennynan/quantlab-oss",
         "category": "AI / ML"
       },
       {
         "name": "esp32-iphone-agent",
         "owner": "onehumanbeing",
         "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
-        "stars": 1885,
+        "stars": 2239,
         "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
         "category": "Automation / Productivity"
       },
@@ -61,8 +61,8 @@
       {
         "name": "Satori_LocalAssistant",
         "owner": "NotSatoriKomeiji",
-        "description": "(Cyber)Satori（赛博觉妖怪）是一款本地优先的 Windows 桌面助手，支持使用习惯学习、常用应用推荐、快速词输入、音量与外接显示器亮度调节。基础功能无需 API；可选 AI 接口用于辅助分析陌生情况，经用户确认的经验保存在本地并复用。(暂时维修中，目前发现了一个长期使用下会影响基本功能的逻辑bug）",
-        "stars": 97,
+        "description": "(Cyber)Satori（赛博觉妖怪）是一款本地优先的 Windows 桌面助手，支持使用习惯学习、常用应用推荐、快速词输入、音量与外接显示器亮度调节。基础功能无需 API；可选 AI 接口用于辅助分析陌生情况，经用户确认的经验保存在本地并复用。(暂时维修中，目前发现了一个长期使用下会影响基本功能的严重学习bug）",
+        "stars": 57,
         "url": "https://github.com/NotSatoriKomeiji/Satori_LocalAssistant",
         "category": "Automation / Productivity"
       },
@@ -70,80 +70,59 @@
         "name": "SoloMCN",
         "owner": "ymybxx",
         "description": "把 Claude Code 变成你的短视频团队：不搭工作流，直接让 Claude 干活，从国内热榜、推特热帖到抖音、小红书、B站、YouTube、推特发布。Turn Claude Code into your short-video team — no workflows, from trends and X posts to publishing.",
-        "stars": 53,
+        "stars": 54,
         "url": "https://github.com/ymybxx/SoloMCN",
         "category": "Automation / Productivity"
       },
       {
-        "name": "zcode-claim-9router",
-        "owner": "0xgetz",
-        "description": "Automate the ZCode free Start-Plan claim (z.ai token/cookies -> ZCode JWT -> Start Plan) and wire GLM into 9Router as a glm provider pool. Web UI console + CLI. Reverse-engineered from ZCode 3.14.4.",
-        "stars": 39,
-        "url": "https://github.com/0xgetz/zcode-claim-9router",
+        "name": "mcd-cn-assistant",
+        "owner": "junxchan54-maker",
+        "description": "🍟 麦当劳中国官方 MCP 智能助手技能：把 35 个原子工具编排成 4 条业务流 —— 活动推送 · 联名关注 · 最优惠点餐 · 多人群点聚合账单。算价用 calculate-price 真算，下单必二次确认。｜McDonald's China MCP agent skill: campaigns, collab watch, best-value ordering, group bill splitting.",
+        "stars": 42,
+        "url": "https://github.com/junxchan54-maker/mcd-cn-assistant",
         "category": "Automation / Productivity"
       }
     ],
-    "hacker_news": [
-      {
-        "title": "I let an AI run my startup for a week",
-        "url": "https://daily.tinyprojects.dev/221",
-        "score": 16
-      },
-      {
-        "title": "Show HN: Building an LLM from Scratch in TypeScript",
-        "url": "https://book.humanexperiences.io/",
-        "score": 4
-      },
-      {
-        "title": "AI Laser Locking for Quantum Computers: How QuEra Automates It",
-        "url": "https://www.quera.com/blog-posts/holding-the-light-teaching-an-ai-to-lock-and-tune-our-quantum-computers-lasers",
-        "score": 3
-      },
-      {
-        "title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
-        "url": "https://github.com/android/ndk/issues/2260",
-        "score": 280
-      }
-    ],
+    "hacker_news": [],
     "arxiv": [
       {
-        "title": "ChunkAct: Action Chunking for Agentic Robotics",
-        "summary": "Agentic robotics places a large language model (LLM) agent in the robot control loop, where it composes perception, motion, and vision-language-action (VLA) tools under the guidance of a memory and th...",
-        "url": "http://arxiv.org/abs/2610.18874v1"
+        "title": "Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion",
+        "summary": "Recent advances in robot learning have driven rapid progress in humanoid control, enabling increasingly agile behaviors in the real world. However, humanoid control networks are typically obtained thr...",
+        "url": "http://arxiv.org/abs/2610.20606v1"
       },
       {
-        "title": "Cepheid: Decoupling Scale from Structure for Cross-Family Motion Completion",
-        "summary": "Sparse-to-dense motion completion recovers dense mesh motion from sparse vertex displacements. Residual priors trained on one geometry family frequently fail to beat parameter-free harmonic extension ...",
-        "url": "http://arxiv.org/abs/2610.18871v1"
+        "title": "Hierarchical Residual Policy Learning for Real-World Mobile Manipulation with Sparse Human Guidance",
+        "summary": "Mobile Manipulation (MoMa) is a cornerstone of autonomous robotic systems, yet real-world fine-tuning remains a formidable challenge because of high-dimensional action spaces and intricate coupling be...",
+        "url": "http://arxiv.org/abs/2610.20607v1"
       },
       {
-        "title": "What Matters in Quality-Aware VLA Pretraining: A Benchmark and Empirical Study",
-        "summary": "How should demonstration quality be used during vision-language-action (VLA) pretraining to improve performance after target-task fine-tuning? We compare weighting, filtering, and conditioning across ...",
-        "url": "http://arxiv.org/abs/2610.18869v1"
+        "title": "Co-Evolving Acting and Forecasting for Language Agents",
+        "summary": "Training language agents is bottlenecked by the high cost of long-horizon rollouts, yet standard agentic reinforcement learning (RL) learns only from a terminal scalar reward, leaving the supervision ...",
+        "url": "http://arxiv.org/abs/2610.20597v1"
       },
       {
-        "title": "Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rewards",
-        "summary": "Long-horizon agents have drawn growing attention for their ability to work autonomously -- from hours to days -- on economically valuable tasks, a capability essential to automated discovery and recur...",
-        "url": "http://arxiv.org/abs/2610.18868v1"
+        "title": "Your Transformer Is Secretly Elastic",
+        "summary": "Scaling up transformers has produced models with broad capabilities, deployed across heterogeneous hardware and fluctuating workloads. Yet, model families offer only a few fixed sizes (e.g., S, B, L),...",
+        "url": "http://arxiv.org/abs/2610.20588v1"
       },
       {
-        "title": "Data Free Training of Diffusion Models for Lattice Field Theories",
-        "summary": "Sampling equilibrium field configurations remains a major computational bottleneck in lattice field theory, motivating the development of generative samplers that can produce independent configuration...",
-        "url": "http://arxiv.org/abs/2610.18863v1"
+        "title": "Price of Anarchy of First-Price Auctions in Agentic Markets",
+        "summary": "An agentic market is a decentralized serving-time market where AI agents bid to claim each user prompt. An agent's bid is based on its expected value for the prompt, which is the expectation of the re...",
+        "url": "http://arxiv.org/abs/2610.20587v1"
       }
     ],
     "devto": [
       {
-        "title": "I Write on a 2006 iMac and Code on a $200 Laptop",
-        "description": "I've always loved the idea of reusing old hardware, especially when it's still more than capable of...",
-        "url": "https://dev.to/mikachu/i-write-on-a-2006-imac-and-code-on-a-200-laptop-9n4",
-        "reactions": 66
-      },
-      {
         "title": "\"Light don go\": when Nigeria''s power cuts out, my laptop sends me outside",
         "description": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 1: Touch Grass          ...",
         "url": "https://dev.to/dannwaneri/light-don-go-when-nigerias-power-cuts-out-my-laptop-sends-me-outside-38k8",
-        "reactions": 30
+        "reactions": 33
+      },
+      {
+        "title": "AI Avatar v25 (Avatar Run, Voxel Avatar, Muscle Brain)💪",
+        "description": "Intro   AI Avatar is a free app where your VRoid (VRM) avatar cheers you with all its...",
+        "url": "https://dev.to/webdeveloperhyper/ai-avatar-v25-avatar-run-voxel-avatar-muscle-brain-5gi3",
+        "reactions": 29
       },
       {
         "title": "If You Never Do Anything Else to Fix Your Prompts, Do This One Thing",
@@ -165,78 +144,83 @@
       }
     ]
   },
-  "trends": "Today's tech landscape is overwhelmingly defined by the rapid evolution of **Agentic AI**, where Large Language Models (LLMs) are moving beyond mere conversational interfaces to become autonomous, proactive entities. This manifests in direct control over physical devices (e.g., iPhones via ESP32) and complex workflows (e.g., managing entire content creation pipelines or scientific experiments). Accompanying this is a strong emphasis on **Personalized and Local-First Automation**, with tools designed to adapt to individual user habits, perform tasks directly on desktop environments, and enhance daily productivity through tailored experiences. Concurrently, there's a growing recognition of the importance of **Robust MLOps and Human-in-the-Loop practices**, indicating a maturity in ML development that prioritizes disciplined deployment, empirical validation (phase gates), and effective prompt engineering over solely relying on model capabilities. Finally, a spirit of **Resourcefulness and Efficiency** permeates, with developers seeking to maximize utility from existing hardware and optimize their personal workflows amidst these advanced technological shifts.",
+  "trends": "Today's tech landscape is significantly shaped by the rapid advancement and practical application of 'agentic' AI, where AI systems act autonomously to achieve complex goals across various domains. This trend is evident in projects enabling AI to interact with the physical world (e.g., controlling a smartphone via an ESP32), automate intricate workflows (e.g., generating short-form video content from trends, managing specific business operations like fast-food ordering), and operate in multi-agent economic scenarios. Concurrently, there's a strong emphasis on multimodal AI, leveraging computer vision for real-time human-computer interaction (gesture/facial recognition) and advanced audio processing (speaker diarization, vocal separation) to create structured data from unstructured sources like podcasts. Personalization and localization are also key, with tools designed for highly customized system control and desktop assistance, often prioritizing on-device processing. Developers are increasingly focused on mastering prompt engineering to mitigate LLM hallucinations and optimize costs associated with complex agentic workflows, highlighting a growing maturity in how we interact with and deploy AI models.",
   "ideas": [
     {
-      "title": "Smart Gesture-to-Action Accessibility Agent",
+      "title": "Eco-Cognito: Context-Aware Agent for Sustainable Productivity",
       "difficulty": "Medium",
-      "estimated_hours": 30,
-      "description": "Develop a local-first application that uses real-time computer vision (webcam) to detect predefined hand gestures and facial expressions, mapping them to specific actions on the user's computer or connected smart devices. This could serve as an accessibility tool, a hands-free productivity enhancer, or a novel input method for presentations and media control. Users could train custom gestures and link them to system commands (e.g., 'play/pause' media, 'next slide', 'launch application', 'mute mic'). The agent would learn from user corrections to refine gesture recognition over time.",
+      "estimated_hours": 20,
+      "description": "Develop a desktop agent that intelligently monitors system resources (battery, CPU load) and user activity patterns (screen time, active applications). When certain thresholds are met, or based on learned user habits, it proactively suggests personalized productivity shifts. For example, if battery is low and screen time is high, it might suggest, 'Your battery is at 20%, consider saving work and taking a break outside to recharge yourself and your device.' It integrates with calendar APIs to smartly schedule breaks around meetings and can learn preferred activities during breaks. The goal is to encourage healthier digital habits and sustainable work patterns by providing context-aware nudges.",
       "tech_stack": [
         "Python",
-        "OpenCV",
-        "MediaPipe (for gesture/face tracking)",
-        "PyAutoGUI (for OS control)",
-        "Flask/Streamlit (for simple UI)",
-        "Local vector database (e.g., ChromaDB) for gesture embeddings"
+        "psutil (for system monitoring)",
+        "OS-level APIs (Windows, macOS, Linux for specific controls)",
+        "Electron/Python-based GUI (e.g., PyQt/Kivy)",
+        "Calendar API (e.g., Google Calendar API)",
+        "Optional: Local LLM (e.g., Llama.cpp) for personalized suggestion generation"
       ],
-      "source_inspiration": "esp32-iphone-agent, expression-lab, Vela: User Behavior as Supervision Sparks LLM Intelligence, ChunkAct: Action Chunking for Agentic Robotics",
+      "source_inspiration": "\"Light don go\": when Nigeria''s power cuts out, my laptop sends me outside (dev.to), Satori_LocalAssistant (GitHub), esp32-iphone-agent (GitHub - concept of physical world interaction/sensors for smart nudges)",
       "steps": [
-        "Task 1: Set up a Python environment with OpenCV and MediaPipe for real-time webcam feed and pose/hand/face landmark detection.",
-        "Task 2: Implement core gesture recognition logic. Start with simple gestures (e.g., 'thumb up', 'open hand') using MediaPipe's hand tracking or facial landmarks.",
-        "Task 3: Develop a mapping system where users can define gestures and associate them with OS-level actions (e.g., keyboard shortcuts, mouse clicks via PyAutoGUI).",
-        "Task 4: Create a simple web-based or desktop UI (Flask/Streamlit) for gesture management, action mapping, and real-time visualization of detected gestures.",
-        "Task 5: (Optional) Integrate a local vector database to store and compare custom gesture embeddings, allowing for more personalized and robust gesture training and recognition, learning from user feedback."
+        "Task 1: Implement a Python backend service to continuously monitor battery status, CPU usage, and active application time.",
+        "Task 2: Develop a rule-based system for initial productivity suggestions (e.g., low battery, prolonged screen time without a break).",
+        "Task 3: Integrate with a major calendar API (e.g., Google Calendar) to identify free slots for suggested breaks and avoid interruptions.",
+        "Task 4: Create a simple, non-intrusive GUI (using Electron or a Python GUI library) for displaying notifications, managing preferences, and reviewing activity insights.",
+        "Task 5: (Advanced) Incorporate a local-first learning module to personalize suggestions based on user acceptance/rejection of previous nudges and habitual work patterns."
       ]
     },
     {
-      "title": "Local AI 'Workflow Gardener' for Developers",
+      "title": "Agentic Podcast Insight Extractor with Multimodal Annotations",
+      "difficulty": "Hard",
+      "estimated_hours": 40,
+      "description": "Build an advanced tool that processes podcast audio (or video) to generate comprehensive, structured insights. It will leverage speaker diarization and vocal separation (inspired by `podsieve`) to identify individual speakers. An LLM agent, guided by sophisticated prompt engineering techniques, will then analyze the transcribed audio to extract key topics, actionable advice, questions asked, and any mentioned external links or resources. The output will be a highly structured, time-stamped, speaker-attributed transcript, a concise summary, a list of actionable takeaways, and a keyword cloud, all exportable in formats like JSON or Markdown for easy consumption and integration into knowledge bases. This system aims to transform passive audio consumption into active knowledge extraction.",
+      "tech_stack": [
+        "Python",
+        "FFmpeg (for audio extraction/conversion)",
+        "OpenAI Whisper / similar ASR (for transcription)",
+        "pyannote.audio / similar (for speaker diarization, potentially inspired by podsieve)",
+        "LangChain / LlamaIndex (for LLM agent orchestration)",
+        "Commercial LLM API (e.g., OpenAI GPT, Claude)",
+        "FastAPI (for a local API if needed for UI integration)"
+      ],
+      "source_inspiration": "podsieve (GitHub), Vela (GitHub - user behavior as supervision sparks LLM intelligence), Dev.to articles on prompt engineering (e.g., 'If You Never Do Anything Else to Fix Your Prompts, Do This One Thing')",
+      "steps": [
+        "Task 1: Develop an audio ingestion module capable of downloading podcasts from URLs and handling various audio formats.",
+        "Task 2: Implement or integrate a robust Automatic Speech Recognition (ASR) system (e.g., OpenAI Whisper) to generate accurate, time-stamped transcripts.",
+        "Task 3: Integrate a speaker diarization library (e.g., `pyannote.audio` or similar to `podsieve`'s functionality) to attribute sections of the transcript to specific speakers.",
+        "Task 4: Construct an LLM agent (using LangChain or similar) that receives the speaker-attributed transcript and is prompted to extract summaries, key topics, actionable items, and identified entities/links.",
+        "Task 5: Implement a prompt engineering strategy to guide the LLM agent, ensuring consistent extraction of desired information and minimizing hallucinations.",
+        "Task 6: Design and implement output formats, including structured JSON, markdown summaries, and potentially an interactive web view for the insights."
+      ]
+    },
+    {
+      "title": "Unified Gestural & Agentic Control Hub for Desktop Productivity",
       "difficulty": "Hard",
       "estimated_hours": 60,
-      "description": "Build a desktop-centric AI agent that passively observes a developer's local activities (e.g., opened IDE files, browser tabs related to documentation, Git commit messages, local project directories). Using this context, it proactively suggests relevant code snippets, documentation links, existing solutions from the codebase, or even flags potential areas for refactoring based on 'best practices' learned from the developer's historical coding patterns or common open-source conventions. It operates entirely locally, prioritizing data privacy and minimizing external API calls where possible, leveraging local LLM inference.",
+      "description": "Create a local desktop application that serves as a central hub for productivity, integrating real-time computer vision for gesture and facial recognition with an agentic AI for system control. Users can define custom gestures (via webcam, inspired by `expression-lab`) to trigger complex sequences of actions on their local machine. For example, a specific hand gesture could open an IDE, launch a project, adjust audio settings (`SoundSwitch`-like functionality), and set a focus mode. The agent learns user preferences and frequent action chains, offering personalized suggestions for new gesture-based automations. This hub aims to minimize mouse and keyboard reliance for common, multi-step tasks, fostering a more intuitive and efficient interaction with the digital workspace.",
       "tech_stack": [
         "Python",
-        "Electron/PyQt (for desktop app framework)",
-        "Ollama/Llama.cpp (for local LLM inference)",
-        "Local vector database (e.g., ChromaDB, LanceDB)",
-        "File system watchers",
-        "Browser history/tab APIs (via extension or OS-specific hooks)"
+        "OpenCV (for real-time video processing)",
+        "mediapipe / dlib (for gesture and facial landmark detection)",
+        "pyautogui (for desktop automation, keyboard/mouse simulation)",
+        "OS-specific automation libraries (e.g., pywinauto, AppleScript)",
+        "Electron / React (for responsive user interface)",
+        "Optional: Local LLM for advanced intent recognition and sequence generation"
       ],
-      "source_inspiration": "SoloMCN, Satori_LocalAssistant, Vela: User Behavior as Supervision Sparks LLM Intelligence, If You Never Do Anything Else to Fix Your Prompts, Do This One Thing",
+      "source_inspiration": "expression-lab (GitHub), esp32-iphone-agent (GitHub - inspiration for AI controlling physical interaction), Satori_LocalAssistant (GitHub - local-first, habit learning assistant), SoundSwitch (GitHub - per-app audio profiles)",
       "steps": [
-        "Task 1: Develop a background service (e.g., Python script) to monitor local developer activity: open files, active applications, Git repository changes.",
-        "Task 2: Implement a local vector database to store embeddings of relevant code, documentation, and project knowledge from the user's environment.",
-        "Task 3: Integrate a local LLM (e.g., via Ollama/Llama.cpp) for semantic search, summarization, and contextual generation based on the vector store.",
-        "Task 4: Create a desktop UI (Electron/PyQt) to display contextual suggestions (e.g., 'similar function used here', 'relevant Stack Overflow thread for current error', 'next logical step in project based on commit history').",
-        "Task 5: Design a feedback mechanism where the user can rate suggestions, helping the agent learn and refine its recommendations over time using user behavior as supervision."
-      ]
-    },
-    {
-      "title": "Micro MLOps Project Health & 'Phase Gate' Dashboard",
-      "difficulty": "Medium",
-      "estimated_hours": 25,
-      "description": "Create a lightweight, personal MLOps dashboard tailored for individual developers or small teams managing ML experiments. This tool would track key project metrics (e.g., model accuracy, training time, resource usage) across different experiment runs. Its core feature would be 'Micro Phase Gates' – configurable checkpoints that enforce best practices (e.g., 'data versioned', 'unit tests passed', 'model performance above X%') before moving a model from 'experimentation' to 'validation' or 'deployment'. It provides visual feedback on project health and readiness, promoting structured and reproducible ML development without enterprise overhead.",
-      "tech_stack": [
-        "Python",
-        "Streamlit (for interactive dashboard UI)",
-        "DVC (Data Version Control)",
-        "MLflow (local tracking server or direct SQLite logging)",
-        "Git hooks (for automation of checks)"
-      ],
-      "source_inspiration": "dsh-plugin-ml-phase-gate, AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs (highlights need for structure), It's Not the Model, It's You",
-      "steps": [
-        "Task 1: Integrate DVC into a sample ML project to manage data and model versioning.",
-        "Task 2: Set up MLflow (local tracking server) to log experiment parameters, metrics, and artifacts for model training runs.",
-        "Task 3: Develop a Streamlit dashboard that visualizes MLflow run data, comparing metrics across different models and experiments.",
-        "Task 4: Implement 'Phase Gate' logic within the Streamlit app: define configurable rules (e.g., 'accuracy > 0.9', 'test coverage > 80%', 'data checksum matches') that determine a model's readiness.",
-        "Task 5: Create pre-commit or pre-push Git hooks that run basic data validation, dependency checks, or trigger a dashboard update, ensuring gate criteria are considered before changes are pushed."
+        "Task 1: Develop a real-time computer vision module using OpenCV and Mediapipe to detect and classify predefined hand gestures and simple facial expressions from a webcam feed.",
+        "Task 2: Build a core action mapping system that associates detected gestures with specific, configurable desktop actions (e.g., launching apps, adjusting volume, switching audio devices).",
+        "Task 3: Implement an agentic orchestration layer capable of chaining multiple desktop actions into complex workflows (e.g., 'gesture X' -> 'open browser', 'navigate to Jira', 'open Slack').",
+        "Task 4: Create an intuitive user interface (e.g., Electron-based) for users to define, train, and manage their custom gestures and corresponding action sequences.",
+        "Task 5: Integrate a 'learning' component (initially rule-based, potentially later with a small local LLM) that observes user habits and suggests new gesture-action mappings for frequently performed tasks or task sequences.",
+        "Task 6: (Advanced) Explore integration with system-level settings for dynamic adjustments like screen brightness, notification toggles, or per-application audio profiles."
       ]
     }
   ],
   "quick_actions": [
-    "Action 1: Dedicate 15 minutes today to critically review one common prompt you use for an LLM (e.g., ChatGPT, Claude) and identify 2-3 specific constraints or desired output formats you can add for more consistent, higher-quality results. Focus on clarity, not length.",
-    "Action 2: Experiment with a local LLM (e.g., install Ollama and download a small model) to handle a personal text processing task (e.g., summarizing an article, generating a short email draft) to understand its capabilities and limitations compared to cloud-based APIs.",
-    "Action 3: Pick one repetitive digital task you perform daily or weekly (e.g., organizing downloads, resizing images, generating boilerplate code) and brainstorm how a simple script or an AI agent could automate or significantly assist with it.",
-    "Action 4: Reflect on your current coding environment. Can you repurpose an older device (laptop, Raspberry Pi) for a specific, less intensive development task like running tests, hosting a local service, or serving as a dedicated writing machine, extending its useful life?"
+    "Action 1: Dedicate 5 minutes before your next LLM interaction to explicitly define the agent's 'persona' (role), specific constraints, and the exact desired output format. This practice, inspired by prompt engineering best practices, aims to reduce hallucinations and improve output relevance.",
+    "Action 2: Identify one recurring digital task (e.g., renaming files, organizing downloads) and spend 30 minutes researching or implementing a simple automation script or local-first tool to handle it. This leverages the trend of localized and personalized productivity.",
+    "Action 3: Schedule a mandatory 'digital detox' micro-break (e.g., 10-15 minutes) for yourself in the middle of your longest work block today. Step away from all screens, stretch, or go outside, inspired by the 'Light don go' philosophy for mental recharge.",
+    "Action 4: Review your last month's LLM API usage (if applicable) and brainstorm one specific scenario where breaking down a complex prompt into a series of smaller, chained 'sub-agent' prompts might reduce cost or improve reliability, drawing from insights on agentic workflow efficiency."
   ]
 }
