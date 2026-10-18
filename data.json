@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-17 09:51:09",
+  "last_updated": "2026-10-18 10:02:28",
   "scraped_sources": {
     "github": [
       {
         "name": "machine-learning-for-cybersecurity",
         "owner": "aalbata",
         "description": "A free course on machine learning for cybersecurity and the security of machine learning, with lessons, runnable labs, exercises and quizzes. By Dr. Ali Al Bataineh, Higher Colleges of Technology.",
-        "stars": 19,
+        "stars": 20,
         "url": "https://github.com/aalbata/machine-learning-for-cybersecurity",
         "category": "AI / ML"
       },
@@ -14,7 +14,7 @@
         "name": "quantlab-oss",
         "owner": "dennynan",
         "description": "AI 驱动的量化分析平台（开源版）：因子分析 / 选股 / 多因子轮动回测 / 模型实验室 / 自动因子挖掘 · Qlib + Alpha158 + FastAPI + Vue3",
-        "stars": 7,
+        "stars": 12,
         "url": "https://github.com/dennynan/quantlab-oss",
         "category": "AI / ML"
       },
@@ -27,14 +27,6 @@
         "category": "AI / ML"
       },
       {
-        "name": "runfleet",
-        "owner": "Yuanpeng-Li",
-        "description": "All your Slurm jobs and GPU machines in one terminal: queues, per-GPU usage, logs and failure causes across clusters and workstations, over plain SSH. Nothing to install remotely.",
-        "stars": 5,
-        "url": "https://github.com/Yuanpeng-Li/runfleet",
-        "category": "AI / ML"
-      },
-      {
         "name": "exosearch-ai",
         "owner": "fatyagum-lgtm",
         "description": "Machine learning for exoplanet candidate classification and ranking using NASA TESS data",
@@ -43,18 +35,26 @@
         "category": "AI / ML"
       },
       {
-        "name": "esp32-iphone-agent",
-        "owner": "onehumanbeing",
-        "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
-        "stars": 2932,
-        "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+        "name": "runfleet",
+        "owner": "Yuanpeng-Li",
+        "description": "All your Slurm jobs and GPU machines in one terminal: queues, per-GPU usage, logs and failure causes across clusters and workstations, over plain SSH. Nothing to install remotely.",
+        "stars": 5,
+        "url": "https://github.com/Yuanpeng-Li/runfleet",
+        "category": "AI / ML"
+      },
+      {
+        "name": "dsh-bilibili-reply",
+        "owner": "bronyacccxz",
+        "description": "让 AI 读懂你在 B 站 @ 它的视频，自动回一条带可跳转时间戳的评论。DSH / AI Agent 技能。",
+        "stars": 107,
+        "url": "https://github.com/bronyacccxz/dsh-bilibili-reply",
         "category": "Automation / Productivity"
       },
       {
         "name": "Skills_MX",
         "owner": "elimorals",
         "description": "Repositorio oficial de skills para el entorno Mexicano caótico.",
-        "stars": 23,
+        "stars": 24,
         "url": "https://github.com/elimorals/Skills_MX",
         "category": "Automation / Productivity"
       },
@@ -62,7 +62,7 @@
         "name": "agentscope-bulk-apikey",
         "owner": "0xgetz",
         "description": "Bulk-create AgentScope Platform accounts, auto-mint a Model API key for each, and register them all into 9Router. Zero dependencies, HTTP/SOCKS5 proxy + CDP browser transports.",
-        "stars": 21,
+        "stars": 22,
         "url": "https://github.com/0xgetz/agentscope-bulk-apikey",
         "category": "Automation / Productivity"
       },
@@ -70,29 +70,29 @@
         "name": "dots-agent",
         "owner": "duyongan",
         "description": "一个会主动发现任务的智能体",
-        "stars": 20,
+        "stars": 21,
         "url": "https://github.com/duyongan/dots-agent",
         "category": "Automation / Productivity"
       },
       {
-        "name": "dsh-bilibili-reply",
-        "owner": "bronyacccxz",
-        "description": "让 AI 读懂你在 B 站 @ 它的视频，自动回一条带可跳转时间戳的评论。DSH / AI Agent 技能。",
-        "stars": 19,
-        "url": "https://github.com/bronyacccxz/dsh-bilibili-reply",
+        "name": "dsh-qq-plugin",
+        "owner": "xcisxc29",
+        "description": null,
+        "stars": 20,
+        "url": "https://github.com/xcisxc29/dsh-qq-plugin",
         "category": "Automation / Productivity"
       }
     ],
     "hacker_news": [
       {
-        "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-        "url": "https://llmspeed.dev/",
-        "score": 71
+        "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+        "url": "https://sphinx-six-theta.vercel.app/",
+        "score": 128
       },
       {
-        "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-        "url": "https://github.com/cobanov/PS5LM",
-        "score": 289
+        "title": "Pele – Mermaid diagrams as themeable SVG",
+        "url": "https://pele.run/",
+        "score": 436
       }
     ],
     "arxiv": [
@@ -127,7 +127,7 @@
         "title": "AI Avatar v25 (Avatar Run, Voxel Avatar, Muscle Brain)💪",
         "description": "Intro   AI Avatar is a free app where your VRoid (VRM) avatar cheers you with all its...",
         "url": "https://dev.to/webdeveloperhyper/ai-avatar-v25-avatar-run-voxel-avatar-muscle-brain-5gi3",
-        "reactions": 57
+        "reactions": 59
       },
       {
         "title": "\"Light don go\": when Nigeria''s power cuts out, my laptop sends me outside",
@@ -155,85 +155,82 @@
       }
     ]
   },
-  "trends": "The current tech landscape is deeply focused on the practical deployment and sophisticated management of **AI agents** that seamlessly interact with both physical devices and digital platforms, pushing towards **real-world automation** and **highly personalized experiences**. There's a significant drive towards **local LLMs**, with extensive efforts to optimize their performance across diverse, even unconventional, hardware. Applied AI is flourishing, extending into specialized domains such as cybersecurity, quantitative finance, scientific discovery (e.g., exoplanet classification, quantum circuits), and advanced **robotics**, particularly with an emphasis on **embodied AI**, personalized manipulation, and robust environmental modeling. Developers are increasingly recognizing and leveraging **prompt engineering** and effective interaction strategies as crucial skills to unlock the true potential of LLMs. Furthermore, there's a growing trend towards **streamlining MLOps and developer workflows** for AI systems, alongside innovative approaches to leveraging **distributed and community-driven computing resources** for complex tasks, all while considering user well-being and context-aware productivity.",
+  "trends": "The current tech landscape is dominated by the practical deployment and operationalization of AI. Key themes include the rapid ascent of intelligent AI agents capable of autonomous task execution and contextual understanding (e.g., video content analysis, proactive task discovery), and the increasing importance of human-AI interaction design coupled with sophisticated prompt engineering to harness AI effectively. Machine Learning is expanding into highly specialized domains like cybersecurity, quantitative finance, and particularly, advanced robotics and embodied AI, with a strong focus on personalization and adaptive world models. Concurrently, there's a significant emphasis on developer productivity through tools for streamlining complex AI/ML infrastructure management (e.g., GPU clusters, API key provisioning) and enhancing data analysis workflows for niche applications.",
   "ideas": [
     {
-      "title": "Adaptive Home AI Agent: Context-Aware Device Orchestrator",
+      "title": "Adaptive AI Learning Agent for Niche Tech Skills",
       "difficulty": "Medium",
       "estimated_hours": 40,
-      "description": "Build an intelligent AI agent that acts as a 'digital twin' for a smart home environment. This agent monitors real-time data from local environmental sensors (e.g., temperature, light levels, occupancy via PIR) and integrates with a user's digital calendar or activity logs. Using a local LLM for context interpretation and proactive task planning, the agent will autonomously adjust smart home devices (lights, thermostat, music, blinds) to optimize comfort, energy efficiency, and user preferences. It will learn from user feedback and routines over time, and offer natural language control while prioritizing local processing for privacy and responsiveness.",
+      "description": "Build an AI agent that takes specific learning goals (e.g., 'learn ML for cybersecurity,' 'master quantum circuit design') and a curated set of source materials (URLs to courses, papers, documentation). It will process these materials, identify key concepts, generate personalized learning paths, suggest relevant exercises or mini-projects, and dynamically create quizzes or interactive prompts to assess understanding and reinforce learning. The agent proactively identifies knowledge gaps based on performance and recommends further resources or deeper dives. This goes beyond simple chatbots by having an active learning and adaptation loop, providing a truly personalized educational experience for complex technical topics.",
       "tech_stack": [
-        "Python",
-        "ESP32 (for sensor integration)",
-        "MQTT Broker",
-        "Home Assistant API",
-        "Local LLM (e.g., Llama.cpp/ollama for inference)",
-        "FastAPI (for control API)",
-        "SQLite (for preference storage)",
-        "Streamlit (for simple UI)"
+        "Python (LangChain/LlamaIndex)",
+        "LLM APIs (OpenAI/Anthropic/OSS)",
+        "FastAPI",
+        "Vector Database (Pinecone/ChromaDB)",
+        "Web Scraping Libraries (BeautifulSoup/Scrapy)",
+        "React/Vue (for basic frontend)"
       ],
-      "source_inspiration": "esp32-iphone-agent, dots-agent, LIBERO-PeRM, Llmspeed",
+      "source_inspiration": "GitHub: 'machine-learning-for-cybersecurity', 'dots-agent', 'dsh-bilibili-reply'. arXiv: 'LIBERO-PeRM', 'Discovering state-of-the-art quantum circuits with large language models'.",
       "steps": [
-        "Task 1: Set up ESP32 microcontrollers with various sensors (temperature, light, PIR motion) to publish data to a local MQTT broker.",
-        "Task 2: Develop a Python service that subscribes to MQTT topics, integrates with the Home Assistant API for device control, and fetches user calendar data.",
-        "Task 3: Implement a local LLM inference server (using llama.cpp/ollama) and design a robust prompt engineering strategy for contextual understanding, task planning, and device orchestration based on sensor data and user context.",
-        "Task 4: Create a learning module to store and adapt to user preferences and routines, updating a local SQLite database.",
-        "Task 5: Build a simple web UI (e.g., with Streamlit or Flask) to monitor the agent's status, display sensor data, allow manual overrides, and provide user feedback mechanisms.",
-        "Task 6: Develop robust error handling and fallback mechanisms for device control and LLM interactions."
+        "Task 1: Set up a Python backend with FastAPI and integrate an LLM API.",
+        "Task 2: Develop a content ingestion module to scrape/parse text from various URLs (articles, PDFs) and chunk the content.",
+        "Task 3: Implement vector database integration to embed content chunks and store them for Retrieval Augmented Generation (RAG).",
+        "Task 4: Design an LLM-powered agent to, given a user goal and ingested content, generate a structured learning path with milestones.",
+        "Task 5: Create an interactive quiz/exercise agent that generates personalized assessments and mini-project ideas based on the current learning context.",
+        "Task 6: Implement a system to track user progress and quiz scores, allowing the agent to adapt future recommendations and adjust the learning path dynamically.",
+        "Task 7: Build a basic web UI to input learning goals, provide source materials, and display the generated learning path and interactive elements."
       ]
     },
     {
-      "title": "Local LLM Podcast Scout with Time-Stamped Summaries",
+      "title": "Proactive Prompt & AI Code Quality Guardian",
       "difficulty": "Medium",
       "estimated_hours": 30,
-      "description": "Develop a local desktop application or web service that takes a podcast or interview audio file, processes it to separate speakers and transcribe the dialogue, and then uses a locally running LLM to extract key insights. The application will generate concise summaries, identify main discussion points, extract important keywords, and, crucially, link all these outputs with precise timestamps. This project aims to significantly reduce the time required to consume long-form audio content by providing granular, AI-powered navigation and summarization without sending sensitive audio data to cloud services.",
+      "description": "Develop an IDE extension or a CLI tool that acts as a guardian for code generated by Large Language Models (LLMs) and for the prompts used to generate that code. When AI-generated code is pasted or committed, the tool automatically suggests unit tests, identifies potential 'hallucinated' APIs/functions (i.e., non-existent ones), and flags logical inconsistencies. For prompts, it analyzes them for ambiguity, lack of sufficient constraints, and potential for generating undesirable outputs, suggesting concrete improvements based on established prompt engineering best practices. This tool aims to make the entire AI development cycle more robust and less prone to common LLM-related pitfalls.",
       "tech_stack": [
-        "Python",
-        "Whisper.cpp (or faster-whisper for transcription)",
-        "Pyannote.audio (for speaker diarization/separation)",
-        "Llama.cpp (for local LLM inference)",
-        "Streamlit or Flask (for UI)",
-        "FFmpeg (for audio processing utilities)"
+        "Python (for core logic)",
+        "LLM APIs (for analysis)",
+        "AST parsing libraries (e.g., `ast` module)",
+        "VS Code Extension API (or CLI with `Click`)"
       ],
-      "source_inspiration": "podsieve, Llmspeed, Llama.cpp on a jailbroken PS5, dsh-bilibili-reply",
+      "source_inspiration": "Hacker News: 'Show HN: Sphinx'. Dev.to: 'If You Never Do Anything Else to Fix Your Prompts, Do This One Thing', 'It's Not the Model, It's You'.",
       "steps": [
-        "Task 1: Set up a local Python environment with `whisper.cpp` (or `faster-whisper`) for efficient speech-to-text transcription and `pyannote-audio` for speaker diarization.",
-        "Task 2: Develop an audio processing pipeline to accept an audio file, perform speaker diarization, and then transcribe the segmented audio, associating each segment with a speaker and timestamp.",
-        "Task 3: Integrate `llama.cpp` to run a small-to-medium sized LLM locally for inference.",
-        "Task 4: Design a comprehensive prompt engineering strategy for the local LLM to consume the diarized transcript and produce high-quality summaries, key takeaways, and relevant keywords, all linked back to original timestamps.",
-        "Task 5: Build a user-friendly web interface (using Streamlit or Flask) where users can upload audio files, track processing progress, and view/interact with the generated time-stamped insights and summaries.",
-        "Task 6: Implement export functionalities (e.g., text, JSON) for the generated insights."
+        "Task 1: Build a Python core analysis engine that accepts code and prompt strings.",
+        "Task 2: Implement a code analysis module using AST parsing to identify undefined functions, suspicious API calls (potential hallucinations), and basic structural issues in AI-generated code.",
+        "Task 3: Integrate an LLM to suggest relevant unit tests for AI-generated code based on its inferred functionality.",
+        "Task 4: Develop an LLM-based prompt optimization module that evaluates a given prompt against best practices (clarity, specificity, constraints, persona) and suggests refinements.",
+        "Task 5: Create either a simple CLI interface or a basic VS Code extension scaffold to allow users to input code/prompts and receive real-time feedback.",
+        "Task 6: Design a mechanism for the tool to collect implicit or explicit user feedback on suggestions, enabling iterative improvement of its recommendations."
       ]
     },
     {
-      "title": "AI-Powered Multi-Cloud GPU & Cost Scheduler",
-      "difficulty": "Hard",
-      "estimated_hours": 80,
-      "description": "Create an intelligent job scheduler designed for AI/ML workloads across heterogeneous GPU resources, including multiple cloud providers (AWS, GCP, Azure) and on-premise Slurm clusters. The system will allow users to define job requirements (e.g., GPU type, budget, priority, deadline) and utilize an AI agent to continuously monitor real-time cloud spot instance prices, on-premise queue lengths, and historical resource utilization. The agent will dynamically allocate and schedule jobs to the most cost-effective and available resources, providing real-time cost forecasts, optimization recommendations, and performance metrics to minimize expenditure while maximizing throughput for AI developers.",
+      "title": "Smart GPU Cluster/Workstation Scheduler",
+      "difficulty": "Medium",
+      "estimated_hours": 50,
+      "description": "Create a lightweight, user-friendly system for intelligently scheduling and monitoring AI/ML training and inference jobs across multiple local GPUs, SSH-connected remote workstations, or even smaller cloud instances. Unlike existing heavy-duty solutions like Slurm, this tool focuses on ease of deployment, personalized resource allocation (e.g., 'I need 2 GPUs for 4 hours, preferably on workstation A'), and proactive notifications. It predicts resource availability, prioritizes jobs based on user-defined criteria, and provides a unified dashboard (terminal or web) for real-time monitoring of GPU usage, job queues, and failure logs, requiring minimal remote setup (e.g., a single remote script).",
       "tech_stack": [
-        "Python",
-        "FastAPI",
-        "Cloud SDKs (AWS Boto3, GCP SDK, Azure SDK)",
-        "Slurm API (or SSH client for interaction)",
-        "Prometheus/Grafana (for monitoring)",
-        "Local LLM (for rule interpretation/querying)",
-        "Docker/Kubernetes (for deployment)"
+        "Python (Flask/FastAPI for backend)",
+        "Paramiko/Fabric (for SSH interactions)",
+        "SQLite (for job state management)",
+        "WebSockets (for real-time updates)",
+        "Rich (for rich terminal UI) or React/Vue (for web UI)",
+        "nvidia-smi (for GPU monitoring)"
       ],
-      "source_inspiration": "runfleet, quantlab-oss, agentscope-bulk-apikey, We Rendered a HQ Demo Video on a Free Farm Run by Strangers",
+      "source_inspiration": "GitHub: 'runfleet', 'agentscope-bulk-apikey'. Dev.to: 'We Rendered a HQ Demo Video on a Free Farm Run by Strangers'. arXiv: Several robotics papers implying heavy computational needs.",
       "steps": [
-        "Task 1: Develop data collection modules to query real-time spot instance prices from AWS, GCP, and Azure, and gather queue/usage data from on-premise Slurm clusters.",
-        "Task 2: Implement a central API (using FastAPI) for users to submit AI/ML job requests, specifying resource requirements, budget constraints, and deadlines.",
-        "Task 3: Design and build the core AI agent logic that analyzes collected data, user preferences, and job parameters to make intelligent scheduling decisions, potentially incorporating a local LLM for complex rule interpretation and scenario analysis.",
-        "Task 4: Develop connectors and automation scripts to provision resources on chosen cloud providers or submit jobs to the Slurm workload manager.",
-        "Task 5: Create a monitoring and visualization dashboard (using Prometheus and Grafana or a custom UI) to display resource utilization, current job status, estimated costs, and potential savings.",
-        "Task 6: Implement a feedback loop where the scheduler learns from actual job completion times and costs to continuously refine its prediction and optimization algorithms."
+        "Task 1: Implement a Python-based core job manager service that can receive and queue AI/ML job requests.",
+        "Task 2: Develop resource discovery and monitoring modules using `nvidia-smi` (for local GPUs) and Paramiko/Fabric (for SSH) to gather real-time GPU utilization and availability from connected machines.",
+        "Task 3: Implement an intelligent scheduling algorithm that considers job requirements (GPU count, memory), user priorities, and current/predicted resource availability to allocate jobs efficiently.",
+        "Task 4: Design a system to securely execute jobs on target machines and capture stdout/stderr, making logs centrally accessible.",
+        "Task 5: Integrate a notification system (e.g., email, Slack, Discord) for proactive alerts on job start, completion, or failure.",
+        "Task 6: Build a unified interface – either a rich terminal UI using `rich` or a simple web interface (Flask/React) – to submit jobs, view queues, and monitor resource status.",
+        "Task 7: Ensure the remote agent/monitoring script is a single, self-contained file that can be easily deployed via SSH without complex installations on remote machines."
       ]
     }
   ],
   "quick_actions": [
-    "Action 1: Dedicate 15 minutes today to experiment with a new prompt engineering technique (e.g., chain-of-thought, persona prompting) using an existing LLM (ChatGPT, CoPilot, or a local model) to improve its output for a specific personal or development task.",
-    "Action 2: Download and set up a local LLM (e.g., via `llama.cpp` or `ollama`) on your development machine or an old device. Run a simple text generation or summarization task to personally experience its performance and resource requirements.",
-    "Action 3: Identify one repetitive digital workflow in your day (e.g., organizing downloaded files, generating git commit messages, drafting emails) and spend an hour attempting to automate a part of it using a simple script or a low-code AI tool.",
-    "Action 4: Practice 'conscious disconnecting' – schedule a technology-free break of at least 20 minutes today, stepping away from all screens to engage with your physical environment or a non-digital activity, inspired by the digital well-being trend."
+    "Action 1: Dedicate 15 minutes daily to refining a prompt for an LLM task you use regularly, focusing on specificity, constraints, and desired output format.",
+    "Action 2: Identify one repetitive manual task in your daily coding workflow (e.g., setting up new project boilerplate, specific commit message formatting) and outline how an AI agent could automate or assist with it.",
+    "Action 3: Spend 30 minutes weekly exploring an AI/ML application in a domain outside your primary expertise (e.g., finance, bioinformatics, space exploration) to broaden your technical perspective and identify new problem spaces.",
+    "Action 4: Investigate and try out one new open-source tool this week that promises to automate or simplify a piece of your development environment or infrastructure management (e.g., a new local resource manager, a dev container setup tool)."
   ]
 }
