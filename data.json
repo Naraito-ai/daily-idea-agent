@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-10-20 10:33:22",
+  "last_updated": "2026-10-21 10:45:39",
   "scraped_sources": {
     "github": [
       {
-        "name": "JOSIE-Voice",
-        "owner": "Goekdeniz-Guelmez",
-        "description": "JOSIE Voice: a real-time, on-device voice assistant for Apple Silicon. Download the macOS app (DMG) from Releases.",
-        "stars": 42,
-        "url": "https://github.com/Goekdeniz-Guelmez/JOSIE-Voice",
+        "name": "cvsm",
+        "owner": "doem97",
+        "description": "A state machine protocol for running controlled ML experiments with coding agents.",
+        "stars": 22,
+        "url": "https://github.com/doem97/cvsm",
         "category": "AI / ML"
       },
       {
@@ -19,19 +19,19 @@
         "category": "AI / ML"
       },
       {
-        "name": "cvsm",
-        "owner": "doem97",
-        "description": "A state machine protocol for running controlled ML experiments with coding agents.",
-        "stars": 15,
-        "url": "https://github.com/doem97/cvsm",
+        "name": "humanitys-last-math-book",
+        "owner": "niuniu-869",
+        "description": "人类最后一本数理基础书：从中学数学到读懂大模型，一本随读者提问不断迭代的开源教材，附 dsh 答疑插件 · Humanity's Last Math Book",
+        "stars": 7,
+        "url": "https://github.com/niuniu-869/humanitys-last-math-book",
         "category": "AI / ML"
       },
       {
-        "name": "ML-MATH",
-        "owner": "Vaibh37",
-        "description": "A repository for mathematics in machine learning, covering linear algebra, calculus, probability, and statistics through structured notes, practical examples, and Python implementations.",
-        "stars": 9,
-        "url": "https://github.com/Vaibh37/ML-MATH",
+        "name": "TenSeiAi",
+        "owner": "Koustubh12345",
+        "description": "From-scratch Mixture-of-Experts (MoE) language model and offline AI engine in pure Python & NumPy. Zero PyTorch. Zero GGUF.",
+        "stars": 7,
+        "url": "https://github.com/Koustubh12345/TenSeiAi",
         "category": "AI / ML"
       },
       {
@@ -43,27 +43,19 @@
         "category": "AI / ML"
       },
       {
-        "name": "dsh-bilibili-reply",
-        "owner": "bronyacccxz",
-        "description": "让 AI 读懂你在 B 站 @ 它的视频，自动回一条带可跳转时间戳的评论。DSH / AI Agent 技能。",
-        "stars": 108,
-        "url": "https://github.com/bronyacccxz/dsh-bilibili-reply",
+        "name": "DMA-Mouse-resp-Control",
+        "owner": "ShogunTraderRestore",
+        "description": "Lightweight C++ library for external mouse control via DMA. Simple API, no configuration needed. For game development, automation, and research.",
+        "stars": 50,
+        "url": "https://github.com/ShogunTraderRestore/DMA-Mouse-resp-Control",
         "category": "Automation / Productivity"
       },
       {
         "name": "dots-agent",
         "owner": "duyongan",
         "description": "一个会主动发现任务的智能体",
-        "stars": 44,
+        "stars": 48,
         "url": "https://github.com/duyongan/dots-agent",
-        "category": "Automation / Productivity"
-      },
-      {
-        "name": "Steal-An-Egg-Respocket-Free-Script",
-        "owner": "FeatherChancellor",
-        "description": "Free keyless Steal An Egg script for PC Fly & Noclip and More",
-        "stars": 34,
-        "url": "https://github.com/FeatherChancellor/Steal-An-Egg-Respocket-Free-Script",
         "category": "Automation / Productivity"
       },
       {
@@ -75,51 +67,54 @@
         "category": "Automation / Productivity"
       },
       {
+        "name": "bili-cli",
+        "owner": "kukemc",
+        "description": "为 AI Agent 设计的哔哩哔哩命令行工具：扫码登录、看视频、评论、私信、发动态、投稿，全部 JSON 输出",
+        "stars": 32,
+        "url": "https://github.com/kukemc/bili-cli",
+        "category": "Automation / Productivity"
+      },
+      {
         "name": "Skills_MX",
         "owner": "elimorals",
         "description": "Repositorio oficial de skills para el entorno Mexicano caótico.",
-        "stars": 25,
+        "stars": 27,
         "url": "https://github.com/elimorals/Skills_MX",
         "category": "Automation / Productivity"
       }
     ],
     "hacker_news": [
       {
-        "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-        "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
-        "score": 448
-      },
-      {
-        "title": "AfD Leak: What 421,179 Hacked Emails Show about the German Far Right",
-        "url": "https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/",
-        "score": 158
+        "title": "Good type against all odds",
+        "url": "https://unsung.aresluna.org/good-type-against-all-odds/",
+        "score": 133
       }
     ],
     "arxiv": [
       {
-        "title": "Text-to-Image Generative Modeling Without Language Pretraining",
-        "summary": "Modern text-to-image (T2I) systems use internet-scale language pretraining for text-conditioned image generation. We ask whether language pretraining is necessary for strong T2I generation. We introdu...",
-        "url": "http://arxiv.org/abs/2610.26863v1"
+        "title": "Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs",
+        "summary": "Video generation models can now depict remarkably realistic motion. Yet it is unclear how to use this motion beyond pixels: to animate a specific 3D asset and replay the animation in its 3D scene. For...",
+        "url": "http://arxiv.org/abs/2610.28632v1"
       },
       {
-        "title": "OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory",
-        "summary": "Multimodal large language models (MLLMs) have made rapid progress on visual reasoning, yet many tasks require evidence that is difficult to obtain through internal reasoning alone: our controlled stud...",
-        "url": "http://arxiv.org/abs/2610.26860v1"
+        "title": "GBClaw: An agentic AI framework for atomistic grain boundary research and mechanistic discovery",
+        "summary": "Agentic artificial intelligence (AI) systems hold immense potential for automating complex workflows in materials discovery and design, but extending them to domain-intensive mechanistic investigation...",
+        "url": "http://arxiv.org/abs/2610.28629v1"
       },
       {
-        "title": "Can It Actually Work? Synthesizing Functional CAD Mechanisms",
-        "summary": "While LLM agents can generate visually plausible CAD assemblies, these designs often fail to fulfill their intended physical functions. We study functional CAD design, a setting where agents interpret...",
-        "url": "http://arxiv.org/abs/2610.26861v1"
+        "title": "Learning Adaptable Dexterous Skills via Hybrid Dexterous Mimicking",
+        "summary": "Dexterous multi-finger hands hold promise to unlock diverse skills like functional grasps, in-hand reorientation, and dynamic handover that the human-designed world assumes, yet existing learning reci...",
+        "url": "http://arxiv.org/abs/2610.28628v1"
       },
       {
-        "title": "Reinforcement Learning with Visually Attributable On-Policy Self-Distillation",
-        "summary": "Multimodal reinforcement learning with verifiable rewards (RLVR) provides reliable task-level supervision, yet offers limited guidance for localizing errors in visual reasoning. On-policy self-distill...",
-        "url": "http://arxiv.org/abs/2610.26856v1"
+        "title": "UniWALM: Unified World Action Language Model for Embodied Robot Control",
+        "summary": "Motivated by the human ability to integrate experience across language, perception, and action, we introduce UniWALM, a unified world-action-language model that learns video, action, and language in a...",
+        "url": "http://arxiv.org/abs/2610.28626v1"
       },
       {
-        "title": "CoopUQ: Robust Multi-Robot Social Navigation via Uncertainty-Aware Cooperative Forecasting",
-        "summary": "Reinforcement learning enables mobile robots to make fast and scalable navigation decisions in constrained human-shared environments. However, directly extending single-robot approaches to multi-robot...",
-        "url": "http://arxiv.org/abs/2610.26852v1"
+        "title": "Industrial ReMEmbR: Scaling Spatiotemporal Memory to Robot Fleets",
+        "summary": "Warehouse robot fleets continuously observe operational conditions, but preserving these observations as reusable semantic memory incurs substantial computation, communication, and storage costs. For ...",
+        "url": "http://arxiv.org/abs/2610.28624v1"
       }
     ],
     "devto": [
@@ -133,7 +128,13 @@
         "title": "The Terminal Made Me a Better Developer (And Not for the Reasons I Expected)",
         "description": "When I first started using the terminal, sure, it was useful. I could navigate around directories,...",
         "url": "https://dev.to/sizzlebop/the-terminal-made-me-a-better-developer-and-not-for-the-reasons-i-expected-nn6",
-        "reactions": 51
+        "reactions": 55
+      },
+      {
+        "title": "How to publish posts via the dev.to API",
+        "description": "Every time I copied a post into the dev.to editor, added tags and cleaned up the formatting, I'd...",
+        "url": "https://dev.to/julies1/how-to-publish-posts-via-the-devto-api-2fkd",
+        "reactions": 7
       },
       {
         "title": "AI Stole Our Happy Place",
@@ -145,89 +146,86 @@
         "title": "The Verification Trap: Why Generative AI Is Making Senior Engineers Slower (and How to Fix It)",
         "description": "The Verification Trap: Why Generative AI Is Making Senior Engineers Slower (and How to Fix...",
         "url": "https://dev.to/debashish_ghosal/the-verification-trap-why-generative-ai-is-making-senior-engineers-slower-and-how-to-fix-it-245m",
-        "reactions": 15
-      },
-      {
-        "title": "We Rendered a HQ Demo Video on a Free Farm Run by Strangers",
-        "description": "Hello, I'm Maneshwar, and I'm building LiveReview — a blast-radius aware AI code review built for...",
-        "url": "https://dev.to/lovestaco/we-rendered-a-hq-demo-video-on-a-free-farm-run-by-strangers-1440",
-        "reactions": 29
+        "reactions": 16
       }
     ]
   },
-  "trends": "Today's tech landscape is dominated by the rapid evolution of **Agentic AI**, moving beyond static models to autonomous entities capable of proactive task discovery, complex tool-use, and real-world interaction across multimodal data. There's a strong emphasis on **practical and responsible AI implementation**, including on-device processing for privacy and performance, applying ML to critical domains like cybersecurity, and ensuring functional correctness (e.g., in CAD design) rather than mere visual plausibility. Concurrently, while AI promises immense **productivity gains** and automation (e.g., job application sniping, social media agents), there's a growing awareness of its potential pitfalls, such as the 'verification trap' slowing down senior engineers and concerns about its impact on developer focus and well-being. This creates a need for tools that augment developer capabilities and address cognitive load, alongside a renewed appreciation for foundational skills like terminal mastery.",
+  "trends": "Today's tech landscape is significantly shaped by the rapid advancement and practical application of **Agentic AI systems**, which are increasingly capable of autonomous task discovery, execution, and complex workflow automation across diverse domains. There's a strong emphasis on leveraging AI for **enhanced productivity and efficiency**, from automating job applications to content publishing and managing intricate ML experiments. A notable trend is the push towards **foundational understanding and hands-on implementation of ML**, including building models from scratch and applying ML to critical areas like cybersecurity and robotics. The discussion also includes the **evolving role of AI in developer workflows**, acknowledging both its potential to streamline tasks and the challenges it introduces, such as the 'verification trap'. Finally, the integration of **low-level control and system interaction** with AI agents points towards highly sophisticated and adaptable automation solutions.",
   "ideas": [
     {
-      "title": "Intelligent Job Application Agent with LLM-Powered Scoring & Tailored Drafts",
+      "title": "Agentic Multi-Platform Content Publisher",
       "difficulty": "Medium",
-      "estimated_hours": 40,
-      "description": "Build a desktop or web application that intelligently assists with job applications. It will scrape new job postings from specified platforms (e.g., LinkedIn, Indeed) and use an LLM to analyze each job description against the user's uploaded resume/profile, generating a 'compatibility score.' Based on this score and the job's specific requirements, the agent will then draft a highly personalized and context-aware cover letter, highlighting relevant skills and experiences from the user's resume. The user can review and edit these drafts before submitting, turning a tedious process into an efficient, AI-augmented workflow.",
+      "estimated_hours": 24,
+      "description": "Develop an AI agent that automates the process of publishing content across multiple platforms. The agent would take a raw content draft (e.g., a blog post, a project update), use an LLM to refine it for target platform nuances (e.g., tweet-length summary for X, detailed article for Dev.to, code snippet for GitHub README), and then automatically post it using respective APIs. It could also manage scheduling and track engagement after publishing. This project tackles the repetitive nature of content dissemination and leverages the power of generative AI for content adaptation and APIs for automation.",
       "tech_stack": [
         "Python",
-        "FastAPI/Flask",
-        "Web Scraping (Playwright/BeautifulSoup)",
-        "LLM API (e.g., OpenAI, Anthropic, or local via Ollama)",
-        "Frontend (Streamlit/HTML+JS/Vue.js)"
+        "LangChain (or similar agent framework)",
+        "OpenAI API / Llama 3 API (for LLM)",
+        "Dev.to API",
+        "GitHub API",
+        "Other social media APIs (e.g., X, LinkedIn)",
+        "FastAPI/Flask (for local service hosting)"
       ],
-      "source_inspiration": "hh-sniper (GitHub), dots-agent (GitHub), The Verification Trap (Dev.to - as a solution to reduce manual verification work in a different context).",
+      "source_inspiration": "bili-cli (AI Agent for Bilibili CLI), hh-sniper (LLM scoring & autopiloting), 'How to publish posts via the dev.to API' (Dev.to article)",
       "steps": [
-        "Task 1: Set up a web scraping module to monitor and extract data from popular job boards.",
-        "Task 2: Implement a backend service (FastAPI/Flask) to manage user profiles, uploaded resumes, and store job postings.",
-        "Task 3: Develop an LLM integration layer for job description analysis and compatibility scoring against a user's resume.",
-        "Task 4: Design prompts for the LLM to generate personalized cover letters based on the job description and user's skills.",
-        "Task 5: Build a simple user interface (Streamlit or a basic web UI) for users to upload resumes, view job matches, and edit/finalize cover letters.",
-        "Task 6: Add functionality for the agent to periodically fetch new jobs and notify the user."
+        "Set up a Python environment and choose an agentic framework (e.g., LangChain) for orchestrating tasks.",
+        "Integrate with an LLM API (e.g., OpenAI) to handle content refinement, summarization, and adaptation based on platform requirements.",
+        "Implement API clients for Dev.to, GitHub, and potentially other platforms (e.g., X, LinkedIn) to handle authentication and posting.",
+        "Design the agent's workflow: ingest draft -> analyze content -> determine target platforms -> refine per platform -> publish -> log results.",
+        "Add a simple user interface (e.g., command-line, web UI with Streamlit/Gradio) to submit drafts and monitor publishing status.",
+        "Implement basic error handling, retry mechanisms, and a publishing schedule feature."
       ]
     },
     {
-      "title": "On-Device AI 'Terminal Productivity Assistant' with Contextual Suggestions",
+      "title": "Self-Evolving ML Experiment Assistant",
+      "difficulty": "Hard",
+      "estimated_hours": 60,
+      "description": "Build an intelligent assistant that can autonomously set up, run, monitor, and iterate on machine learning experiments. Inspired by 'cvsm' and 'GBClaw', this system would act as an 'agentic AI framework' for ML research. It could take a high-level goal (e.g., 'find the best hyperparameters for X model on Y dataset') and, using predefined protocols or learned strategies, spin up experiments, adjust parameters, analyze results, and propose subsequent experimental runs. It would focus on reproducibility, automated tracking, and efficient resource utilization, potentially identifying patterns for mechanistic discovery in research data.",
+      "tech_stack": [
+        "Python",
+        "Docker (for isolated experiment environments)",
+        "MLflow / Weights & Biases (for experiment tracking)",
+        "Kubernetes / Argo Workflows (for orchestration, optional for initial MVP)",
+        "FastAPI / gRPC (for agent communication)",
+        "LLM API (for interpreting high-level goals and generating experiment ideas)"
+      ],
+      "source_inspiration": "cvsm (state machine protocol for running controlled ML experiments with coding agents), GBClaw (Agentic AI framework for atomistic grain boundary research)",
+      "steps": [
+        "Define a flexible experiment protocol schema (e.g., YAML) for specifying model, dataset, hyperparameters, and evaluation metrics.",
+        "Develop a 'coding agent' module in Python that can interpret these schemas, execute ML training scripts, and report metrics.",
+        "Integrate with an experiment tracking platform (MLflow/W&B) to log runs, artifacts, and results automatically.",
+        "Build an orchestration layer that can launch and manage multiple Dockerized experiment runs concurrently.",
+        "Implement a feedback loop where an analysis component reviews experiment results and suggests modifications to the experiment protocol for subsequent runs.",
+        "Add an LLM interface that translates natural language requests (e.g., 'optimize BERT for sentiment analysis') into experiment protocols and provides insights from experiment results."
+      ]
+    },
+    {
+      "title": "Interactive 'Code-Buddy' for Python & ML Fundamentals",
       "difficulty": "Medium",
       "estimated_hours": 30,
-      "description": "Create a local, privacy-preserving terminal assistant that learns from a developer's command history and current context. Instead of relying on cloud services, this tool runs entirely on-device, analyzing active directory, recent commands, and detected project types (e.g., presence of `package.json`, `.git` folder) to offer highly relevant and contextual command suggestions. For example, if you `cd` into a Node.js project, it might suggest `npm install` or `npm run dev`. If a series of `git` commands are frequently used, it could suggest an alias or a chained command. This aims to reduce cognitive load and enhance developer flow directly within their most powerful tool: the terminal.",
+      "description": "Create an interactive learning application that acts as a 'code-buddy' for developers looking to master Python for ML/DL. Building on the idea of an open-source, iteratively updated textbook and hands-on Jupyter notebooks, this tool would provide personalized explanations of core concepts, generate custom coding challenges (with runnable examples), and offer immediate, AI-powered feedback on user solutions. It could adapt its content based on user progress and common pitfalls, similar to 'humanitys-last-math-book' but with a strong emphasis on practical, executable ML examples.",
       "tech_stack": [
-        "Python",
-        "Shell Scripting (Bash/Zsh/PowerShell integration)",
-        "OS-level API interaction (e.g., `subprocess`, `os` module)",
-        "SQLite (for local command history storage)",
-        "Simple ML (e.g., scikit-learn for pattern matching) or heuristic rules"
+        "Python (backend for logic and LLM interaction)",
+        "Streamlit / Gradio / JupyterHub (for interactive UI and code execution)",
+        "LLM API (e.g., GPT-4, Gemini) for content generation, explanations, and code review",
+        "SQLite / PostgreSQL (for user progress and lesson tracking)",
+        "Docker (for sandboxed code execution environments)"
       ],
-      "source_inspiration": "JOSIE-Voice (GitHub - for on-device processing), The Terminal Made Me a Better Developer (Dev.to), python-for-ml-researchers (GitHub - for practical Python skills).",
+      "source_inspiration": "humanitys-last-math-book (open-source textbook with iterative Q&A), python-for-ml-researchers (hands-on Jupyter notebook for ML concepts)",
       "steps": [
-        "Task 1: Develop a mechanism to capture and store terminal command history locally and privately (e.g., SQLite database).",
-        "Task 2: Implement shell integration (e.g., a `.bashrc` or `.zshrc` hook) to feed commands to the assistant.",
-        "Task 3: Create a Python backend that analyzes command patterns, current directory, and project context.",
-        "Task 4: Implement a suggestion engine using simple ML models (e.g., frequency-based, sequence prediction) or heuristic rules.",
-        "Task 5: Develop a front-end for suggestions (e.g., a fzf-like interface or direct shell output).",
-        "Task 6: Add configuration options for users to define project types and associated common commands."
-      ]
-    },
-    {
-      "title": "AI-Powered Code Review & Refactoring Assistant (IDE Plugin/Local Tool)",
-      "difficulty": "Medium",
-      "estimated_hours": 40,
-      "description": "Develop a local or self-hosted IDE plugin/CLI tool that leverages an LLM to assist developers in reviewing their code snippets or small pull requests. Moving beyond basic linting, this tool would analyze code for potential logic flaws, common security vulnerabilities, performance bottlenecks, and adherence to project-specific coding standards (which could be learned or configured). The goal is to act as an intelligent 'second pair of eyes,' helping developers, particularly senior ones, efficiently verify changes, catch subtle errors, and suggest refactorings, thereby mitigating the 'verification trap' identified in current AI-assisted workflows.",
-      "tech_stack": [
-        "Python",
-        "FastAPI/Flask (for local server if needed)",
-        "LLM API (e.g., OpenAI, Anthropic, or local via Hugging Face/Ollama)",
-        "IDE Extension API (e.g., VS Code Extension API with TypeScript/JavaScript)",
-        "Git integration (for diffs and context)"
-      ],
-      "source_inspiration": "The Verification Trap (Dev.to), We Rendered a HQ Demo Video on a Free Farm Run by Strangers (Dev.to - related to AI code review).",
-      "steps": [
-        "Task 1: Choose an IDE and develop a basic extension template (e.g., VS Code extension in TypeScript/JavaScript).",
-        "Task 2: Integrate the extension with a local Python backend (FastAPI) or directly call the LLM API.",
-        "Task 3: Implement functionality to send selected code snippets or Git diffs to the backend for LLM analysis.",
-        "Task 4: Design effective LLM prompts for code review, focusing on logic errors, security, performance, and best practices.",
-        "Task 5: Develop the UI within the IDE to display LLM-generated suggestions, refactoring ideas, and explanations.",
-        "Task 6: Add features for contextual analysis, such as inferring project-specific coding styles from existing codebases."
+        "Develop a backend in Python to manage learning modules, generate exercises, and interact with the LLM.",
+        "Integrate an LLM API to provide explanations of ML concepts, generate tailored practice problems, and give feedback on user code.",
+        "Build an interactive frontend using Streamlit or Gradio that allows users to read explanations, write code, and run tests.",
+        "Implement a sandboxed code execution environment (e.g., using `subprocess` with security considerations, or a Docker container) to run user-submitted Python code.",
+        "Design a user progress tracking system to adapt the learning path and difficulty of exercises based on performance.",
+        "Create initial modules covering core Python concepts relevant to ML (e.g., NumPy, Pandas) and fundamental ML algorithms (e.g., Linear Regression, Decision Trees)."
       ]
     }
   ],
   "quick_actions": [
-    "Action 1: Master Your Terminal: Dedicate 15 minutes daily to learning a new shell command, alias, or keyboard shortcut in your terminal. Focus on tools like `fzf`, `jq`, `tmux`, or custom functions to streamline your workflow.",
-    "Action 2: Experiment with a Local LLM/Agent Framework: This week, set up and run a small, local LLM (e.g., via Ollama or Hugging Face Transformers) or an AI agent framework (e.g., LangChain, CrewAI) on your machine. Explore its capabilities without sending data externally.",
-    "Action 3: Implement a 'No-AI Zone' for Deep Work: Schedule at least one 90-minute 'deep work' block each day where all AI development tools (code completion, chat assistants) are intentionally disabled to foster independent critical thinking and reduce cognitive load.",
-    "Action 4: Automate One Repetitive Task: Identify a small, recurring manual task in your daily or weekly workflow (e.g., renaming files, generating a simple report, aggregating logs) and spend a few hours writing a Python or shell script to fully automate it."
+    "Experiment with a local LLM or an LLM API to automate one repetitive coding task, such as generating commit messages, drafting documentation snippets, or creating boilerplate code for common patterns.",
+    "Dedicate 30 minutes this week to exploring an advanced feature of your terminal, like custom functions, advanced `grep` patterns, or integrating a new CLI tool (e.g., `jq` for JSON), to improve your daily command-line efficiency.",
+    "Choose one core Machine Learning concept you're less familiar with (e.g., Transformers, Reinforcement Learning, specific loss functions) and spend an hour reviewing it through an interactive Jupyter notebook or a concise tutorial.",
+    "Identify a web service or internal tool you frequently interact with, find its API documentation, and write a small Python script to automate a simple data retrieval or update task that you usually do manually."
   ]
 }
