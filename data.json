@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-10-22 10:47:11",
+  "last_updated": "2026-10-23 10:38:52",
   "scraped_sources": {
     "github": [
       {
-        "name": "cvsm",
-        "owner": "doem97",
-        "description": "A state machine protocol for running controlled ML experiments with coding agents.",
-        "stars": 22,
-        "url": "https://github.com/doem97/cvsm",
+        "name": "mafdet",
+        "owner": "TheLastOxygen",
+        "description": "You type. It already knows. Local LLMs that read and think while you type.",
+        "stars": 34,
+        "url": "https://github.com/TheLastOxygen/mafdet",
         "category": "AI / ML"
       },
       {
@@ -27,6 +27,14 @@
         "category": "AI / ML"
       },
       {
+        "name": "humanitys-last-math-book",
+        "owner": "niuniu-869",
+        "description": "人类最后一本数理基础书：从中学数学到读懂大模型，一本随读者提问不断迭代的开源教材，附 dsh 答疑插件 · Humanity's Last Math Book",
+        "stars": 13,
+        "url": "https://github.com/niuniu-869/humanitys-last-math-book",
+        "category": "AI / ML"
+      },
+      {
         "name": "Machine-learning-pipeline",
         "owner": "recranvvi5c",
         "description": "Reproducible text-classification pipeline - Hydra configs, DVC data, MLflow tracking and a scikit-learn grid search.",
@@ -35,18 +43,10 @@
         "category": "AI / ML"
       },
       {
-        "name": "TenSeiAi",
-        "owner": "Koustubh12345",
-        "description": "From-scratch Mixture-of-Experts (MoE) language model and offline AI engine in pure Python & NumPy. Zero PyTorch. Zero GGUF.",
-        "stars": 8,
-        "url": "https://github.com/Koustubh12345/TenSeiAi",
-        "category": "AI / ML"
-      },
-      {
         "name": "bili-cli",
         "owner": "kukemc",
         "description": "为 AI Agent 设计的哔哩哔哩命令行工具：扫码登录、看视频、评论、私信、发动态、投稿，全部 JSON 输出",
-        "stars": 60,
+        "stars": 76,
         "url": "https://github.com/kukemc/bili-cli",
         "category": "Automation / Productivity"
       },
@@ -54,7 +54,7 @@
         "name": "vmware-to-kubernetes",
         "owner": "Rocky-true",
         "description": "Kubernetes 自动化运维与迁移工具：阿里云 3 主 HA、Compose→K8s、Terraform、Kubekey、部署验证与故障排查。Kubernetes automation, migration and ops toolkit.",
-        "stars": 32,
+        "stars": 50,
         "url": "https://github.com/Rocky-true/vmware-to-kubernetes",
         "category": "Automation / Productivity"
       },
@@ -67,74 +67,64 @@
         "category": "Automation / Productivity"
       },
       {
-        "name": "chaoxing-auto-study",
-        "owner": "Xiongxiangyu2778",
-        "description": "超星学习通自动化工具箱：挂机刷章节 + 作业AI代写 + 考试AI代答，三模块一键启动（Windows + Playwright + 任意 OpenAI 兼容模型）",
-        "stars": 29,
-        "url": "https://github.com/Xiongxiangyu2778/chaoxing-auto-study",
+        "name": "jiggle",
+        "owner": "Pentagonyewharf",
+        "description": "Published: 2026-10-18",
+        "stars": 25,
+        "url": "https://github.com/Pentagonyewharf/jiggle",
         "category": "Automation / Productivity"
       },
       {
-        "name": "MatteDesk",
-        "owner": "fishfinger44",
-        "description": "Interactive matte / roto tool for VFX – repairs damaged plate frames, generates alpha mattes for multiple objects (SAM3, CoTracker3, MatAnyone2, VideoMaMa, ViTMatte, LTX 2.5 Alpha Gen via ComfyUI), exports to Nuke and After Effects. REST API + CLI for AI agents. GPL-3.0.",
-        "stars": 26,
-        "url": "https://github.com/fishfinger44/MatteDesk",
+        "name": "shutdown-timer",
+        "owner": "SocialDescribe",
+        "description": "Published: 2026-10-18",
+        "stars": 25,
+        "url": "https://github.com/SocialDescribe/shutdown-timer",
         "category": "Automation / Productivity"
       }
     ],
     "hacker_news": [
       {
-        "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
-        "url": "https://simedw.com/2026/10/21/world-model-terminal/",
-        "score": 234
+        "title": "The alien space of science: Coherent but cognitively unavailable directions",
+        "url": "https://arxiv.org/abs/2603.01092",
+        "score": 74
       },
       {
-        "title": "Achieving AI-style reasoning without an LLM",
-        "url": "https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/",
-        "score": 32
+        "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+        "url": "https://github.com/NVIDIA/OpenShell",
+        "score": 404
       },
       {
-        "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
-        "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
-        "score": 527
-      },
-      {
-        "title": "Using LLM for confidence scoring is a bad idea",
-        "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
-        "score": 102
-      },
-      {
-        "title": "OpenAI CLI",
-        "url": "https://github.com/openai/openai-cli",
-        "score": 130
+        "title": "Every AI model has the same \"controversial\" take on humans",
+        "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+        "score": 434
       }
     ],
     "arxiv": [
       {
-        "title": "LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data",
-        "summary": "Reinforcement learning (RL) is an effective way to strengthen the long-context reasoning of large language models (LLMs), but it needs training data that are long, diverse, challenging, and verifiable...",
-        "url": "http://arxiv.org/abs/2610.30132v1"
+        "title": "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success",
+        "summary": "Robotic foundation models are typically evaluated through costly closed-loop rollouts, which motivates cheap offline proxies for model capability. The Platonic Representation Hypothesis (PRH) suggests...",
+        "url": "http://arxiv.org/abs/2610.31670v1"
       },
       {
-        "title": "Think Harder Where It Matters: Item-Level Adaptive Recursion for Sequential Recommendation",
-        "summary": "Existing sequential recommenders usually allocate a fixed computational budget to every item in a user's interaction history, regardless of the item's contribution to the final prediction. We challeng...",
-        "url": "http://arxiv.org/abs/2610.30128v1"
+        "title": "Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning",
+        "summary": "Test-time scaling has emerged as a key inference strategy for reasoning models, where a model generates a large number of candidate solutions in the hope of finding at least one correct solution. Runn...",
+        "url": "http://arxiv.org/abs/2610.31667v1"
       },
       {
-        "title": "PhysiCalWorld: In-Context Physics Calibration for World Models",
-        "summary": "Existing world models typically perceive a scene through current visual frame or a narrow history window. However, these observations may not reveal the physics properties that determine transition dy...",
-        "url": "http://arxiv.org/abs/2610.30125v1"
+        "title": "Phase Transition from Random Features to Fully Trainable Networks",
+        "summary": "Constructing accurate and computationally tractable approximation spaces is a fundamental task in scientific computing. Partially trainable neural networks bridge fixed random features and fully adapt...",
+        "url": "http://arxiv.org/abs/2610.31663v1"
       },
       {
-        "title": "A Quasipolynomial Algorithm for $\\ell_\\infty$ Contractions",
-        "summary": "We give an algorithm for computing an $\\eps$-approximate fixed point of any $d$-dimensional nonexpansion with respect to the $\\ell_\\infty$ norm in time $\\log(1/\\eps)^{O(\\log^2 d)}$. At its core, our m...",
-        "url": "http://arxiv.org/abs/2610.30122v1"
+        "title": "Reliable AI-Assisted Decisions via Selective Auditing",
+        "summary": "We consider online monitoring of an AI system that produces a sequence of decisions. At each round, the system outputs a proposed decision together with a confidence score estimating the trustworthine...",
+        "url": "http://arxiv.org/abs/2610.31662v1"
       },
       {
-        "title": "Self-normalized Bernstein Inequalities for Regenerative Processes and Applications to Learning Without Independence",
-        "summary": "We prove a self-normalized Bernstein inequality for bounded functions of a regenerative process with independent, identically distributed marked cycles of finite mean length. The bound uses observed c...",
-        "url": "http://arxiv.org/abs/2610.30119v1"
+        "title": "SpectralCanary: Embarrassingly Simple Low-Frequency Traces for T2I Dataset-Use Auditing",
+        "summary": "Auditing whether a text-to-image (T2I) model was fine-tuned on a particular image collection is difficult: a model can absorb collection-level visual characteristics without reproducing training image...",
+        "url": "http://arxiv.org/abs/2610.31659v1"
       }
     ],
     "devto": [
@@ -142,19 +132,19 @@
         "title": "How to publish posts via the dev.to API",
         "description": "Every time I copied a post into the dev.to editor, added tags and cleaned up the formatting, I'd...",
         "url": "https://dev.to/julies1/how-to-publish-posts-via-the-devto-api-2fkd",
-        "reactions": 21
-      },
-      {
-        "title": "The Terminal Made Me a Better Developer (And Not for the Reasons I Expected)",
-        "description": "When I first started using the terminal, sure, it was useful. I could navigate around directories,...",
-        "url": "https://dev.to/sizzlebop/the-terminal-made-me-a-better-developer-and-not-for-the-reasons-i-expected-nn6",
-        "reactions": 57
+        "reactions": 27
       },
       {
         "title": "AI Made Coding Cheaper. So Why Is Building Software Still So Expensive?",
         "description": "I can generate a full authentication flow with a database schema, API routes, and unit tests in under...",
         "url": "https://dev.to/harsh2644/ai-made-coding-cheaper-so-why-is-building-software-still-so-expensive-59m",
-        "reactions": 20
+        "reactions": 31
+      },
+      {
+        "title": "The Terminal Made Me a Better Developer (And Not for the Reasons I Expected)",
+        "description": "When I first started using the terminal, sure, it was useful. I could navigate around directories,...",
+        "url": "https://dev.to/sizzlebop/the-terminal-made-me-a-better-developer-and-not-for-the-reasons-i-expected-nn6",
+        "reactions": 59
       },
       {
         "title": "AI Stole Our Happy Place",
@@ -166,82 +156,85 @@
         "title": "What Do You Make When You Can Make Anything?",
         "description": "I have more creative freedom than I've ever had.  Some days, I have so many ideas that I can't wait...",
         "url": "https://dev.to/sizzlebop/what-do-you-make-when-you-can-make-anything-596b",
-        "reactions": 22
+        "reactions": 25
       }
     ]
   },
-  "trends": "Today's tech landscape is marked by a strong emphasis on **Agentic AI**—systems capable of autonomous, multi-step operations and orchestration across diverse tools and platforms, often leveraging natural language instructions. This is closely coupled with advancements in **MLOps for Reproducibility and Efficiency**, streamlining the ML lifecycle through robust pipelines, data versioning, and cross-framework model deployment. While large language models (LLMs) continue to dominate, there's a growing exploration into **Specialized and Local AI**, including smaller, domain-specific models and approaches to 'AI-style reasoning' that don't solely rely on large LMs, often prioritizing privacy and local execution. Finally, **Developer Productivity** is being dramatically reshaped by AI, with a renewed focus on **CLI-first interfaces** for controlling AI agents and automating complex workflows, though concerns about AI's impact on software development costs and supply chain security for AI tooling are also prominent.",
+  "trends": "Today's tech trends reveal a strong convergence around highly autonomous, intelligent agents, often powered by local and efficient AI models. There's a significant drive towards enhancing developer productivity and workflow automation, not just through traditional scripting but by integrating context-aware AI. Concurrently, a critical focus remains on MLOps, reproducibility, and the ethical implications of AI, particularly regarding reliability, explainability, and auditing of model behavior and data provenance. The demand for foundational understanding of complex ML architectures and interactive learning tools underscores the rapid evolution of the field, while concerns about AI's impact on human creativity and the 'cost of software' despite cheaper code generation suggest a re-evaluation of value creation in the AI era.",
   "ideas": [
     {
-      "title": "MLOps AutoPilot Agent",
+      "title": "Context-Aware Local AI Dev Companion",
       "difficulty": "Medium",
-      "estimated_hours": 20,
-      "description": "Develop an AI agent designed to automate routine MLOps tasks. The agent will interpret high-level natural language instructions (e.g., \"Retrain model X with new data, track metrics, and deploy if performance improves by 5%\") and orchestrate a series of actions using specialized MLOps tools. It will utilize DVC for data versioning, MLflow for experiment tracking and model registration, and interact with a simple CI/CD pipeline for conditional model deployment. The agent will provide real-time status updates and interact via a command-line interface.",
+      "estimated_hours": 40,
+      "description": "Build a local-first AI assistant that deeply integrates with a developer's environment (terminal, IDE). This companion observes context, such as the current file content, recent git commit messages, or shell command history, and proactively offers tailored assistance. This could include summarizing complex code blocks, providing highly relevant documentation snippets for functions or commands, or generating boilerplate code based on natural language requests. The emphasis on 'local' execution (like 'mafdet') ensures privacy, speed, and reduces reliance on external APIs, truly acting as a 'thought partner' that reads and thinks while you type.",
       "tech_stack": [
         "Python",
-        "LangChain/CrewAI",
-        "DVC",
-        "MLflow",
-        "Docker (optional)",
-        "FastAPI (for agent API)",
-        "Click/Typer (for CLI)"
-      ],
-      "source_inspiration": "cvsm (coding agents), Machine-learning-pipeline (reproducible pipeline), bili-cli (AI agent CLI), Hacker News articles on LLM limitations (emphasizing reliable tooling).",
-      "steps": [
-        "Task 1: Initialize a sample ML project with DVC for data versioning and MLflow for experiment tracking, including a basic training script.",
-        "Task 2: Develop a set of Python functions that wrap DVC and MLflow commands (e.g., `dvc pull`, `mlflow.log_metrics`, `mlflow.register_model`).",
-        "Task 3: Implement an AI agent using LangChain or CrewAI, giving it access to the defined MLOps utility functions as tools.",
-        "Task 4: Create a simple CLI interface using Click or Typer to interact with the agent, allowing users to submit natural language commands and view outputs.",
-        "Task 5: Add a logic within the agent to evaluate model performance metrics logged in MLflow and trigger a mock 'deployment' script if predefined criteria are met."
-      ]
-    },
-    {
-      "title": "Contextual Study Buddy (Local LLM)",
-      "difficulty": "Medium",
-      "estimated_hours": 16,
-      "description": "Build a desktop application that acts as a private, contextual study buddy. It leverages a locally-run small language model (e.g., via Ollama/Llama.cpp) combined with Retrieval-Augmented Generation (RAG) to process and understand user-provided local documents (PDFs, Markdown notes, text files). The application can summarize content, answer specific questions, and generate flashcards, all strictly based on the provided local context, ensuring privacy and mitigating common LLM hallucination issues by limiting its knowledge base. This project addresses the trend of local AI for privacy and specialized knowledge processing.",
-      "tech_stack": [
-        "Python",
-        "Streamlit/Gradio (for UI)",
         "Ollama/Llama.cpp (for local LLM inference)",
-        "LangChain/LlamaIndex (for RAG pipeline)",
-        "PyMuPDF/Pandoc (for document parsing)"
+        "VS Code Extension API (for IDE integration)",
+        "Shell hooks (e.g., Zsh/Bash for terminal context)",
+        "SQLite (for local context storage)"
       ],
-      "source_inspiration": "chaoxing-auto-study (AI for education), hh-sniper (local LLM usage), WorldTUI (smaller, specialized AI), LongZero (long-context reasoning), Hacker News article on LLM confidence issues.",
+      "source_inspiration": "mafdet, The Terminal Made Me a Better Developer, OpenShell (for the privacy/local aspect)",
       "steps": [
-        "Task 1: Set up Ollama or Llama.cpp with a small, suitable LLM (e.g., Mistral, Llama 3) on your development machine.",
-        "Task 2: Develop Python scripts to ingest and chunk various local document types (PDFs, TXT, MD) into a vector store (e.g., ChromaDB, FAISS).",
-        "Task 3: Implement a RAG pipeline using LangChain or LlamaIndex to query the local vector store and feed relevant document chunks as context to the local LLM.",
-        "Task 4: Build a user-friendly web interface with Streamlit or Gradio, allowing users to upload documents, input questions, and view generated summaries/answers/flashcards.",
-        "Task 5: Ensure and verify that all document processing, vector embedding generation, and LLM inference occur entirely on the local machine, with no external API calls for content analysis."
+        "Task 1: Set up a local LLM inference server (e.g., using Ollama) and a basic Python client to interact with it.",
+        "Task 2: Develop a core Python service capable of ingesting text (code, commands) and generating context-aware responses using the local LLM.",
+        "Task 3: Create a basic VS Code extension that can send selected code snippets or the active file content to your Python service.",
+        "Task 4: Implement shell hooks (e.g., in `~/.bashrc` or `~/.zshrc`) to capture and log executed commands and their outputs.",
+        "Task 5: Design and implement a local SQLite database to store rolling context (e.g., last 10 commands, frequently opened files) for improved AI suggestions.",
+        "Task 6: Develop prompt engineering strategies to convert developer context into effective prompts for the local LLM, focusing on tasks like summarization and documentation lookup."
       ]
     },
     {
-      "title": "Universal AI Agent Orchestrator CLI",
+      "title": "Reproducible AI Agent Deployment & Audit Platform",
       "difficulty": "Hard",
-      "estimated_hours": 30,
-      "description": "Create a command-line interface (CLI) that serves as a universal orchestrator for various AI models and services. This tool will standardize the interaction pattern for different AI capabilities (e.g., text generation, image segmentation, sentiment analysis) by accepting a common JSON input schema for tasks and returning a consistent JSON output. It will abstract away the underlying API differences of services like OpenAI, Hugging Face, or even specialized local computer vision models (like SAM), allowing higher-level AI agents or developers to interact with a multi-modal AI ecosystem through a single, consistent interface. This aligns with trends in AI agent integration, CLI-first development, and model portability.",
+      "estimated_hours": 120,
+      "description": "Develop a comprehensive platform for defining, deploying, monitoring, and auditing autonomous AI agents. Inspired by the need for robust MLOps ('Machine-learning-pipeline') and reliable AI decisions ('Reliable AI-Assisted Decisions'), this system would allow developers to define agent goals and toolsets, containerize and deploy them to a Kubernetes cluster ('vmware-to-kubernetes'), and crucially, track their decisions, interactions, and confidence scores. The platform would include explainability features to trace agent actions and implement 'selective auditing' mechanisms to intervene or retrain agents based on performance or ethical flags, addressing concerns about AI agent behavior ('OpenShell', 'bili-cli').",
       "tech_stack": [
-        "Python",
-        "FastAPI (for internal dispatch API)",
-        "Click/Typer (for CLI)",
-        "requests/OpenAI Python client/Hugging Face Transformers",
-        "Docker (for containerization of drivers)"
+        "Python (for agent definition and backend logic)",
+        "Docker",
+        "Kubernetes",
+        "Flask/Django (for API and web UI)",
+        "PostgreSQL",
+        "MLflow/DVC (for experiment tracking, data & model versioning)",
+        "Prometheus/Grafana (for monitoring and observability)"
       ],
-      "source_inspiration": "transmuter (cross-framework execution), bili-cli (JSON output for agents), MatteDesk (integrating multiple CV models, REST API/CLI for agents), OpenAI CLI.",
+      "source_inspiration": "Machine-learning-pipeline, OpenShell, vmware-to-kubernetes, Reliable AI-Assisted Decisions, SpectralCanary, bili-cli",
       "steps": [
-        "Task 1: Define a generic JSON schema for various AI tasks (e.g., `text_completion`, `image_captioning`, `sentiment_analysis`), specifying input parameters and expected output structure.",
-        "Task 2: Implement 'drivers' or 'adapters' in Python for at least two distinct AI services or models (e.g., one for OpenAI's text completion, another for a Hugging Face sentiment analysis model, or a local instance of a vision model).",
-        "Task 3: Develop a FastAPI application that exposes a single endpoint (e.g., `/execute-ai-task`). This endpoint will receive the generic JSON task request and dynamically route it to the appropriate underlying AI driver.",
-        "Task 4: Build a CLI using Click or Typer that allows users to construct and send these generic JSON requests to the FastAPI orchestrator and display the structured JSON responses.",
-        "Task 5: (Advanced) Containerize each AI driver and the FastAPI orchestrator using Docker, enabling flexible deployment and easy scaling of individual AI capabilities."
+        "Task 1: Design a YAML/JSON schema for defining AI agents, including their objectives, available tools, and LLM configurations.",
+        "Task 2: Develop a Python microservice that can dynamically instantiate and execute agents based on the defined schema.",
+        "Task 3: Containerize the agent execution service using Docker and create Kubernetes deployment manifests for scalable orchestration.",
+        "Task 4: Integrate MLflow to log agent runs, including inputs, outputs, decisions, and any associated model versions.",
+        "Task 5: Implement a robust logging and observability system (e.g., using ELK stack or Prometheus/Grafana) to capture agent actions, observations, and confidence scores for real-time monitoring and historical auditing.",
+        "Task 6: Build a basic web interface to manage agent definitions, trigger deployments, view operational logs, and visualize audit trails."
+      ]
+    },
+    {
+      "title": "Contextual Tech Article Generation & Publishing Tool",
+      "difficulty": "Medium",
+      "estimated_hours": 60,
+      "description": "Create a command-line interface (CLI) tool or web application that significantly assists developers in drafting and publishing technical articles, similar to automating Dev.to posts. Leveraging local LLMs, this tool would help overcome writer's block and streamline the entire publishing workflow. Features could include generating article topic ideas based on recent project activity (e.g., git commits), creating structured outlines, suggesting content improvements or expansions for drafted text, automatically generating relevant tags and concise summaries, and finally, publishing directly to platforms like Dev.to via their APIs, handling all necessary formatting and metadata.",
+      "tech_stack": [
+        "Python (for CLI/backend logic)",
+        "Click/Typer (for CLI framework)",
+        "Dev.to API (and potentially others like Medium API)",
+        "Ollama/Llama.cpp client (for local LLM integration)",
+        "Markdown parser/renderer"
+      ],
+      "source_inspiration": "How to publish posts via the dev.to API, AI Made Coding Cheaper, What Do You Make When You Can Make Anything?, mafdet (for local AI assistance)",
+      "steps": [
+        "Task 1: Set up a local LLM inference client (e.g., using Ollama) and integrate it with a Python script for basic text generation.",
+        "Task 2: Implement a CLI command that takes a local Markdown file as input for article content.",
+        "Task 3: Develop a function that uses the LLM to generate relevant tags and a concise summary based on the article's content.",
+        "Task 4: Implement authenticated publishing functionality to the Dev.to API, allowing the CLI to send the Markdown content along with the generated tags and summary.",
+        "Task 5: (Optional) Add a feature to suggest initial article outlines or topic ideas based on a user-provided prompt or analysis of a local Git repository's recent activity.",
+        "Task 6: (Optional) Implement content refinement features, allowing the LLM to rewrite paragraphs for clarity, expand on bullet points, or check for grammatical errors within the Markdown file."
       ]
     }
   ],
   "quick_actions": [
-    "Action 1: Dedicate 15 minutes each day this week to learning a new command-line tool or an advanced feature of your existing shell (e.g., `jq`, `fzf`, or advanced Git functions).",
-    "Action 2: Identify one repetitive manual task in your daily developer workflow (e.g., generating boilerplate, committing changes, deploying a small update) and spend an hour exploring how to automate it using a script or an existing API.",
-    "Action 3: Perform a security audit of your current AI/ML project dependencies. Use tools like `pip-audit` or integrate `Snyk` into your workflow to check for known vulnerabilities and ensure supply chain integrity.",
-    "Action 4: Experiment with running a small, open-source LLM locally (e.g., using Ollama or Llama.cpp) for personal use cases like summarizing articles, generating code snippets, or brainstorming ideas, without sending any data to external services."
+    "Action 1: Experiment with Local LLMs. Download and run a small LLM (e.g., Phi-3, Llama 2 7B) locally using tools like Ollama or Llama.cpp. Try basic tasks like code explanation or text summarization to understand its capabilities and resource requirements firsthand.",
+    "Action 2: Automate a Single Manual Task. Identify one recurring, manual task in your daily workflow (e.g., generating boilerplate for a new project, sending a routine email, deploying a static site) and write a script or integrate an existing tool to automate it. Focus on gaining back small pockets of time.",
+    "Action 3: Audit Your AI Tool Usage. Take 15 minutes to reflect on how you're currently using AI tools (e.g., ChatGPT, GitHub Copilot). Identify one area where you could shift to a more local/private solution if sensitive data is involved, or where you could use AI more effectively to offload cognitive burden.",
+    "Action 4: Deepen Terminal Proficiency. Spend 15 minutes each day for a week learning a new useful command-line tool, alias, or shell trick (e.g., `jq` for JSON processing, `fzf` for fuzzy finding, custom `git` aliases). Focus on improving efficiency directly from your terminal."
   ]
 }
