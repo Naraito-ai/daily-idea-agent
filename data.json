@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-25 10:19:16",
+  "last_updated": "2026-10-26 11:45:51",
   "scraped_sources": {
     "github": [
       {
         "name": "mafdet",
         "owner": "TheLastOxygen",
         "description": "You type. It already knows. Local LLMs that read and think while you type.",
-        "stars": 52,
+        "stars": 56,
         "url": "https://github.com/TheLastOxygen/mafdet",
         "category": "AI / ML"
       },
@@ -14,7 +14,7 @@
         "name": "decisionformer",
         "owner": "FrontiersMindAI",
         "description": "Transformers for decision models: fine-tune, load and serve calibrated decsion-model on any Hugging Face model.",
-        "stars": 34,
+        "stars": 35,
         "url": "https://github.com/FrontiersMindAI/decisionformer",
         "category": "AI / ML"
       },
@@ -22,7 +22,7 @@
         "name": "nlp-for-machine-learning-bootcamp",
         "owner": "somastllc",
         "description": "NLP for Machine Learning Bootcamp.",
-        "stars": 22,
+        "stars": 27,
         "url": "https://github.com/somastllc/nlp-for-machine-learning-bootcamp",
         "category": "AI / ML"
       },
@@ -35,26 +35,26 @@
         "category": "AI / ML"
       },
       {
-        "name": "Machine-learning-pipeline",
-        "owner": "recranvvi5c",
-        "description": "Reproducible text-classification pipeline - Hydra configs, DVC data, MLflow tracking and a scikit-learn grid search.",
+        "name": "groot",
+        "owner": "leofmarciano",
+        "description": "🌳 Groot 1 — open typed-decision model. Calibrated choice/score/yes-no answers over 64k-token states, System One API compatible, with a pure Bend engine. Beats Jev on zero-shot Folha news (87.8% vs 85.8%) and typed decisions (75.3% vs 73.7%).",
         "stars": 12,
-        "url": "https://github.com/recranvvi5c/Machine-learning-pipeline",
+        "url": "https://github.com/leofmarciano/groot",
         "category": "AI / ML"
       },
       {
-        "name": "bili-cli",
-        "owner": "kukemc",
-        "description": "为 AI Agent 设计的哔哩哔哩命令行工具：扫码登录、看视频、评论、私信、发动态、投稿，全部 JSON 输出",
-        "stars": 203,
-        "url": "https://github.com/kukemc/bili-cli",
+        "name": "whatsapp-mcp-server",
+        "owner": "heitorcarvalhohlbryzeis6-cloud",
+        "description": "WhatsApp MCP Server for AI Agents - TypeScript, Baileys and Cloud API",
+        "stars": 58,
+        "url": "https://github.com/heitorcarvalhohlbryzeis6-cloud/whatsapp-mcp-server",
         "category": "Automation / Productivity"
       },
       {
         "name": "omni2api",
         "owner": "Juwan-Hwang",
         "description": "Anything to API (万物皆可2API): put an AI agent, a script, or even yourself behind an OpenAI-compatible API",
-        "stars": 37,
+        "stars": 40,
         "url": "https://github.com/Juwan-Hwang/omni2api",
         "category": "Automation / Productivity"
       },
@@ -62,69 +62,64 @@
         "name": "grokbot-dsh-orchestrator-vn",
         "owner": "diginno-net",
         "description": "Biến Grok Bot thành lớp điều phối, DeepSeek Harness làm worker giá rẻ — tiết kiệm quota, chạy liên tục",
-        "stars": 23,
+        "stars": 24,
         "url": "https://github.com/diginno-net/grokbot-dsh-orchestrator-vn",
         "category": "Automation / Productivity"
       },
       {
-        "name": "factorio-admin-command-center",
-        "owner": "Loyaltystone",
-        "description": "Factorio Admin Command Center for Windows with cheat mode, editor tools, instant building, indestructible structures, map reveal and infinite resources.",
-        "stars": 14,
-        "url": "https://github.com/Loyaltystone/factorio-admin-command-center",
+        "name": "EasyRun",
+        "owner": "Zolohacker",
+        "description": "EasyRun：基于 Go、React 与 PostgreSQL 的智能闪动校园代跑平台 可个人/商业使用",
+        "stars": 17,
+        "url": "https://github.com/Zolohacker/EasyRun",
         "category": "Automation / Productivity"
       },
       {
         "name": "discord-streamer",
         "owner": "lawerth",
         "description": "📺 Level up your Discord Streaming Badge",
-        "stars": 14,
+        "stars": 15,
         "url": "https://github.com/lawerth/discord-streamer",
         "category": "Automation / Productivity"
       }
     ],
     "hacker_news": [
       {
-        "title": "Cerebras Deploys Trillion-Parameter AI Models",
-        "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-        "score": 171
+        "title": "Birdwatching rewires the brain and slows cognitive decline",
+        "url": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline",
+        "score": 82
       },
       {
-        "title": "Rewriting a Commercial Engine in Jai",
-        "url": "https://polygonjs.com/blog/why-i-rewrote-polygon-from-scratch",
-        "score": 20
-      },
-      {
-        "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-        "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-        "score": 370
+        "title": "IBM CEO says open weight models are now good and cheap on-prem",
+        "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
+        "score": 283
       }
     ],
     "arxiv": [
       {
-        "title": "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success",
-        "summary": "Robotic foundation models are typically evaluated through costly closed-loop rollouts, which motivates cheap offline proxies for model capability. The Platonic Representation Hypothesis (PRH) suggests...",
-        "url": "http://arxiv.org/abs/2610.31670v1"
+        "title": "The Language of Instruction: Genre and Generative AI",
+        "summary": "This article argues that instruction-fine-tuned language models should be understood as implementing a genre, what is proposed as the instructional-conversational genre. This genre is an amalgamation ...",
+        "url": "http://arxiv.org/abs/2610.32982v1"
       },
       {
-        "title": "Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversity in Test-Time Reasoning",
-        "summary": "Test-time scaling has emerged as a key inference strategy for reasoning models, where a model generates a large number of candidate solutions in the hope of finding at least one correct solution. Runn...",
-        "url": "http://arxiv.org/abs/2610.31667v1"
+        "title": "SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Learning",
+        "summary": "Training generalizable embodied agents requires realistic, varied, and simulation-ready indoor environments. Language-guided methods support semantic planning and object-level reasoning, but precise s...",
+        "url": "http://arxiv.org/abs/2610.32978v1"
       },
       {
-        "title": "Phase Transition from Random Features to Fully Trainable Networks",
-        "summary": "Constructing accurate and computationally tractable approximation spaces is a fundamental task in scientific computing. Partially trainable neural networks bridge fixed random features and fully adapt...",
-        "url": "http://arxiv.org/abs/2610.31663v1"
+        "title": "RobustRLlib: A Unified Library and Benchmark for Robust Reinforcement Learning Algorithms",
+        "summary": "Robust reinforcement learning (RL) is critical for reliable real-world deployment, where policies may fail under diverse shifts and disruptions. Existing robust RL algorithms offer a rich set of mecha...",
+        "url": "http://arxiv.org/abs/2610.32971v1"
       },
       {
-        "title": "Reliable AI-Assisted Decisions via Selective Auditing",
-        "summary": "We consider online monitoring of an AI system that produces a sequence of decisions. At each round, the system outputs a proposed decision together with a confidence score estimating the trustworthine...",
-        "url": "http://arxiv.org/abs/2610.31662v1"
+        "title": "DexPort: A Hand-Held Skill Interface for Dexterous Hand Data Collection",
+        "summary": "Collecting high-quality demonstrations remains a central bottleneck for learning dexterous manipulation. Teleoperation records executable robot actions, but it requires a complete robot setup and plac...",
+        "url": "http://arxiv.org/abs/2610.32969v1"
       },
       {
-        "title": "SpectralCanary: Embarrassingly Simple Low-Frequency Traces for T2I Dataset-Use Auditing",
-        "summary": "Auditing whether a text-to-image (T2I) model was fine-tuned on a particular image collection is difficult: a model can absorb collection-level visual characteristics without reproducing training image...",
-        "url": "http://arxiv.org/abs/2610.31659v1"
+        "title": "Flownomaly: Single-Step Conditional-Mean Recovery for Few-Shot Anomaly Detection",
+        "summary": "Few-shot industrial anomaly detection requires modeling category-specific normality from only a handful of defect-free images. Common approaches tie inference to stored exemplars, impose rigid linear ...",
+        "url": "http://arxiv.org/abs/2610.32964v1"
       }
     ],
     "devto": [
@@ -132,19 +127,13 @@
         "title": "How to publish posts via the dev.to API",
         "description": "Every time I copied a post into the dev.to editor, added tags and cleaned up the formatting, I'd...",
         "url": "https://dev.to/julies1/how-to-publish-posts-via-the-devto-api-2fkd",
-        "reactions": 29
+        "reactions": 31
       },
       {
         "title": "AI Made Coding Cheaper. So Why Is Building Software Still So Expensive?",
         "description": "I can generate a full authentication flow with a database schema, API routes, and unit tests in under...",
         "url": "https://dev.to/harsh2644/ai-made-coding-cheaper-so-why-is-building-software-still-so-expensive-59m",
-        "reactions": 45
-      },
-      {
-        "title": "The Terminal Made Me a Better Developer (And Not for the Reasons I Expected)",
-        "description": "When I first started using the terminal, sure, it was useful. I could navigate around directories,...",
-        "url": "https://dev.to/sizzlebop/the-terminal-made-me-a-better-developer-and-not-for-the-reasons-i-expected-nn6",
-        "reactions": 60
+        "reactions": 59
       },
       {
         "title": "What Do You Make When You Can Make Anything?",
@@ -153,83 +142,89 @@
         "reactions": 30
       },
       {
-        "title": "The Verification Trap: Why Generative AI Is Making Senior Engineers Slower (and How to Fix It)",
-        "description": "The Verification Trap: Why Generative AI Is Making Senior Engineers Slower (and How to Fix...",
-        "url": "https://dev.to/debashish_ghosal/the-verification-trap-why-generative-ai-is-making-senior-engineers-slower-and-how-to-fix-it-245m",
-        "reactions": 17
+        "title": "\"Build in Public\" Is Everywhere. Does It Actually Get You Customers? 🤔",
+        "description": "What founders report, what that evidence can't prove, and a four-week experiment you can run on your...",
+        "url": "https://dev.to/startupcafe/build-in-public-is-everywhere-does-it-actually-get-you-customers-2hlh",
+        "reactions": 52
+      },
+      {
+        "title": "Persistent Agent Teams: Recreating the Grok Bot Experience with Herdr, Claude Code and Pi",
+        "description": "Persistent agents and agent teams truly caught my attention when I tried Grok Bot. Publicly, Grok...",
+        "url": "https://dev.to/maximsaplin/persistent-agent-teams-recreating-the-grok-bot-experience-with-herdr-claude-code-and-pi-2aea",
+        "reactions": 14
       }
     ]
   },
-  "trends": "Today's tech landscape is defined by the rapid evolution of AI towards agentic and context-aware systems, often with a focus on local, privacy-preserving deployments. There's significant innovation in operationalizing and optimizing AI, including robust MLOps pipelines, model orchestration for efficiency, and the deployment of massive frontier models. Concurrently, there's a strong emphasis on addressing the human-AI interface, ensuring reliability, trustworthiness, and auditability in AI-assisted decisions, particularly as AI impacts job markets and developer productivity. The developer community is increasingly leveraging advanced tooling, command-line interfaces, and API-driven automation to enhance workflows, while grappling with the 'verification trap' that can arise from integrating generative AI.",
+  "trends": "Today's tech landscape is significantly shaped by the increasing accessibility and utility of AI, particularly in local and agentic capacities. We're seeing a strong movement towards running powerful open-weight language models (LLMs) on-premises, driven by cost-efficiency and privacy. This enables sophisticated AI agents that can not only generate text but also make calibrated decisions, interact with communication platforms like WhatsApp, and orchestrate complex workflows by wrapping any script or logic into an OpenAI-compatible API. The focus is shifting from raw AI power to practical, robust, and reliable AI applications that streamline development, automate repetitive tasks, and assist in specialized data collection for fields like embodied learning and anomaly detection. There's a clear emphasis on effective human-AI interaction through instructional fine-tuning and tools that ease the bottleneck of data annotation.",
   "ideas": [
     {
-      "title": "Local Contextual AI Co-Pilot for Developers",
-      "difficulty": "Medium",
-      "estimated_hours": 40,
-      "description": "A desktop application (or IDE extension) that leverages a local, quantized LLM (e.g., Llama.cpp based models) to provide real-time, context-aware assistance. Unlike cloud-based solutions, all data processing occurs locally, ensuring privacy. It would analyze the user's active document (code, Markdown, plain text) and offer relevant suggestions for code completion, documentation generation (docstrings, comments), summarizing complex code blocks, or drafting natural language responses based on nearby textual context. The core value is privacy, instant responsiveness, and tailored assistance without data egress.",
-      "tech_stack": [
-        "Python (backend for LLM inference)",
-        "Llama.cpp",
-        "Quantized Open-Source LLM (e.g., Code Llama)",
-        "Electron/TypeScript (desktop app) or VS Code API (extension)"
-      ],
-      "source_inspiration": "mafdet (Local LLMs that read and think while you type.), omni2api (making anything API-accessible, hinting at local processing), The Terminal Made Me a Better Developer (empowering local tools), AI Made Coding Cheaper... (improving dev velocity).",
-      "steps": [
-        "Task 1: Research and select a suitable quantized open-source LLM for local inference (e.g., from Hugging Face for Llama.cpp). Set up a local inference server.",
-        "Task 2: Develop a component to extract text content and basic structural context (e.g., function definitions, classes) from the active window/IDE editor.",
-        "Task 3: Design effective prompt templates to feed the extracted context to the local LLM for desired tasks (summarization, docstring generation, completion) and integrate with the local inference server.",
-        "Task 4: Create a minimal desktop application (e.g., Electron) or IDE extension (e.g., VS Code) to display suggestions or actions from the LLM based on user input or hotkeys.",
-        "Task 5: Implement a feedback mechanism for users to accept/reject suggestions, using this data to refine local prompt templates or fine-tune model parameters."
-      ]
-    },
-    {
-      "title": "Adaptive Workflow Decision Engine",
-      "difficulty": "Hard",
-      "estimated_hours": 80,
-      "description": "A personalized AI agent that learns a developer's habitual decision patterns across various tools (Git, project management boards like Jira/Trello, CI/CD systems, communication platforms like Slack). It uses a 'decision transformer' or similar sequence model to predict and suggest optimal next actions (e.g., 'This PR looks ready for merge, tag @reviewer?', 'This bug report is similar to XYZ, suggest linking/closing?', 'Auto-create a branch for feature XYZ?'). The engine would expose its capabilities via an OpenAI-compatible API (omni2api style) for easy integration with existing agent frameworks or custom scripts, allowing for both suggestions and autonomous action based on learned confidence thresholds, aiming to reduce cognitive load and standardize common workflows.",
-      "tech_stack": [
-        "Python (core engine)",
-        "FastAPI (OpenAI-compatible API)",
-        "Hugging Face Transformers (for decision model)",
-        "Apache Kafka/RabbitMQ (event streaming for data collection)",
-        "PostgreSQL (data storage for user actions/decisions)",
-        "Integrations via APIs (GitHub, Jira, Slack, Jenkins/GitHub Actions)"
-      ],
-      "source_inspiration": "decisionformer (Transformers for decision models), omni2api (Anything to API), grokbot-dsh-orchestrator-vn (agent orchestration), Machine-learning-pipeline (reproducible automation).",
-      "steps": [
-        "Task 1: Develop connectors/webhooks to capture developer actions and decisions from various services (e.g., Git commits, PR merges, issue status changes, Slack messages). Store this data, timestamped and contextualized.",
-        "Task 2: Design features to represent developer context and actions as sequences suitable for a transformer model, including embeddings of text data (issue descriptions, commit messages) and categorical features for actions/states.",
-        "Task 3: Adapt a transformer architecture (or use a dedicated 'decisionformer') to predict sequences of actions or optimal decisions given current context. Train the model on collected historical data for a specific user/team.",
-        "Task 4: Implement a FastAPI or similar server that exposes the decision model as an OpenAI-compatible API endpoint, allowing other agents or scripts to query it for suggested actions or automate tasks.",
-        "Task 5: Build a system for users to explicitly accept or reject suggested decisions, continuously feeding this feedback back into the model for reinforcement learning or re-training."
-      ]
-    },
-    {
-      "title": "Auditable Code Quality Agent with Trust Scores",
+      "title": "Local AI-Powered Contextual Assistant",
       "difficulty": "Medium",
       "estimated_hours": 60,
-      "description": "A pre-commit hook or CI/CD stage agent that uses AI to analyze code changes for potential issues beyond standard linters. This includes detecting anti-patterns, suggesting refactorings based on common best practices, identifying potential security vulnerabilities (e.g., common injection points), and ensuring adherence to team-specific architectural guidelines. Crucially, each suggestion comes with a 'trust score' (confidence) and a brief, human-readable explanation of *why* the suggestion is made, linking to documentation or examples. This addresses the 'Verification Trap' by empowering senior engineers to quickly audit AI suggestions and provides junior developers with educational context.",
+      "description": "Develop a desktop application that leverages a locally run open-weight LLM (e.g., a quantized Llama model) to provide real-time, context-aware assistance. This assistant would monitor user input across applications (e.g., text editors, IDEs, web forms) and offer smart suggestions, code snippets, grammar corrections, or even proactive decision prompts based on the surrounding text. For instance, in an IDE, it could suggest variable names or function implementations; in an email, it could refine phrasing; or when writing a report, it could flag inconsistencies or suggest related data points. A simple, fine-tuned decision model could augment the LLM by offering calibrated binary or multi-choice answers for specific user queries.",
       "tech_stack": [
-        "Python (core agent)",
-        "AST parsing libraries (e.g., ast, Tree-sitter)",
-        "Open-source LLM (e.g., Code Llama, fine-tuned on code patterns)",
-        "Vector database (e.g., Chroma, FAISS) for knowledge retrieval",
-        "Git (pre-commit hooks) or CI/CD platform (e.g., GitHub Actions)"
+        "Python (for backend logic, LLM inference via llama-cpp-python)",
+        "Electron/Tauri (for desktop application UI and OS-level interactions)",
+        "Local LLM (e.g., Llama-2-7B-GGUF or similar quantized model)",
+        "Flask/FastAPI (for internal micro-service communication if needed)"
       ],
-      "source_inspiration": "Reliable AI-Assisted Decisions via Selective Auditing (confidence scores), SpectralCanary (auditing techniques), The Verification Trap (AI slowing down seniors), AI Made Coding Cheaper... (AI for coding).",
+      "source_inspiration": "GitHub: `mafdet`, `decisionformer`, `groot`; Hacker News: \"IBM CEO says open weight models are now good and cheap on-prem\"; arXiv: \"The Language of Instruction: Genre and Generative AI\"",
       "steps": [
-        "Task 1: Implement code parsers (AST-based or semantic) for target languages to extract function definitions, variable usages, control flow, and identify common structures from code changes.",
-        "Task 2: Curate a knowledge base of best practices, common anti-patterns, security guidelines, and team-specific rules. Store these as text descriptions and code examples, potentially embedded for retrieval.",
-        "Task 3: Integrate a general code LLM. Fine-tune it (or use advanced prompt engineering with RAG) to compare incoming code against the knowledge base and generate context-aware suggestions.",
-        "Task 4: Develop a mechanism (e.g., semantic similarity to known good patterns, or LLM's self-assessment) to assign a 'trust score' to each suggestion and generate a concise, explanatory rationale.",
-        "Task 5: Implement the agent as a pre-commit hook (e.g., using pre-commit.com) or a CI/CD pipeline step, outputting suggestions with scores and explanations in a review-friendly format (e.g., Markdown, JSON)."
+        "Task 1: Set up a local LLM inference server using `llama-cpp-python` and a chosen quantized open-weight model.",
+        "Task 2: Develop a desktop application shell (e.g., with Electron or Tauri) capable of monitoring user input/clipboard on the OS level.",
+        "Task 3: Implement context extraction logic to send relevant snippets of user input to the local LLM.",
+        "Task 4: Design a clean, non-intrusive UI element within the desktop app to display LLM-generated suggestions.",
+        "Task 5: Implement prompt engineering techniques to guide the LLM's responses for different contexts (e.g., code, email, general writing).",
+        "Task 6: Develop a lightweight, fine-tuned decision model (e.g., a simple BERT-based classifier) and integrate its output for specific decision-making prompts."
+      ]
+    },
+    {
+      "title": "Omni-API Agent Gateway for Custom Workflows",
+      "difficulty": "Medium",
+      "estimated_hours": 40,
+      "description": "Build a versatile 'Omni-API' service that allows developers to expose any custom script, command-line tool, or even a simple human instruction set as an OpenAI-compatible API endpoint. This gateway would enable seamless integration of bespoke functionalities with larger AI systems or automated workflows. Users could define an 'agent' by specifying its input schema, execution command/script, and output format. The gateway then handles request routing, execution (potentially in isolated environments like Docker containers), and response formatting. This democratizes the creation of specialized AI 'tools' and facilitates the orchestration of complex tasks using cheaper or custom models, mimicking the flexibility of platforms like Grok Bot with DeepSeek Harness workers.",
+      "tech_stack": [
+        "Python (FastAPI for API backend, subprocess for script execution)",
+        "Docker (for sandboxed agent execution)",
+        "PostgreSQL (for storing agent definitions and execution logs)",
+        "React/Vue.js (for a web-based UI to define and manage agents)"
+      ],
+      "source_inspiration": "GitHub: `omni2api`, `grokbot-dsh-orchestrator-vn`, `whatsapp-mcp-server`; Dev.to: \"Persistent Agent Teams: Recreating the Grok Bot Experience...\"",
+      "steps": [
+        "Task 1: Design and implement a FastAPI backend to serve as the core API gateway.",
+        "Task 2: Create a data model for agent definitions, including name, description, input parameters (JSON schema), and the command/script to execute.",
+        "Task 3: Develop a secure execution environment for agents, ideally using Docker containers to isolate and manage script execution.",
+        "Task 4: Implement an OpenAI-compatible API wrapper dynamically for each defined agent, translating incoming requests to agent execution and responses back to the OpenAI format.",
+        "Task 5: Build a simple web-based UI where users can define, test, and view the status of their custom agents.",
+        "Task 6: Implement robust logging and error handling for agent executions and API interactions."
+      ]
+    },
+    {
+      "title": "AI-Assisted Active Learning Annotator for Few-Shot Data",
+      "difficulty": "Hard",
+      "estimated_hours": 80,
+      "description": "Create a web-based data annotation platform specifically designed to optimize the human labeling effort for few-shot learning scenarios (e.g., industrial anomaly detection, specialized robotic actions, or niche text classification). The tool would incorporate active learning strategies: after a small initial set of human labels, an integrated AI model (e.g., a small classifier or embedding model) would analyze the unlabeled data and intelligently suggest which samples the human should label next (e.g., those where the model is most uncertain, or those that represent diverse clusters). This significantly reduces the total number of labels required, accelerates data collection, and improves model robustness with less effort.",
+      "tech_stack": [
+        "Python (FastAPI/Django for backend, scikit-learn/PyTorch/TensorFlow for active learning models)",
+        "React/Vue.js (for a highly interactive frontend annotation interface)",
+        "PostgreSQL/MongoDB (for storing diverse data types and annotations)",
+        "Docker (for deployment and environment consistency)"
+      ],
+      "source_inspiration": "arXiv: `Flownomaly`, `DexPort`, `RobustRLlib`, `SceneBloom`",
+      "steps": [
+        "Task 1: Develop a robust backend to handle various data types (images, text, structured data) and manage annotations, including versioning.",
+        "Task 2: Design and implement a user-friendly and highly responsive web-based annotation interface capable of displaying different data types.",
+        "Task 3: Implement core data import functionality and allow for initial 'seed' labeling for few-shot scenarios.",
+        "Task 4: Integrate a machine learning model (e.g., a simple classifier or an embedding model) that can be trained on a small labeled dataset.",
+        "Task 5: Implement active learning sampling strategies (e.g., uncertainty sampling, query-by-committee, diversity sampling) to suggest optimal samples for human review.",
+        "Task 6: Add features for model iteration, allowing the annotator to retrain the active learning model periodically and visualize its performance metrics (e.g., F1 score, uncertainty distribution)."
       ]
     }
   ],
   "quick_actions": [
-    "Action 1: Master Your Terminal & Command-Line Tools: Dedicate 15 minutes daily this week to exploring new CLI tools, aliases, or shell scripting techniques to enhance your local development workflow and automation capabilities.",
-    "Action 2: Experiment with Local LLMs for Coding: Download and run a local, quantized code LLM (e.g., via Llama.cpp) on your machine. Spend 30 minutes trying out basic prompts for code completion, documentation generation, or simple refactorings to understand its capabilities in a private environment.",
-    "Action 3: Identify 3 Repetitive Tasks for API Automation: Review your daily/weekly workflow and list three tasks (e.g., reporting, data entry, content publishing) that could potentially be automated using existing APIs. Research if those services offer an API and sketch out a basic automation script.",
-    "Action 4: Practice Critical AI Output Verification: For any AI-generated code or text you use, consciously spend an extra 5 minutes verifying its correctness, security implications, and adherence to your standards. Reflect on *why* you trust or distrust certain parts, acknowledging the 'Verification Trap'."
+    "Action 1: Dedicate 1-2 hours this week to download and run a local open-weight LLM (e.g., a GGUF model via `llama.cpp` or Ollama). Experiment with basic prompts for code generation, summarization, or creative writing to understand its capabilities and resource requirements.",
+    "Action 2: Identify one repetitive personal or development task you currently do manually (e.g., converting a file format, generating a specific report, or posting to a social media account). Write a small Python script to automate it, then wrap that script with a minimalist Flask or FastAPI endpoint to practice API creation.",
+    "Action 3: Spend 30 minutes researching one popular AI agent orchestration framework (e.g., LangChain, CrewAI, Autogen). Understand its core components (agents, tools, memory, prompt templates) and how it enables multi-agent cooperation, envisioning how you might use it for a larger project.",
+    "Action 4: Before your next coding task, take 5 minutes to define the desired 'intent' or outcome clearly. Then, break down how an AI agent, leveraging various tools (APIs, scripts), could achieve this intent. This helps shift your mindset towards agent-oriented problem-solving and higher-level automation."
   ]
 }
