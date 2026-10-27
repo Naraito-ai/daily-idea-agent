@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-26 11:45:51",
+  "last_updated": "2026-10-27 11:12:26",
   "scraped_sources": {
     "github": [
       {
         "name": "mafdet",
         "owner": "TheLastOxygen",
         "description": "You type. It already knows. Local LLMs that read and think while you type.",
-        "stars": 56,
+        "stars": 62,
         "url": "https://github.com/TheLastOxygen/mafdet",
         "category": "AI / ML"
       },
@@ -14,24 +14,8 @@
         "name": "decisionformer",
         "owner": "FrontiersMindAI",
         "description": "Transformers for decision models: fine-tune, load and serve calibrated decsion-model on any Hugging Face model.",
-        "stars": 35,
+        "stars": 39,
         "url": "https://github.com/FrontiersMindAI/decisionformer",
-        "category": "AI / ML"
-      },
-      {
-        "name": "nlp-for-machine-learning-bootcamp",
-        "owner": "somastllc",
-        "description": "NLP for Machine Learning Bootcamp.",
-        "stars": 27,
-        "url": "https://github.com/somastllc/nlp-for-machine-learning-bootcamp",
-        "category": "AI / ML"
-      },
-      {
-        "name": "humanitys-last-math-book",
-        "owner": "niuniu-869",
-        "description": "人类最后一本数理基础书：从中学数学到读懂大模型，一本随读者提问不断迭代的开源教材，附 dsh 答疑插件 · Humanity's Last Math Book",
-        "stars": 15,
-        "url": "https://github.com/niuniu-869/humanitys-last-math-book",
         "category": "AI / ML"
       },
       {
@@ -41,6 +25,30 @@
         "stars": 12,
         "url": "https://github.com/leofmarciano/groot",
         "category": "AI / ML"
+      },
+      {
+        "name": "computer-vision-engineering",
+        "owner": "usamahz",
+        "description": "A reading path for computer vision engineering, from photon to production. Primary sources in dependency order, evidence-graded claims, and a runnable benchmark per section.",
+        "stars": 11,
+        "url": "https://github.com/usamahz/computer-vision-engineering",
+        "category": "AI / ML"
+      },
+      {
+        "name": "Machine-learning-pipeline",
+        "owner": "recranvvi5c",
+        "description": "Reproducible text-classification pipeline - Hydra configs, DVC data, MLflow tracking and a scikit-learn grid search.",
+        "stars": 7,
+        "url": "https://github.com/recranvvi5c/Machine-learning-pipeline",
+        "category": "AI / ML"
+      },
+      {
+        "name": "ruyiJS",
+        "owner": "martinkeith700",
+        "description": "Run any site  from Python with the real mini AI headless browser , bypass any security anti-crawler , get the data and token you want",
+        "stars": 392,
+        "url": "https://github.com/martinkeith700/ruyiJS",
+        "category": "Automation / Productivity"
       },
       {
         "name": "whatsapp-mcp-server",
@@ -54,72 +62,69 @@
         "name": "omni2api",
         "owner": "Juwan-Hwang",
         "description": "Anything to API (万物皆可2API): put an AI agent, a script, or even yourself behind an OpenAI-compatible API",
-        "stars": 40,
+        "stars": 41,
         "url": "https://github.com/Juwan-Hwang/omni2api",
         "category": "Automation / Productivity"
       },
       {
-        "name": "grokbot-dsh-orchestrator-vn",
-        "owner": "diginno-net",
-        "description": "Biến Grok Bot thành lớp điều phối, DeepSeek Harness làm worker giá rẻ — tiết kiệm quota, chạy liên tục",
-        "stars": 24,
-        "url": "https://github.com/diginno-net/grokbot-dsh-orchestrator-vn",
+        "name": "Steal-An-Egg-Respocket-Free-Script",
+        "owner": "Helheimfate42877",
+        "description": "Free keyless Steal An Egg script for PC Fly & Noclip and More",
+        "stars": 32,
+        "url": "https://github.com/Helheimfate42877/Steal-An-Egg-Respocket-Free-Script",
         "category": "Automation / Productivity"
       },
       {
-        "name": "EasyRun",
-        "owner": "Zolohacker",
-        "description": "EasyRun：基于 Go、React 与 PostgreSQL 的智能闪动校园代跑平台 可个人/商业使用",
-        "stars": 17,
-        "url": "https://github.com/Zolohacker/EasyRun",
-        "category": "Automation / Productivity"
-      },
-      {
-        "name": "discord-streamer",
-        "owner": "lawerth",
-        "description": "📺 Level up your Discord Streaming Badge",
-        "stars": 15,
-        "url": "https://github.com/lawerth/discord-streamer",
+        "name": "taunahi-macro",
+        "owner": "TaunahiMacro",
+        "description": "Taunahi is an advanced Hypixel Skyblock macro designed for complete automation. Includes highly optimized utility mods for garden farming, slayers, fishing, and combat, all protected by an industry-leading anti-staff system.",
+        "stars": 31,
+        "url": "https://github.com/TaunahiMacro/taunahi-macro",
         "category": "Automation / Productivity"
       }
     ],
     "hacker_news": [
       {
-        "title": "Birdwatching rewires the brain and slows cognitive decline",
-        "url": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline",
-        "score": 82
+        "title": "Roblox downloaded 145GB models from us (including adult content) without asking",
+        "url": "https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/",
+        "score": 58
       },
       {
-        "title": "IBM CEO says open weight models are now good and cheap on-prem",
-        "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
-        "score": 283
+        "title": "The Mythical Man-Month in the Age of AI",
+        "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+        "score": 175
+      },
+      {
+        "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+        "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+        "score": 723
       }
     ],
     "arxiv": [
       {
-        "title": "The Language of Instruction: Genre and Generative AI",
-        "summary": "This article argues that instruction-fine-tuned language models should be understood as implementing a genre, what is proposed as the instructional-conversational genre. This genre is an amalgamation ...",
-        "url": "http://arxiv.org/abs/2610.32982v1"
+        "title": "Retriever-Free Retrieval: Navigating Documents with Decision Models",
+        "summary": "While language models have become dramatically more capable, retrieval still largely relies on lexical matching or similarity in fixed embedding spaces. This creates a capability asymmetry: what the r...",
+        "url": "http://arxiv.org/abs/2610.35868v1"
       },
       {
-        "title": "SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Learning",
-        "summary": "Training generalizable embodied agents requires realistic, varied, and simulation-ready indoor environments. Language-guided methods support semantic planning and object-level reasoning, but precise s...",
-        "url": "http://arxiv.org/abs/2610.32978v1"
+        "title": "Center-of-Mass Interpretation of Evolution Strategies",
+        "summary": "Evolution strategies (ES) update a model by sampling a population of perturbed copies, scoring each one, and moving in the reward-weighted direction of the perturbations. This update is usually presen...",
+        "url": "http://arxiv.org/abs/2610.35865v1"
       },
       {
-        "title": "RobustRLlib: A Unified Library and Benchmark for Robust Reinforcement Learning Algorithms",
-        "summary": "Robust reinforcement learning (RL) is critical for reliable real-world deployment, where policies may fail under diverse shifts and disruptions. Existing robust RL algorithms offer a rich set of mecha...",
-        "url": "http://arxiv.org/abs/2610.32971v1"
+        "title": "Auto-Research Arena: Benchmarking and Advancing Auto-Research in Language Modeling",
+        "summary": "As autonomous research systems become more capable, benchmarks must both evaluate their performance and support meaningful research progress. We introduce Auto-Research Arena, a multi-target benchmark...",
+        "url": "http://arxiv.org/abs/2610.35866v1"
       },
       {
-        "title": "DexPort: A Hand-Held Skill Interface for Dexterous Hand Data Collection",
-        "summary": "Collecting high-quality demonstrations remains a central bottleneck for learning dexterous manipulation. Teleoperation records executable robot actions, but it requires a complete robot setup and plac...",
-        "url": "http://arxiv.org/abs/2610.32969v1"
+        "title": "Learning Force-Reactive Humanoid Loco-Manipulation",
+        "summary": "Many everyday tasks require controlling contact force as well as motion. On a humanoid, this force must often be coordinated across both hands and the whole body, and cannot be specified by kinematic ...",
+        "url": "http://arxiv.org/abs/2610.35862v1"
       },
       {
-        "title": "Flownomaly: Single-Step Conditional-Mean Recovery for Few-Shot Anomaly Detection",
-        "summary": "Few-shot industrial anomaly detection requires modeling category-specific normality from only a handful of defect-free images. Common approaches tie inference to stored exemplars, impose rigid linear ...",
-        "url": "http://arxiv.org/abs/2610.32964v1"
+        "title": "On the stability of learning",
+        "summary": "Learning algorithms are usually analyzed under the assumption that informative gradients are continuously available. But this is not always true---learning signals in biological neural networks, for e...",
+        "url": "http://arxiv.org/abs/2610.35856v1"
       }
     ],
     "devto": [
@@ -127,13 +132,13 @@
         "title": "How to publish posts via the dev.to API",
         "description": "Every time I copied a post into the dev.to editor, added tags and cleaned up the formatting, I'd...",
         "url": "https://dev.to/julies1/how-to-publish-posts-via-the-devto-api-2fkd",
-        "reactions": 31
+        "reactions": 36
       },
       {
         "title": "AI Made Coding Cheaper. So Why Is Building Software Still So Expensive?",
         "description": "I can generate a full authentication flow with a database schema, API routes, and unit tests in under...",
         "url": "https://dev.to/harsh2644/ai-made-coding-cheaper-so-why-is-building-software-still-so-expensive-59m",
-        "reactions": 59
+        "reactions": 61
       },
       {
         "title": "What Do You Make When You Can Make Anything?",
@@ -148,83 +153,81 @@
         "reactions": 52
       },
       {
-        "title": "Persistent Agent Teams: Recreating the Grok Bot Experience with Herdr, Claude Code and Pi",
-        "description": "Persistent agents and agent teams truly caught my attention when I tried Grok Bot. Publicly, Grok...",
-        "url": "https://dev.to/maximsaplin/persistent-agent-teams-recreating-the-grok-bot-experience-with-herdr-claude-code-and-pi-2aea",
-        "reactions": 14
+        "title": "Dark Factory vs. Light Factory: Where Should AI Agents Run Unwatched?",
+        "description": "\"Code must not be written by humans.\" \"Code must not be reviewed by humans.\"   Those are the two...",
+        "url": "https://dev.to/soaresdiogo/dark-factory-vs-light-factory-where-should-ai-agents-run-unwatched-9po",
+        "reactions": 10
       }
     ]
   },
-  "trends": "Today's tech landscape is significantly shaped by the increasing accessibility and utility of AI, particularly in local and agentic capacities. We're seeing a strong movement towards running powerful open-weight language models (LLMs) on-premises, driven by cost-efficiency and privacy. This enables sophisticated AI agents that can not only generate text but also make calibrated decisions, interact with communication platforms like WhatsApp, and orchestrate complex workflows by wrapping any script or logic into an OpenAI-compatible API. The focus is shifting from raw AI power to practical, robust, and reliable AI applications that streamline development, automate repetitive tasks, and assist in specialized data collection for fields like embodied learning and anomaly detection. There's a clear emphasis on effective human-AI interaction through instructional fine-tuning and tools that ease the bottleneck of data annotation.",
+  "trends": "Today's tech landscape is defined by the rapid evolution of **Agentic AI**, moving beyond static models to autonomous systems capable of real-time reasoning and decision-making, often running locally or integrated into specific workflows. There's a strong emphasis on **advanced automation** that can interact with complex environments, including sophisticated web scraping and game automation, pushing boundaries on anti-detection and resilience. **MLOps and reproducibility** remain critical, with tools emerging to streamline experiment tracking and pipeline management. Finally, AI's profound impact on **developer productivity** is a central theme, prompting discussions on how to leverage AI for cheaper code while addressing the overarching costs of software development, the challenge of 'what to build' in an AI-empowered world, and the ethical considerations of autonomous 'dark factory' agents.",
   "ideas": [
     {
-      "title": "Local AI-Powered Contextual Assistant",
-      "difficulty": "Medium",
-      "estimated_hours": 60,
-      "description": "Develop a desktop application that leverages a locally run open-weight LLM (e.g., a quantized Llama model) to provide real-time, context-aware assistance. This assistant would monitor user input across applications (e.g., text editors, IDEs, web forms) and offer smart suggestions, code snippets, grammar corrections, or even proactive decision prompts based on the surrounding text. For instance, in an IDE, it could suggest variable names or function implementations; in an email, it could refine phrasing; or when writing a report, it could flag inconsistencies or suggest related data points. A simple, fine-tuned decision model could augment the LLM by offering calibrated binary or multi-choice answers for specific user queries.",
+      "title": "Local LLM Contextual Command Line Helper",
+      "difficulty": "Easy",
+      "estimated_hours": 4,
+      "description": "Develop a command-line utility that leverages a locally running LLM (e.g., via Ollama) to provide context-aware assistance. The script will take input from an active file's content or clipboard, send it to the local LLM with a specific prompt (e.g., 'summarize this', 'suggest improvements', 'explain this code'), and print the AI's response. This empowers developers with immediate, privacy-preserving AI insights directly in their terminal workflows.",
       "tech_stack": [
-        "Python (for backend logic, LLM inference via llama-cpp-python)",
-        "Electron/Tauri (for desktop application UI and OS-level interactions)",
-        "Local LLM (e.g., Llama-2-7B-GGUF or similar quantized model)",
-        "Flask/FastAPI (for internal micro-service communication if needed)"
+        "Python",
+        "Ollama",
+        "requests",
+        "subprocess"
       ],
-      "source_inspiration": "GitHub: `mafdet`, `decisionformer`, `groot`; Hacker News: \"IBM CEO says open weight models are now good and cheap on-prem\"; arXiv: \"The Language of Instruction: Genre and Generative AI\"",
+      "source_inspiration": "mafdet (Local LLMs that read and think while you type), groot (open typed-decision model), The Mythical Man-Month in the Age of AI (developer productivity).",
       "steps": [
-        "Task 1: Set up a local LLM inference server using `llama-cpp-python` and a chosen quantized open-weight model.",
-        "Task 2: Develop a desktop application shell (e.g., with Electron or Tauri) capable of monitoring user input/clipboard on the OS level.",
-        "Task 3: Implement context extraction logic to send relevant snippets of user input to the local LLM.",
-        "Task 4: Design a clean, non-intrusive UI element within the desktop app to display LLM-generated suggestions.",
-        "Task 5: Implement prompt engineering techniques to guide the LLM's responses for different contexts (e.g., code, email, general writing).",
-        "Task 6: Develop a lightweight, fine-tuned decision model (e.g., a simple BERT-based classifier) and integrate its output for specific decision-making prompts."
+        "Install Ollama and download a small local LLM (e.g., `ollama run llama2`).",
+        "Write a Python script that can read content from a specified file path or the system clipboard.",
+        "Implement a function to send the captured content to the local Ollama API endpoint with a chosen system message and user prompt.",
+        "Parse the JSON response from Ollama and extract the generated text, then print it to the console.",
+        "Add basic command-line argument parsing (e.g., `--file <path>`, `--clipboard`, `--prompt '...'`)."
       ]
     },
     {
-      "title": "Omni-API Agent Gateway for Custom Workflows",
-      "difficulty": "Medium",
-      "estimated_hours": 40,
-      "description": "Build a versatile 'Omni-API' service that allows developers to expose any custom script, command-line tool, or even a simple human instruction set as an OpenAI-compatible API endpoint. This gateway would enable seamless integration of bespoke functionalities with larger AI systems or automated workflows. Users could define an 'agent' by specifying its input schema, execution command/script, and output format. The gateway then handles request routing, execution (potentially in isolated environments like Docker containers), and response formatting. This democratizes the creation of specialized AI 'tools' and facilitates the orchestration of complex tasks using cheaper or custom models, mimicking the flexibility of platforms like Grok Bot with DeepSeek Harness workers.",
+      "title": "Micro-Agent API Wrapper for Any Script",
+      "difficulty": "Easy",
+      "estimated_hours": 4,
+      "description": "Create a lightweight FastAPI application that acts as an 'anything-to-API' gateway for simple Python scripts. The API will accept a script as a string or path, along with arguments, execute it in a safe, isolated manner (e.g., using `subprocess` with timeout), and return its standard output/error in a structured JSON format, mimicking an OpenAI-compatible response. This allows easily exposing custom automation or data processing logic as a callable API endpoint for other services or AI orchestrators.",
       "tech_stack": [
-        "Python (FastAPI for API backend, subprocess for script execution)",
-        "Docker (for sandboxed agent execution)",
-        "PostgreSQL (for storing agent definitions and execution logs)",
-        "React/Vue.js (for a web-based UI to define and manage agents)"
+        "Python",
+        "FastAPI",
+        "subprocess",
+        "tempfile"
       ],
-      "source_inspiration": "GitHub: `omni2api`, `grokbot-dsh-orchestrator-vn`, `whatsapp-mcp-server`; Dev.to: \"Persistent Agent Teams: Recreating the Grok Bot Experience...\"",
+      "source_inspiration": "omni2api (Anything to API), whatsapp-mcp-server (AI Agents), Dev.to: 'Dark Factory vs. Light Factory'.",
       "steps": [
-        "Task 1: Design and implement a FastAPI backend to serve as the core API gateway.",
-        "Task 2: Create a data model for agent definitions, including name, description, input parameters (JSON schema), and the command/script to execute.",
-        "Task 3: Develop a secure execution environment for agents, ideally using Docker containers to isolate and manage script execution.",
-        "Task 4: Implement an OpenAI-compatible API wrapper dynamically for each defined agent, translating incoming requests to agent execution and responses back to the OpenAI format.",
-        "Task 5: Build a simple web-based UI where users can define, test, and view the status of their custom agents.",
-        "Task 6: Implement robust logging and error handling for agent executions and API interactions."
+        "Set up a basic FastAPI application and define a `POST` endpoint (e.g., `/v1/agents/run`).",
+        "Design the request body to accept a `script_content` (string) and a list of `script_args` (strings).",
+        "Implement logic to save the `script_content` to a temporary `.py` file.",
+        "Use `subprocess.run` to execute the temporary script with the provided arguments, capturing `stdout` and `stderr`.",
+        "Return the captured output in a JSON response, formatted similarly to an OpenAI chat completion (e.g., `{\"choices\": [{\"message\": {\"content\": \"...\"}}]}`)."
       ]
     },
     {
-      "title": "AI-Assisted Active Learning Annotator for Few-Shot Data",
-      "difficulty": "Hard",
-      "estimated_hours": 80,
-      "description": "Create a web-based data annotation platform specifically designed to optimize the human labeling effort for few-shot learning scenarios (e.g., industrial anomaly detection, specialized robotic actions, or niche text classification). The tool would incorporate active learning strategies: after a small initial set of human labels, an integrated AI model (e.g., a small classifier or embedding model) would analyze the unlabeled data and intelligently suggest which samples the human should label next (e.g., those where the model is most uncertain, or those that represent diverse clusters). This significantly reduces the total number of labels required, accelerates data collection, and improves model robustness with less effort.",
+      "title": "ML Experiment Metadata Snapshotter",
+      "difficulty": "Easy",
+      "estimated_hours": 4,
+      "description": "Build a standalone Python utility that generates a comprehensive metadata snapshot for Machine Learning experiments. When executed before an ML training run, it will automatically capture and record the current Git commit hash, the Python environment's dependencies (e.g., `pip freeze`), and a recursive hash of a specified input data directory. This snapshot is saved as a JSON file, providing a quick and effective way to ensure basic reproducibility of ML experiments without requiring a full MLOps platform.",
       "tech_stack": [
-        "Python (FastAPI/Django for backend, scikit-learn/PyTorch/TensorFlow for active learning models)",
-        "React/Vue.js (for a highly interactive frontend annotation interface)",
-        "PostgreSQL/MongoDB (for storing diverse data types and annotations)",
-        "Docker (for deployment and environment consistency)"
+        "Python",
+        "subprocess",
+        "hashlib",
+        "json",
+        "os"
       ],
-      "source_inspiration": "arXiv: `Flownomaly`, `DexPort`, `RobustRLlib`, `SceneBloom`",
+      "source_inspiration": "Machine-learning-pipeline (Reproducible text-classification pipeline - Hydra configs, DVC data, MLflow tracking).",
       "steps": [
-        "Task 1: Develop a robust backend to handle various data types (images, text, structured data) and manage annotations, including versioning.",
-        "Task 2: Design and implement a user-friendly and highly responsive web-based annotation interface capable of displaying different data types.",
-        "Task 3: Implement core data import functionality and allow for initial 'seed' labeling for few-shot scenarios.",
-        "Task 4: Integrate a machine learning model (e.g., a simple classifier or an embedding model) that can be trained on a small labeled dataset.",
-        "Task 5: Implement active learning sampling strategies (e.g., uncertainty sampling, query-by-committee, diversity sampling) to suggest optimal samples for human review.",
-        "Task 6: Add features for model iteration, allowing the annotator to retrain the active learning model periodically and visualize its performance metrics (e.g., F1 score, uncertainty distribution)."
+        "Create a Python script that accepts `data_path` and `output_dir` as command-line arguments.",
+        "Implement a function to get the current Git commit hash using `subprocess.run('git rev-parse HEAD', ...)`.",
+        "Implement a function to capture the current Python environment's dependencies using `subprocess.run('pip freeze', ...)`.",
+        "Develop a recursive file hashing function to compute a hash (e.g., SHA256) of all files within the `data_path` directory.",
+        "Combine these pieces of information into a Python dictionary and save it as a JSON file (e.g., `snapshot.json`) in the specified `output_dir`."
       ]
     }
   ],
   "quick_actions": [
-    "Action 1: Dedicate 1-2 hours this week to download and run a local open-weight LLM (e.g., a GGUF model via `llama.cpp` or Ollama). Experiment with basic prompts for code generation, summarization, or creative writing to understand its capabilities and resource requirements.",
-    "Action 2: Identify one repetitive personal or development task you currently do manually (e.g., converting a file format, generating a specific report, or posting to a social media account). Write a small Python script to automate it, then wrap that script with a minimalist Flask or FastAPI endpoint to practice API creation.",
-    "Action 3: Spend 30 minutes researching one popular AI agent orchestration framework (e.g., LangChain, CrewAI, Autogen). Understand its core components (agents, tools, memory, prompt templates) and how it enables multi-agent cooperation, envisioning how you might use it for a larger project.",
-    "Action 4: Before your next coding task, take 5 minutes to define the desired 'intent' or outcome clearly. Then, break down how an AI agent, leveraging various tools (APIs, scripts), could achieve this intent. This helps shift your mindset towards agent-oriented problem-solving and higher-level automation."
+    "Install Ollama and a small LLM (e.g., Llama 2) on your local machine; spend 15 minutes experimenting with simple prompts to understand local inference capabilities.",
+    "Identify one repetitive task in your daily workflow (e.g., generating boilerplate code, summarizing meeting notes, formatting text) and spend 30 minutes scripting a basic automation using Python or a shell script.",
+    "For your next code change or feature branch, commit your code and then use `git log` to review your commit messages, focusing on making them concise and informative – treating each commit as a documented 'step' in your work.",
+    "Reflect on the Dev.to article 'What Do You Make When You Can Make Anything?' and spend 15 minutes brainstorming 1-2 'big picture' problems you could address with AI, moving beyond simple feature enhancements to foundational shifts."
   ]
 }
