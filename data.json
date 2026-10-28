@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-10-27 11:12:26",
+  "last_updated": "2026-10-28 11:46:48",
   "scraped_sources": {
     "github": [
-      {
-        "name": "mafdet",
-        "owner": "TheLastOxygen",
-        "description": "You type. It already knows. Local LLMs that read and think while you type.",
-        "stars": 62,
-        "url": "https://github.com/TheLastOxygen/mafdet",
-        "category": "AI / ML"
-      },
       {
         "name": "decisionformer",
         "owner": "FrontiersMindAI",
         "description": "Transformers for decision models: fine-tune, load and serve calibrated decsion-model on any Hugging Face model.",
         "stars": 39,
         "url": "https://github.com/FrontiersMindAI/decisionformer",
+        "category": "AI / ML"
+      },
+      {
+        "name": "hello-llm",
+        "owner": "DavidDingXu",
+        "description": "《手写小模型，看懂大模型》：原创语言模型入门课程，20 讲图解与代码、23 支配套视频、浏览器训练实验和离线电子书。",
+        "stars": 36,
+        "url": "https://github.com/DavidDingXu/hello-llm",
         "category": "AI / ML"
       },
       {
@@ -27,28 +27,20 @@
         "category": "AI / ML"
       },
       {
-        "name": "computer-vision-engineering",
-        "owner": "usamahz",
-        "description": "A reading path for computer vision engineering, from photon to production. Primary sources in dependency order, evidence-graded claims, and a runnable benchmark per section.",
-        "stars": 11,
-        "url": "https://github.com/usamahz/computer-vision-engineering",
+        "name": "LLM_Advance_Datapilot_AI",
+        "owner": "Dharmeshkumar2327",
+        "description": "Multi-agent LLM data analyst in Python. Ask questions about any CSV/Excel in plain English: planner, analyst and reviewer agents run pandas/SQL in a secure sandbox, use forecasting, anomaly detection, statistical tests and clustering, catch hallucinated numbers and generate HTML reports. Works with Claude, OpenAI, Ollama or offline.",
+        "stars": 4,
+        "url": "https://github.com/Dharmeshkumar2327/LLM_Advance_Datapilot_AI",
         "category": "AI / ML"
       },
       {
-        "name": "Machine-learning-pipeline",
-        "owner": "recranvvi5c",
-        "description": "Reproducible text-classification pipeline - Hydra configs, DVC data, MLflow tracking and a scikit-learn grid search.",
-        "stars": 7,
-        "url": "https://github.com/recranvvi5c/Machine-learning-pipeline",
+        "name": "EV_Battery_Health_Prediction",
+        "owner": "hitgalani",
+        "description": "ML project that predicts EV battery State of Health (SoH, %) using Simple and Multiple Linear Regression in Python (pandas, numpy, matplotlib, seaborn, scikit-learn). Follows the ML life cycle. Uses a synthetic Kaggle dataset.",
+        "stars": 4,
+        "url": "https://github.com/hitgalani/EV_Battery_Health_Prediction",
         "category": "AI / ML"
-      },
-      {
-        "name": "ruyiJS",
-        "owner": "martinkeith700",
-        "description": "Run any site  from Python with the real mini AI headless browser , bypass any security anti-crawler , get the data and token you want",
-        "stars": 392,
-        "url": "https://github.com/martinkeith700/ruyiJS",
-        "category": "Automation / Productivity"
       },
       {
         "name": "whatsapp-mcp-server",
@@ -62,7 +54,7 @@
         "name": "omni2api",
         "owner": "Juwan-Hwang",
         "description": "Anything to API (万物皆可2API): put an AI agent, a script, or even yourself behind an OpenAI-compatible API",
-        "stars": 41,
+        "stars": 43,
         "url": "https://github.com/Juwan-Hwang/omni2api",
         "category": "Automation / Productivity"
       },
@@ -81,153 +73,173 @@
         "stars": 31,
         "url": "https://github.com/TaunahiMacro/taunahi-macro",
         "category": "Automation / Productivity"
+      },
+      {
+        "name": "EasyRun",
+        "owner": "Zolohacker",
+        "description": "EasyRun：基于 Go、React 与 PostgreSQL 的智能闪动校园代跑平台 可个人/商业使用",
+        "stars": 26,
+        "url": "https://github.com/Zolohacker/EasyRun",
+        "category": "Automation / Productivity"
       }
     ],
     "hacker_news": [
       {
-        "title": "Roblox downloaded 145GB models from us (including adult content) without asking",
-        "url": "https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/",
-        "score": 58
+        "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+        "url": "https://www.brangus.io/survival-llm",
+        "score": 382
       },
       {
-        "title": "The Mythical Man-Month in the Age of AI",
-        "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+        "title": "Tailscale SSH: Investigation and remediation update",
+        "url": "https://tailscale.com/ssh-investigation-update",
+        "score": 300
+      },
+      {
+        "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
+        "url": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
         "score": 175
-      },
-      {
-        "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
-        "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
-        "score": 723
       }
     ],
     "arxiv": [
       {
-        "title": "Retriever-Free Retrieval: Navigating Documents with Decision Models",
-        "summary": "While language models have become dramatically more capable, retrieval still largely relies on lexical matching or similarity in fixed embedding spaces. This creates a capability asymmetry: what the r...",
-        "url": "http://arxiv.org/abs/2610.35868v1"
+        "title": "Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction",
+        "summary": "Novel view synthesis and 3D reconstruction have advanced rapidly with radiance fields and splatting, yet their memory and computational demands limit their use in resource-constrained settings. We int...",
+        "url": "http://arxiv.org/abs/2610.37668v1"
       },
       {
-        "title": "Center-of-Mass Interpretation of Evolution Strategies",
-        "summary": "Evolution strategies (ES) update a model by sampling a population of perturbed copies, scoring each one, and moving in the reward-weighted direction of the perturbations. This update is usually presen...",
-        "url": "http://arxiv.org/abs/2610.35865v1"
+        "title": "ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning",
+        "summary": "Vision-Language-Action (VLA) models have made substantial progress in robotic manipulation, but their generalization remains constrained by the diversity and coverage of action-labeled robot demonstra...",
+        "url": "http://arxiv.org/abs/2610.37666v1"
       },
       {
-        "title": "Auto-Research Arena: Benchmarking and Advancing Auto-Research in Language Modeling",
-        "summary": "As autonomous research systems become more capable, benchmarks must both evaluate their performance and support meaningful research progress. We introduce Auto-Research Arena, a multi-target benchmark...",
-        "url": "http://arxiv.org/abs/2610.35866v1"
+        "title": "When Should We Intervene at Test Time?",
+        "summary": "Test-time adaptation helps a deployed model respond to changing inputs, but the same intervention can rescue one batch and damage the next. Updating normalization statistics, for example, can improve ...",
+        "url": "http://arxiv.org/abs/2610.37658v1"
       },
       {
-        "title": "Learning Force-Reactive Humanoid Loco-Manipulation",
-        "summary": "Many everyday tasks require controlling contact force as well as motion. On a humanoid, this force must often be coordinated across both hands and the whole body, and cannot be specified by kinematic ...",
-        "url": "http://arxiv.org/abs/2610.35862v1"
+        "title": "Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness",
+        "summary": "We introduce Heads of Security (HoS), a prompt injection defense that enforces instruction-data separation via a small set of learned per-head attention gates. HoS learns how each head should redistri...",
+        "url": "http://arxiv.org/abs/2610.37657v1"
       },
       {
-        "title": "On the stability of learning",
-        "summary": "Learning algorithms are usually analyzed under the assumption that informative gradients are continuously available. But this is not always true---learning signals in biological neural networks, for e...",
-        "url": "http://arxiv.org/abs/2610.35856v1"
+        "title": "Attention as Lattice Gauge Theory: Relations Interact Only Through Wilson Loops",
+        "summary": "Relations compose through the entity they share - Alice is Bob's mother and Bob is Carol's father, so Alice is Carol's grandmother - and the order matters, since a father's mother is not a mother's fa...",
+        "url": "http://arxiv.org/abs/2610.37656v1"
       }
     ],
     "devto": [
       {
-        "title": "How to publish posts via the dev.to API",
-        "description": "Every time I copied a post into the dev.to editor, added tags and cleaned up the formatting, I'd...",
-        "url": "https://dev.to/julies1/how-to-publish-posts-via-the-devto-api-2fkd",
-        "reactions": 36
-      },
-      {
         "title": "AI Made Coding Cheaper. So Why Is Building Software Still So Expensive?",
         "description": "I can generate a full authentication flow with a database schema, API routes, and unit tests in under...",
         "url": "https://dev.to/harsh2644/ai-made-coding-cheaper-so-why-is-building-software-still-so-expensive-59m",
-        "reactions": 61
-      },
-      {
-        "title": "What Do You Make When You Can Make Anything?",
-        "description": "I have more creative freedom than I've ever had.  Some days, I have so many ideas that I can't wait...",
-        "url": "https://dev.to/sizzlebop/what-do-you-make-when-you-can-make-anything-596b",
-        "reactions": 30
+        "reactions": 63
       },
       {
         "title": "\"Build in Public\" Is Everywhere. Does It Actually Get You Customers? 🤔",
         "description": "What founders report, what that evidence can't prove, and a four-week experiment you can run on your...",
         "url": "https://dev.to/startupcafe/build-in-public-is-everywhere-does-it-actually-get-you-customers-2hlh",
-        "reactions": 52
+        "reactions": 54
       },
       {
-        "title": "Dark Factory vs. Light Factory: Where Should AI Agents Run Unwatched?",
-        "description": "\"Code must not be written by humans.\" \"Code must not be reviewed by humans.\"   Those are the two...",
-        "url": "https://dev.to/soaresdiogo/dark-factory-vs-light-factory-where-should-ai-agents-run-unwatched-9po",
-        "reactions": 10
+        "title": "Why an 80-Year-Old Math Book Fixed My AI Coding Agent",
+        "description": "Here is a scenario almost every developer reading this has lived through over the past year.  It is...",
+        "url": "https://dev.to/gulajavaministudio/why-an-80-year-old-math-book-fixed-my-ai-coding-agent-517b",
+        "reactions": 18
+      },
+      {
+        "title": "My Passion for Coding Isn't 404. It's 503.",
+        "description": "Last month, I signed up for a hackathon.  I opened a fresh file and named it ideas.md.  Forty-eight...",
+        "url": "https://dev.to/_boweii/my-passion-for-coding-isnt-404-its-503-446h",
+        "reactions": 9
+      },
+      {
+        "title": "Seven months of coding agents: what $28,335 actually bought",
+        "description": "201,473 tool calls across five agent harnesses, and 0.7% of them ran while I slept. What the spend, the interrupts and the 15-actions-per-turn leash say about staying in the loop.",
+        "url": "https://dev.to/chiragagg5k/seven-months-of-coding-agents-what-28335-actually-bought-1ka3",
+        "reactions": 5
       }
     ]
   },
-  "trends": "Today's tech landscape is defined by the rapid evolution of **Agentic AI**, moving beyond static models to autonomous systems capable of real-time reasoning and decision-making, often running locally or integrated into specific workflows. There's a strong emphasis on **advanced automation** that can interact with complex environments, including sophisticated web scraping and game automation, pushing boundaries on anti-detection and resilience. **MLOps and reproducibility** remain critical, with tools emerging to streamline experiment tracking and pipeline management. Finally, AI's profound impact on **developer productivity** is a central theme, prompting discussions on how to leverage AI for cheaper code while addressing the overarching costs of software development, the challenge of 'what to build' in an AI-empowered world, and the ethical considerations of autonomous 'dark factory' agents.",
+  "trends": "Today's tech trends reveal a strong push towards **agentic AI systems** capable of complex task orchestration, data analysis, and proactive decision-making. There's a significant focus on making AI more **reliable, robust, and secure**, particularly against issues like prompt injection and in handling sensitive data. The demand for **local, privacy-preserving AI solutions** capable of running on personal hardware is increasing, alongside the powerful concept of turning 'anything into an API' to allow AI agents to interact with custom tools and scripts. While AI is making individual coding tasks cheaper, the overall cost and complexity of building software persist, shifting developer focus towards **AI orchestration, integration, and foundational problem-solving** rather than just code generation. Efficiency in AI models, especially for resource-constrained environments, remains a key research area.",
   "ideas": [
     {
-      "title": "Local LLM Contextual Command Line Helper",
-      "difficulty": "Easy",
-      "estimated_hours": 4,
-      "description": "Develop a command-line utility that leverages a locally running LLM (e.g., via Ollama) to provide context-aware assistance. The script will take input from an active file's content or clipboard, send it to the local LLM with a specific prompt (e.g., 'summarize this', 'suggest improvements', 'explain this code'), and print the AI's response. This empowers developers with immediate, privacy-preserving AI insights directly in their terminal workflows.",
+      "title": "LocalAI Tool Gateway & Orchestrator",
+      "difficulty": "Medium",
+      "estimated_hours": 20,
+      "description": "Build a self-hosted server that functions as a gateway for local scripts and executables, exposing them as an OpenAI-compatible tool API. This allows any LLM (local via Ollama/LM Studio or remote via API key) to invoke custom functions securely on the user's machine. Imagine giving an LLM the ability to run your Python scripts, interact with local file systems, query specific databases, or even control smart home devices, all while keeping the actual execution and sensitive data local. The gateway would handle parsing LLM tool calls, executing the corresponding local code in a sandboxed environment, and returning the results to the LLM.",
       "tech_stack": [
-        "Python",
-        "Ollama",
-        "requests",
-        "subprocess"
+        "Python (FastAPI/Flask)",
+        "YAML/JSON for tool definitions",
+        "Subprocess module",
+        "Docker (for sandboxing)",
+        "Ollama/LM Studio (for local LLM integration)",
+        "OpenAI Function Calling API (as a model)"
       ],
-      "source_inspiration": "mafdet (Local LLMs that read and think while you type), groot (open typed-decision model), The Mythical Man-Month in the Age of AI (developer productivity).",
+      "source_inspiration": "GitHub: omni2api ('Anything to API'), Hacker News: Survival LLM (local AI assistant)",
       "steps": [
-        "Install Ollama and download a small local LLM (e.g., `ollama run llama2`).",
-        "Write a Python script that can read content from a specified file path or the system clipboard.",
-        "Implement a function to send the captured content to the local Ollama API endpoint with a chosen system message and user prompt.",
-        "Parse the JSON response from Ollama and extract the generated text, then print it to the console.",
-        "Add basic command-line argument parsing (e.g., `--file <path>`, `--clipboard`, `--prompt '...'`)."
+        "Task 1: Set up a FastAPI server with an endpoint to handle OpenAI-compatible tool calls (e.g., `/v1/chat/completions` or a custom `/tools/invoke`).",
+        "Task 2: Design a configuration schema (YAML/JSON) for users to register their local scripts, defining tool names, descriptions, and expected arguments.",
+        "Task 3: Implement a dispatcher that receives LLM tool calls, validates the tool name and arguments against registered definitions, and safely executes the corresponding local script using `subprocess.run`.",
+        "Task 4: Develop mechanisms for securely sandboxing script execution (e.g., virtual environments, Docker containers with strict resource limits and network isolation).",
+        "Task 5: Implement input/output translation to ensure data flows correctly between the LLM's JSON-based tool call and the script's arguments/return values.",
+        "Task 6: Create a simple command-line interface or web UI for users to easily register, manage, and test their custom tools with the gateway.",
+        "Task 7: Document how to integrate popular local LLM runtimes (Ollama, LM Studio) to use this gateway as a custom tool provider."
       ]
     },
     {
-      "title": "Micro-Agent API Wrapper for Any Script",
-      "difficulty": "Easy",
-      "estimated_hours": 4,
-      "description": "Create a lightweight FastAPI application that acts as an 'anything-to-API' gateway for simple Python scripts. The API will accept a script as a string or path, along with arguments, execute it in a safe, isolated manner (e.g., using `subprocess` with timeout), and return its standard output/error in a structured JSON format, mimicking an OpenAI-compatible response. This allows easily exposing custom automation or data processing logic as a callable API endpoint for other services or AI orchestrators.",
+      "title": "Multi-Agent Business Data Analyst for SMEs",
+      "difficulty": "Medium",
+      "estimated_hours": 30,
+      "description": "Develop a web application that enables small and medium-sized enterprises (SMEs) to upload their operational data (e.g., sales, expenses, customer feedback CSVs/Excels) and interact with it using natural language. A 'multi-agent team' (e.g., a Planner Agent, an Analyst Agent, a Reporter Agent) collaborates to understand the query, securely run data analysis scripts (Python pandas or SQL queries) in a sandboxed environment, identify key insights, and generate comprehensive, easy-to-understand HTML/PDF reports. This system would go beyond simple chat by actively performing statistical tests, anomaly detection, and basic forecasting, directly addressing the need for accessible data intelligence without complex coding.",
       "tech_stack": [
-        "Python",
-        "FastAPI",
-        "subprocess",
-        "tempfile"
+        "Python (FastAPI/Streamlit for UI)",
+        "LangChain/CrewAI/AutoGen (for agent orchestration)",
+        "Pandas/Numpy (for data analysis)",
+        "Matplotlib/Seaborn (for data visualization)",
+        "DuckDB (for embedded SQL capabilities)",
+        "OpenAI API/Claude API/Ollama (for LLM backend)",
+        "Docker (for sandboxed execution)"
       ],
-      "source_inspiration": "omni2api (Anything to API), whatsapp-mcp-server (AI Agents), Dev.to: 'Dark Factory vs. Light Factory'.",
+      "source_inspiration": "GitHub: LLM_Advance_Datapilot_AI (multi-agent data analyst), Dev.to: AI Made Coding Cheaper. So Why Is Building Software Still So Expensive? (democratizing analysis)",
       "steps": [
-        "Set up a basic FastAPI application and define a `POST` endpoint (e.g., `/v1/agents/run`).",
-        "Design the request body to accept a `script_content` (string) and a list of `script_args` (strings).",
-        "Implement logic to save the `script_content` to a temporary `.py` file.",
-        "Use `subprocess.run` to execute the temporary script with the provided arguments, capturing `stdout` and `stderr`.",
-        "Return the captured output in a JSON response, formatted similarly to an OpenAI chat completion (e.g., `{\"choices\": [{\"message\": {\"content\": \"...\"}}]}`)."
+        "Task 1: Set up a FastAPI backend for API endpoints and a Streamlit frontend for user interaction (file upload, chat interface, report display).",
+        "Task 2: Implement robust data ingestion capabilities for CSV and Excel files, including schema inference and basic data validation.",
+        "Task 3: Design and implement the multi-agent architecture (e.g., a 'Planner' agent to break down user queries, an 'Analyst' agent to write and execute Python/SQL code, a 'Reviewer/Reporter' agent to summarize findings).",
+        "Task 4: Create a secure execution sandbox for the 'Analyst' agent's code, ensuring it has limited access to system resources and no persistent side effects outside its designated data.",
+        "Task 5: Integrate a chosen LLM (e.g., OpenAI, Claude, or a local Ollama model) with the agent framework to facilitate natural language understanding and code generation.",
+        "Task 6: Develop report generation functionality to output insights, charts, and tables into well-formatted HTML or PDF documents.",
+        "Task 7: Implement user authentication and data isolation features to ensure each SME's data remains private and secure."
       ]
     },
     {
-      "title": "ML Experiment Metadata Snapshotter",
-      "difficulty": "Easy",
-      "estimated_hours": 4,
-      "description": "Build a standalone Python utility that generates a comprehensive metadata snapshot for Machine Learning experiments. When executed before an ML training run, it will automatically capture and record the current Git commit hash, the Python environment's dependencies (e.g., `pip freeze`), and a recursive hash of a specified input data directory. This snapshot is saved as a JSON file, providing a quick and effective way to ensure basic reproducibility of ML experiments without requiring a full MLOps platform.",
+      "title": "Proactive Open Source Project Triage Agent",
+      "difficulty": "Medium",
+      "estimated_hours": 24,
+      "description": "Create an AI agent that integrates with GitHub to automate the initial triage of issues and pull requests for open-source projects. This agent would monitor new activity, apply calibrated decision models to classify issues (e.g., bug, feature, question), assign priority levels, suggest relevant labels, and even draft a polite, helpful first response (e.g., asking for more details, linking to documentation, acknowledging receipt). For critical issues, it could proactively notify maintainers via Slack or other communication platforms. This project leverages the trend of reliable AI decision-making and agentic automation to significantly boost open-source project productivity and maintainer efficiency.",
       "tech_stack": [
-        "Python",
-        "subprocess",
-        "hashlib",
-        "json",
-        "os"
+        "Python (FastAPI/Flask for webhook handling)",
+        "GitHub API (PyGithub)",
+        "LangChain/Hugging Face Transformers (for decision models/LLM integration)",
+        "SQLite/PostgreSQL (for configuration and state management)",
+        "Slack/Discord/Twilio API (for notifications)",
+        "Small fine-tuned LLM or RAG with project docs"
       ],
-      "source_inspiration": "Machine-learning-pipeline (Reproducible text-classification pipeline - Hydra configs, DVC data, MLflow tracking).",
+      "source_inspiration": "GitHub: decisionformer/groot (decision models), GitHub: whatsapp-mcp-server (AI agents in comms), arXiv: When Should We Intervene at Test Time? (AI reliability)",
       "steps": [
-        "Create a Python script that accepts `data_path` and `output_dir` as command-line arguments.",
-        "Implement a function to get the current Git commit hash using `subprocess.run('git rev-parse HEAD', ...)`.",
-        "Implement a function to capture the current Python environment's dependencies using `subprocess.run('pip freeze', ...)`.",
-        "Develop a recursive file hashing function to compute a hash (e.g., SHA256) of all files within the `data_path` directory.",
-        "Combine these pieces of information into a Python dictionary and save it as a JSON file (e.g., `snapshot.json`) in the specified `output_dir`."
+        "Task 1: Set up a FastAPI server to receive and process GitHub webhook events (e.g., `issues`, `pull_request`, `discussion`).",
+        "Task 2: Integrate with the GitHub API using `PyGithub` to read issue/PR details and post comments, labels, or assignments.",
+        "Task 3: Develop a 'Classification Agent' that uses a small LLM (e.g., fine-tuned BERT or a few-shot prompted local LLM via Ollama) or a robust rule-based system to classify the type and priority of incoming issues/PRs.",
+        "Task 4: Implement a 'Response Generation Agent' that drafts initial, context-aware comments based on the classification, referring to project documentation if available (via RAG).",
+        "Task 5: Integrate with a notification service (e.g., Slack API) to send alerts to maintainers for high-priority items or specific types of issues.",
+        "Task 6: Create a simple web-based configuration panel for project maintainers to define classification rules, notification preferences, and customize AI agent behaviors.",
+        "Task 7: Implement robust error handling, rate limiting for GitHub API calls, and logging to monitor agent activity and performance."
       ]
     }
   ],
   "quick_actions": [
-    "Install Ollama and a small LLM (e.g., Llama 2) on your local machine; spend 15 minutes experimenting with simple prompts to understand local inference capabilities.",
-    "Identify one repetitive task in your daily workflow (e.g., generating boilerplate code, summarizing meeting notes, formatting text) and spend 30 minutes scripting a basic automation using Python or a shell script.",
-    "For your next code change or feature branch, commit your code and then use `git log` to review your commit messages, focusing on making them concise and informative – treating each commit as a documented 'step' in your work.",
-    "Reflect on the Dev.to article 'What Do You Make When You Can Make Anything?' and spend 15 minutes brainstorming 1-2 'big picture' problems you could address with AI, moving beyond simple feature enhancements to foundational shifts."
+    "Action 1: This week, allocate 30-60 minutes to experiment with a local LLM (e.g., download Ollama and run a small model). Focus on understanding its latency, resource usage, and basic prompt engineering for local tasks, specifically for privacy-sensitive data you wouldn't send to a cloud API.",
+    "Action 2: Identify one repetitive coding-related task (e.g., parsing log files, generating data summaries, drafting commit messages) that you frequently perform. Sketch out how a simple AI agent, orchestrating existing scripts or tools, could automate or significantly assist with this task.",
+    "Action 3: Pick a foundational computer science concept (e.g., dynamic programming, graph algorithms, database normalization, attention mechanisms in transformers) and dedicate 15-20 minutes daily to deeply re-learn or explore it beyond surface-level understanding, connecting it to modern AI challenges.",
+    "Action 4: Take an existing Python function or shell script you've written and try to define it with an OpenAI-compatible function calling schema. Then, write a small wrapper to allow an LLM to 'call' this function with generated arguments, observing how the LLM interacts with your custom code."
   ]
 }
