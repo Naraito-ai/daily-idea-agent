@@ -1,37 +1,37 @@
 {
-  "last_updated": "2026-10-28 11:46:48",
+  "last_updated": "2026-10-29 11:54:41",
   "scraped_sources": {
     "github": [
       {
-        "name": "decisionformer",
-        "owner": "FrontiersMindAI",
-        "description": "Transformers for decision models: fine-tune, load and serve calibrated decsion-model on any Hugging Face model.",
-        "stars": 39,
-        "url": "https://github.com/FrontiersMindAI/decisionformer",
-        "category": "AI / ML"
-      },
-      {
         "name": "hello-llm",
         "owner": "DavidDingXu",
-        "description": "《手写小模型，看懂大模型》：原创语言模型入门课程，20 讲图解与代码、23 支配套视频、浏览器训练实验和离线电子书。",
-        "stars": 36,
+        "description": "手写小模型，看懂大模型。20 讲图解与代码，浏览器直接训练，无需 GPU。｜Build a tiny LLM from scratch with 20 illustrated lessons and browser training. No GPU required.",
+        "stars": 39,
         "url": "https://github.com/DavidDingXu/hello-llm",
         "category": "AI / ML"
       },
       {
-        "name": "groot",
-        "owner": "leofmarciano",
-        "description": "🌳 Groot 1 — open typed-decision model. Calibrated choice/score/yes-no answers over 64k-token states, System One API compatible, with a pure Bend engine. Beats Jev on zero-shot Folha news (87.8% vs 85.8%) and typed decisions (75.3% vs 73.7%).",
-        "stars": 12,
-        "url": "https://github.com/leofmarciano/groot",
+        "name": "Selenequant",
+        "owner": "papisoV",
+        "description": "A local-first AI quant research platform: questions are persistent, conclusions are versioned, and prior findings are recalled into the next call. Python + Next.js, AGPL-3.0-only.",
+        "stars": 8,
+        "url": "https://github.com/papisoV/Selenequant",
         "category": "AI / ML"
       },
       {
-        "name": "LLM_Advance_Datapilot_AI",
-        "owner": "Dharmeshkumar2327",
-        "description": "Multi-agent LLM data analyst in Python. Ask questions about any CSV/Excel in plain English: planner, analyst and reviewer agents run pandas/SQL in a secure sandbox, use forecasting, anomaly detection, statistical tests and clustering, catch hallucinated numbers and generate HTML reports. Works with Claude, OpenAI, Ollama or offline.",
+        "name": "awesome-crop-models",
+        "owner": "YuanyuanMa03",
+        "description": "Curated, auto-refreshed list of open-source crop and agricultural process models on GitHub",
         "stars": 4,
-        "url": "https://github.com/Dharmeshkumar2327/LLM_Advance_Datapilot_AI",
+        "url": "https://github.com/YuanyuanMa03/awesome-crop-models",
+        "category": "AI / ML"
+      },
+      {
+        "name": "Awesome-ML-Model-Monitoring-Drift-Detection",
+        "owner": "ishandutta2007",
+        "description": "Top ML Model Monitoring Drift Detection (Opensource)  Star if you like it! ",
+        "stars": 4,
+        "url": "https://github.com/ishandutta2007/Awesome-ML-Model-Monitoring-Drift-Detection",
         "category": "AI / ML"
       },
       {
@@ -43,61 +43,61 @@
         "category": "AI / ML"
       },
       {
-        "name": "whatsapp-mcp-server",
-        "owner": "heitorcarvalhohlbryzeis6-cloud",
-        "description": "WhatsApp MCP Server for AI Agents - TypeScript, Baileys and Cloud API",
-        "stars": 58,
-        "url": "https://github.com/heitorcarvalhohlbryzeis6-cloud/whatsapp-mcp-server",
+        "name": "ff-ruyijs",
+        "owner": "cutetailbud",
+        "description": "Run any site JavaScript from Python with the real Firefox engine. Headless SpiderMonkey + Necko for automation and scraping.",
+        "stars": 151,
+        "url": "https://github.com/cutetailbud/ff-ruyijs",
         "category": "Automation / Productivity"
       },
       {
-        "name": "omni2api",
-        "owner": "Juwan-Hwang",
-        "description": "Anything to API (万物皆可2API): put an AI agent, a script, or even yourself behind an OpenAI-compatible API",
-        "stars": 43,
-        "url": "https://github.com/Juwan-Hwang/omni2api",
+        "name": "Whale-Tracker",
+        "owner": "CaretakerPlain",
+        "description": "Whale Tracker 2026: Pre-activated desktop edition with all features ready to run.",
+        "stars": 100,
+        "url": "https://github.com/CaretakerPlain/Whale-Tracker",
         "category": "Automation / Productivity"
       },
       {
-        "name": "Steal-An-Egg-Respocket-Free-Script",
-        "owner": "Helheimfate42877",
-        "description": "Free keyless Steal An Egg script for PC Fly & Noclip and More",
-        "stars": 32,
-        "url": "https://github.com/Helheimfate42877/Steal-An-Egg-Respocket-Free-Script",
+        "name": "Canva-Pro",
+        "owner": "UniteCuttlefishBolt",
+        "description": "Canva Pro 2026: Complete standalone setup with all features unlocked and ready to run.",
+        "stars": 100,
+        "url": "https://github.com/UniteCuttlefishBolt/Canva-Pro",
         "category": "Automation / Productivity"
       },
       {
-        "name": "taunahi-macro",
-        "owner": "TaunahiMacro",
-        "description": "Taunahi is an advanced Hypixel Skyblock macro designed for complete automation. Includes highly optimized utility mods for garden farming, slayers, fishing, and combat, all protected by an industry-leading anti-staff system.",
-        "stars": 31,
-        "url": "https://github.com/TaunahiMacro/taunahi-macro",
+        "name": "Wondshare-Recoverit",
+        "owner": "SpecialistRetrieve",
+        "description": "Pre-activated desktop edition of Wondshare Recoverit 2026. Complete standalone setup ready to run.",
+        "stars": 100,
+        "url": "https://github.com/SpecialistRetrieve/Wondshare-Recoverit",
         "category": "Automation / Productivity"
       },
       {
-        "name": "EasyRun",
-        "owner": "Zolohacker",
-        "description": "EasyRun：基于 Go、React 与 PostgreSQL 的智能闪动校园代跑平台 可个人/商业使用",
-        "stars": 26,
-        "url": "https://github.com/Zolohacker/EasyRun",
+        "name": "VoiceChanger",
+        "owner": "fuchsiaashlobby",
+        "description": "Voicechanger 2026 - Full working installer with all features activated. Ready-to-run desktop software utility.",
+        "stars": 100,
+        "url": "https://github.com/fuchsiaashlobby/VoiceChanger",
         "category": "Automation / Productivity"
       }
     ],
     "hacker_news": [
       {
-        "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-        "url": "https://www.brangus.io/survival-llm",
-        "score": 382
+        "title": "Why is this fingerprinting script creating bioweapons?",
+        "url": "https://nullpt.rs/fingerprinting-bioweapons",
+        "score": 1312
       },
       {
-        "title": "Tailscale SSH: Investigation and remediation update",
-        "url": "https://tailscale.com/ssh-investigation-update",
-        "score": 300
+        "title": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
+        "url": "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/",
+        "score": 106
       },
       {
-        "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
-        "url": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
-        "score": 175
+        "title": "OpenAI's agents talked to each other through the CPU Cache",
+        "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
+        "score": 209
       }
     ],
     "arxiv": [
@@ -129,12 +129,6 @@
     ],
     "devto": [
       {
-        "title": "AI Made Coding Cheaper. So Why Is Building Software Still So Expensive?",
-        "description": "I can generate a full authentication flow with a database schema, API routes, and unit tests in under...",
-        "url": "https://dev.to/harsh2644/ai-made-coding-cheaper-so-why-is-building-software-still-so-expensive-59m",
-        "reactions": 63
-      },
-      {
         "title": "\"Build in Public\" Is Everywhere. Does It Actually Get You Customers? 🤔",
         "description": "What founders report, what that evidence can't prove, and a four-week experiment you can run on your...",
         "url": "https://dev.to/startupcafe/build-in-public-is-everywhere-does-it-actually-get-you-customers-2hlh",
@@ -147,99 +141,98 @@
         "reactions": 18
       },
       {
+        "title": "Mercury 3: When AI Is Fast Enough to Stay in the Loop",
+        "description": "My MSI Claw had a controller problem. I gave Mercury 3 SSH access and described it. About 20 seconds...",
+        "url": "https://dev.to/maximsaplin/mercury-3-when-ai-is-fast-enough-to-stay-in-the-loop-3oe5",
+        "reactions": 11
+      },
+      {
+        "title": "What are your goals for the week? #202",
+        "description": "What are your goals for the week?    What are you building this week? What do you want to...",
+        "url": "https://dev.to/jarvisscript/what-are-your-goals-for-the-week-202-3g6a",
+        "reactions": 5
+      },
+      {
         "title": "My Passion for Coding Isn't 404. It's 503.",
         "description": "Last month, I signed up for a hackathon.  I opened a fresh file and named it ideas.md.  Forty-eight...",
         "url": "https://dev.to/_boweii/my-passion-for-coding-isnt-404-its-503-446h",
         "reactions": 9
-      },
-      {
-        "title": "Seven months of coding agents: what $28,335 actually bought",
-        "description": "201,473 tool calls across five agent harnesses, and 0.7% of them ran while I slept. What the spend, the interrupts and the 15-actions-per-turn leash say about staying in the loop.",
-        "url": "https://dev.to/chiragagg5k/seven-months-of-coding-agents-what-28335-actually-bought-1ka3",
-        "reactions": 5
       }
     ]
   },
-  "trends": "Today's tech trends reveal a strong push towards **agentic AI systems** capable of complex task orchestration, data analysis, and proactive decision-making. There's a significant focus on making AI more **reliable, robust, and secure**, particularly against issues like prompt injection and in handling sensitive data. The demand for **local, privacy-preserving AI solutions** capable of running on personal hardware is increasing, alongside the powerful concept of turning 'anything into an API' to allow AI agents to interact with custom tools and scripts. While AI is making individual coding tasks cheaper, the overall cost and complexity of building software persist, shifting developer focus towards **AI orchestration, integration, and foundational problem-solving** rather than just code generation. Efficiency in AI models, especially for resource-constrained environments, remains a key research area.",
+  "trends": "Today's tech trends reveal a strong emphasis on democratizing AI/ML by making complex models like LLMs more accessible for learning and deployment, often prioritizing local-first solutions for enhanced privacy and control. There's significant focus on the robustness and security of AI systems, particularly in addressing vulnerabilities like prompt injection and ensuring secure multi-agent communication. Concurrently, AI is being rapidly integrated into developer workflows for real-time productivity enhancement and sophisticated automation, while research continues to push the boundaries of AI reasoning, efficiency, and novel architectural designs.",
   "ideas": [
     {
-      "title": "LocalAI Tool Gateway & Orchestrator",
+      "title": "Local-First AI Dev Assistant with Contextual Recall",
       "difficulty": "Medium",
-      "estimated_hours": 20,
-      "description": "Build a self-hosted server that functions as a gateway for local scripts and executables, exposing them as an OpenAI-compatible tool API. This allows any LLM (local via Ollama/LM Studio or remote via API key) to invoke custom functions securely on the user's machine. Imagine giving an LLM the ability to run your Python scripts, interact with local file systems, query specific databases, or even control smart home devices, all while keeping the actual execution and sensitive data local. The gateway would handle parsing LLM tool calls, executing the corresponding local code in a sandboxed environment, and returning the results to the LLM.",
+      "estimated_hours": 40,
+      "description": "A desktop application that acts as a developer's intelligent sidekick. It monitors local development activities (IDE, terminal, Git changes) and uses a local vector database to store relevant code snippets, command histories, and project documentation. The AI agent, powered by a local LLM (e.g., through Llama.cpp bindings), can then provide context-aware suggestions, retrieve past solutions, generate code based on local files, and even help debug by recalling relevant project history, ensuring data privacy by keeping everything on the user's machine.",
       "tech_stack": [
-        "Python (FastAPI/Flask)",
-        "YAML/JSON for tool definitions",
-        "Subprocess module",
-        "Docker (for sandboxing)",
-        "Ollama/LM Studio (for local LLM integration)",
-        "OpenAI Function Calling API (as a model)"
+        "Python",
+        "Electron/Tauri",
+        "ChromaDB/LanceDB",
+        "Llama.cpp bindings",
+        "VS Code API/Language Server Protocol"
       ],
-      "source_inspiration": "GitHub: omni2api ('Anything to API'), Hacker News: Survival LLM (local AI assistant)",
+      "source_inspiration": "Selenequant, Mercury 3: When AI Is Fast Enough to Stay in the Loop, hello-llm",
       "steps": [
-        "Task 1: Set up a FastAPI server with an endpoint to handle OpenAI-compatible tool calls (e.g., `/v1/chat/completions` or a custom `/tools/invoke`).",
-        "Task 2: Design a configuration schema (YAML/JSON) for users to register their local scripts, defining tool names, descriptions, and expected arguments.",
-        "Task 3: Implement a dispatcher that receives LLM tool calls, validates the tool name and arguments against registered definitions, and safely executes the corresponding local script using `subprocess.run`.",
-        "Task 4: Develop mechanisms for securely sandboxing script execution (e.g., virtual environments, Docker containers with strict resource limits and network isolation).",
-        "Task 5: Implement input/output translation to ensure data flows correctly between the LLM's JSON-based tool call and the script's arguments/return values.",
-        "Task 6: Create a simple command-line interface or web UI for users to easily register, manage, and test their custom tools with the gateway.",
-        "Task 7: Document how to integrate popular local LLM runtimes (Ollama, LM Studio) to use this gateway as a custom tool provider."
+        "Task 1: Set up Desktop Framework (Electron or Tauri) for the main UI.",
+        "Task 2: Develop Python scripts to monitor local file system changes, capture shell commands, and integrate with IDE APIs.",
+        "Task 3: Implement a local vector database (ChromaDB or LanceDB) to store ingested development data with embeddings.",
+        "Task 4: Integrate Llama.cpp bindings in Python to allow the agent to run a small, local LLM for inference.",
+        "Task 5: Build contextual retrieval logic to query the vector database based on the current developer context.",
+        "Task 6: Design a user interface for displaying AI suggestions, a chat interface, and settings for data ingestion."
       ]
     },
     {
-      "title": "Multi-Agent Business Data Analyst for SMEs",
+      "title": "Interactive Browser-Based LLM Concept Playground",
       "difficulty": "Medium",
       "estimated_hours": 30,
-      "description": "Develop a web application that enables small and medium-sized enterprises (SMEs) to upload their operational data (e.g., sales, expenses, customer feedback CSVs/Excels) and interact with it using natural language. A 'multi-agent team' (e.g., a Planner Agent, an Analyst Agent, a Reporter Agent) collaborates to understand the query, securely run data analysis scripts (Python pandas or SQL queries) in a sandboxed environment, identify key insights, and generate comprehensive, easy-to-understand HTML/PDF reports. This system would go beyond simple chat by actively performing statistical tests, anomaly detection, and basic forecasting, directly addressing the need for accessible data intelligence without complex coding.",
+      "description": "An educational web application designed to demystify Large Language Models. Users can interactively build and train a *very* simplified LLM architecture from scratch directly in their browser. The playground would allow users to adjust basic hyper-parameters, visualize attention mechanisms in real-time on small text sequences, and observe how different components (embedding layers, transformers, output layers) contribute to the model's output, all without needing a GPU or complex local setup.",
       "tech_stack": [
-        "Python (FastAPI/Streamlit for UI)",
-        "LangChain/CrewAI/AutoGen (for agent orchestration)",
-        "Pandas/Numpy (for data analysis)",
-        "Matplotlib/Seaborn (for data visualization)",
-        "DuckDB (for embedded SQL capabilities)",
-        "OpenAI API/Claude API/Ollama (for LLM backend)",
-        "Docker (for sandboxed execution)"
+        "TypeScript/JavaScript (React/Vue)",
+        "WebGPU/TensorFlow.js",
+        "D3.js/Konva.js",
+        "Python/Flask (optional backend)"
       ],
-      "source_inspiration": "GitHub: LLM_Advance_Datapilot_AI (multi-agent data analyst), Dev.to: AI Made Coding Cheaper. So Why Is Building Software Still So Expensive? (democratizing analysis)",
+      "source_inspiration": "hello-llm, Why an 80-Year-Old Math Book Fixed My AI Coding Agent, Attention as Lattice Gauge Theory",
       "steps": [
-        "Task 1: Set up a FastAPI backend for API endpoints and a Streamlit frontend for user interaction (file upload, chat interface, report display).",
-        "Task 2: Implement robust data ingestion capabilities for CSV and Excel files, including schema inference and basic data validation.",
-        "Task 3: Design and implement the multi-agent architecture (e.g., a 'Planner' agent to break down user queries, an 'Analyst' agent to write and execute Python/SQL code, a 'Reviewer/Reporter' agent to summarize findings).",
-        "Task 4: Create a secure execution sandbox for the 'Analyst' agent's code, ensuring it has limited access to system resources and no persistent side effects outside its designated data.",
-        "Task 5: Integrate a chosen LLM (e.g., OpenAI, Claude, or a local Ollama model) with the agent framework to facilitate natural language understanding and code generation.",
-        "Task 6: Develop report generation functionality to output insights, charts, and tables into well-formatted HTML or PDF documents.",
-        "Task 7: Implement user authentication and data isolation features to ensure each SME's data remains private and secure."
+        "Task 1: Set up a React or Vue frontend application for the interactive UI.",
+        "Task 2: Implement a barebones transformer architecture using WebGPU or TensorFlow.js for browser-based computation.",
+        "Task 3: Add interactive controls (sliders, input fields) for users to modify simplified model parameters.",
+        "Task 4: Develop visualization modules (e.g., with D3.js) to display embeddings, attention weights, and neuron activations.",
+        "Task 5: Implement a basic training loop that runs in the browser on a tiny, predefined dataset, showing real-time loss and output changes.",
+        "Task 6: Provide curated example prompts and clear explanations for each LLM component and parameter within the UI."
       ]
     },
     {
-      "title": "Proactive Open Source Project Triage Agent",
+      "title": "ML Model Health & Drift Detective with Actionable Insights",
       "difficulty": "Medium",
-      "estimated_hours": 24,
-      "description": "Create an AI agent that integrates with GitHub to automate the initial triage of issues and pull requests for open-source projects. This agent would monitor new activity, apply calibrated decision models to classify issues (e.g., bug, feature, question), assign priority levels, suggest relevant labels, and even draft a polite, helpful first response (e.g., asking for more details, linking to documentation, acknowledging receipt). For critical issues, it could proactively notify maintainers via Slack or other communication platforms. This project leverages the trend of reliable AI decision-making and agentic automation to significantly boost open-source project productivity and maintainer efficiency.",
+      "estimated_hours": 35,
+      "description": "A monitoring service that connects to deployed ML models (e.g., via a proxy or API hook) to detect data drift, concept drift, and performance degradation in real-time. Beyond just alerting, it will provide actionable insights into *which features* are contributing most to the drift and suggest potential intervention strategies or re-training triggers. It can also integrate with common MLOps tools for automated re-deployment.",
       "tech_stack": [
-        "Python (FastAPI/Flask for webhook handling)",
-        "GitHub API (PyGithub)",
-        "LangChain/Hugging Face Transformers (for decision models/LLM integration)",
-        "SQLite/PostgreSQL (for configuration and state management)",
-        "Slack/Discord/Twilio API (for notifications)",
-        "Small fine-tuned LLM or RAG with project docs"
+        "Python (FastAPI/Flask)",
+        "EvidentlyAI/NannyML",
+        "Prometheus",
+        "Grafana",
+        "Docker/Kubernetes",
+        "Slack/PagerDuty API"
       ],
-      "source_inspiration": "GitHub: decisionformer/groot (decision models), GitHub: whatsapp-mcp-server (AI agents in comms), arXiv: When Should We Intervene at Test Time? (AI reliability)",
+      "source_inspiration": "Awesome-ML-Model-Monitoring-Drift-Detection, When Should We Intervene at Test Time?, EV_Battery_Health_Prediction",
       "steps": [
-        "Task 1: Set up a FastAPI server to receive and process GitHub webhook events (e.g., `issues`, `pull_request`, `discussion`).",
-        "Task 2: Integrate with the GitHub API using `PyGithub` to read issue/PR details and post comments, labels, or assignments.",
-        "Task 3: Develop a 'Classification Agent' that uses a small LLM (e.g., fine-tuned BERT or a few-shot prompted local LLM via Ollama) or a robust rule-based system to classify the type and priority of incoming issues/PRs.",
-        "Task 4: Implement a 'Response Generation Agent' that drafts initial, context-aware comments based on the classification, referring to project documentation if available (via RAG).",
-        "Task 5: Integrate with a notification service (e.g., Slack API) to send alerts to maintainers for high-priority items or specific types of issues.",
-        "Task 6: Create a simple web-based configuration panel for project maintainers to define classification rules, notification preferences, and customize AI agent behaviors.",
-        "Task 7: Implement robust error handling, rate limiting for GitHub API calls, and logging to monitor agent activity and performance."
+        "Task 1: Build a FastAPI or Flask application to serve as a data ingestion endpoint for model inputs and predictions.",
+        "Task 2: Implement a mechanism to store 'reference' data (from training/validation) for comparison with production data.",
+        "Task 3: Integrate a drift detection library (EvidentlyAI or NannyML) to analyze incoming data batches for various types of drift.",
+        "Task 4: Develop logic to identify top contributing features to drift and generate rule-based suggestions for intervention.",
+        "Task 5: Integrate with Prometheus for collecting monitoring metrics and Grafana for visualizing drift trends and configuring alerts.",
+        "Task 6: Design a basic web interface or extend Grafana dashboards to display model health status, detailed drift reports, and intervention suggestions."
       ]
     }
   ],
   "quick_actions": [
-    "Action 1: This week, allocate 30-60 minutes to experiment with a local LLM (e.g., download Ollama and run a small model). Focus on understanding its latency, resource usage, and basic prompt engineering for local tasks, specifically for privacy-sensitive data you wouldn't send to a cloud API.",
-    "Action 2: Identify one repetitive coding-related task (e.g., parsing log files, generating data summaries, drafting commit messages) that you frequently perform. Sketch out how a simple AI agent, orchestrating existing scripts or tools, could automate or significantly assist with this task.",
-    "Action 3: Pick a foundational computer science concept (e.g., dynamic programming, graph algorithms, database normalization, attention mechanisms in transformers) and dedicate 15-20 minutes daily to deeply re-learn or explore it beyond surface-level understanding, connecting it to modern AI challenges.",
-    "Action 4: Take an existing Python function or shell script you've written and try to define it with an OpenAI-compatible function calling schema. Then, write a small wrapper to allow an LLM to 'call' this function with generated arguments, observing how the LLM interacts with your custom code."
+    "Action 1: Set up a Local LLM Environment: Download and run a small LLM model (e.g., using Llama.cpp or Ollama) on your local machine to understand its capabilities and limitations hands-on.",
+    "Action 2: Experiment with Prompt Engineering for Security: Try to 'jailbreak' or prompt inject a public LLM or local model, and then research basic prompt defense mechanisms to build awareness.",
+    "Action 3: Start a 'Build in Public' Micro-Project: Pick a small, simple coding idea (e.g., a utility script, a UI component) and document its development process (goals, challenges, progress) openly on a platform like Dev.to or GitHub.",
+    "Action 4: Automate One Repetitive Development Task: Identify one task you perform frequently (e.g., setting up new project boilerplate, running specific tests, deploying a dev environment) and write a script using Python or shell to automate it."
   ]
 }
