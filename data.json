@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-29 11:54:41",
+  "last_updated": "2026-10-30 11:48:02",
   "scraped_sources": {
     "github": [
       {
@@ -11,27 +11,27 @@
         "category": "AI / ML"
       },
       {
+        "name": "mls-network-plugin-rpocket-team",
+        "owner": "VikingAtKhan",
+        "description": "AI anticheat for Minecraft servers: neural networks catch KillAura, aim assist, triggerbot and reach. Paper, Spigot, Folia 1.16.5–1.21.",
+        "stars": 32,
+        "url": "https://github.com/VikingAtKhan/mls-network-plugin-rpocket-team",
+        "category": "AI / ML"
+      },
+      {
         "name": "Selenequant",
         "owner": "papisoV",
         "description": "A local-first AI quant research platform: questions are persistent, conclusions are versioned, and prior findings are recalled into the next call. Python + Next.js, AGPL-3.0-only.",
-        "stars": 8,
+        "stars": 27,
         "url": "https://github.com/papisoV/Selenequant",
         "category": "AI / ML"
       },
       {
-        "name": "awesome-crop-models",
-        "owner": "YuanyuanMa03",
-        "description": "Curated, auto-refreshed list of open-source crop and agricultural process models on GitHub",
-        "stars": 4,
-        "url": "https://github.com/YuanyuanMa03/awesome-crop-models",
-        "category": "AI / ML"
-      },
-      {
-        "name": "Awesome-ML-Model-Monitoring-Drift-Detection",
-        "owner": "ishandutta2007",
-        "description": "Top ML Model Monitoring Drift Detection (Opensource)  Star if you like it! ",
-        "stars": 4,
-        "url": "https://github.com/ishandutta2007/Awesome-ML-Model-Monitoring-Drift-Detection",
+        "name": "AModel",
+        "owner": "st1vms",
+        "description": "Advanced machine learning and data-driven football (soccer) prediction engine designed to forecast match outcomes, analyze team performance, and process sports data seamlessly through automated setup and execution pipelines.",
+        "stars": 6,
+        "url": "https://github.com/st1vms/AModel",
         "category": "AI / ML"
       },
       {
@@ -43,108 +43,91 @@
         "category": "AI / ML"
       },
       {
-        "name": "ff-ruyijs",
-        "owner": "cutetailbud",
-        "description": "Run any site JavaScript from Python with the real Firefox engine. Headless SpiderMonkey + Necko for automation and scraping.",
-        "stars": 151,
-        "url": "https://github.com/cutetailbud/ff-ruyijs",
+        "name": "Mika",
+        "owner": "wangzan101",
+        "description": "Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps and the web to get things done for you.",
+        "stars": 343,
+        "url": "https://github.com/wangzan101/Mika",
         "category": "Automation / Productivity"
       },
       {
-        "name": "Whale-Tracker",
-        "owner": "CaretakerPlain",
-        "description": "Whale Tracker 2026: Pre-activated desktop edition with all features ready to run.",
-        "stars": 100,
-        "url": "https://github.com/CaretakerPlain/Whale-Tracker",
+        "name": "ff-ruyijs",
+        "owner": "cutetailbud",
+        "description": "Run any site JavaScript from Python with the real Firefox engine. Headless SpiderMonkey + Necko for automation and scraping.",
+        "stars": 204,
+        "url": "https://github.com/cutetailbud/ff-ruyijs",
         "category": "Automation / Productivity"
       },
       {
         "name": "Canva-Pro",
         "owner": "UniteCuttlefishBolt",
         "description": "Canva Pro 2026: Complete standalone setup with all features unlocked and ready to run.",
-        "stars": 100,
+        "stars": 98,
         "url": "https://github.com/UniteCuttlefishBolt/Canva-Pro",
         "category": "Automation / Productivity"
       },
       {
-        "name": "Wondshare-Recoverit",
-        "owner": "SpecialistRetrieve",
-        "description": "Pre-activated desktop edition of Wondshare Recoverit 2026. Complete standalone setup ready to run.",
-        "stars": 100,
-        "url": "https://github.com/SpecialistRetrieve/Wondshare-Recoverit",
+        "name": "heybox-daily",
+        "owner": "Cansiny0320",
+        "description": "小黑盒自动签到和每日任务，支持在线托管和 Docker 运行。",
+        "stars": 34,
+        "url": "https://github.com/Cansiny0320/heybox-daily",
         "category": "Automation / Productivity"
       },
       {
-        "name": "VoiceChanger",
-        "owner": "fuchsiaashlobby",
-        "description": "Voicechanger 2026 - Full working installer with all features activated. Ready-to-run desktop software utility.",
-        "stars": 100,
-        "url": "https://github.com/fuchsiaashlobby/VoiceChanger",
+        "name": "Runtime_rpocket-team_Forge",
+        "owner": "Vect51282ordryad",
+        "description": "Windows runtime & dev-tool installer with a real GUI: see what's installed, then install, update or remove DirectX, VC++, .NET, Java, Python, Go, Rust, Git, Node, Terminal and 60+ more. Hash- and signature-verified downloads, PATH backups, dark/light theme. PyQt6.",
+        "stars": 32,
+        "url": "https://github.com/Vect51282ordryad/Runtime_rpocket-team_Forge",
         "category": "Automation / Productivity"
       }
     ],
     "hacker_news": [
       {
-        "title": "Why is this fingerprinting script creating bioweapons?",
-        "url": "https://nullpt.rs/fingerprinting-bioweapons",
-        "score": 1312
+        "title": "We ran AI agent swarms in Minecraft and Mindustry",
+        "url": "https://labs.ycombinator.com/projects/games/index.html",
+        "score": 310
       },
       {
-        "title": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
-        "url": "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/",
-        "score": 106
-      },
-      {
-        "title": "OpenAI's agents talked to each other through the CPU Cache",
-        "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
-        "score": 209
+        "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
+        "url": "https://github.com/SheepSeb/tinyworldformer",
+        "score": 231
       }
     ],
     "arxiv": [
       {
-        "title": "Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction",
-        "summary": "Novel view synthesis and 3D reconstruction have advanced rapidly with radiance fields and splatting, yet their memory and computational demands limit their use in resource-constrained settings. We int...",
-        "url": "http://arxiv.org/abs/2610.37668v1"
+        "title": "Elucidating the Design Space of LM Data Attribution",
+        "summary": "Data attribution methods for Language Models (LMs) are typically evaluated using downstream tasks like fact retrieval. However, existing evaluations vary multiple dataset properties simultaneously, ma...",
+        "url": "http://arxiv.org/abs/2610.40655v1"
       },
       {
-        "title": "ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning",
-        "summary": "Vision-Language-Action (VLA) models have made substantial progress in robotic manipulation, but their generalization remains constrained by the diversity and coverage of action-labeled robot demonstra...",
-        "url": "http://arxiv.org/abs/2610.37666v1"
+        "title": "Propose-Filter-Release: Scaling Noise to Typical Sensitivity via Private Filtering",
+        "summary": "An estimator can be accurate and stable on typical data, yet sensitive to a few possible records. Differentially private mechanisms commonly scale their noise to the worst-case influence of a single r...",
+        "url": "http://arxiv.org/abs/2610.40654v1"
       },
       {
-        "title": "When Should We Intervene at Test Time?",
-        "summary": "Test-time adaptation helps a deployed model respond to changing inputs, but the same intervention can rescue one batch and damage the next. Updating normalization statistics, for example, can improve ...",
-        "url": "http://arxiv.org/abs/2610.37658v1"
+        "title": "Rethinking Neural Thickets Without Weight Perturbations",
+        "summary": "The Neural Thickets hypothesis posits that pretrained language models lie in dense neighborhoods of task-specific experts in weight space, which random Gaussian perturbations can uncover. We reproduce...",
+        "url": "http://arxiv.org/abs/2610.40649v1"
       },
       {
-        "title": "Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness",
-        "summary": "We introduce Heads of Security (HoS), a prompt injection defense that enforces instruction-data separation via a small set of learned per-head attention gates. HoS learns how each head should redistri...",
-        "url": "http://arxiv.org/abs/2610.37657v1"
+        "title": "Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers",
+        "summary": "Pixel-space generative Transformers typically use one token per image patch, so capturing finer detail requires more tokens and makes global attention increasingly expensive. We observe that finer det...",
+        "url": "http://arxiv.org/abs/2610.40647v1"
       },
       {
-        "title": "Attention as Lattice Gauge Theory: Relations Interact Only Through Wilson Loops",
-        "summary": "Relations compose through the entity they share - Alice is Bob's mother and Bob is Carol's father, so Alice is Carol's grandmother - and the order matters, since a father's mother is not a mother's fa...",
-        "url": "http://arxiv.org/abs/2610.37656v1"
+        "title": "Adaptive Scenario Generation for KL-DRO Around a Learned Density Model",
+        "summary": "Distributionally robust optimization (DRO) hedges data-driven two-stage stochastic programs against error in the distribution estimated from a finite record, and standard ambiguity sets differ in how ...",
+        "url": "http://arxiv.org/abs/2610.40644v1"
       }
     ],
     "devto": [
       {
-        "title": "\"Build in Public\" Is Everywhere. Does It Actually Get You Customers? 🤔",
-        "description": "What founders report, what that evidence can't prove, and a four-week experiment you can run on your...",
-        "url": "https://dev.to/startupcafe/build-in-public-is-everywhere-does-it-actually-get-you-customers-2hlh",
-        "reactions": 54
-      },
-      {
-        "title": "Why an 80-Year-Old Math Book Fixed My AI Coding Agent",
-        "description": "Here is a scenario almost every developer reading this has lived through over the past year.  It is...",
-        "url": "https://dev.to/gulajavaministudio/why-an-80-year-old-math-book-fixed-my-ai-coding-agent-517b",
-        "reactions": 18
-      },
-      {
-        "title": "Mercury 3: When AI Is Fast Enough to Stay in the Loop",
-        "description": "My MSI Claw had a controller problem. I gave Mercury 3 SSH access and described it. About 20 seconds...",
-        "url": "https://dev.to/maximsaplin/mercury-3-when-ai-is-fast-enough-to-stay-in-the-loop-3oe5",
-        "reactions": 11
+        "title": "Every App Eventually Becomes a Dashboard. Please Make It Stop.",
+        "description": "Every good app starts with a lie.   “We’re going to keep this simple.”   I love that sentence.  So...",
+        "url": "https://dev.to/the_nortern_dev/every-app-eventually-becomes-a-dashboard-please-make-it-stop-37e9",
+        "reactions": 19
       },
       {
         "title": "What are your goals for the week? #202",
@@ -153,86 +136,99 @@
         "reactions": 5
       },
       {
+        "title": "Mercury 3: When AI Is Fast Enough to Stay in the Loop",
+        "description": "My MSI Claw had a controller problem. I gave Mercury 3 SSH access and described it. About 20 seconds...",
+        "url": "https://dev.to/maximsaplin/mercury-3-when-ai-is-fast-enough-to-stay-in-the-loop-3oe5",
+        "reactions": 11
+      },
+      {
         "title": "My Passion for Coding Isn't 404. It's 503.",
         "description": "Last month, I signed up for a hackathon.  I opened a fresh file and named it ideas.md.  Forty-eight...",
         "url": "https://dev.to/_boweii/my-passion-for-coding-isnt-404-its-503-446h",
-        "reactions": 9
+        "reactions": 10
+      },
+      {
+        "title": "AI for everything besides coding",
+        "description": "I went through ten weeks of my non-coding Claude chats to see if they saved me time. The best ones went past the question I typed.",
+        "url": "https://dev.to/cseeman/ai-for-everything-besides-coding-4hen",
+        "reactions": 3
       }
     ]
   },
-  "trends": "Today's tech trends reveal a strong emphasis on democratizing AI/ML by making complex models like LLMs more accessible for learning and deployment, often prioritizing local-first solutions for enhanced privacy and control. There's significant focus on the robustness and security of AI systems, particularly in addressing vulnerabilities like prompt injection and ensuring secure multi-agent communication. Concurrently, AI is being rapidly integrated into developer workflows for real-time productivity enhancement and sophisticated automation, while research continues to push the boundaries of AI reasoning, efficiency, and novel architectural designs.",
+  "trends": "The current tech landscape is characterized by a strong push towards the democratization and practical application of AI, particularly with an emphasis on local-first and on-device capabilities. Small, efficient Large Language Models (LLMs) are being built and deployed without heavy resource requirements (e.g., no GPU needed, Raspberry Pi deployment). Agentic AI, capable of autonomous operation and interaction with both digital environments (apps, web) and physical systems (e.g., gaming anti-cheat), is gaining traction. Beyond core AI, there's significant activity in automation tools that streamline development environments and handle complex browser-based tasks. Productivity trends highlight the increasing integration of AI for non-coding tasks and a renewed focus on structured goal-setting, alongside an awareness of developer burnout and the desire for simpler, less 'dashboard-heavy' applications.",
   "ideas": [
     {
-      "title": "Local-First AI Dev Assistant with Contextual Recall",
+      "title": "Local-First Desktop AI Agent for Task Automation",
       "difficulty": "Medium",
-      "estimated_hours": 40,
-      "description": "A desktop application that acts as a developer's intelligent sidekick. It monitors local development activities (IDE, terminal, Git changes) and uses a local vector database to store relevant code snippets, command histories, and project documentation. The AI agent, powered by a local LLM (e.g., through Llama.cpp bindings), can then provide context-aware suggestions, retrieve past solutions, generate code based on local files, and even help debug by recalling relevant project history, ensuring data privacy by keeping everything on the user's machine.",
+      "estimated_hours": 80,
+      "description": "Build an intelligent, on-device AI agent that can interpret natural language commands to automate repetitive desktop tasks. Unlike cloud-based assistants, this agent would leverage a local LLM to understand requests and interact directly with the operating system, applications, and file system. Imagine telling your computer to 'Organize all PDFs downloaded this week into a new folder named 'Reports'' or 'Open my project X in VS Code and start the dev server.' This project addresses the trend of on-device AI and the desire for enhanced productivity through automation.",
       "tech_stack": [
         "Python",
-        "Electron/Tauri",
-        "ChromaDB/LanceDB",
-        "Llama.cpp bindings",
-        "VS Code API/Language Server Protocol"
+        "Ollama (for local LLM inference) or Llama.cpp",
+        "pyautogui (for GUI automation)",
+        "subprocess (for command line interaction)",
+        "os/shutil (for file system operations)",
+        "PyQt6 or Electron (for a simple GUI/tray application)"
       ],
-      "source_inspiration": "Selenequant, Mercury 3: When AI Is Fast Enough to Stay in the Loop, hello-llm",
+      "source_inspiration": "Mika (on-device AI agent for Android), hello-llm (local LLM understanding), ff-ruyijs (browser automation logic applicable to desktop), Mercury 3 (AI fast enough to stay in the loop).",
       "steps": [
-        "Task 1: Set up Desktop Framework (Electron or Tauri) for the main UI.",
-        "Task 2: Develop Python scripts to monitor local file system changes, capture shell commands, and integrate with IDE APIs.",
-        "Task 3: Implement a local vector database (ChromaDB or LanceDB) to store ingested development data with embeddings.",
-        "Task 4: Integrate Llama.cpp bindings in Python to allow the agent to run a small, local LLM for inference.",
-        "Task 5: Build contextual retrieval logic to query the vector database based on the current developer context.",
-        "Task 6: Design a user interface for displaying AI suggestions, a chat interface, and settings for data ingestion."
+        "Task 1: Set up a local LLM inference environment (e.g., using Ollama to run a small model like Llama 3 on your machine).",
+        "Task 2: Develop a Python module to parse natural language commands into structured actions using the local LLM.",
+        "Task 3: Implement core desktop automation capabilities: file operations (move, copy, delete), application launching, basic GUI interaction (click, type) using `pyautogui` or similar.",
+        "Task 4: Create an API or function mapping parsed commands to these automation capabilities.",
+        "Task 5: Develop a simple user interface (e.g., a command line interface or a basic GUI with PyQt6) to receive user input and display agent responses.",
+        "Task 6: Add memory for context and previous interactions, allowing the agent to follow multi-step instructions or recall past states."
       ]
     },
     {
-      "title": "Interactive Browser-Based LLM Concept Playground",
+      "title": "Domain-Specific 'Memory' Assistant for Developers/Researchers",
       "difficulty": "Medium",
-      "estimated_hours": 30,
-      "description": "An educational web application designed to demystify Large Language Models. Users can interactively build and train a *very* simplified LLM architecture from scratch directly in their browser. The playground would allow users to adjust basic hyper-parameters, visualize attention mechanisms in real-time on small text sequences, and observe how different components (embedding layers, transformers, output layers) contribute to the model's output, all without needing a GPU or complex local setup.",
+      "estimated_hours": 60,
+      "description": "Create a local-first AI assistant tailored for a specific technical domain (e.g., 'Kubernetes Troubleshooting Guide', 'Modern JavaScript Best Practices', 'Machine Learning Algorithm Explainer'). The assistant's core value lies in its persistent memory: it remembers past questions, stores and versions conclusions, and proactively recalls relevant prior findings when new questions arise. This acts as a personalized, evolving knowledge base, fighting information overload and reducing redundant research efforts, aligning with the local-first AI and specialized application trends.",
       "tech_stack": [
-        "TypeScript/JavaScript (React/Vue)",
-        "WebGPU/TensorFlow.js",
-        "D3.js/Konva.js",
-        "Python/Flask (optional backend)"
+        "Python",
+        "Local Vector Database (e.g., ChromaDB, FAISS)",
+        "Local LLM (e.g., using Hugging Face transformers with a small model or Ollama)",
+        "Streamlit or Next.js (for a web-based user interface)",
+        "Markdown/JSON (for storing persistent questions, answers, and conclusions)"
       ],
-      "source_inspiration": "hello-llm, Why an 80-Year-Old Math Book Fixed My AI Coding Agent, Attention as Lattice Gauge Theory",
+      "source_inspiration": "Selenequant (local-first AI quant research platform with persistent questions/versioned conclusions), hello-llm (understanding LLMs), AI for everything besides coding (applying AI to knowledge management).",
       "steps": [
-        "Task 1: Set up a React or Vue frontend application for the interactive UI.",
-        "Task 2: Implement a barebones transformer architecture using WebGPU or TensorFlow.js for browser-based computation.",
-        "Task 3: Add interactive controls (sliders, input fields) for users to modify simplified model parameters.",
-        "Task 4: Develop visualization modules (e.g., with D3.js) to display embeddings, attention weights, and neuron activations.",
-        "Task 5: Implement a basic training loop that runs in the browser on a tiny, predefined dataset, showing real-time loss and output changes.",
-        "Task 6: Provide curated example prompts and clear explanations for each LLM component and parameter within the UI."
+        "Task 1: Define a specific technical domain and curate an initial set of relevant documentation/resources.",
+        "Task 2: Implement a data ingestion pipeline to chunk and embed these documents into a local vector database.",
+        "Task 3: Develop a RAG (Retrieval-Augmented Generation) pipeline using a local LLM to answer user queries based on the vectorized knowledge base.",
+        "Task 4: Implement a persistent storage mechanism (e.g., local files, SQLite) for user questions, generated answers, and user-validated 'conclusions', including versioning.",
+        "Task 5: Add a 'recall' mechanism: before answering a new question, query the persistent memory for related past questions/conclusions and inject them into the RAG context.",
+        "Task 6: Build a user-friendly interface (Streamlit or Next.js) for input, output, and managing persistent knowledge."
       ]
     },
     {
-      "title": "ML Model Health & Drift Detective with Actionable Insights",
-      "difficulty": "Medium",
-      "estimated_hours": 35,
-      "description": "A monitoring service that connects to deployed ML models (e.g., via a proxy or API hook) to detect data drift, concept drift, and performance degradation in real-time. Beyond just alerting, it will provide actionable insights into *which features* are contributing most to the drift and suggest potential intervention strategies or re-training triggers. It can also integrate with common MLOps tools for automated re-deployment.",
+      "title": "Proactive Dev Environment Health Monitor & Auto-Fixer",
+      "difficulty": "Hard",
+      "estimated_hours": 120,
+      "description": "Develop an intelligent tool that continuously monitors a developer's local environment for common issues like outdated dependencies, incompatible runtime versions, low disk space for project caches, or misconfigured project settings. It uses a rule-based system or a simple ML model trained on common developer pain points to proactively identify problems and suggest fixes. For identified issues, it offers one-click solutions or automatically applies fixes, reducing setup friction and combating developer burnout caused by environment inconsistencies. This combines automation, predictive analysis, and addresses productivity bottlenecks directly.",
       "tech_stack": [
-        "Python (FastAPI/Flask)",
-        "EvidentlyAI/NannyML",
-        "Prometheus",
-        "Grafana",
-        "Docker/Kubernetes",
-        "Slack/PagerDuty API"
+        "Python",
+        "Shell scripting (Bash/PowerShell for system interaction)",
+        "YAML/JSON (for configuration and rule definitions)",
+        "PyQt6 or Electron (for a graphical user interface)",
+        "Simple Machine Learning (e.g., scikit-learn for classification) for advanced issue detection (optional, could start with rule-based)."
       ],
-      "source_inspiration": "Awesome-ML-Model-Monitoring-Drift-Detection, When Should We Intervene at Test Time?, EV_Battery_Health_Prediction",
+      "source_inspiration": "Runtime_rpocket-team_Forge (dev-tool installer/manager), EV_Battery_Health_Prediction (predictive analysis), mls-network-plugin-rpocket-team (monitoring/detection), My Passion for Coding Isn't 404. It's 503. (addressing developer pain points).",
       "steps": [
-        "Task 1: Build a FastAPI or Flask application to serve as a data ingestion endpoint for model inputs and predictions.",
-        "Task 2: Implement a mechanism to store 'reference' data (from training/validation) for comparison with production data.",
-        "Task 3: Integrate a drift detection library (EvidentlyAI or NannyML) to analyze incoming data batches for various types of drift.",
-        "Task 4: Develop logic to identify top contributing features to drift and generate rule-based suggestions for intervention.",
-        "Task 5: Integrate with Prometheus for collecting monitoring metrics and Grafana for visualizing drift trends and configuring alerts.",
-        "Task 6: Design a basic web interface or extend Grafana dashboards to display model health status, detailed drift reports, and intervention suggestions."
+        "Task 1: Define a set of common developer environment issues (e.g., missing Node.js, wrong Python version, stale Docker images, low disk space).",
+        "Task 2: Implement system checks using Python and shell scripts to detect these issues across different OS (e.g., check `PATH`, `npm` versions, disk usage).",
+        "Task 3: Create a rule engine that maps detected issues to potential solutions (e.g., 'If Node.js < 18, suggest update' or 'If disk space < 10GB, suggest clearing `node_modules`').",
+        "Task 4: Develop an automated 'fixer' module that can execute commands (e.g., `npm update`, `pip install`, `rm -rf`) with user permission.",
+        "Task 5: Build a GUI (PyQt6) that displays detected issues, offers suggested fixes, and allows the user to trigger automated actions.",
+        "Task 6: (Advanced) Implement a simple telemetry or feedback mechanism to learn from user-applied fixes and refine the rule engine or train a basic classification model for future issue prediction."
       ]
     }
   ],
   "quick_actions": [
-    "Action 1: Set up a Local LLM Environment: Download and run a small LLM model (e.g., using Llama.cpp or Ollama) on your local machine to understand its capabilities and limitations hands-on.",
-    "Action 2: Experiment with Prompt Engineering for Security: Try to 'jailbreak' or prompt inject a public LLM or local model, and then research basic prompt defense mechanisms to build awareness.",
-    "Action 3: Start a 'Build in Public' Micro-Project: Pick a small, simple coding idea (e.g., a utility script, a UI component) and document its development process (goals, challenges, progress) openly on a platform like Dev.to or GitHub.",
-    "Action 4: Automate One Repetitive Development Task: Identify one task you perform frequently (e.g., setting up new project boilerplate, running specific tests, deploying a dev environment) and write a script using Python or shell to automate it."
+    "Action 1: Dedicate 15 minutes each Monday morning to formally list your top 3 development goals for the week. (Inspired by 'What are your goals for the week?').",
+    "Action 2: Experiment with a local LLM setup (e.g., install Ollama and run a small model like Llama 3) to understand its capabilities firsthand without cloud reliance. (Inspired by 'hello-llm', 'Mika', 'tinyworldformer').",
+    "Action 3: Identify one small, repetitive non-coding task you do daily or weekly (e.g., renaming downloaded files, archiving old emails, fetching specific web data) and write a short script to automate it. (Inspired by 'heybox-daily', 'ff-ruyijs').",
+    "Action 4: Spend 10 minutes exploring how AI tools (ChatGPT, Claude, etc.) can assist you with non-coding tasks like drafting emails, summarizing long articles, or brainstorming ideas, rather than just coding. (Inspired by 'AI for everything besides coding', 'Mercury 3')."
   ]
 }
