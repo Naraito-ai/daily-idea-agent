@@ -1,13 +1,21 @@
 {
-  "last_updated": "2026-10-30 11:48:02",
+  "last_updated": "2026-10-31 11:21:43",
   "scraped_sources": {
     "github": [
       {
-        "name": "hello-llm",
-        "owner": "DavidDingXu",
-        "description": "手写小模型，看懂大模型。20 讲图解与代码，浏览器直接训练，无需 GPU。｜Build a tiny LLM from scratch with 20 illustrated lessons and browser training. No GPU required.",
-        "stars": 39,
-        "url": "https://github.com/DavidDingXu/hello-llm",
+        "name": "protuna",
+        "owner": "kumarshreshtha",
+        "description": "Optimization framework for AI-guided protein engineering",
+        "stars": 40,
+        "url": "https://github.com/kumarshreshtha/protuna",
+        "category": "AI / ML"
+      },
+      {
+        "name": "Selenequant",
+        "owner": "papisoV",
+        "description": "A local-first AI quant research platform: questions are persistent, conclusions are versioned, and prior findings are recalled into the next call. Python + Next.js, AGPL-3.0-only.",
+        "stars": 35,
+        "url": "https://github.com/papisoV/Selenequant",
         "category": "AI / ML"
       },
       {
@@ -19,14 +27,6 @@
         "category": "AI / ML"
       },
       {
-        "name": "Selenequant",
-        "owner": "papisoV",
-        "description": "A local-first AI quant research platform: questions are persistent, conclusions are versioned, and prior findings are recalled into the next call. Python + Next.js, AGPL-3.0-only.",
-        "stars": 27,
-        "url": "https://github.com/papisoV/Selenequant",
-        "category": "AI / ML"
-      },
-      {
         "name": "AModel",
         "owner": "st1vms",
         "description": "Advanced machine learning and data-driven football (soccer) prediction engine designed to forecast match outcomes, analyze team performance, and process sports data seamlessly through automated setup and execution pipelines.",
@@ -35,18 +35,18 @@
         "category": "AI / ML"
       },
       {
-        "name": "EV_Battery_Health_Prediction",
-        "owner": "hitgalani",
-        "description": "ML project that predicts EV battery State of Health (SoH, %) using Simple and Multiple Linear Regression in Python (pandas, numpy, matplotlib, seaborn, scikit-learn). Follows the ML life cycle. Uses a synthetic Kaggle dataset.",
-        "stars": 4,
-        "url": "https://github.com/hitgalani/EV_Battery_Health_Prediction",
+        "name": "ml-research-handbook",
+        "owner": "khalidhasan7343",
+        "description": "A bilingual (English–Bangla) handbook on Machine Learning, research methodology, paper analysis, and research gap discovery.",
+        "stars": 3,
+        "url": "https://github.com/khalidhasan7343/ml-research-handbook",
         "category": "AI / ML"
       },
       {
         "name": "Mika",
         "owner": "wangzan101",
         "description": "Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps and the web to get things done for you.",
-        "stars": 343,
+        "stars": 2096,
         "url": "https://github.com/wangzan101/Mika",
         "category": "Automation / Productivity"
       },
@@ -54,45 +54,45 @@
         "name": "ff-ruyijs",
         "owner": "cutetailbud",
         "description": "Run any site JavaScript from Python with the real Firefox engine. Headless SpiderMonkey + Necko for automation and scraping.",
-        "stars": 204,
+        "stars": 339,
         "url": "https://github.com/cutetailbud/ff-ruyijs",
         "category": "Automation / Productivity"
       },
       {
-        "name": "Canva-Pro",
-        "owner": "UniteCuttlefishBolt",
-        "description": "Canva Pro 2026: Complete standalone setup with all features unlocked and ready to run.",
-        "stars": 98,
-        "url": "https://github.com/UniteCuttlefishBolt/Canva-Pro",
+        "name": "MetaTrader-5-Bot",
+        "owner": "darkareaminaret",
+        "description": "Metatrader 5 Bot 2026: Full working installer with automated trading scripts ready to run.",
+        "stars": 109,
+        "url": "https://github.com/darkareaminaret/MetaTrader-5-Bot",
         "category": "Automation / Productivity"
       },
       {
-        "name": "heybox-daily",
-        "owner": "Cansiny0320",
-        "description": "小黑盒自动签到和每日任务，支持在线托管和 Docker 运行。",
-        "stars": 34,
-        "url": "https://github.com/Cansiny0320/heybox-daily",
+        "name": "RX-11-Audio-Editor",
+        "owner": "mythicassemblyladle",
+        "description": "Rx 11 Audio Editor 2026 complete standalone installation setup. Ready-to-run desktop edition with all features unlocked.",
+        "stars": 105,
+        "url": "https://github.com/mythicassemblyladle/RX-11-Audio-Editor",
         "category": "Automation / Productivity"
       },
       {
-        "name": "Runtime_rpocket-team_Forge",
-        "owner": "Vect51282ordryad",
-        "description": "Windows runtime & dev-tool installer with a real GUI: see what's installed, then install, update or remove DirectX, VC++, .NET, Java, Python, Go, Rust, Git, Node, Terminal and 60+ more. Hash- and signature-verified downloads, PATH backups, dark/light theme. PyQt6.",
-        "stars": 32,
-        "url": "https://github.com/Vect51282ordryad/Runtime_rpocket-team_Forge",
+        "name": "Microsoft-365",
+        "owner": "DistributorFollow23",
+        "description": "Microsoft 365 Utilities Pack 2024 - Full working installer with essential tools for managing Microsoft services on your desktop.",
+        "stars": 104,
+        "url": "https://github.com/DistributorFollow23/Microsoft-365",
         "category": "Automation / Productivity"
       }
     ],
     "hacker_news": [
       {
-        "title": "We ran AI agent swarms in Minecraft and Mindustry",
-        "url": "https://labs.ycombinator.com/projects/games/index.html",
-        "score": 310
+        "title": "Serbia just elected the world's brainiest parliament",
+        "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
+        "score": 128
       },
       {
-        "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
-        "url": "https://github.com/SheepSeb/tinyworldformer",
-        "score": 231
+        "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
+        "url": "https://thedataexchange.media/leo-de-moura-lean-aws/",
+        "score": 43
       }
     ],
     "arxiv": [
@@ -127,19 +127,19 @@
         "title": "Every App Eventually Becomes a Dashboard. Please Make It Stop.",
         "description": "Every good app starts with a lie.   “We’re going to keep this simple.”   I love that sentence.  So...",
         "url": "https://dev.to/the_nortern_dev/every-app-eventually-becomes-a-dashboard-please-make-it-stop-37e9",
-        "reactions": 19
+        "reactions": 21
+      },
+      {
+        "title": "Mercury 3: When AI Is Fast Enough to Stay in the Loop",
+        "description": "My MSI Claw had a controller problem. I gave Mercury 3 SSH access and described it. About 20 seconds...",
+        "url": "https://dev.to/maximsaplin/mercury-3-when-ai-is-fast-enough-to-stay-in-the-loop-3oe5",
+        "reactions": 12
       },
       {
         "title": "What are your goals for the week? #202",
         "description": "What are your goals for the week?    What are you building this week? What do you want to...",
         "url": "https://dev.to/jarvisscript/what-are-your-goals-for-the-week-202-3g6a",
         "reactions": 5
-      },
-      {
-        "title": "Mercury 3: When AI Is Fast Enough to Stay in the Loop",
-        "description": "My MSI Claw had a controller problem. I gave Mercury 3 SSH access and described it. About 20 seconds...",
-        "url": "https://dev.to/maximsaplin/mercury-3-when-ai-is-fast-enough-to-stay-in-the-loop-3oe5",
-        "reactions": 11
       },
       {
         "title": "My Passion for Coding Isn't 404. It's 503.",
@@ -151,84 +151,87 @@
         "title": "AI for everything besides coding",
         "description": "I went through ten weeks of my non-coding Claude chats to see if they saved me time. The best ones went past the question I typed.",
         "url": "https://dev.to/cseeman/ai-for-everything-besides-coding-4hen",
-        "reactions": 3
+        "reactions": 7
       }
     ]
   },
-  "trends": "The current tech landscape is characterized by a strong push towards the democratization and practical application of AI, particularly with an emphasis on local-first and on-device capabilities. Small, efficient Large Language Models (LLMs) are being built and deployed without heavy resource requirements (e.g., no GPU needed, Raspberry Pi deployment). Agentic AI, capable of autonomous operation and interaction with both digital environments (apps, web) and physical systems (e.g., gaming anti-cheat), is gaining traction. Beyond core AI, there's significant activity in automation tools that streamline development environments and handle complex browser-based tasks. Productivity trends highlight the increasing integration of AI for non-coding tasks and a renewed focus on structured goal-setting, alongside an awareness of developer burnout and the desire for simpler, less 'dashboard-heavy' applications.",
+  "trends": "Today's tech landscape is defined by the proliferation of hyper-specialized AI and Machine Learning applications, moving beyond general-purpose models into niche domains like protein engineering, quantitative finance, gaming anti-cheat, and sports analytics. A significant parallel trend is the rise of local-first and on-device AI agents, exemplified by tools that operate system-wide on mobile and desktop, prioritizing privacy, responsiveness, and direct interaction with existing software interfaces. This agentic paradigm extends to advanced automation, with developers seeking to offload complex web interactions, trading strategies, and routine system administration tasks. Concurrently, cutting-edge AI research continues to address the robustness, interpretability, data attribution, and privacy concerns of large language models and generative transformers. Amidst this rapid advancement, developers are also grappling with productivity challenges, striving to leverage AI for 'non-coding' tasks, combatting digital complexity (e.g., 'dashboard fatigue'), and reinforcing personal goal-setting habits to mitigate potential burnout.",
   "ideas": [
     {
-      "title": "Local-First Desktop AI Agent for Task Automation",
-      "difficulty": "Medium",
-      "estimated_hours": 80,
-      "description": "Build an intelligent, on-device AI agent that can interpret natural language commands to automate repetitive desktop tasks. Unlike cloud-based assistants, this agent would leverage a local LLM to understand requests and interact directly with the operating system, applications, and file system. Imagine telling your computer to 'Organize all PDFs downloaded this week into a new folder named 'Reports'' or 'Open my project X in VS Code and start the dev server.' This project addresses the trend of on-device AI and the desire for enhanced productivity through automation.",
-      "tech_stack": [
-        "Python",
-        "Ollama (for local LLM inference) or Llama.cpp",
-        "pyautogui (for GUI automation)",
-        "subprocess (for command line interaction)",
-        "os/shutil (for file system operations)",
-        "PyQt6 or Electron (for a simple GUI/tray application)"
-      ],
-      "source_inspiration": "Mika (on-device AI agent for Android), hello-llm (local LLM understanding), ff-ruyijs (browser automation logic applicable to desktop), Mercury 3 (AI fast enough to stay in the loop).",
-      "steps": [
-        "Task 1: Set up a local LLM inference environment (e.g., using Ollama to run a small model like Llama 3 on your machine).",
-        "Task 2: Develop a Python module to parse natural language commands into structured actions using the local LLM.",
-        "Task 3: Implement core desktop automation capabilities: file operations (move, copy, delete), application launching, basic GUI interaction (click, type) using `pyautogui` or similar.",
-        "Task 4: Create an API or function mapping parsed commands to these automation capabilities.",
-        "Task 5: Develop a simple user interface (e.g., a command line interface or a basic GUI with PyQt6) to receive user input and display agent responses.",
-        "Task 6: Add memory for context and previous interactions, allowing the agent to follow multi-step instructions or recall past states."
-      ]
-    },
-    {
-      "title": "Domain-Specific 'Memory' Assistant for Developers/Researchers",
-      "difficulty": "Medium",
-      "estimated_hours": 60,
-      "description": "Create a local-first AI assistant tailored for a specific technical domain (e.g., 'Kubernetes Troubleshooting Guide', 'Modern JavaScript Best Practices', 'Machine Learning Algorithm Explainer'). The assistant's core value lies in its persistent memory: it remembers past questions, stores and versions conclusions, and proactively recalls relevant prior findings when new questions arise. This acts as a personalized, evolving knowledge base, fighting information overload and reducing redundant research efforts, aligning with the local-first AI and specialized application trends.",
-      "tech_stack": [
-        "Python",
-        "Local Vector Database (e.g., ChromaDB, FAISS)",
-        "Local LLM (e.g., using Hugging Face transformers with a small model or Ollama)",
-        "Streamlit or Next.js (for a web-based user interface)",
-        "Markdown/JSON (for storing persistent questions, answers, and conclusions)"
-      ],
-      "source_inspiration": "Selenequant (local-first AI quant research platform with persistent questions/versioned conclusions), hello-llm (understanding LLMs), AI for everything besides coding (applying AI to knowledge management).",
-      "steps": [
-        "Task 1: Define a specific technical domain and curate an initial set of relevant documentation/resources.",
-        "Task 2: Implement a data ingestion pipeline to chunk and embed these documents into a local vector database.",
-        "Task 3: Develop a RAG (Retrieval-Augmented Generation) pipeline using a local LLM to answer user queries based on the vectorized knowledge base.",
-        "Task 4: Implement a persistent storage mechanism (e.g., local files, SQLite) for user questions, generated answers, and user-validated 'conclusions', including versioning.",
-        "Task 5: Add a 'recall' mechanism: before answering a new question, query the persistent memory for related past questions/conclusions and inject them into the RAG context.",
-        "Task 6: Build a user-friendly interface (Streamlit or Next.js) for input, output, and managing persistent knowledge."
-      ]
-    },
-    {
-      "title": "Proactive Dev Environment Health Monitor & Auto-Fixer",
+      "title": "Local-First AI Desktop Automation Agent",
       "difficulty": "Hard",
       "estimated_hours": 120,
-      "description": "Develop an intelligent tool that continuously monitors a developer's local environment for common issues like outdated dependencies, incompatible runtime versions, low disk space for project caches, or misconfigured project settings. It uses a rule-based system or a simple ML model trained on common developer pain points to proactively identify problems and suggest fixes. For identified issues, it offers one-click solutions or automatically applies fixes, reducing setup friction and combating developer burnout caused by environment inconsistencies. This combines automation, predictive analysis, and addresses productivity bottlenecks directly.",
+      "description": "Build an AI agent that runs entirely on a user's desktop, capable of observing GUI interactions, interpreting natural language commands, and automating sequences of tasks across different applications. This agent prioritizes user privacy by processing all data locally. It could learn new routines through demonstration (user performs actions, agent records and generalizes) or explicit natural language instructions. Think 'mini-RPA' tool powered by a local LLM to understand context and intent, enabling seamless automation of mundane digital workflows like data entry, file organization, cross-application reporting, or specific web navigation tasks.",
       "tech_stack": [
-        "Python",
-        "Shell scripting (Bash/PowerShell for system interaction)",
-        "YAML/JSON (for configuration and rule definitions)",
-        "PyQt6 or Electron (for a graphical user interface)",
-        "Simple Machine Learning (e.g., scikit-learn for classification) for advanced issue detection (optional, could start with rule-based)."
+        "Python (main logic)",
+        "PyAutoGUI (cross-platform GUI automation)",
+        "Playwright/Selenium (for web interactions)",
+        "Ollama/llama.cpp (for local LLM inference)",
+        "Electron/Flask (for user interface)",
+        "OS-specific Accessibility APIs (e.g., pywinauto for Windows, AppKit for macOS, AT-SPI2 for Linux)"
       ],
-      "source_inspiration": "Runtime_rpocket-team_Forge (dev-tool installer/manager), EV_Battery_Health_Prediction (predictive analysis), mls-network-plugin-rpocket-team (monitoring/detection), My Passion for Coding Isn't 404. It's 503. (addressing developer pain points).",
+      "source_inspiration": "Mika (on-device AI agent), Selenequant (local-first AI platform), Mercury 3 (AI fast enough to stay in the loop), ff-ruyijs (headless automation)",
       "steps": [
-        "Task 1: Define a set of common developer environment issues (e.g., missing Node.js, wrong Python version, stale Docker images, low disk space).",
-        "Task 2: Implement system checks using Python and shell scripts to detect these issues across different OS (e.g., check `PATH`, `npm` versions, disk usage).",
-        "Task 3: Create a rule engine that maps detected issues to potential solutions (e.g., 'If Node.js < 18, suggest update' or 'If disk space < 10GB, suggest clearing `node_modules`').",
-        "Task 4: Develop an automated 'fixer' module that can execute commands (e.g., `npm update`, `pip install`, `rm -rf`) with user permission.",
-        "Task 5: Build a GUI (PyQt6) that displays detected issues, offers suggested fixes, and allows the user to trigger automated actions.",
-        "Task 6: (Advanced) Implement a simple telemetry or feedback mechanism to learn from user-applied fixes and refine the rule engine or train a basic classification model for future issue prediction."
+        "1. **Core Automation Engine:** Implement basic GUI control (mouse, keyboard, window management) using PyAutoGUI or platform-specific libraries.",
+        "2. **Local LLM Integration:** Integrate a lightweight, on-device LLM (via Ollama or llama.cpp) to parse natural language commands into structured actions.",
+        "3. **Contextual Observation Module:** Develop a module to observe active windows, UI elements, and screen content (via accessibility APIs or OCR for basic text recognition).",
+        "4. **Action Mapping & Execution:** Create a mapping between parsed LLM outputs (e.g., 'open_app', 'click_button', 'type_text') and the automation engine's capabilities.",
+        "5. **Learning & Refinement Loop:** Implement a 'demonstration mode' where the agent records user actions and attempts to generalize them into repeatable scripts, prompting for user confirmation.",
+        "6. **User Interface:** Build a simple Electron or web-based UI for command input, displaying agent status, and managing learned routines locally."
+      ]
+    },
+    {
+      "title": "Explainable ML Data Attribution Toolkit",
+      "difficulty": "Medium",
+      "estimated_hours": 60,
+      "description": "Develop a web-based toolkit that helps machine learning developers understand the influence of individual training data points on their model's predictions and overall performance. Users can upload their trained ML models and datasets, and the platform will perform attribution analysis to highlight which data instances contribute most positively or negatively to specific outcomes or feature importance. This directly addresses the research focus on 'LM Data Attribution' and 'Private Filtering' by providing tools for model debugging, bias detection, and robustness improvement. It's particularly useful for identifying 'sensitive' data points or outliers impacting model behavior.",
+      "tech_stack": [
+        "Python (Flask/FastAPI for backend)",
+        "Scikit-learn/PyTorch/TensorFlow (for model loading/inference)",
+        "Shapley values (shap library) / LIME (lime library) / Influence Functions (custom implementation)",
+        "Pandas/Numpy (for data manipulation)",
+        "PostgreSQL/SQLite (for metadata storage)",
+        "React/Vue.js (for frontend)",
+        "Docker (for containerization)"
+      ],
+      "source_inspiration": "Elucidating the Design Space of LM Data Attribution (arXiv paper), Propose-Filter-Release (arXiv paper, sensitivity to records), protuna (optimization, implies understanding impact)",
+      "steps": [
+        "1. **Backend API & Model/Data Ingestion:** Create a Flask/FastAPI backend to handle model and dataset uploads, supporting common formats (e.g., pickle, ONNX, H5).",
+        "2. **Data Preprocessing & Storage:** Implement data validation and preprocessing pipelines. Store dataset metadata and anonymized samples in a database.",
+        "3. **Attribution Algorithm Implementation:** Integrate or implement data attribution techniques like Shapley values, LIME, or simplified influence functions (e.g., Leave-One-Out cross-validation) for tabular and basic text data.",
+        "4. **Feature Importance & Prediction Explanation:** Extend the toolkit to also explain individual predictions by highlighting feature importance for a given input.",
+        "5. **Frontend Development:** Design a user-friendly React/Vue.js interface to upload models/data, trigger analysis, and visualize attribution scores, influential data points, and aggregated insights.",
+        "6. **Reporting & Export:** Allow users to generate reports or export identified influential data subsets for further inspection or remediation."
+      ]
+    },
+    {
+      "title": "AI-Powered Web Automation & Scraping Playground",
+      "difficulty": "Medium",
+      "estimated_hours": 40,
+      "description": "Build an interactive web application that allows developers to create and execute complex web automation and data scraping routines using natural language prompts or a guided point-and-click interface. Instead of writing verbose Playwright/Selenium scripts, users can describe their goals (e.g., 'Go to Amazon, search for 'laptops', collect all product titles and prices from the first two pages') and the AI translates this into executable browser actions. The 'playground' aspect means users can see the browser in action (headless or headful), refine instructions, and save reusable 'recipes'. This addresses the need for automating non-coding web tasks and leverages AI for productivity.",
+      "tech_stack": [
+        "Python (Flask/FastAPI for backend)",
+        "Playwright (for browser automation, Python client)",
+        "SpaCy/NLTK (for initial NLP parsing)",
+        "Optional: small fine-tuned LLM (e.g., Sentence-BERT for semantic search over action templates)",
+        "React/Vue.js (for frontend)",
+        "WebSocket (for real-time browser interaction feedback)"
+      ],
+      "source_inspiration": "ff-ruyijs (run JS from Python for automation/scraping), MetaTrader-5-Bot (automated trading via application), AI for everything besides coding (Dev.to article)",
+      "steps": [
+        "1. **Backend with Playwright:** Set up a Python backend with Playwright to control a headless browser instance.",
+        "2. **Basic NLP Command Processor:** Implement a module using SpaCy or NLTK to parse simple natural language commands (e.g., 'go to URL', 'click element', 'type text', 'extract links').",
+        "3. **Action Mapping & Execution:** Map parsed commands to Playwright API calls and execute them in the browser.",
+        "4. **Real-time Feedback & Visualization:** Use WebSockets to send browser state (e.g., current URL, screenshots, extracted data) back to the frontend in real-time.",
+        "5. **Frontend Playground:** Develop a React/Vue.js frontend with an input field for commands, a display area for browser output, and a panel to show extracted data. Allow for 'debug' mode with a visible browser window.",
+        "6. **Recipe Management:** Implement functionality to save, load, and share complex sequences of commands as 'automation recipes' (e.g., JSON files)."
       ]
     }
   ],
   "quick_actions": [
-    "Action 1: Dedicate 15 minutes each Monday morning to formally list your top 3 development goals for the week. (Inspired by 'What are your goals for the week?').",
-    "Action 2: Experiment with a local LLM setup (e.g., install Ollama and run a small model like Llama 3) to understand its capabilities firsthand without cloud reliance. (Inspired by 'hello-llm', 'Mika', 'tinyworldformer').",
-    "Action 3: Identify one small, repetitive non-coding task you do daily or weekly (e.g., renaming downloaded files, archiving old emails, fetching specific web data) and write a short script to automate it. (Inspired by 'heybox-daily', 'ff-ruyijs').",
-    "Action 4: Spend 10 minutes exploring how AI tools (ChatGPT, Claude, etc.) can assist you with non-coding tasks like drafting emails, summarizing long articles, or brainstorming ideas, rather than just coding. (Inspired by 'AI for everything besides coding', 'Mercury 3')."
+    "1. **Review Weekly Goals:** Spend 15 minutes each Monday morning to explicitly write down 3-5 key coding and non-coding goals for the week. This provides focus and combats the feeling of being overwhelmed.",
+    "2. **Automate One Mundane Non-Coding Task:** Identify a repetitive task you do outside of coding (e.g., organizing downloaded files, generating a daily report, summarizing emails) and dedicate 30 minutes to exploring how to automate it, even partially, using scripts, a local AI, or existing tools.",
+    "3. **Experiment with Local AI:** Set up a local Large Language Model (e.g., using Ollama or llama.cpp) on your machine. Spend 20 minutes experimenting with it for personal productivity tasks like summarizing articles, brainstorming ideas, or generating text, focusing on its local-first advantages.",
+    "4. **Deconstruct a Complex Dashboard/App:** Choose an application or dashboard you use regularly that feels overly complex. Spend 15 minutes mapping its core functionality vs. its 'bloat' or less-used features. This habit cultivates a critical eye for simplicity and effective UI/UX design."
   ]
 }
