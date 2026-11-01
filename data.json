@@ -1,12 +1,20 @@
 {
-  "last_updated": "2026-10-31 11:21:43",
+  "last_updated": "2026-11-01 12:12:47",
   "scraped_sources": {
     "github": [
+      {
+        "name": "mls-network-plugin-rpocket-team",
+        "owner": "VikingAtKhan",
+        "description": "AI anticheat for Minecraft servers: neural networks catch KillAura, aim assist, triggerbot and reach. Paper, Spigot, Folia 1.16.5–1.21.",
+        "stars": 66,
+        "url": "https://github.com/VikingAtKhan/mls-network-plugin-rpocket-team",
+        "category": "AI / ML"
+      },
       {
         "name": "protuna",
         "owner": "kumarshreshtha",
         "description": "Optimization framework for AI-guided protein engineering",
-        "stars": 40,
+        "stars": 51,
         "url": "https://github.com/kumarshreshtha/protuna",
         "category": "AI / ML"
       },
@@ -14,39 +22,31 @@
         "name": "Selenequant",
         "owner": "papisoV",
         "description": "A local-first AI quant research platform: questions are persistent, conclusions are versioned, and prior findings are recalled into the next call. Python + Next.js, AGPL-3.0-only.",
-        "stars": 35,
+        "stars": 42,
         "url": "https://github.com/papisoV/Selenequant",
         "category": "AI / ML"
       },
       {
-        "name": "mls-network-plugin-rpocket-team",
-        "owner": "VikingAtKhan",
-        "description": "AI anticheat for Minecraft servers: neural networks catch KillAura, aim assist, triggerbot and reach. Paper, Spigot, Folia 1.16.5–1.21.",
-        "stars": 32,
-        "url": "https://github.com/VikingAtKhan/mls-network-plugin-rpocket-team",
+        "name": "bootgpt",
+        "owner": "kerlenton",
+        "description": "A language model that lives in a boot sector",
+        "stars": 40,
+        "url": "https://github.com/kerlenton/bootgpt",
         "category": "AI / ML"
       },
       {
-        "name": "AModel",
-        "owner": "st1vms",
-        "description": "Advanced machine learning and data-driven football (soccer) prediction engine designed to forecast match outcomes, analyze team performance, and process sports data seamlessly through automated setup and execution pipelines.",
-        "stars": 6,
-        "url": "https://github.com/st1vms/AModel",
-        "category": "AI / ML"
-      },
-      {
-        "name": "ml-research-handbook",
-        "owner": "khalidhasan7343",
-        "description": "A bilingual (English–Bangla) handbook on Machine Learning, research methodology, paper analysis, and research gap discovery.",
-        "stars": 3,
-        "url": "https://github.com/khalidhasan7343/ml-research-handbook",
+        "name": "Machine-Learning-in-Economics-and-Finance",
+        "owner": "mehmetsongur",
+        "description": "Weekly materials for the Dicle University course Machine Learning in Economics and Finance: slides, lecture videos and code. Course taught in Turkish.",
+        "stars": 26,
+        "url": "https://github.com/mehmetsongur/Machine-Learning-in-Economics-and-Finance",
         "category": "AI / ML"
       },
       {
         "name": "Mika",
         "owner": "wangzan101",
-        "description": "Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps and the web to get things done for you.",
-        "stars": 2096,
+        "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
+        "stars": 3323,
         "url": "https://github.com/wangzan101/Mika",
         "category": "Automation / Productivity"
       },
@@ -54,7 +54,7 @@
         "name": "ff-ruyijs",
         "owner": "cutetailbud",
         "description": "Run any site JavaScript from Python with the real Firefox engine. Headless SpiderMonkey + Necko for automation and scraping.",
-        "stars": 339,
+        "stars": 375,
         "url": "https://github.com/cutetailbud/ff-ruyijs",
         "category": "Automation / Productivity"
       },
@@ -62,7 +62,7 @@
         "name": "MetaTrader-5-Bot",
         "owner": "darkareaminaret",
         "description": "Metatrader 5 Bot 2026: Full working installer with automated trading scripts ready to run.",
-        "stars": 109,
+        "stars": 313,
         "url": "https://github.com/darkareaminaret/MetaTrader-5-Bot",
         "category": "Automation / Productivity"
       },
@@ -70,29 +70,44 @@
         "name": "RX-11-Audio-Editor",
         "owner": "mythicassemblyladle",
         "description": "Rx 11 Audio Editor 2026 complete standalone installation setup. Ready-to-run desktop edition with all features unlocked.",
-        "stars": 105,
+        "stars": 310,
         "url": "https://github.com/mythicassemblyladle/RX-11-Audio-Editor",
         "category": "Automation / Productivity"
       },
       {
-        "name": "Microsoft-365",
-        "owner": "DistributorFollow23",
-        "description": "Microsoft 365 Utilities Pack 2024 - Full working installer with essential tools for managing Microsoft services on your desktop.",
-        "stars": 104,
-        "url": "https://github.com/DistributorFollow23/Microsoft-365",
+        "name": "Hwid-Spoofer",
+        "owner": "Pointoocupola",
+        "description": "Complete standalone setup for Hwid Spoofer Free, pre-activated and ready to run.",
+        "stars": 304,
+        "url": "https://github.com/Pointoocupola/Hwid-Spoofer",
         "category": "Automation / Productivity"
       }
     ],
     "hacker_news": [
       {
-        "title": "Serbia just elected the world's brainiest parliament",
-        "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
-        "score": 128
+        "title": "Norway makes shithouses great again",
+        "url": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/",
+        "score": 167
       },
       {
-        "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
-        "url": "https://thedataexchange.media/leo-de-moura-lean-aws/",
-        "score": 43
+        "title": "The AI cost of JavaScript frameworks",
+        "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+        "score": 113
+      },
+      {
+        "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+        "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+        "score": 273
+      },
+      {
+        "title": "Domain hacks with unusual Unicode characters (2018)",
+        "url": "https://xn--69f31l4t57c0mag4b613h.xn--7uh4898msjaso/🆆🆃🅵/",
+        "score": 9
+      },
+      {
+        "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
+        "url": "https://arxiv.org/abs/2409.02292",
+        "score": 96
       }
     ],
     "arxiv": [
@@ -130,6 +145,12 @@
         "reactions": 21
       },
       {
+        "title": "AI for everything besides coding",
+        "description": "I went through ten weeks of my non-coding Claude chats to see if they saved me time. The best ones went past the question I typed.",
+        "url": "https://dev.to/cseeman/ai-for-everything-besides-coding-4hen",
+        "reactions": 11
+      },
+      {
         "title": "Mercury 3: When AI Is Fast Enough to Stay in the Loop",
         "description": "My MSI Claw had a controller problem. I gave Mercury 3 SSH access and described it. About 20 seconds...",
         "url": "https://dev.to/maximsaplin/mercury-3-when-ai-is-fast-enough-to-stay-in-the-loop-3oe5",
@@ -142,96 +163,90 @@
         "reactions": 5
       },
       {
-        "title": "My Passion for Coding Isn't 404. It's 503.",
-        "description": "Last month, I signed up for a hackathon.  I opened a fresh file and named it ideas.md.  Forty-eight...",
-        "url": "https://dev.to/_boweii/my-passion-for-coding-isnt-404-its-503-446h",
-        "reactions": 10
-      },
-      {
-        "title": "AI for everything besides coding",
-        "description": "I went through ten weeks of my non-coding Claude chats to see if they saved me time. The best ones went past the question I typed.",
-        "url": "https://dev.to/cseeman/ai-for-everything-besides-coding-4hen",
-        "reactions": 7
+        "title": "Debugging in the Agentic Era",
+        "description": "Coding agents write frontend code fast, but they can't see it run. This is the flow I use to fix...",
+        "url": "https://dev.to/helderberto/debugging-in-the-agentic-era-5a71",
+        "reactions": 3
       }
     ]
   },
-  "trends": "Today's tech landscape is defined by the proliferation of hyper-specialized AI and Machine Learning applications, moving beyond general-purpose models into niche domains like protein engineering, quantitative finance, gaming anti-cheat, and sports analytics. A significant parallel trend is the rise of local-first and on-device AI agents, exemplified by tools that operate system-wide on mobile and desktop, prioritizing privacy, responsiveness, and direct interaction with existing software interfaces. This agentic paradigm extends to advanced automation, with developers seeking to offload complex web interactions, trading strategies, and routine system administration tasks. Concurrently, cutting-edge AI research continues to address the robustness, interpretability, data attribution, and privacy concerns of large language models and generative transformers. Amidst this rapid advancement, developers are also grappling with productivity challenges, striving to leverage AI for 'non-coding' tasks, combatting digital complexity (e.g., 'dashboard fatigue'), and reinforcing personal goal-setting habits to mitigate potential burnout.",
+  "trends": "Today's tech landscape is defined by the rapid maturation and diversification of AI, moving beyond simple task automation to highly autonomous, agentic systems. A significant theme is the push towards 'local-first' and 'on-device' AI, emphasizing privacy, persistence, and efficiency, allowing AI agents to operate applications and the web directly on user devices. We're seeing AI applied to highly specialized domains like anti-cheat systems in gaming, protein engineering, and financial modeling, showcasing its adaptability. Productivity is increasingly augmented by AI for non-coding tasks and even for complex processes like debugging, shifting developer workflows towards 'agentic' interactions. Furthermore, there's an ongoing focus on data attribution, privacy-preserving mechanisms, and efficient architecture designs for large models, indicating a maturing understanding of AI's practical and ethical implications.",
   "ideas": [
     {
-      "title": "Local-First AI Desktop Automation Agent",
-      "difficulty": "Hard",
-      "estimated_hours": 120,
-      "description": "Build an AI agent that runs entirely on a user's desktop, capable of observing GUI interactions, interpreting natural language commands, and automating sequences of tasks across different applications. This agent prioritizes user privacy by processing all data locally. It could learn new routines through demonstration (user performs actions, agent records and generalizes) or explicit natural language instructions. Think 'mini-RPA' tool powered by a local LLM to understand context and intent, enabling seamless automation of mundane digital workflows like data entry, file organization, cross-application reporting, or specific web navigation tasks.",
-      "tech_stack": [
-        "Python (main logic)",
-        "PyAutoGUI (cross-platform GUI automation)",
-        "Playwright/Selenium (for web interactions)",
-        "Ollama/llama.cpp (for local LLM inference)",
-        "Electron/Flask (for user interface)",
-        "OS-specific Accessibility APIs (e.g., pywinauto for Windows, AppKit for macOS, AT-SPI2 for Linux)"
-      ],
-      "source_inspiration": "Mika (on-device AI agent), Selenequant (local-first AI platform), Mercury 3 (AI fast enough to stay in the loop), ff-ruyijs (headless automation)",
-      "steps": [
-        "1. **Core Automation Engine:** Implement basic GUI control (mouse, keyboard, window management) using PyAutoGUI or platform-specific libraries.",
-        "2. **Local LLM Integration:** Integrate a lightweight, on-device LLM (via Ollama or llama.cpp) to parse natural language commands into structured actions.",
-        "3. **Contextual Observation Module:** Develop a module to observe active windows, UI elements, and screen content (via accessibility APIs or OCR for basic text recognition).",
-        "4. **Action Mapping & Execution:** Create a mapping between parsed LLM outputs (e.g., 'open_app', 'click_button', 'type_text') and the automation engine's capabilities.",
-        "5. **Learning & Refinement Loop:** Implement a 'demonstration mode' where the agent records user actions and attempts to generalize them into repeatable scripts, prompting for user confirmation.",
-        "6. **User Interface:** Build a simple Electron or web-based UI for command input, displaying agent status, and managing learned routines locally."
-      ]
-    },
-    {
-      "title": "Explainable ML Data Attribution Toolkit",
-      "difficulty": "Medium",
-      "estimated_hours": 60,
-      "description": "Develop a web-based toolkit that helps machine learning developers understand the influence of individual training data points on their model's predictions and overall performance. Users can upload their trained ML models and datasets, and the platform will perform attribution analysis to highlight which data instances contribute most positively or negatively to specific outcomes or feature importance. This directly addresses the research focus on 'LM Data Attribution' and 'Private Filtering' by providing tools for model debugging, bias detection, and robustness improvement. It's particularly useful for identifying 'sensitive' data points or outliers impacting model behavior.",
-      "tech_stack": [
-        "Python (Flask/FastAPI for backend)",
-        "Scikit-learn/PyTorch/TensorFlow (for model loading/inference)",
-        "Shapley values (shap library) / LIME (lime library) / Influence Functions (custom implementation)",
-        "Pandas/Numpy (for data manipulation)",
-        "PostgreSQL/SQLite (for metadata storage)",
-        "React/Vue.js (for frontend)",
-        "Docker (for containerization)"
-      ],
-      "source_inspiration": "Elucidating the Design Space of LM Data Attribution (arXiv paper), Propose-Filter-Release (arXiv paper, sensitivity to records), protuna (optimization, implies understanding impact)",
-      "steps": [
-        "1. **Backend API & Model/Data Ingestion:** Create a Flask/FastAPI backend to handle model and dataset uploads, supporting common formats (e.g., pickle, ONNX, H5).",
-        "2. **Data Preprocessing & Storage:** Implement data validation and preprocessing pipelines. Store dataset metadata and anonymized samples in a database.",
-        "3. **Attribution Algorithm Implementation:** Integrate or implement data attribution techniques like Shapley values, LIME, or simplified influence functions (e.g., Leave-One-Out cross-validation) for tabular and basic text data.",
-        "4. **Feature Importance & Prediction Explanation:** Extend the toolkit to also explain individual predictions by highlighting feature importance for a given input.",
-        "5. **Frontend Development:** Design a user-friendly React/Vue.js interface to upload models/data, trigger analysis, and visualize attribution scores, influential data points, and aggregated insights.",
-        "6. **Reporting & Export:** Allow users to generate reports or export identified influential data subsets for further inspection or remediation."
-      ]
-    },
-    {
-      "title": "AI-Powered Web Automation & Scraping Playground",
+      "title": "Local-First Agentic Desktop Co-Pilot",
       "difficulty": "Medium",
       "estimated_hours": 40,
-      "description": "Build an interactive web application that allows developers to create and execute complex web automation and data scraping routines using natural language prompts or a guided point-and-click interface. Instead of writing verbose Playwright/Selenium scripts, users can describe their goals (e.g., 'Go to Amazon, search for 'laptops', collect all product titles and prices from the first two pages') and the AI translates this into executable browser actions. The 'playground' aspect means users can see the browser in action (headless or headful), refine instructions, and save reusable 'recipes'. This addresses the need for automating non-coding web tasks and leverages AI for productivity.",
+      "description": "Build a personal, local-first AI agent that resides on the user's desktop. This agent should observe user activity (with explicit permissions), learn patterns, and proactively offer assistance or automate common non-coding tasks across applications. Examples include intelligent file organization, summarizing open documents, drafting context-aware emails, or triggering custom workflows based on observed intent. The 'local-first' aspect ensures data privacy and responsiveness, while 'agentic' means it acts autonomously when appropriate, reducing friction in daily digital life.",
       "tech_stack": [
-        "Python (Flask/FastAPI for backend)",
-        "Playwright (for browser automation, Python client)",
-        "SpaCy/NLTK (for initial NLP parsing)",
-        "Optional: small fine-tuned LLM (e.g., Sentence-BERT for semantic search over action templates)",
-        "React/Vue.js (for frontend)",
-        "WebSocket (for real-time browser interaction feedback)"
+        "Python",
+        "Electron / Tauri (for cross-platform UI)",
+        "Local LLM (e.g., Ollama/Llama.cpp)",
+        "OS-specific automation libraries (e.g., PyAutoGUI, AppleScript/PowerShell integrations)",
+        "Vector database (e.g., ChromaDB) for context/memory"
       ],
-      "source_inspiration": "ff-ruyijs (run JS from Python for automation/scraping), MetaTrader-5-Bot (automated trading via application), AI for everything besides coding (Dev.to article)",
+      "source_inspiration": "Mika (on-device AI agent for Android), Selenequant (local-first AI research platform), Dev.to articles 'AI for everything besides coding' and 'Mercury 3: When AI Is Fast Enough to Stay in the Loop'.",
       "steps": [
-        "1. **Backend with Playwright:** Set up a Python backend with Playwright to control a headless browser instance.",
-        "2. **Basic NLP Command Processor:** Implement a module using SpaCy or NLTK to parse simple natural language commands (e.g., 'go to URL', 'click element', 'type text', 'extract links').",
-        "3. **Action Mapping & Execution:** Map parsed commands to Playwright API calls and execute them in the browser.",
-        "4. **Real-time Feedback & Visualization:** Use WebSockets to send browser state (e.g., current URL, screenshots, extracted data) back to the frontend in real-time.",
-        "5. **Frontend Playground:** Develop a React/Vue.js frontend with an input field for commands, a display area for browser output, and a panel to show extracted data. Allow for 'debug' mode with a visible browser window.",
-        "6. **Recipe Management:** Implement functionality to save, load, and share complex sequences of commands as 'automation recipes' (e.g., JSON files)."
+        "Task 1: Set up a basic Electron/Tauri application structure with a Python backend for AI logic.",
+        "Task 2: Integrate a local LLM (e.g., via Ollama API) into the Python backend for natural language understanding and generation.",
+        "Task 3: Implement basic OS-level integrations for observing active applications and file system events (e.g., Python's `watchdog` for file monitoring).",
+        "Task 4: Develop a 'context buffer' using a vector database to store recent user interactions, opened files, and application states for the LLM to recall.",
+        "Task 5: Implement a core 'agent loop' that analyzes context, identifies potential automation opportunities, and surfaces suggestions or executes pre-defined actions.",
+        "Task 6: Create initial 'skills' or automation modules (e.g., 'summarize active document', 'organize downloads folder', 'draft email reply').",
+        "Task 7: Design a user-friendly UI for managing permissions, reviewing suggestions, and adding/editing custom automation rules."
+      ]
+    },
+    {
+      "title": "Adaptive Niche Anomaly Detection for SaaS/Ops",
+      "difficulty": "Medium",
+      "estimated_hours": 25,
+      "description": "Leverage the anti-cheat concept from gaming and apply it to a business-critical niche: real-time anomaly detection for SaaS application usage, infrastructure operations, or IoT device behavior. This project involves building a system that learns 'normal' operational patterns from data streams and flags statistically significant deviations. It could help identify security breaches, performance bottlenecks, or unusual user activity (e.g., bot attacks, fraudulent actions) in real-time, providing early warnings before issues escalate. The focus is on a modular, adaptive neural network approach that can be easily configured for different data sources and anomaly types.",
+      "tech_stack": [
+        "Python",
+        "TensorFlow / PyTorch (for neural networks)",
+        "Apache Kafka / RabbitMQ (for data streaming)",
+        "FastAPI (for anomaly detection API endpoint)",
+        "Prometheus / Grafana (for monitoring and visualization)"
+      ],
+      "source_inspiration": "mls-network-plugin-rpocket-team (AI anticheat), protuna (optimization framework for specific domains), and general trends in operational intelligence.",
+      "steps": [
+        "Task 1: Define a target niche (e.g., monitoring API request patterns for a microservice, user login behaviors in a small SaaS).",
+        "Task 2: Set up a data ingestion pipeline using Kafka or RabbitMQ to stream relevant operational logs or metrics.",
+        "Task 3: Pre-process incoming data to extract features suitable for anomaly detection (e.g., request rates, error codes, user agent strings, geographical data).",
+        "Task 4: Design and implement a recurrent neural network (RNN) or autoencoder model using TensorFlow/PyTorch to learn normal sequences/patterns.",
+        "Task 5: Train the model on historical 'normal' data, setting thresholds for anomaly scoring.",
+        "Task 6: Develop a FastAPI service that consumes the data stream, passes it through the trained model, and flags anomalies based on the score.",
+        "Task 7: Integrate an alerting mechanism (e.g., email, Slack webhook) for detected anomalies and visualize trends using Grafana."
+      ]
+    },
+    {
+      "title": "Personal AI-Augmented Knowledge Vault",
+      "difficulty": "Medium",
+      "estimated_hours": 35,
+      "description": "Create a personal, local-first knowledge management system that uses AI to enhance how you capture, organize, and retrieve information. Inspired by 'Selenequant', this platform would allow a user to store notes, research papers, code snippets, and meeting summaries. The AI component, powered by a local LLM and an embedded vector database, would automatically contextualize new entries, link related concepts, and, critically, 'recall prior findings' to provide enriched answers or summaries when prompted. This creates a cumulative, versioned knowledge base that gets smarter over time.",
+      "tech_stack": [
+        "Python",
+        "Local LLM (e.g., Ollama/Llama.cpp via client libraries)",
+        "Vector database (e.g., ChromaDB, LanceDB)",
+        "LangChain / LlamaIndex (for RAG and agentic workflows)",
+        "Markdown/JSON for content storage",
+        "Streamlit / Flask + HTMX (for simple web UI)"
+      ],
+      "source_inspiration": "Selenequant (local-first AI quant research platform with recall/versioning), arXiv papers on LM data attribution (implying importance of data context), Dev.to articles about AI for non-coding tasks.",
+      "steps": [
+        "Task 1: Design a local data storage schema for notes, documents, and code snippets (e.g., Markdown files with YAML frontmatter for metadata).",
+        "Task 2: Integrate a local LLM client (e.g., `ollama` Python client) for text embeddings and natural language processing.",
+        "Task 3: Set up a vector database (e.g., ChromaDB) to store embeddings of all knowledge entries, enabling semantic search.",
+        "Task 4: Implement an ingestion pipeline: when a new entry is added, chunk it, generate embeddings, and store them in the vector DB.",
+        "Task 5: Develop a Retrieval-Augmented Generation (RAG) system using LangChain/LlamaIndex that queries the vector DB for relevant context before prompting the LLM.",
+        "Task 6: Implement a 'recall' mechanism: when the user asks a question or creates a new entry, the system automatically fetches related prior findings from the vector DB to inform the LLM's response or analysis.",
+        "Task 7: Build a simple web UI (Streamlit/Flask) for adding new entries, browsing the knowledge base, and interacting with the AI for questions and summaries."
       ]
     }
   ],
   "quick_actions": [
-    "1. **Review Weekly Goals:** Spend 15 minutes each Monday morning to explicitly write down 3-5 key coding and non-coding goals for the week. This provides focus and combats the feeling of being overwhelmed.",
-    "2. **Automate One Mundane Non-Coding Task:** Identify a repetitive task you do outside of coding (e.g., organizing downloaded files, generating a daily report, summarizing emails) and dedicate 30 minutes to exploring how to automate it, even partially, using scripts, a local AI, or existing tools.",
-    "3. **Experiment with Local AI:** Set up a local Large Language Model (e.g., using Ollama or llama.cpp) on your machine. Spend 20 minutes experimenting with it for personal productivity tasks like summarizing articles, brainstorming ideas, or generating text, focusing on its local-first advantages.",
-    "4. **Deconstruct a Complex Dashboard/App:** Choose an application or dashboard you use regularly that feels overly complex. Spend 15 minutes mapping its core functionality vs. its 'bloat' or less-used features. This habit cultivates a critical eye for simplicity and effective UI/UX design."
+    "Action 1: Experiment with a local LLM (e.g., Ollama or Llama.cpp) on your machine this week. Try running a small model to generate code snippets, explain concepts, or refactor a function in your local development environment.",
+    "Action 2: For your next debugging session, before diving into the code, articulate the problem clearly to an AI assistant (ChatGPT, Claude, or a local LLM). Ask it to suggest possible causes or a structured approach to identifying the bug.",
+    "Action 3: Identify one recurring non-coding digital task (e.g., renaming files, organizing downloads, fetching specific data from a website, generating report outlines) and write a small script or use an existing automation tool to automate it partially or fully.",
+    "Action 4: Dedicate 15 minutes each week to 'knowledge capture'. Start a simple, personal markdown-based wiki or journal where you consistently note down interesting solutions, insights, or learned concepts from your work. The goal is to build a personal, structured knowledge base."
   ]
 }
