@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-11-01 12:12:47",
+  "last_updated": "2026-11-02 14:02:02",
   "scraped_sources": {
     "github": [
       {
-        "name": "mls-network-plugin-rpocket-team",
-        "owner": "VikingAtKhan",
-        "description": "AI anticheat for Minecraft servers: neural networks catch KillAura, aim assist, triggerbot and reach. Paper, Spigot, Folia 1.16.5–1.21.",
-        "stars": 66,
-        "url": "https://github.com/VikingAtKhan/mls-network-plugin-rpocket-team",
+        "name": "bootgpt",
+        "owner": "kerlenton",
+        "description": "A language model that lives in a boot sector",
+        "stars": 65,
+        "url": "https://github.com/kerlenton/bootgpt",
         "category": "AI / ML"
       },
       {
         "name": "protuna",
         "owner": "kumarshreshtha",
         "description": "Optimization framework for AI-guided protein engineering",
-        "stars": 51,
+        "stars": 54,
         "url": "https://github.com/kumarshreshtha/protuna",
         "category": "AI / ML"
       },
@@ -22,31 +22,31 @@
         "name": "Selenequant",
         "owner": "papisoV",
         "description": "A local-first AI quant research platform: questions are persistent, conclusions are versioned, and prior findings are recalled into the next call. Python + Next.js, AGPL-3.0-only.",
-        "stars": 42,
+        "stars": 44,
         "url": "https://github.com/papisoV/Selenequant",
-        "category": "AI / ML"
-      },
-      {
-        "name": "bootgpt",
-        "owner": "kerlenton",
-        "description": "A language model that lives in a boot sector",
-        "stars": 40,
-        "url": "https://github.com/kerlenton/bootgpt",
         "category": "AI / ML"
       },
       {
         "name": "Machine-Learning-in-Economics-and-Finance",
         "owner": "mehmetsongur",
         "description": "Weekly materials for the Dicle University course Machine Learning in Economics and Finance: slides, lecture videos and code. Course taught in Turkish.",
-        "stars": 26,
+        "stars": 30,
         "url": "https://github.com/mehmetsongur/Machine-Learning-in-Economics-and-Finance",
+        "category": "AI / ML"
+      },
+      {
+        "name": "mls-network-plugin-rpocket-team",
+        "owner": "VikingAtKhan",
+        "description": "AI anticheat for Minecraft servers: neural networks catch KillAura, aim assist, triggerbot and reach. Paper, Spigot, Folia 1.16.5–1.21.",
+        "stars": 27,
+        "url": "https://github.com/VikingAtKhan/mls-network-plugin-rpocket-team",
         "category": "AI / ML"
       },
       {
         "name": "Mika",
         "owner": "wangzan101",
         "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
-        "stars": 3323,
+        "stars": 4968,
         "url": "https://github.com/wangzan101/Mika",
         "category": "Automation / Productivity"
       },
@@ -54,87 +54,67 @@
         "name": "ff-ruyijs",
         "owner": "cutetailbud",
         "description": "Run any site JavaScript from Python with the real Firefox engine. Headless SpiderMonkey + Necko for automation and scraping.",
-        "stars": 375,
+        "stars": 531,
         "url": "https://github.com/cutetailbud/ff-ruyijs",
         "category": "Automation / Productivity"
       },
       {
-        "name": "MetaTrader-5-Bot",
-        "owner": "darkareaminaret",
-        "description": "Metatrader 5 Bot 2026: Full working installer with automated trading scripts ready to run.",
-        "stars": 313,
-        "url": "https://github.com/darkareaminaret/MetaTrader-5-Bot",
+        "name": "zaoba",
+        "owner": "BorisSun0424-boop",
+        "description": "早八 · 每天 8:30 自动完成 AI 工具签到（WorkBuddy / 豆包工作 / 智谱），免费开源，带本地可视化控制台",
+        "stars": 142,
+        "url": "https://github.com/BorisSun0424-boop/zaoba",
         "category": "Automation / Productivity"
       },
       {
-        "name": "RX-11-Audio-Editor",
-        "owner": "mythicassemblyladle",
-        "description": "Rx 11 Audio Editor 2026 complete standalone installation setup. Ready-to-run desktop edition with all features unlocked.",
-        "stars": 310,
-        "url": "https://github.com/mythicassemblyladle/RX-11-Audio-Editor",
+        "name": "DFT-Pro",
+        "owner": "Upgradekrodefeat30",
+        "description": "Complete standalone setup for Dft Pro 2026. Pre-activated desktop edition ready to run with all features included.",
+        "stars": 124,
+        "url": "https://github.com/Upgradekrodefeat30/DFT-Pro",
         "category": "Automation / Productivity"
       },
       {
-        "name": "Hwid-Spoofer",
-        "owner": "Pointoocupola",
-        "description": "Complete standalone setup for Hwid Spoofer Free, pre-activated and ready to run.",
-        "stars": 304,
-        "url": "https://github.com/Pointoocupola/Hwid-Spoofer",
+        "name": "SP-Flash-Tool",
+        "owner": "Fusenamoon77",
+        "description": "Sp Flash Tool 2026: Complete standalone setup with all necessary drivers and utilities for efficient firmware flashing.",
+        "stars": 124,
+        "url": "https://github.com/Fusenamoon77/SP-Flash-Tool",
         "category": "Automation / Productivity"
       }
     ],
     "hacker_news": [
       {
-        "title": "Norway makes shithouses great again",
-        "url": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/",
-        "score": 167
-      },
-      {
-        "title": "The AI cost of JavaScript frameworks",
-        "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
-        "score": 113
-      },
-      {
-        "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
-        "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
-        "score": 273
-      },
-      {
-        "title": "Domain hacks with unusual Unicode characters (2018)",
-        "url": "https://xn--69f31l4t57c0mag4b613h.xn--7uh4898msjaso/🆆🆃🅵/",
-        "score": 9
-      },
-      {
-        "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
-        "url": "https://arxiv.org/abs/2409.02292",
-        "score": 96
+        "title": "Never Complain, Never Explain",
+        "url": "https://en.wikipedia.org/wiki/Never_complain,_never_explain",
+        "score": 39
       }
     ],
     "arxiv": [
       {
-        "title": "Elucidating the Design Space of LM Data Attribution",
-        "summary": "Data attribution methods for Language Models (LMs) are typically evaluated using downstream tasks like fact retrieval. However, existing evaluations vary multiple dataset properties simultaneously, ma...",
-        "url": "http://arxiv.org/abs/2610.40655v1"
+        "title": "Latent Reasoning in Continuous Space for Unified Multimodal Models",
+        "summary": "Unified Multimodal Models (UMMs) achieve remarkable success on diverse multimodal understanding and generation tasks, yet they still struggle to effectively leverage language-based chain-of-thought re...",
+        "url": "http://arxiv.org/abs/2610.42149v1"
       },
       {
-        "title": "Propose-Filter-Release: Scaling Noise to Typical Sensitivity via Private Filtering",
-        "summary": "An estimator can be accurate and stable on typical data, yet sensitive to a few possible records. Differentially private mechanisms commonly scale their noise to the worst-case influence of a single r...",
-        "url": "http://arxiv.org/abs/2610.40654v1"
+        "title": "Flide: Accelerating Decision Inference with Exact State Forking",
+        "summary": "Decision models such as Jev have emerged as a highly promising paradigm for LLM agent systems, providing lightweight and reliable categorical reasoning for rapid System One execution. However, existin...",
+        "url": "http://arxiv.org/abs/2610.42148v1"
       },
       {
-        "title": "Rethinking Neural Thickets Without Weight Perturbations",
-        "summary": "The Neural Thickets hypothesis posits that pretrained language models lie in dense neighborhoods of task-specific experts in weight space, which random Gaussian perturbations can uncover. We reproduce...",
-        "url": "http://arxiv.org/abs/2610.40649v1"
+        "title": "Latent Sparse Attention: Towards Subquadratic Ultra-Long Context Attention",
+        "summary": "Agentic workflows are increasingly shifting towards long-horizon tasks, such as open-ended scientific work, where models benefit from long context windows. However, at ultra-long context (above 1M tok...",
+        "url": "http://arxiv.org/abs/2610.42147v1"
       },
       {
-        "title": "Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers",
-        "summary": "Pixel-space generative Transformers typically use one token per image patch, so capturing finer detail requires more tokens and makes global attention increasingly expensive. We observe that finer det...",
-        "url": "http://arxiv.org/abs/2610.40647v1"
+        "title": "Hierarchical World Models with Implicit Dynamics",
+        "summary": "Planning with world models enables test-time adaptation for embodied agents, offering superior generalization over direct policy learning. However, long-horizon tasks remain hindered by cumulative err...",
+        "url": "http://arxiv.org/abs/2610.42146v1"
       },
       {
-        "title": "Adaptive Scenario Generation for KL-DRO Around a Learned Density Model",
-        "summary": "Distributionally robust optimization (DRO) hedges data-driven two-stage stochastic programs against error in the distribution estimated from a finite record, and standard ambiguity sets differ in how ...",
-        "url": "http://arxiv.org/abs/2610.40644v1"
+        "title": "RoboArchitect: Automating the Design of Robotic Agents with Persistent Memory",
+        "summary": "Recent work shows that a frozen robot policy performs far better inside an agent harness, where control code decides when to query the policy, consult vision tools, or command the arm directly. Yet to...",
+        "url": "http://arxiv.org/abs/2610.42141v1"
       }
     ],
     "devto": [
@@ -148,7 +128,13 @@
         "title": "AI for everything besides coding",
         "description": "I went through ten weeks of my non-coding Claude chats to see if they saved me time. The best ones went past the question I typed.",
         "url": "https://dev.to/cseeman/ai-for-everything-besides-coding-4hen",
-        "reactions": 11
+        "reactions": 12
+      },
+      {
+        "title": "Agent Skills Drift: A Feedback Loop for Keeping One True",
+        "description": "An agent skill goes stale in six separate ways while its checks stay green. A step by step guide to measuring that drift and closing it with a feedback loop, using one publishing skill's own audit.",
+        "url": "https://dev.to/gde/agent-skills-drift-a-feedback-loop-for-keeping-one-true-2il7",
+        "reactions": 10
       },
       {
         "title": "Mercury 3: When AI Is Fast Enough to Stay in the Loop",
@@ -161,92 +147,88 @@
         "description": "What are your goals for the week?    What are you building this week? What do you want to...",
         "url": "https://dev.to/jarvisscript/what-are-your-goals-for-the-week-202-3g6a",
         "reactions": 5
-      },
-      {
-        "title": "Debugging in the Agentic Era",
-        "description": "Coding agents write frontend code fast, but they can't see it run. This is the flow I use to fix...",
-        "url": "https://dev.to/helderberto/debugging-in-the-agentic-era-5a71",
-        "reactions": 3
       }
     ]
   },
-  "trends": "Today's tech landscape is defined by the rapid maturation and diversification of AI, moving beyond simple task automation to highly autonomous, agentic systems. A significant theme is the push towards 'local-first' and 'on-device' AI, emphasizing privacy, persistence, and efficiency, allowing AI agents to operate applications and the web directly on user devices. We're seeing AI applied to highly specialized domains like anti-cheat systems in gaming, protein engineering, and financial modeling, showcasing its adaptability. Productivity is increasingly augmented by AI for non-coding tasks and even for complex processes like debugging, shifting developer workflows towards 'agentic' interactions. Furthermore, there's an ongoing focus on data attribution, privacy-preserving mechanisms, and efficient architecture designs for large models, indicating a maturing understanding of AI's practical and ethical implications.",
+  "trends": "Today's tech landscape is profoundly shaped by the rapid advancement of **agentic AI systems**, with a significant push towards **on-device and local-first deployments** to enhance privacy, reduce latency, and improve performance. A core focus is on **efficiency and scalability in AI**, particularly in handling ultra-long contexts for complex tasks and accelerating decision inference for LLM-powered agents. We observe a clear trend towards **specialized AI applications** tailored for specific, high-value domains (e.g., protein engineering, finance, gaming, mobile device control), alongside a continuous drive for **advanced automation and productivity tools** that integrate AI for non-coding tasks. Crucially, the emphasis is on building AI systems with **persistent memory, robust contextual awareness, and adaptive feedback mechanisms** to enable self-correction, maintain reliability, and tackle long-horizon, open-ended challenges effectively.",
   "ideas": [
     {
-      "title": "Local-First Agentic Desktop Co-Pilot",
+      "title": "Local-First AI Knowledge Assistant with Versioned Insights",
       "difficulty": "Medium",
       "estimated_hours": 40,
-      "description": "Build a personal, local-first AI agent that resides on the user's desktop. This agent should observe user activity (with explicit permissions), learn patterns, and proactively offer assistance or automate common non-coding tasks across applications. Examples include intelligent file organization, summarizing open documents, drafting context-aware emails, or triggering custom workflows based on observed intent. The 'local-first' aspect ensures data privacy and responsiveness, while 'agentic' means it acts autonomously when appropriate, reducing friction in daily digital life.",
+      "description": "Develop a desktop application that acts as a personal AI research and knowledge management assistant. Users can input natural language queries, notes, or documents, and the system processes them using local or self-hosted LLMs (e.g., via Ollama/Llama.cpp). The key feature is its ability to store findings, 'version' conclusions, and automatically recall relevant prior insights when new information or queries are presented, creating a persistent, evolving knowledge base that lives entirely on the user's machine. This minimizes cloud dependency and maximizes data privacy.",
       "tech_stack": [
         "Python",
-        "Electron / Tauri (for cross-platform UI)",
-        "Local LLM (e.g., Ollama/Llama.cpp)",
-        "OS-specific automation libraries (e.g., PyAutoGUI, AppleScript/PowerShell integrations)",
-        "Vector database (e.g., ChromaDB) for context/memory"
+        "Streamlit or Flask (for local UI)",
+        "Ollama / Llama.cpp (for local LLM inference)",
+        "Vector database (e.g., ChromaDB, FAISS) for RAG",
+        "SQLite or flat files for persistent storage",
+        "Git (for versioning concepts if more advanced)"
       ],
-      "source_inspiration": "Mika (on-device AI agent for Android), Selenequant (local-first AI research platform), Dev.to articles 'AI for everything besides coding' and 'Mercury 3: When AI Is Fast Enough to Stay in the Loop'.",
+      "source_inspiration": "Selenequant (local-first AI, persistent questions, versioned conclusions, recalled findings), Mika (on-device agent), AI for everything besides coding (non-coding AI use), RoboArchitect (persistent memory for agents).",
       "steps": [
-        "Task 1: Set up a basic Electron/Tauri application structure with a Python backend for AI logic.",
-        "Task 2: Integrate a local LLM (e.g., via Ollama API) into the Python backend for natural language understanding and generation.",
-        "Task 3: Implement basic OS-level integrations for observing active applications and file system events (e.g., Python's `watchdog` for file monitoring).",
-        "Task 4: Develop a 'context buffer' using a vector database to store recent user interactions, opened files, and application states for the LLM to recall.",
-        "Task 5: Implement a core 'agent loop' that analyzes context, identifies potential automation opportunities, and surfaces suggestions or executes pre-defined actions.",
-        "Task 6: Create initial 'skills' or automation modules (e.g., 'summarize active document', 'organize downloads folder', 'draft email reply').",
-        "Task 7: Design a user-friendly UI for managing permissions, reviewing suggestions, and adding/editing custom automation rules."
+        "Set up a basic Python application structure with a local UI framework (e.g., Streamlit).",
+        "Integrate Ollama or Llama.cpp for running local LLMs (e.g., Llama 3, Mistral).",
+        "Implement a text ingestion module to take user input (text, markdown files).",
+        "Develop a Retrieval-Augmented Generation (RAG) system using a local vector database to store and retrieve contextual information.",
+        "Add a 'memory' feature: store summarized insights and original queries in a structured database (e.g., SQLite) associated with timestamps.",
+        "Implement a versioning logic for conclusions, allowing users to track how insights evolve over time.",
+        "Design a UI for querying the knowledge base and visualizing recalled information and evolving insights."
       ]
     },
     {
-      "title": "Adaptive Niche Anomaly Detection for SaaS/Ops",
-      "difficulty": "Medium",
-      "estimated_hours": 25,
-      "description": "Leverage the anti-cheat concept from gaming and apply it to a business-critical niche: real-time anomaly detection for SaaS application usage, infrastructure operations, or IoT device behavior. This project involves building a system that learns 'normal' operational patterns from data streams and flags statistically significant deviations. It could help identify security breaches, performance bottlenecks, or unusual user activity (e.g., bot attacks, fraudulent actions) in real-time, providing early warnings before issues escalate. The focus is on a modular, adaptive neural network approach that can be easily configured for different data sources and anomaly types.",
+      "title": "Adaptive Desktop Automation Agent with Self-Healing Scripts",
+      "difficulty": "Hard",
+      "estimated_hours": 80,
+      "description": "Build an AI agent for desktop environments that observes user interactions and system states to automate repetitive tasks and even troubleshoot minor application issues. The agent will leverage UI automation tools (e.g., Playwright/Selenium via a Python wrapper) and an LLM to generate, execute, and refine scripts. It will learn from successful automations and user feedback/corrections, automatically adapting its 'skills' and correcting scripts when UI elements change or processes break, embodying a feedback loop for continuous improvement.",
       "tech_stack": [
         "Python",
-        "TensorFlow / PyTorch (for neural networks)",
-        "Apache Kafka / RabbitMQ (for data streaming)",
-        "FastAPI (for anomaly detection API endpoint)",
-        "Prometheus / Grafana (for monitoring and visualization)"
+        "Playwright / Selenium (for UI automation)",
+        "OpenAI API or local LLM (Ollama) for script generation and reasoning",
+        "System monitoring libraries (e.g., psutil)",
+        "SQLite or JSON for storing learned automation patterns and feedback",
+        "Optional: Computer Vision (OpenCV) for UI element detection if direct element access is limited"
       ],
-      "source_inspiration": "mls-network-plugin-rpocket-team (AI anticheat), protuna (optimization framework for specific domains), and general trends in operational intelligence.",
+      "source_inspiration": "Mika (on-device agent for Android apps/web), Mercury 3 (fast AI for in-the-loop automation, SSH access), ff-ruyijs (advanced web automation), Agent Skills Drift (feedback loops for agents).",
       "steps": [
-        "Task 1: Define a target niche (e.g., monitoring API request patterns for a microservice, user login behaviors in a small SaaS).",
-        "Task 2: Set up a data ingestion pipeline using Kafka or RabbitMQ to stream relevant operational logs or metrics.",
-        "Task 3: Pre-process incoming data to extract features suitable for anomaly detection (e.g., request rates, error codes, user agent strings, geographical data).",
-        "Task 4: Design and implement a recurrent neural network (RNN) or autoencoder model using TensorFlow/PyTorch to learn normal sequences/patterns.",
-        "Task 5: Train the model on historical 'normal' data, setting thresholds for anomaly scoring.",
-        "Task 6: Develop a FastAPI service that consumes the data stream, passes it through the trained model, and flags anomalies based on the score.",
-        "Task 7: Integrate an alerting mechanism (e.g., email, Slack webhook) for detected anomalies and visualize trends using Grafana."
+        "Develop a UI monitoring module to capture user actions (clicks, keystrokes) and application states.",
+        "Integrate Playwright/Selenium via Python for controlling browser and potentially desktop applications.",
+        "Implement an LLM interface (API or local) to interpret user intent or identified problems.",
+        "Develop a 'script generation' module where the LLM can generate Python/Playwright scripts based on observed patterns or user prompts.",
+        "Design a feedback mechanism where users can approve, correct, or mark scripts as failed, and the agent uses this to refine its automation 'skills'.",
+        "Implement basic self-healing: if a script fails, the agent attempts to diagnose the issue (e.g., changed UI element) and regenerate/modify the script using the LLM.",
+        "Create a dashboard to manage automated tasks, view execution logs, and provide feedback to the agent."
       ]
     },
     {
-      "title": "Personal AI-Augmented Knowledge Vault",
+      "title": "Ultra-Contextual Documentation Navigator & Query Engine",
       "difficulty": "Medium",
-      "estimated_hours": 35,
-      "description": "Create a personal, local-first knowledge management system that uses AI to enhance how you capture, organize, and retrieve information. Inspired by 'Selenequant', this platform would allow a user to store notes, research papers, code snippets, and meeting summaries. The AI component, powered by a local LLM and an embedded vector database, would automatically contextualize new entries, link related concepts, and, critically, 'recall prior findings' to provide enriched answers or summaries when prompted. This creates a cumulative, versioned knowledge base that gets smarter over time.",
+      "estimated_hours": 60,
+      "description": "Create a specialized AI assistant capable of navigating and answering complex questions about vast, domain-specific documentation or codebases (e.g., internal company wikis, large open-source project docs, scientific literature archives). This project focuses on efficiently handling 'ultra-long context' through advanced Retrieval-Augmented Generation (RAG) techniques, possibly incorporating sparse attention or hierarchical retrieval. The goal is to provide highly accurate, contextual answers, summarize extensive information, identify inconsistencies, and even suggest improvements or related topics based on a deep, comprehensive understanding of the entire corpus.",
       "tech_stack": [
         "Python",
-        "Local LLM (e.g., Ollama/Llama.cpp via client libraries)",
-        "Vector database (e.g., ChromaDB, LanceDB)",
-        "LangChain / LlamaIndex (for RAG and agentic workflows)",
-        "Markdown/JSON for content storage",
-        "Streamlit / Flask + HTMX (for simple web UI)"
+        "LangChain / LlamaIndex (for RAG orchestration)",
+        "Vector database (e.g., Weaviate, Pinecone, Qdrant) for scalable knowledge retrieval",
+        "OpenAI API, Anthropic API, or local LLM (e.g., via Ollama) capable of handling large contexts",
+        "Markdown/Text parser libraries",
+        "Streamlit or FastAPI + React/Vue for interactive UI"
       ],
-      "source_inspiration": "Selenequant (local-first AI quant research platform with recall/versioning), arXiv papers on LM data attribution (implying importance of data context), Dev.to articles about AI for non-coding tasks.",
+      "source_inspiration": "Latent Sparse Attention (ultra-long context), Selenequant (recall prior findings), Machine-Learning-in-Economics-and-Finance (domain-specific knowledge), Latent Reasoning in Continuous Space (multimodal reasoning).",
       "steps": [
-        "Task 1: Design a local data storage schema for notes, documents, and code snippets (e.g., Markdown files with YAML frontmatter for metadata).",
-        "Task 2: Integrate a local LLM client (e.g., `ollama` Python client) for text embeddings and natural language processing.",
-        "Task 3: Set up a vector database (e.g., ChromaDB) to store embeddings of all knowledge entries, enabling semantic search.",
-        "Task 4: Implement an ingestion pipeline: when a new entry is added, chunk it, generate embeddings, and store them in the vector DB.",
-        "Task 5: Develop a Retrieval-Augmented Generation (RAG) system using LangChain/LlamaIndex that queries the vector DB for relevant context before prompting the LLM.",
-        "Task 6: Implement a 'recall' mechanism: when the user asks a question or creates a new entry, the system automatically fetches related prior findings from the vector DB to inform the LLM's response or analysis.",
-        "Task 7: Build a simple web UI (Streamlit/Flask) for adding new entries, browsing the knowledge base, and interacting with the AI for questions and summaries."
+        "Develop a robust data ingestion pipeline to parse and chunk diverse documentation formats (Markdown, PDF, code files, etc.).",
+        "Implement an advanced RAG pipeline: use a vector database for efficient semantic search over the ingested chunks.",
+        "Integrate an LLM capable of processing long contexts (or use multi-query/multi-step RAG for smaller context models).",
+        "Develop query processing logic that allows for complex, multi-turn questions and follow-ups.",
+        "Add features for identifying potentially contradictory information or gaps in the documentation by cross-referencing different sections.",
+        "Create a user interface allowing natural language queries, displaying sources for answers, and summarizing large documents or code sections.",
+        "Implement performance optimizations for retrieval and LLM calls to handle ultra-long contexts efficiently."
       ]
     }
   ],
   "quick_actions": [
-    "Action 1: Experiment with a local LLM (e.g., Ollama or Llama.cpp) on your machine this week. Try running a small model to generate code snippets, explain concepts, or refactor a function in your local development environment.",
-    "Action 2: For your next debugging session, before diving into the code, articulate the problem clearly to an AI assistant (ChatGPT, Claude, or a local LLM). Ask it to suggest possible causes or a structured approach to identifying the bug.",
-    "Action 3: Identify one recurring non-coding digital task (e.g., renaming files, organizing downloads, fetching specific data from a website, generating report outlines) and write a small script or use an existing automation tool to automate it partially or fully.",
-    "Action 4: Dedicate 15 minutes each week to 'knowledge capture'. Start a simple, personal markdown-based wiki or journal where you consistently note down interesting solutions, insights, or learned concepts from your work. The goal is to build a personal, structured knowledge base."
+    "Experiment with Local LLMs: Download and run an open-source LLM (e.g., Llama 3, Mistral) locally using Ollama or Llama.cpp. Explore its capabilities for non-coding tasks like brainstorming, summarizing, or content generation.",
+    "Automate a Daily Repetitive Task: Identify one small, daily digital task (e.g., organizing downloads, checking a specific website for updates, or generating a quick report) and write a simple script (Python, Bash) to automate it.",
+    "Review Your Digital Workflow for 'Agent' Opportunities: Spend 15 minutes observing your daily computer use. Look for patterns where a simple 'agent' (even a basic script or macro) could make a decision or perform an action based on context, reducing manual effort.",
+    "Dedicate 15 Minutes to 'Long-Horizon' Learning: Pick a complex topic in AI/ML (e.g., agentic systems, multimodal models, sparse attention) and dedicate 15 minutes daily to reading a paper or article, building up knowledge over time, mirroring the trend of long-horizon tasks for AI."
   ]
 }
