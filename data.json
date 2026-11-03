@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-02 14:02:02",
+  "last_updated": "2026-11-03 13:10:28",
   "scraped_sources": {
     "github": [
       {
         "name": "bootgpt",
         "owner": "kerlenton",
         "description": "A language model that lives in a boot sector",
-        "stars": 65,
+        "stars": 77,
         "url": "https://github.com/kerlenton/bootgpt",
         "category": "AI / ML"
       },
@@ -22,7 +22,7 @@
         "name": "Selenequant",
         "owner": "papisoV",
         "description": "A local-first AI quant research platform: questions are persistent, conclusions are versioned, and prior findings are recalled into the next call. Python + Next.js, AGPL-3.0-only.",
-        "stars": 44,
+        "stars": 47,
         "url": "https://github.com/papisoV/Selenequant",
         "category": "AI / ML"
       },
@@ -35,86 +35,80 @@
         "category": "AI / ML"
       },
       {
-        "name": "mls-network-plugin-rpocket-team",
-        "owner": "VikingAtKhan",
-        "description": "AI anticheat for Minecraft servers: neural networks catch KillAura, aim assist, triggerbot and reach. Paper, Spigot, Folia 1.16.5–1.21.",
-        "stars": 27,
-        "url": "https://github.com/VikingAtKhan/mls-network-plugin-rpocket-team",
+        "name": "Meta-Ai-Global-Hackathon-Ran-Sentinel-",
+        "owner": "AKMaasif",
+        "description": "RAN Sentinel: AI co-engineer for mobile networks",
+        "stars": 18,
+        "url": "https://github.com/AKMaasif/Meta-Ai-Global-Hackathon-Ran-Sentinel-",
         "category": "AI / ML"
       },
       {
         "name": "Mika",
         "owner": "wangzan101",
         "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
-        "stars": 4968,
+        "stars": 5882,
         "url": "https://github.com/wangzan101/Mika",
         "category": "Automation / Productivity"
       },
       {
         "name": "ff-ruyijs",
         "owner": "cutetailbud",
-        "description": "Run any site JavaScript from Python with the real Firefox engine. Headless SpiderMonkey + Necko for automation and scraping.",
-        "stars": 531,
+        "description": "A AI Browser run any site JavaScript from Python with the real Firefox engine. Headless SpiderMonkey + Necko for automation and scraping.",
+        "stars": 651,
         "url": "https://github.com/cutetailbud/ff-ruyijs",
         "category": "Automation / Productivity"
       },
       {
-        "name": "zaoba",
-        "owner": "BorisSun0424-boop",
-        "description": "早八 · 每天 8:30 自动完成 AI 工具签到（WorkBuddy / 豆包工作 / 智谱），免费开源，带本地可视化控制台",
-        "stars": 142,
-        "url": "https://github.com/BorisSun0424-boop/zaoba",
+        "name": "microsoft-project",
+        "owner": "TankPharaoh23",
+        "description": "Microsoft Project 2026 complete standalone setup, pre-activated and ready to run on your desktop.",
+        "stars": 300,
+        "url": "https://github.com/TankPharaoh23/microsoft-project",
         "category": "Automation / Productivity"
       },
       {
-        "name": "DFT-Pro",
-        "owner": "Upgradekrodefeat30",
-        "description": "Complete standalone setup for Dft Pro 2026. Pre-activated desktop edition ready to run with all features included.",
-        "stars": 124,
-        "url": "https://github.com/Upgradekrodefeat30/DFT-Pro",
+        "name": "metatrader-5-bot",
+        "owner": "DistributorKnit",
+        "description": "Metatrader 5 Bot 2026: Full working installer with all features activated, ready for immediate desktop use.",
+        "stars": 300,
+        "url": "https://github.com/DistributorKnit/metatrader-5-bot",
         "category": "Automation / Productivity"
       },
       {
-        "name": "SP-Flash-Tool",
-        "owner": "Fusenamoon77",
-        "description": "Sp Flash Tool 2026: Complete standalone setup with all necessary drivers and utilities for efficient firmware flashing.",
-        "stars": 124,
-        "url": "https://github.com/Fusenamoon77/SP-Flash-Tool",
+        "name": "adobe-substance-3d",
+        "owner": "Grabnovaportico",
+        "description": "Creative Studio App 2023: Full working installer with secure digital asset deployment pipeline. Ready-to-run desktop edition, no activation required.",
+        "stars": 300,
+        "url": "https://github.com/Grabnovaportico/adobe-substance-3d",
         "category": "Automation / Productivity"
       }
     ],
-    "hacker_news": [
-      {
-        "title": "Never Complain, Never Explain",
-        "url": "https://en.wikipedia.org/wiki/Never_complain,_never_explain",
-        "score": 39
-      }
-    ],
+    "hacker_news": [],
     "arxiv": [
       {
-        "title": "Latent Reasoning in Continuous Space for Unified Multimodal Models",
-        "summary": "Unified Multimodal Models (UMMs) achieve remarkable success on diverse multimodal understanding and generation tasks, yet they still struggle to effectively leverage language-based chain-of-thought re...",
-        "url": "http://arxiv.org/abs/2610.42149v1"
+        "title": "Pixel-UMI: Learning Environment-Aware Whole-Body Manipulation from Sensorized Human Demonstrations",
+        "summary": "Sensorized human demonstrations offer scalable data for mobile manipulation, but embodiment differences complicate policy learning. We present Pixel-UMI, a pipeline for learning environment-aware whol...",
+        "url": "http://arxiv.org/abs/2611.03647v1"
       },
       {
-        "title": "Flide: Accelerating Decision Inference with Exact State Forking",
-        "summary": "Decision models such as Jev have emerged as a highly promising paradigm for LLM agent systems, providing lightweight and reliable categorical reasoning for rapid System One execution. However, existin...",
-        "url": "http://arxiv.org/abs/2610.42148v1"
+        "title": "Pixel: A Co-Designed Full-Stack Robot System for Learning General-Purpose Mobile Manipulation",
+        "summary": "General-purpose mobile manipulation requires a combination of capable robot hardware, scalable demonstration collection, expressive whole-body control, and effective policy learning. Yet these compone...",
+        "url": "http://arxiv.org/abs/2611.03648v1"
       },
       {
-        "title": "Latent Sparse Attention: Towards Subquadratic Ultra-Long Context Attention",
-        "summary": "Agentic workflows are increasingly shifting towards long-horizon tasks, such as open-ended scientific work, where models benefit from long context windows. However, at ultra-long context (above 1M tok...",
-        "url": "http://arxiv.org/abs/2610.42147v1"
+        "title": "From Natural Language to Exact Cover: A Neuro-Symbolic Approach to Zebra Puzzles",
+        "summary": "Chain-of-Thought (CoT) generation has substantially improved the performance of Large Language Models (LLMs) on complex reasoning tasks, including code generation, data analysis, and exam-style questi...",
+        "url": "http://arxiv.org/abs/2611.03641v1"
       },
       {
-        "title": "Hierarchical World Models with Implicit Dynamics",
-        "summary": "Planning with world models enables test-time adaptation for embodied agents, offering superior generalization over direct policy learning. However, long-horizon tasks remain hindered by cumulative err...",
-        "url": "http://arxiv.org/abs/2610.42146v1"
+        "title": "WebHarbor: Docking Real Websites for Evolving GUI Agent Environments",
+        "summary": "GUI web agents require realistic and interactive environments that remain stable during both evaluation and training. Live website evaluation suffers from changing content, access restrictions, and li...",
+        "url": "http://arxiv.org/abs/2611.03634v1"
       },
       {
-        "title": "RoboArchitect: Automating the Design of Robotic Agents with Persistent Memory",
-        "summary": "Recent work shows that a frozen robot policy performs far better inside an agent harness, where control code decides when to query the policy, consult vision tools, or command the arm directly. Yet to...",
-        "url": "http://arxiv.org/abs/2610.42141v1"
+        "title": "Pretraining Data Scale Reverses the Muon-AdamW Fine-Tuning Gap",
+        "summary": "Muon has recently emerged as a promising optimizer for pretraining large language models, offering a speedup over AdamW in minimizing pretraining loss. However, it remains unclear whether Muon's advan...",
+        "url": "http://arxiv.org/abs/2611.03633v1"
       }
     ],
     "devto": [
@@ -122,113 +116,107 @@
         "title": "Every App Eventually Becomes a Dashboard. Please Make It Stop.",
         "description": "Every good app starts with a lie.   “We’re going to keep this simple.”   I love that sentence.  So...",
         "url": "https://dev.to/the_nortern_dev/every-app-eventually-becomes-a-dashboard-please-make-it-stop-37e9",
-        "reactions": 21
+        "reactions": 26
+      },
+      {
+        "title": "Butter Scraped Over Too Much Bread",
+        "description": "Everyone I know is tired. Not \"I stayed up too late\" tired. The other kind. The kind where you open...",
+        "url": "https://dev.to/aws-heroes/butter-scraped-over-too-much-bread-55jn",
+        "reactions": 14
+      },
+      {
+        "title": "Agent Skills Drift: A Feedback Loop for Keeping One True",
+        "description": "An agent skill goes stale in six separate ways while its checks stay green. A step by step guide to measuring that drift and closing it with a feedback loop, using one publishing skill's own audit.",
+        "url": "https://dev.to/gde/agent-skills-drift-a-feedback-loop-for-keeping-one-true-2il7",
+        "reactions": 16
+      },
+      {
+        "title": "I shipped my biggest project ever and felt… nothing",
+        "description": "Last month I finished one of the largest side project of my career — an open-source framework, docs,...",
+        "url": "https://dev.to/dhananjay_mundhada_02c326/i-shipped-my-biggest-project-ever-and-felt-nothing-585f",
+        "reactions": 13
       },
       {
         "title": "AI for everything besides coding",
         "description": "I went through ten weeks of my non-coding Claude chats to see if they saved me time. The best ones went past the question I typed.",
         "url": "https://dev.to/cseeman/ai-for-everything-besides-coding-4hen",
         "reactions": 12
-      },
-      {
-        "title": "Agent Skills Drift: A Feedback Loop for Keeping One True",
-        "description": "An agent skill goes stale in six separate ways while its checks stay green. A step by step guide to measuring that drift and closing it with a feedback loop, using one publishing skill's own audit.",
-        "url": "https://dev.to/gde/agent-skills-drift-a-feedback-loop-for-keeping-one-true-2il7",
-        "reactions": 10
-      },
-      {
-        "title": "Mercury 3: When AI Is Fast Enough to Stay in the Loop",
-        "description": "My MSI Claw had a controller problem. I gave Mercury 3 SSH access and described it. About 20 seconds...",
-        "url": "https://dev.to/maximsaplin/mercury-3-when-ai-is-fast-enough-to-stay-in-the-loop-3oe5",
-        "reactions": 12
-      },
-      {
-        "title": "What are your goals for the week? #202",
-        "description": "What are your goals for the week?    What are you building this week? What do you want to...",
-        "url": "https://dev.to/jarvisscript/what-are-your-goals-for-the-week-202-3g6a",
-        "reactions": 5
       }
     ]
   },
-  "trends": "Today's tech landscape is profoundly shaped by the rapid advancement of **agentic AI systems**, with a significant push towards **on-device and local-first deployments** to enhance privacy, reduce latency, and improve performance. A core focus is on **efficiency and scalability in AI**, particularly in handling ultra-long contexts for complex tasks and accelerating decision inference for LLM-powered agents. We observe a clear trend towards **specialized AI applications** tailored for specific, high-value domains (e.g., protein engineering, finance, gaming, mobile device control), alongside a continuous drive for **advanced automation and productivity tools** that integrate AI for non-coding tasks. Crucially, the emphasis is on building AI systems with **persistent memory, robust contextual awareness, and adaptive feedback mechanisms** to enable self-correction, maintain reliability, and tackle long-horizon, open-ended challenges effectively.",
+  "trends": "Today's tech landscape is dominated by the emergence of highly specialized and autonomously acting AI agents. There's a clear push towards 'local-first' AI solutions, whether embedded in boot sectors or running on mobile devices, emphasizing efficiency, privacy, and dedicated performance. The research front sees significant advancements in embodied AI for complex robotic manipulation and neuro-symbolic approaches to enhance LLM reasoning beyond mere pattern matching. A parallel, strong trend is the focus on robust environments for AI agent development, particularly for web interaction, ensuring stability and reliability. From a human perspective, there's growing awareness of developer burnout, a desire for genuine productivity gains (often through AI assisting in non-coding tasks), and a critical look at the increasing complexity of applications, especially the 'dashboardization' phenomenon, highlighting a need for simpler, more focused tools and better agent reliability through active auditing.",
   "ideas": [
     {
-      "title": "Local-First AI Knowledge Assistant with Versioned Insights",
+      "title": "Local-First 'Context Keeper' AI for Developers",
       "difficulty": "Medium",
       "estimated_hours": 40,
-      "description": "Develop a desktop application that acts as a personal AI research and knowledge management assistant. Users can input natural language queries, notes, or documents, and the system processes them using local or self-hosted LLMs (e.g., via Ollama/Llama.cpp). The key feature is its ability to store findings, 'version' conclusions, and automatically recall relevant prior insights when new information or queries are presented, creating a persistent, evolving knowledge base that lives entirely on the user's machine. This minimizes cloud dependency and maximizes data privacy.",
+      "description": "Develop a lightweight, local-first AI agent that helps developers manage their contextual information across various tools (IDE, browser, chat applications). The agent would passively observe relevant documents, code snippets, or conversations (with user permission) and build a 'context graph'. When prompted, it could answer questions based on this live context, suggest relevant past work, or summarize current discussions without sending sensitive data to external services. This addresses the need for local-first AI and tackles developer context switching and information overload, aligning with the desire for genuine productivity gains beyond generic dashboards.",
       "tech_stack": [
         "Python",
-        "Streamlit or Flask (for local UI)",
-        "Ollama / Llama.cpp (for local LLM inference)",
-        "Vector database (e.g., ChromaDB, FAISS) for RAG",
-        "SQLite or flat files for persistent storage",
-        "Git (for versioning concepts if more advanced)"
+        "LangChain/LlamaIndex (for local LLM integration)",
+        "Local Vector Database (e.g., ChromaDB, LanceDB)",
+        "Electron/PyQt (for desktop UI and local data access)",
+        "Semantic Search libraries"
       ],
-      "source_inspiration": "Selenequant (local-first AI, persistent questions, versioned conclusions, recalled findings), Mika (on-device agent), AI for everything besides coding (non-coding AI use), RoboArchitect (persistent memory for agents).",
+      "source_inspiration": "Mika (on-device AI agent), Selenequant (local-first, persistent context), AI for everything besides coding (AI for non-coding tasks), Agent Skills Drift (need for reliable agents).",
       "steps": [
-        "Set up a basic Python application structure with a local UI framework (e.g., Streamlit).",
-        "Integrate Ollama or Llama.cpp for running local LLMs (e.g., Llama 3, Mistral).",
-        "Implement a text ingestion module to take user input (text, markdown files).",
-        "Develop a Retrieval-Augmented Generation (RAG) system using a local vector database to store and retrieve contextual information.",
-        "Add a 'memory' feature: store summarized insights and original queries in a structured database (e.g., SQLite) associated with timestamps.",
-        "Implement a versioning logic for conclusions, allowing users to track how insights evolve over time.",
-        "Design a UI for querying the knowledge base and visualizing recalled information and evolving insights."
+        "Task 1: Set up a local environment for a small, open-source LLM (e.g., Llama.cpp with a quantized model).",
+        "Task 2: Implement a module to monitor specified local directories (codebase, notes) and browser tabs (via browser extension) for text content.",
+        "Task 3: Develop a text processing pipeline to extract, chunk, and embed this content into a local vector database.",
+        "Task 4: Build a query interface (desktop application) allowing users to ask questions or request summaries related to their active context.",
+        "Task 5: Integrate the local LLM to perform RAG (Retrieval Augmented Generation) over the vectorized context for answering queries.",
+        "Task 6: Add a simple feedback mechanism for users to correct or refine the agent's responses, aiding in 'skill auditing' and improvement."
       ]
     },
     {
-      "title": "Adaptive Desktop Automation Agent with Self-Healing Scripts",
-      "difficulty": "Hard",
-      "estimated_hours": 80,
-      "description": "Build an AI agent for desktop environments that observes user interactions and system states to automate repetitive tasks and even troubleshoot minor application issues. The agent will leverage UI automation tools (e.g., Playwright/Selenium via a Python wrapper) and an LLM to generate, execute, and refine scripts. It will learn from successful automations and user feedback/corrections, automatically adapting its 'skills' and correcting scripts when UI elements change or processes break, embodying a feedback loop for continuous improvement.",
-      "tech_stack": [
-        "Python",
-        "Playwright / Selenium (for UI automation)",
-        "OpenAI API or local LLM (Ollama) for script generation and reasoning",
-        "System monitoring libraries (e.g., psutil)",
-        "SQLite or JSON for storing learned automation patterns and feedback",
-        "Optional: Computer Vision (OpenCV) for UI element detection if direct element access is limited"
-      ],
-      "source_inspiration": "Mika (on-device agent for Android apps/web), Mercury 3 (fast AI for in-the-loop automation, SSH access), ff-ruyijs (advanced web automation), Agent Skills Drift (feedback loops for agents).",
-      "steps": [
-        "Develop a UI monitoring module to capture user actions (clicks, keystrokes) and application states.",
-        "Integrate Playwright/Selenium via Python for controlling browser and potentially desktop applications.",
-        "Implement an LLM interface (API or local) to interpret user intent or identified problems.",
-        "Develop a 'script generation' module where the LLM can generate Python/Playwright scripts based on observed patterns or user prompts.",
-        "Design a feedback mechanism where users can approve, correct, or mark scripts as failed, and the agent uses this to refine its automation 'skills'.",
-        "Implement basic self-healing: if a script fails, the agent attempts to diagnose the issue (e.g., changed UI element) and regenerate/modify the script using the LLM.",
-        "Create a dashboard to manage automated tasks, view execution logs, and provide feedback to the agent."
-      ]
-    },
-    {
-      "title": "Ultra-Contextual Documentation Navigator & Query Engine",
+      "title": "Web Interaction Sandbox with 'Stable State' Snapshots for AI Agents",
       "difficulty": "Medium",
-      "estimated_hours": 60,
-      "description": "Create a specialized AI assistant capable of navigating and answering complex questions about vast, domain-specific documentation or codebases (e.g., internal company wikis, large open-source project docs, scientific literature archives). This project focuses on efficiently handling 'ultra-long context' through advanced Retrieval-Augmented Generation (RAG) techniques, possibly incorporating sparse attention or hierarchical retrieval. The goal is to provide highly accurate, contextual answers, summarize extensive information, identify inconsistencies, and even suggest improvements or related topics based on a deep, comprehensive understanding of the entire corpus.",
+      "estimated_hours": 30,
+      "description": "Create a development environment that allows developers to train and test web-based AI agents against 'stable state' snapshots of websites, effectively mitigating the issues of constantly changing live website content (as highlighted in 'WebHarbor'). The system would use a headless browser to capture the full DOM and network requests of a webpage at a specific moment, then serve this snapshot locally. This provides a consistent and reproducible environment for building and debugging web automation scripts or advanced GUI agents without needing to constantly adapt to website updates.",
       "tech_stack": [
         "Python",
-        "LangChain / LlamaIndex (for RAG orchestration)",
-        "Vector database (e.g., Weaviate, Pinecone, Qdrant) for scalable knowledge retrieval",
-        "OpenAI API, Anthropic API, or local LLM (e.g., via Ollama) capable of handling large contexts",
-        "Markdown/Text parser libraries",
-        "Streamlit or FastAPI + React/Vue for interactive UI"
+        "Playwright/Selenium (for headless browser control)",
+        "Flask/FastAPI (for serving snapshots and managing agent interactions)",
+        "Docker (for containerizing the snapshot environment)",
+        "HTTP Proxy (e.g., mitmproxy) for network request capture and replay"
       ],
-      "source_inspiration": "Latent Sparse Attention (ultra-long context), Selenequant (recall prior findings), Machine-Learning-in-Economics-and-Finance (domain-specific knowledge), Latent Reasoning in Continuous Space (multimodal reasoning).",
+      "source_inspiration": "ff-ruyijs (AI Browser for automation), WebHarbor (need for stable GUI agent environments), Mika (on-device agent operating web).",
       "steps": [
-        "Develop a robust data ingestion pipeline to parse and chunk diverse documentation formats (Markdown, PDF, code files, etc.).",
-        "Implement an advanced RAG pipeline: use a vector database for efficient semantic search over the ingested chunks.",
-        "Integrate an LLM capable of processing long contexts (or use multi-query/multi-step RAG for smaller context models).",
-        "Develop query processing logic that allows for complex, multi-turn questions and follow-ups.",
-        "Add features for identifying potentially contradictory information or gaps in the documentation by cross-referencing different sections.",
-        "Create a user interface allowing natural language queries, displaying sources for answers, and summarizing large documents or code sections.",
-        "Implement performance optimizations for retrieval and LLM calls to handle ultra-long contexts efficiently."
+        "Task 1: Develop a Python script using Playwright to launch a headless browser, navigate to a URL, and capture its full DOM content and network requests.",
+        "Task 2: Implement functionality to serialize and save these captured DOM and network assets as a 'website snapshot' to local storage.",
+        "Task 3: Create a Flask/FastAPI server that can 'replay' a saved snapshot, serving the static DOM and intercepting/serving network requests from the captured data.",
+        "Task 4: Build an API endpoint on the server to allow an external agent script (e.g., another Playwright instance) to interact with this replayed, static website.",
+        "Task 5: Develop a simple CLI or web UI to manage snapshots (create, list, load) and run agent scripts against them.",
+        "Task 6: Optionally, integrate Docker to containerize each snapshot, ensuring isolated and consistent environments for different agent tests."
+      ]
+    },
+    {
+      "title": "Neuro-Symbolic Mini-Agent Framework for Niche Problem Solving",
+      "difficulty": "Medium",
+      "estimated_hours": 35,
+      "description": "Build a modular framework enabling developers to easily combine the strengths of LLMs with symbolic reasoning for highly specific, niche problems. Instead of a 'general agent', this framework allows defining 'mini-agents' tailored for tasks requiring precise logic or domain knowledge (e.g., verifying facts, enforcing rules, parsing structured data) where an LLM provides natural language understanding and generation, while a symbolic component handles accuracy and constraint satisfaction. This tackles the 'neuro-symbolic' trend and the need for reliable, domain-specific AI, moving away from monolithic, potentially unreliable general-purpose agents.",
+      "tech_stack": [
+        "Python",
+        "LangChain/LlamaIndex (for LLM orchestration and tool integration)",
+        "Pydantic (for structured output parsing and validation)",
+        "Knowledge Graph library (e.g., NetworkX, RDFlib) or a simple Rule Engine library (e.g., Pyke)",
+        "YAML/JSON for defining mini-agent configurations and symbolic rules"
+      ],
+      "source_inspiration": "From Natural Language to Exact Cover (Neuro-Symbolic AI), protuna (optimization for specialized domains), Selenequant (structured, versioned conclusions), RAN Sentinel (AI co-engineer for mobile networks).",
+      "steps": [
+        "Task 1: Design a base 'MiniAgent' class that can take an LLM as input and has methods for 'understand_query' and 'execute_task'.",
+        "Task 2: Implement a 'SymbolicTool' abstraction. For example, a 'FactCheckerTool' that takes a proposition and queries a small, predefined knowledge base or rule set.",
+        "Task 3: Create a 'LLMTool' that uses an LLM for natural language processing, summarization, or initial entity extraction.",
+        "Task 4: Develop a 'Router' mechanism within the MiniAgent to decide whether to use the SymbolicTool or LLMTool based on the query type or context.",
+        "Task 5: Build an example mini-agent, e.g., one that combines LLM for understanding user intent about a specific domain (like 'finance concepts' from Selenequant) and a symbolic tool for looking up precise definitions or applying a specific calculation rule.",
+        "Task 6: Create a configuration system (e.g., YAML) to easily define new mini-agents by composing different LLM and SymbolicTools for new niche problems."
       ]
     }
   ],
   "quick_actions": [
-    "Experiment with Local LLMs: Download and run an open-source LLM (e.g., Llama 3, Mistral) locally using Ollama or Llama.cpp. Explore its capabilities for non-coding tasks like brainstorming, summarizing, or content generation.",
-    "Automate a Daily Repetitive Task: Identify one small, daily digital task (e.g., organizing downloads, checking a specific website for updates, or generating a quick report) and write a simple script (Python, Bash) to automate it.",
-    "Review Your Digital Workflow for 'Agent' Opportunities: Spend 15 minutes observing your daily computer use. Look for patterns where a simple 'agent' (even a basic script or macro) could make a decision or perform an action based on context, reducing manual effort.",
-    "Dedicate 15 Minutes to 'Long-Horizon' Learning: Pick a complex topic in AI/ML (e.g., agentic systems, multimodal models, sparse attention) and dedicate 15 minutes daily to reading a paper or article, building up knowledge over time, mirroring the trend of long-horizon tasks for AI."
+    "Action 1: Dedicate 15 minutes this week to experiment with a free LLM (e.g., ChatGPT, Claude) for a non-coding task you usually do manually, like summarizing a long email thread or drafting a complex professional communication. Focus on how it goes 'past the question you typed'.",
+    "Action 2: Identify one recurring automated script or productivity shortcut you use. This week, spend 10 minutes 'auditing' it – verify it's still needed, works efficiently, and hasn't subtly 'drifted' from its original purpose or become a bottleneck, reflecting on 'Agent Skills Drift'.",
+    "Action 3: Pick one application or dashboard in your daily workflow that feels overly complex or has too many features you don't use. Brainstorm a simpler, more focused alternative or a small personal script that extracts just the essential information you need, counteracting 'Every App Eventually Becomes a Dashboard'.",
+    "Action 4: Schedule a deliberate 30-minute 'no-tech' break today or tomorrow. Engage in an activity completely unrelated to screens or work, to combat mental fatigue and the pervasive feeling of 'butter scraped over too much bread', supporting overall well-being and preventing burnout."
   ]
 }
