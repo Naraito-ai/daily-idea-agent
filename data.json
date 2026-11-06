@@ -1,15 +1,7 @@
 {
-  "last_updated": "2026-11-05 13:39:37",
+  "last_updated": "2026-11-06 13:23:22",
   "scraped_sources": {
     "github": [
-      {
-        "name": "bootgpt",
-        "owner": "kerlenton",
-        "description": "A language model that lives in a boot sector",
-        "stars": 93,
-        "url": "https://github.com/kerlenton/bootgpt",
-        "category": "AI / ML"
-      },
       {
         "name": "predictorlab",
         "owner": "MarkIvor",
@@ -27,213 +19,197 @@
         "category": "AI / ML"
       },
       {
-        "name": "Meta-Ai-Global-Hackathon-Ran-Sentinel-",
-        "owner": "AKMaasif",
-        "description": "RAN Sentinel: AI co-engineer for mobile networks",
-        "stars": 22,
-        "url": "https://github.com/AKMaasif/Meta-Ai-Global-Hackathon-Ran-Sentinel-",
+        "name": "imbalanced-dataset-sampler",
+        "owner": "garge33limer",
+        "description": "A PyTorch sampler that rebalances class frequencies during training by resampling.",
+        "stars": 50,
+        "url": "https://github.com/garge33limer/imbalanced-dataset-sampler",
         "category": "AI / ML"
       },
       {
-        "name": "interactive-ai-ml-tools",
-        "owner": "Future-Proof-DS",
-        "description": "Free interactive tools for data scientists to learn MLOps, ML system design and agentic analytics: a production ML system map, ML project structure, data drift simulator, agentic analytics system map and AI evals.",
-        "stars": 20,
-        "url": "https://github.com/Future-Proof-DS/interactive-ai-ml-tools",
+        "name": "node2vec",
+        "owner": "mwell70",
+        "description": "Python implementation of node2vec: scalable feature learning for networks with biased random walks and skip-gram.",
+        "stars": 50,
+        "url": "https://github.com/mwell70/node2vec",
+        "category": "AI / ML"
+      },
+      {
+        "name": "cs2-resp-wallhack-2026",
+        "owner": "RainariesFire54079",
+        "description": "Reveal every enemy position in CS2 with real-time ESP wallhack and 2D radar, showing health, armor, C4, and dropped weapons.",
+        "stars": 33,
+        "url": "https://github.com/RainariesFire54079/cs2-resp-wallhack-2026",
         "category": "AI / ML"
       },
       {
         "name": "agent-autoloop",
         "owner": "KKKKhazix",
         "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
-        "stars": 3072,
+        "stars": 3513,
         "url": "https://github.com/KKKKhazix/agent-autoloop",
-        "category": "Automation / Productivity"
-      },
-      {
-        "name": "youtube-uploader",
-        "owner": "dragonwolfshovel",
-        "description": "Automated YouTube video uploader with batch processing, thumbnail support, and scheduled publishing. Uses official YouTube Data API v3. Open-source and privacy-first",
-        "stars": 426,
-        "url": "https://github.com/dragonwolfshovel/youtube-uploader",
         "category": "Automation / Productivity"
       },
       {
         "name": "tiktok-uploader",
         "owner": "TagPhaseArcade",
         "description": "Automated TikTok video uploader with batch processing, scheduling, and hashtag management. Local session-based auth. Open-source and cross-platform",
-        "stars": 425,
+        "stars": 428,
         "url": "https://github.com/TagPhaseArcade/tiktok-uploader",
         "category": "Automation / Productivity"
       },
       {
-        "name": "ios-unlocker",
-        "owner": "DenColonelWrinkle",
-        "description": "Complete standalone iOS Unlocker 2026 setup, ready to run with all features activated.",
-        "stars": 304,
-        "url": "https://github.com/DenColonelWrinkle/ios-unlocker",
+        "name": "youtube-uploader",
+        "owner": "dragonwolfshovel",
+        "description": "Automated YouTube video uploader with batch processing, thumbnail support, and scheduled publishing. Uses official YouTube Data API v3. Open-source and privacy-first",
+        "stars": 428,
+        "url": "https://github.com/dragonwolfshovel/youtube-uploader",
         "category": "Automation / Productivity"
       },
       {
-        "name": "autodesk-inventor",
-        "owner": "CircumferenceBanker",
-        "description": "Autodesk Inventor 2026 full working installer. Ready-to-run professional desktop configuration with all features pre-activated.",
-        "stars": 301,
-        "url": "https://github.com/CircumferenceBanker/autodesk-inventor",
+        "name": "roblox-studio-mcp",
+        "owner": "HerdBuilderEstimate",
+        "description": "Model Context Protocol server for Roblox Studio. Connect AI assistants (Claude, Cursor) to read object trees, edit scripts, and run playtests safely. Open-source and lightweight",
+        "stars": 427,
+        "url": "https://github.com/HerdBuilderEstimate/roblox-studio-mcp",
+        "category": "Automation / Productivity"
+      },
+      {
+        "name": "discord-quest-completer",
+        "owner": "phaseboulderfetter",
+        "description": "Auto-complete Discord Quests without installing games. Supports all 5 quest types: game, video, stream, activity, and achievement. Built-in dashboard, safe timing, and privacy-first. Open-source",
+        "stars": 425,
+        "url": "https://github.com/phaseboulderfetter/discord-quest-completer",
         "category": "Automation / Productivity"
       }
     ],
     "hacker_news": [
       {
-        "title": "Baidu released ERNIE 5.5 Flash Base",
-        "url": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
-        "score": 100
+        "title": "Claude Code sends your email address to websites",
+        "url": "https://github.com/anthropics/claude-code/issues/107757",
+        "score": 1284
       },
       {
-        "title": "Kimi K3.1 Pro model weights are out",
-        "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
-        "score": 573
+        "title": "MS Paint Remote Code Execution Vulnerability",
+        "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+        "score": 593
+      },
+      {
+        "title": "Mbodi AI (YC P25) Is Hiring Research and Robotic Engineers",
+        "url": "https://www.ycombinator.com/companies/mbodi-ai/jobs",
+        "score": 1
       }
     ],
-    "arxiv": [
-      {
-        "title": "A Framework for Context Enrichment and Selective Robustness in LLM Social Agents",
-        "summary": "Researchers use large language models as agents in social simulations, where agents are prompted with observations and background information intended to shape their actions. Yet LLM agents have been ...",
-        "url": "http://arxiv.org/abs/2611.06914v1"
-      },
-      {
-        "title": "FlowReconBench: Accuracy, calibration and cost of learned and classical flow reconstruction from sparse sensors",
-        "summary": "Reconstructing full flow fields from sparse sensors requires prior assumptions about unmeasured regions and physical variables. Yet it remains unclear when learned models outperform classical estimato...",
-        "url": "http://arxiv.org/abs/2611.06912v1"
-      },
-      {
-        "title": "BEAKER: An Expert-Curated Benchmark for Embodied Brains in Self-Driving Chemical Laboratories",
-        "summary": "Self-Driving Chemical Laboratories (SDCLs) are moving chemical experimentation toward embodied automation, where machines must perceive laboratory scenes, reason about experimental states, and act und...",
-        "url": "http://arxiv.org/abs/2611.06911v1"
-      },
-      {
-        "title": "FrontierPhysics: Evaluating Agents for End-to-End Physics Research",
-        "summary": "AI agents are playing an increasingly important role in physics research. However, existing physics benchmarks only evaluate fixed questions, isolated sub-tasks, or paper reproduction with given solut...",
-        "url": "http://arxiv.org/abs/2611.06910v1"
-      },
-      {
-        "title": "Perceptive Humanoid Motion from Simulation",
-        "summary": "Humanoid robots have the potential to automate a wide range of physical tasks. Progress toward generalist humanoid autonomy, however, remains constrained by a data bottleneck: mapping pixels and free-...",
-        "url": "http://arxiv.org/abs/2611.06908v1"
-      }
-    ],
+    "arxiv": [],
     "devto": [
       {
-        "title": "Butter Scraped Over Too Much Bread",
-        "description": "Everyone I know is tired. Not \"I stayed up too late\" tired. The other kind. The kind where you open...",
-        "url": "https://dev.to/aws-heroes/butter-scraped-over-too-much-bread-55jn",
-        "reactions": 17
+        "title": "Don't Write Markdown Files for Your Coding Agent. Write Scripts.",
+        "description": "If you want agents to do what you want, you need to learn how to box them into deterministic actions....",
+        "url": "https://dev.to/dannwaneri/dont-write-markdown-files-for-your-coding-agent-write-scripts-j00",
+        "reactions": 48
       },
       {
         "title": "Codex Was Torching Your SSD and Nobody Noticed for Months",
         "description": "Your Codex log file looked fine. Your SSD counters did not.   The file was small.  That was...",
         "url": "https://dev.to/varshithvhegde/codex-was-torching-your-ssd-and-nobody-noticed-for-months-4c5h",
-        "reactions": 34
+        "reactions": 41
+      },
+      {
+        "title": "Butter Scraped Over Too Much Bread",
+        "description": "Everyone I know is tired. Not \"I stayed up too late\" tired. The other kind. The kind where you open...",
+        "url": "https://dev.to/aws-heroes/butter-scraped-over-too-much-bread-55jn",
+        "reactions": 18
       },
       {
         "title": "I shipped my biggest project ever and felt… nothing",
         "description": "Last month I finished one of the largest side project of my career — an open-source framework, docs,...",
         "url": "https://dev.to/dhananjay_mundhada_02c326/i-shipped-my-biggest-project-ever-and-felt-nothing-585f",
-        "reactions": 18
+        "reactions": 19
       },
       {
         "title": "Agent Skills Drift: A Feedback Loop for Keeping One True",
         "description": "An agent skill goes stale in six separate ways while its checks stay green. A step by step guide to measuring that drift and closing it with a feedback loop, using one publishing skill's own audit.",
         "url": "https://dev.to/gde/agent-skills-drift-a-feedback-loop-for-keeping-one-true-2il7",
         "reactions": 16
-      },
-      {
-        "title": "Don't Write Markdown Files for Your Coding Agent. Write Scripts.",
-        "description": "If you want agents to do what you want, you need to learn how to box them into deterministic actions....",
-        "url": "https://dev.to/dannwaneri/dont-write-markdown-files-for-your-coding-agent-write-scripts-j00",
-        "reactions": 12
       }
     ]
   },
-  "trends": "Today's tech landscape is significantly shaped by the rapid evolution and practical application of AI. We are seeing a strong emphasis on **agentic AI**, where autonomous systems perform complex tasks, manage workflows, and engage in sophisticated problem-solving, often with intelligent human-in-the-loop interaction when necessary. This extends to **embodied AI** and its application in scientific research and physical robotics, pushing AI beyond purely digital realms. Concurrently, there's a drive for **production-ready and trustworthy ML/AI solutions**, focusing on explainability, robustness, efficiency (even in 'from-scratch' implementations for educational or constrained environments), and robust MLOps tooling. Finally, **developer productivity and automation** remain critical, with tools emerging to streamline content creation and other routine tasks. However, a parallel trend highlights growing concerns about developer burnout, tool efficiency, and the need for mindful, human-centric approaches to automation and technology adoption.",
+  "trends": "Today's tech landscape is significantly shaped by the rapid evolution of AI, particularly around the themes of reliability, explainability, and the increasing sophistication of autonomous agents. There's a strong push for 'AI that doesn't lie,' emphasizing data quality, bias mitigation, and robust model evaluation. Concurrently, the rise of agentic AI is evident, with agents becoming more self-managing, integrating into development environments, and automating complex workflows. This trend brings with it a focus on effective agent interaction – preferring structured directives over ambiguous prompts – and the crucial need for continuous monitoring and feedback loops to prevent 'agent skill drift.' Underlying these advancements are ongoing concerns about security vulnerabilities (both legacy and AI-induced privacy issues), as well as a growing awareness of the hidden costs of AI tools, such as excessive resource consumption and their impact on developer well-being and productivity. Overall, the emphasis is on building smarter, more reliable, and sustainable AI-powered solutions that genuinely enhance human capability without adverse side effects.",
   "ideas": [
     {
-      "title": "Agentic Multi-Platform Content Orchestrator",
+      "title": "LocalDev Agent Orchestrator with Scripted Directives",
       "difficulty": "Medium",
-      "estimated_hours": 80,
-      "description": "Develop a system that automates the end-to-end process of generating and publishing short-form video content across multiple social media platforms (e.g., YouTube Shorts, TikTok). A user provides a high-level concept or topic, and an AI agent takes over. It would leverage LLMs for script generation, basic video editing tools (e.g., MoviePy, FFMPEG) for template-based video creation (adding background music, simple text overlays, stock footage), and existing automated uploaders (like those in the scraped data) for publishing. The 'autoloop' aspect means the agent proceeds autonomously, only pausing to ask the user for approval or input on critical creative decisions (e.g., 'Choose between script A or B', 'Approve final video'). This significantly boosts productivity for content creators.",
+      "estimated_hours": 24,
+      "description": "Inspired by the autonomous capabilities of `agent-autoloop` and the AI integration into development environments like `roblox-studio-mcp`, this project creates a local orchestrator for AI agents. It will accept structured script files (e.g., YAML, Python) as deterministic directives for common development tasks such as code refactoring, test generation, documentation updates, or initial project setup. The agent will execute these tasks autonomously, interacting with the local file system and potentially integrating with an IDE via LSP or custom extensions. A key feature will be its 'only bother you when stuck' mechanism, where the agent prompts the developer for intervention only when encountering explicit logical blocks or unresolvable errors, promoting efficient human-agent collaboration. This moves away from ambiguous natural language prompts towards more reliable, scripted AI-driven development.",
       "tech_stack": [
         "Python",
-        "OpenAI API / Hugging Face Transformers (for LLMs)",
-        "MoviePy / FFmpeg (for video editing)",
-        "YouTube Data API v3",
-        "TikTok API (or reverse-engineered uploaders)",
-        "Flask / FastAPI (for API/backend)",
-        "React / Vue.js (for user interface)",
-        "PostgreSQL / SQLite (for content management & scheduling)"
+        "YAML/JSON (for directives)",
+        "VS Code Extension API (or similar IDE integration)",
+        "LangChain/LlamaIndex (for agent orchestration)",
+        "Ollama/Transformers (for local LLM integration) or OpenAI/Claude API"
       ],
-      "source_inspiration": "agent-autoloop, youtube-uploader, tiktok-uploader, Baidu ERNIE 5.5 Flash Base, Kimi K3.1 Pro model weights, A Framework for Context Enrichment and Selective Robustness in LLM Social Agents",
+      "source_inspiration": "agent-autoloop, roblox-studio-mcp, Don't Write Markdown Files for Your Coding Agent. Write Scripts., Agent Skills Drift",
       "steps": [
-        "Task 1: Set up a basic Flask/FastAPI backend to handle user requests and manage content tasks.",
-        "Task 2: Integrate an LLM (e.g., OpenAI GPT, local LLM) to generate video scripts based on user prompts.",
-        "Task 3: Develop a video generation module using MoviePy/FFmpeg to create short videos from scripts, stock media, and basic templates.",
-        "Task 4: Integrate with YouTube Data API and/or existing TikTok uploader libraries for automated publishing and scheduling.",
-        "Task 5: Implement an agentic workflow: design a state machine where the agent plans steps (script -> video -> upload), executes them, and identifies decision points to prompt the user for input.",
-        "Task 6: Create a simple web UI for users to submit concepts, review agent-generated content, and approve publishing."
+        "Design a structured directive format (e.g., YAML with 'action' and 'parameters' fields for file operations, command execution, or LLM calls).",
+        "Implement a core Python agent loop to parse directives and execute corresponding modules (e.g., file I/O, subprocess execution).",
+        "Develop a basic IDE integration (e.g., VS Code extension) to send context (active file, selection) to the agent and receive proposed changes.",
+        "Integrate a local LLM (e.g., via Ollama) or an external API (OpenAI/Claude) to interpret higher-level directives and generate code/text based on context.",
+        "Implement an 'intervention' mechanism that pauses the agent and notifies the user for critical decisions or unresolvable issues, requiring explicit developer approval.",
+        "Build a simple CLI for managing agent tasks, viewing logs, and manually triggering directive execution."
       ]
     },
     {
-      "title": "Developer-Friendly ML Trustworthiness Toolkit (Leakage & Conformal Prediction)",
-      "difficulty": "Hard",
-      "estimated_hours": 120,
-      "description": "Build a Python library or Streamlit application that provides an opinionated framework for integrating trustworthiness into tabular machine learning workflows. Inspired by `predictorlab`, this tool would focus on automated data leakage detection and the generation of conformal prediction intervals for model outputs. It aims to make 'trustworthy ML' accessible to developers by abstracting complex statistical concepts. Features would include: automatic identification of potential data leakage during feature engineering, calculation and visualization of prediction intervals (not just point predictions), and simple APIs to evaluate model robustness beyond standard metrics. This addresses the need for production-ready, explainable ML that 'doesn't lie'.",
+      "title": "TrustyML: Conformal Prediction & Bias Reporting Dashboard",
+      "difficulty": "Medium",
+      "estimated_hours": 30,
+      "description": "Inspired by `predictorlab`'s emphasis on 'ML that doesn't lie,' conformal intervals, and leakage guard, this project is a web-based dashboard designed to enhance the trustworthiness and ethical considerations of machine learning models. It will allow users to upload model predictions, ground truth data, and optionally feature data. The dashboard will then compute conformal prediction intervals (quantifying prediction uncertainty), detect data leakage post-training, and provide comprehensive reports on class imbalance issues (referencing `imbalanced-dataset-sampler`) and potential biases across different demographic or sensitive attribute groups. This tool will equip data scientists and developers with actionable insights to build and deploy more reliable, fair, and transparent AI systems.",
       "tech_stack": [
-        "Python",
-        "Scikit-learn",
+        "Python (Flask/FastAPI)",
+        "scikit-learn",
+        "Conformal Prediction Libraries (e.g., nonconformist)",
         "Pandas",
-        "NumPy",
-        "nonconformist (or similar conformal prediction library)",
-        "SHAP / LIME (for feature importance insights)",
-        "Streamlit (for interactive UI)",
-        "Plotly / Matplotlib (for visualizations)"
+        "JavaScript/React (for frontend)",
+        "Chart.js/D3.js (for visualizations)"
       ],
-      "source_inspiration": "predictorlab, interactive-ai-ml-tools, FlowReconBench: Accuracy, calibration and cost of learned and classical flow reconstruction from sparse sensors",
+      "source_inspiration": "predictorlab, imbalanced-dataset-sampler, Claude Code sends your email address to websites (highlights privacy/trust concerns in AI)",
       "steps": [
-        "Task 1: Develop core functions for common data preprocessing steps (e.g., train-test split, feature scaling) that rigorously prevent data leakage.",
-        "Task 2: Implement a data leakage detection module that analyzes feature generation steps and warns about potential information leakage from the test set.",
-        "Task 3: Integrate a conformal prediction library to generate reliable prediction intervals for regression and classification tasks.",
-        "Task 4: Create reporting features to visualize prediction intervals, feature importance (using SHAP/LIME), and leakage warnings.",
-        "Task 5: Build a user-friendly interface using Streamlit where users can upload a dataset, train a model, and get an immediate trustworthiness report.",
-        "Task 6: Provide clear documentation and examples demonstrating how to integrate the toolkit into existing ML pipelines."
+        "Set up a Python backend (Flask/FastAPI) to handle data uploads and expose API endpoints for analysis.",
+        "Develop a data ingestion module that processes uploaded CSV/JSON files containing model predictions, true labels, and feature data.",
+        "Implement a Conformal Prediction module to calculate prediction intervals and confidence scores for classification and regression tasks.",
+        "Create a bias detection module to analyze model performance across different sensitive attribute groups (if provided) and report on metrics like accuracy parity, F1-score parity, and false positive rates.",
+        "Design and build a React frontend with interactive dashboards to visualize:",
+        "Conformal prediction intervals (e.g., actual vs. predicted with error bands).",
+        "Class distribution and the impact of rebalancing strategies.",
+        "Bias metrics and fairness indicators across different groups.",
+        "Implement basic authentication and data persistence (e.g., SQLite) for managing multiple models and datasets."
       ]
     },
     {
-      "title": "MicroGPT Browser Playground & Training Visualizer",
-      "difficulty": "Medium",
-      "estimated_hours": 60,
-      "description": "Create an interactive web application that allows users to explore and 'train' highly simplified, dependency-free GPT-like models (micro-GPTs) directly in their browser. Inspired by `bootgpt` and `microgpt`, the goal is to demystify how LLMs work at a fundamental level. The playground would visualize key components like byte-level tokenization, multi-head self-attention mechanisms, and the training loop with Adam optimizer on a tiny dataset. Users could adjust hyper-parameters for a miniature model and observe its learning process and basic text generation. This tool would serve as an educational resource for developers wanting to understand LLM internals without needing heavy computation or complex setups.",
+      "title": "AI Carbon Footprint & SSD Health Tracker",
+      "difficulty": "Easy",
+      "estimated_hours": 16,
+      "description": "Directly addressing the concerns raised by 'Codex Was Torching Your SSD,' this project develops a lightweight, cross-platform background application. It monitors system resources (CPU, GPU, RAM, disk I/O, and crucially, SSD write amplification/health metrics) specifically focusing on processes related to AI/ML tools (e.g., local LLMs, AI coding assistants). The tracker provides real-time metrics, logs historical data, and can alert the user when resource usage or SSD wear exceeds predefined thresholds. This helps developers prevent silent hardware degradation, understand the environmental cost of their AI workloads, and foster more sustainable AI development practices.",
       "tech_stack": [
-        "JavaScript / TypeScript",
-        "React / Vue.js (for frontend)",
-        "TensorFlow.js / ONNX Runtime (for client-side model execution/training)",
-        "WebAssembly (for performance-critical components)",
-        "Python (for initial model conversion or data preparation)"
+        "Python (psutil, pynvml/roc-py)",
+        "SQLite (for data logging)",
+        "Flask/FastAPI (for local web UI) or PySide/Tkinter (for desktop GUI)",
+        "JavaScript/HTML/CSS (if web UI)"
       ],
-      "source_inspiration": "bootgpt, microgpt, ERNIE 5.5 Flash Base",
+      "source_inspiration": "Codex Was Torching Your SSD and Nobody Noticed for Months, Butter Scraped Over Too Much Bread (hidden costs, developer fatigue)",
       "steps": [
-        "Task 1: Implement a simplified byte-level tokenizer in JavaScript.",
-        "Task 2: Develop core neural network components (feed-forward, multi-head self-attention) in TensorFlow.js or plain JavaScript/WASM.",
-        "Task 3: Create a basic training loop in the browser, allowing users to train a tiny model on a small, pre-defined text corpus.",
-        "Task 4: Design interactive visualizations for token embeddings, attention weights, and the training loss curve.",
-        "Task 5: Implement a text generation interface where users can interact with their browser-trained micro-GPT.",
-        "Task 6: Build a user interface allowing hyper-parameter adjustments (e.g., number of layers, attention heads, learning rate) and dataset selection."
+        "Develop a Python script using `psutil` to monitor system-wide CPU, RAM, disk I/O (reads/writes) and identify specific AI-related process resource usage.",
+        "Integrate with `pynvml` (for NVIDIA GPUs) or `roc-py` (for AMD GPUs) to capture GPU usage, memory, and temperature.",
+        "Implement SSD SMART data parsing (if possible for common SSDs) or use `psutil`'s `disk_io_counters` to estimate write activity and potential wear.",
+        "Create a background service or daemon in Python that periodically collects these metrics and logs them into a local SQLite database.",
+        "Build a simple user interface (either a local Flask/FastAPI web server serving static HTML/JS or a basic PySide/Tkinter GUI) to display real-time and historical resource usage.",
+        "Add configurable alert thresholds for key metrics (e.g., 'if SSD writes > X GB/day', 'if GPU temp > Y C for > Z minutes') and implement desktop notifications or log alerts."
       ]
     }
   ],
   "quick_actions": [
-    "Action 1: Identify one small, repetitive task in your daily developer workflow. Spend 30 minutes today writing a simple script or configuring an existing tool to automate it, even partially, to experience the immediate gains of practical automation.",
-    "Action 2: For your next interaction with an AI coding assistant or agent, consciously shift from natural language prompts to more structured, script-like inputs or function calls. Observe how this improves the determinism and reliability of the agent's output.",
-    "Action 3: Implement a 'micro-break' strategy. Every 90 minutes of focused work, take a mandatory 5-minute break away from all screens to stretch, hydrate, or simply look out a window, combating digital fatigue and potential burnout.",
-    "Action 4: Review the performance tab of your primary IDE or browser's developer tools. Identify any extensions, plugins, or processes consuming unexpected CPU, RAM, or disk I/O, and consider disabling or replacing them for better system efficiency."
+    "When using AI coding assistants or agents, experiment with structuring your requests using explicit code snippets, function definitions, or formal instructions within your prompts to guide the agent towards deterministic actions. (Instead of just 'refactor this,' try 'refactor function X to adhere to Y pattern, ensure Z side effects are preserved by adding A, B, C steps.')",
+    "Dedicate 15 minutes each week to actively review your system's resource monitor (Task Manager/Activity Monitor, or a third-party tool) while using your primary AI/ML tools. Pay close attention to disk I/O (especially writes), CPU, and GPU usage to catch any unexpectedly high or sustained resource consumption.",
+    "Identify one small, repetitive task in your daily development workflow that takes more than 5 minutes. Spend 30-60 minutes this week automating it with a simple script (e.g., Python, Bash) or a macro. This could be anything from generating boilerplate code to running a series of build commands.",
+    "Consciously block out 20-30 minutes of 'unplugged' time (no screens, no tech) at least once or twice a week. Use this time for reflection on your projects, learning, and overall well-being. This helps combat burnout and provides mental space for deeper problem-solving and goal alignment."
   ]
 }
