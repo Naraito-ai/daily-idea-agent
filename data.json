@@ -1,103 +1,98 @@
 {
-  "last_updated": "2026-11-11 13:07:02",
+  "last_updated": "2026-11-12 14:09:20",
   "scraped_sources": {
     "github": [
       {
-        "name": "microgpt",
-        "owner": "prabeakarve",
-        "description": "A from-scratch, dependency-free GPT implementation in pure NumPy: byte-level tokenizer, multi-head self-attention, Adam trainer, and top-k sampler.",
-        "stars": 51,
-        "url": "https://github.com/prabeakarve/microgpt",
+        "name": "Awesome-AI-for-Astronomy",
+        "owner": "Xin-YuXiao",
+        "description": "A curated list of papers for AI in Astronomy & Astrophysics.",
+        "stars": 74,
+        "url": "https://github.com/Xin-YuXiao/Awesome-AI-for-Astronomy",
         "category": "AI / ML"
       },
       {
-        "name": "node2vec",
-        "owner": "mwell70",
-        "description": "Python implementation of node2vec: scalable feature learning for networks with biased random walks and skip-gram.",
-        "stars": 50,
-        "url": "https://github.com/mwell70/node2vec",
+        "name": "ride-demand-forecaster",
+        "owner": "hexsyro",
+        "description": "Bike-share demand forecasting: RMSE compared across raw, encoded, scaled and engineered features.",
+        "stars": 36,
+        "url": "https://github.com/hexsyro/ride-demand-forecaster",
         "category": "AI / ML"
       },
       {
-        "name": "imbalanced-dataset-sampler",
-        "owner": "garge33limer",
-        "description": "A PyTorch sampler that rebalances class frequencies during training by resampling.",
-        "stars": 50,
-        "url": "https://github.com/garge33limer/imbalanced-dataset-sampler",
+        "name": "weight-space-programming",
+        "owner": "conceptcountry",
+        "description": "Gradient-free weight editing reduces overthinking in Qwen3.8-27B — analysis code and evaluation artifacts",
+        "stars": 25,
+        "url": "https://github.com/conceptcountry/weight-space-programming",
         "category": "AI / ML"
       },
       {
-        "name": "resp-fortuna-vision-public-preview",
-        "owner": "Turboheartblaze",
-        "description": "👁️ FortunaVision — chart-first market + treasury workstation, static, no keys: TradingView's open-source chart engine beside Fortuna's SVG engine, Auto Levels, regime, order flow, dealer gamma, drawings, indicator files, a command line, and a Treasury mode (chains, yields, stablecoins, holdings). Public preview of the private lane.",
-        "stars": 40,
-        "url": "https://github.com/Turboheartblaze/resp-fortuna-vision-public-preview",
+        "name": "Voice-Changer",
+        "owner": "Pinnaclesys",
+        "description": "AI-powered voice conversion and real-time voice changer. Transform your voice with neural models, custom presets, and low latency.",
+        "stars": 23,
+        "url": "https://github.com/Pinnaclesys/Voice-Changer",
         "category": "AI / ML"
       },
       {
-        "name": "awesome-mineral-exploration",
-        "owner": "XploraHub",
-        "description": "A curated list of open-source software for mineral exploration: geophysics, geological modelling, drillholes, geostatistics and prospectivity mapping.",
-        "stars": 35,
-        "url": "https://github.com/XploraHub/awesome-mineral-exploration",
+        "name": "ml4sci",
+        "owner": "pjmbatman",
+        "description": "Interactive lessons, graded Python labs and quizzes for researchers bringing machine learning into science, all in a learning desktop in your browser. 216 chapters · English · 한국어",
+        "stars": 14,
+        "url": "https://github.com/pjmbatman/ml4sci",
         "category": "AI / ML"
       },
       {
-        "name": "poki",
-        "owner": "JosssphZhou",
-        "description": "Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, no extra hardware.",
-        "stars": 957,
-        "url": "https://github.com/JosssphZhou/poki",
+        "name": "secure-pdf-document-processor",
+        "owner": "mahmoudtawfik1998",
+        "description": "Adobe Acrobat Pro 2026: Secure Standalone PDF Document Processor for Desktop",
+        "stars": 1211,
+        "url": "https://github.com/mahmoudtawfik1998/secure-pdf-document-processor",
         "category": "Automation / Productivity"
       },
       {
-        "name": "chief-architect-premier",
-        "owner": "thiagoaureliomartins-programador",
-        "description": "Chief Architect Premier 2026: Pre-Configured Desktop Edition with All Features Enabled",
-        "stars": 769,
-        "url": "https://github.com/thiagoaureliomartins-programador/chief-architect-premier",
+        "name": "aida-64-extreme",
+        "owner": "hembramneeraj3-create",
+        "description": "Aida 64 Extreme 2026: Complete Standalone Desktop Setup with Full Feature Configuration",
+        "stars": 1207,
+        "url": "https://github.com/hembramneeraj3-create/aida-64-extreme",
         "category": "Automation / Productivity"
       },
       {
-        "name": "metatrader-5-bot",
-        "owner": "RolandoV3",
-        "description": "Community-driven MetaTrader 5 bot with full features ready for desktop use",
-        "stars": 768,
-        "url": "https://github.com/RolandoV3/metatrader-5-bot",
+        "name": "adobe-substance-3d-studio",
+        "owner": "abdulmannanmalik13-wq",
+        "description": "Adobe Substance 3D Creative Studio 2026 - Secure Asset Pipeline Desktop Installer",
+        "stars": 1207,
+        "url": "https://github.com/abdulmannanmalik13-wq/adobe-substance-3d-studio",
         "category": "Automation / Productivity"
       },
       {
-        "name": "coreldraw-desktop-installer",
-        "owner": "ayanprob",
-        "description": "CorelDraw 2026 Professional Desktop Installer with Ready-to-Run Utility Configuration",
-        "stars": 768,
-        "url": "https://github.com/ayanprob/coreldraw-desktop-installer",
+        "name": "archicad-desktop-setup",
+        "owner": "AleRibeiro44",
+        "description": "Archicad 2026 complete standalone desktop setup with pre-configured ready-to-run installation build",
+        "stars": 1204,
+        "url": "https://github.com/AleRibeiro44/archicad-desktop-setup",
         "category": "Automation / Productivity"
       },
       {
-        "name": "ibm-spss-desktop-suite",
-        "owner": "leanislizarzado",
-        "description": "IBM SPSS Statistics 2026 Standalone Setup with Full Feature Configuration",
-        "stars": 768,
-        "url": "https://github.com/leanislizarzado/ibm-spss-desktop-suite",
+        "name": "autodesk-inventor-desktop-config",
+        "owner": "PHISHER420",
+        "description": "Autodesk Inventor 2026 Professional Desktop Installer with Pre-Configured Full Feature Set",
+        "stars": 1203,
+        "url": "https://github.com/PHISHER420/autodesk-inventor-desktop-config",
         "category": "Automation / Productivity"
       }
     ],
     "hacker_news": [
       {
-        "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
-        "url": "https://pietromiotti.com/latest/maya-site/?maya",
-        "score": 36
+        "title": "93% of paint splatters are valid Perl programs (2019)",
+        "url": "https://www.mcmillen.dev/sigbovik/",
+        "score": 501
       },
       {
-        "title": "Apple has new Mac app coming to make running local AI models easy",
-        "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
-        "score": 327
-      },
-      {
-        "title": "Synaptics patent claims stop work on DisplayLink drivers",
-        "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
-        "score": 426
+        "title": "Nvidia CEO Jensen Huang resigns after reports of second affair deepened scandal",
+        "url": "https://www.bbc.co.uk/news/live/c6zjry11v8w1t",
+        "score": 19
       }
     ],
     "arxiv": [
@@ -132,13 +127,7 @@
         "title": "How do you truly stand out in Tech?",
         "description": "I am not going to lie to you, the market has been rough out there. There are layoffs across different...",
         "url": "https://dev.to/francistrdev/how-do-you-truly-stand-out-in-tech-478a",
-        "reactions": 142
-      },
-      {
-        "title": "Don't Write Markdown Files for Your Coding Agent. Write Scripts.",
-        "description": "If you want agents to do what you want, you need to learn how to box them into deterministic actions....",
-        "url": "https://dev.to/dannwaneri/dont-write-markdown-files-for-your-coding-agent-write-scripts-j00",
-        "reactions": 60
+        "reactions": 163
       },
       {
         "title": "Being, Doing, Having: Why 50 Years of Senior Craft Lives in Context, Not Code",
@@ -150,7 +139,13 @@
         "title": "I Gave My Startup 6 AI Employees. They Talked More Than They Worked.",
         "description": "330 chat messages, 75 finished tasks, and one analyst who announced work she never did.",
         "url": "https://dev.to/elliot_brenya/i-gave-my-startup-6-ai-employees-they-talked-more-than-they-worked-480p",
-        "reactions": 13
+        "reactions": 18
+      },
+      {
+        "title": "Kent C. Dodds Hasn't Looked at His Code All Year",
+        "description": "At the start of this year, Kent C. Dodds gave a coding agent a link to a GitHub issue he had been...",
+        "url": "https://dev.to/dailycontext/kent-c-dodds-hasnt-looked-at-his-code-all-year-gd5",
+        "reactions": 7
       },
       {
         "title": "Exhale: A Breathing Guide That Reads Your Breath While Claude Code Works",
@@ -160,76 +155,80 @@
       }
     ]
   },
-  "trends": "Today's tech landscape is defined by the rapid evolution and practical application of **agentic AI systems**, pushing towards more autonomous and context-aware capabilities, from mobile device control to scientific discovery. There's a significant focus on **making powerful AI accessible**, both through the adaptation of large **foundation models** for niche domains (like medical imaging and geoscience) and the burgeoning push for **local AI inference** on consumer devices, emphasizing privacy and responsiveness. Concurrently, developers are delving into **novel ML engineering paradigms** (e.g., from-scratch GPT, differentiable curves) and tackling **practical challenges** in data handling and model training. The theme of **AI-driven productivity and automation** is strong, tempered by a growing understanding of how to effectively architect AI agents for tangible, deterministic outcomes, moving beyond simplistic interactions towards structured, script-driven automation and proactive personal assistance.",
+  "trends": "Today's tech landscape reveals a strong dual focus: the specialized application and refinement of AI, alongside a persistent demand for robust desktop automation and intelligent productivity solutions. In AI, there's a significant shift towards adapting large foundation models for niche scientific and medical domains, demonstrating value beyond general-purpose use. Concurrently, AI agents are evolving to tackle complex tasks, particularly in software development and scientific discovery, though current challenges highlight the need for more sophisticated prompting, structured outputs, and human-in-the-loop oversight to move from 'talking' to 'working' effectively. Productivity trends emphasize leveraging AI for workflow augmentation, not just replacement, with an increasing interest in integrated tools that enhance both efficiency and personal well-being. There's also a clear market desire for powerful, pre-configured desktop applications that streamline professional workflows, reflecting a demand for comprehensive local automation solutions.",
   "ideas": [
     {
-      "title": "Local-First Mobile Task Agent for Android",
+      "title": "Adaptive Vision AI Workbench for Niche Image Analysis",
       "difficulty": "Medium",
-      "estimated_hours": 40,
-      "description": "Inspired by the 'poki' project, this idea involves building a local-first AI agent that can automate complex, multi-step tasks on an Android device. Users would provide natural language instructions (e.g., 'Find the nearest coffee shop, check reviews, and get directions'), which a local small language model (LLM) would parse into a sequence of atomic actions. These actions would then be executed via Android's Accessibility Services or ADB commands, eliminating the need for cloud API calls for task execution and enhancing privacy. The agent focuses on deterministic, script-like execution to avoid the pitfalls of agents that 'talk more than they work', as highlighted in Dev.to discussions.",
-      "tech_stack": [
-        "Python (for agent logic and local LLM inference, e.g., using ONNX Runtime with a smaller model or Llama.cpp for ARM-based Mac/Android)",
-        "Android Accessibility Services API (Java/Kotlin for the companion app)",
-        "Mobile Development (Android Studio, ADB)",
-        "Optional: Streamlit or simple web UI for instruction input."
-      ],
-      "source_inspiration": "poki GitHub repo, 'Apple has new Mac app coming to make running local AI models easy' (Hacker News), 'Don't Write Markdown Files for Your Coding Agent. Write Scripts.' (Dev.to)",
-      "steps": [
-        "Step 1: Set up an Android development environment and create a basic Android app capable of receiving commands via local network/ADB and interacting with the OS/other apps using Accessibility Services.",
-        "Step 2: Research and integrate a small, local-runnable LLM (e.g., a quantized Llama variant, Mistral) into a Python backend service, ensuring it can process natural language locally.",
-        "Step 3: Develop a 'skill' mapping layer in Python to translate parsed natural language instructions into a sequence of concrete Android actions (e.g., 'open_app(\"Maps\")', 'search_text(\"coffee shop\")', 'tap_button_by_text(\"Directions\")').",
-        "Step 4: Implement robust error handling and feedback mechanisms within the Android app to report execution status back to the Python agent.",
-        "Step 5: Create a simple user interface (e.g., a web page or a Python CLI) for sending natural language commands to the agent and viewing its progress/output."
-      ]
-    },
-    {
-      "title": "Niche Domain Text Analyzer with 'Micro-Foundation Model' Adaptation",
-      "difficulty": "Hard",
       "estimated_hours": 60,
-      "description": "Building upon the concept of 'microgpt' and the discussions around adapting foundation models for specific tasks, this project involves creating a tool for domain experts (e.g., in mineral exploration, legal tech, or medical research) to extract structured information from highly specialized textual documents. The core would be a relatively small, custom-built or heavily fine-tuned transformer model that can identify entities, relationships, and key insights relevant to the chosen niche. This allows for precise, domain-specific intelligence without relying on large, general-purpose models that might miss nuances or introduce irrelevant context. It addresses the need for specialized AI applications seen in repos like 'awesome-mineral-exploration' and papers on foundation model adaptation.",
+      "description": "Develop a user-friendly desktop application that simplifies the process of adapting pre-trained image foundation models (like Segment Anything Model or DETR) for highly specific image segmentation or object detection tasks using small, custom datasets. The workbench should provide interactive tools for rapid dataset annotation (e.g., few-shot learning for segmenting new categories), model fine-tuning or adaptation, and critical human-in-the-loop validation of results. This allows specialists in fields like manufacturing (defect detection), biology (species identification), or specialized medical imaging (unique pathology spotting) to leverage cutting-edge AI without deep ML expertise, bridging the gap between general AI and niche application. It directly addresses the need for specialized AI applications and foundation model adaptation observed in the arXiv papers and GitHub repos for scientific AI.",
       "tech_stack": [
         "Python",
-        "PyTorch/TensorFlow (for model implementation and training)",
-        "Hugging Face Transformers (for pre-trained smaller models like BERT-tiny or custom transformer architectures)",
-        "Streamlit/Gradio (for a user-friendly web interface)",
-        "SpaCy/NLTK (for initial text processing and rule-based fallback)",
-        "Niche domain dataset (e.g., publicly available geological reports, medical abstracts, legal documents)."
+        "PyTorch / TensorFlow",
+        "OpenCV",
+        "Streamlit / Electron (for desktop UI)",
+        "Hugging Face Transformers / Segment Anything Model (SAM) API"
       ],
-      "source_inspiration": "microgpt GitHub repo, 'Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training' (arXiv), 'awesome-mineral-exploration' GitHub repo, 'Toward Foundation Detection Models via Example-Based Grounding in EM-DETR' (arXiv).",
+      "source_inspiration": "Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training (arXiv), Toward Foundation Detection Models via Example-Based Grounding in EM-DETR (arXiv), Awesome-AI-for-Astronomy (GitHub), ml4sci (GitHub)",
       "steps": [
-        "Step 1: Choose a specific niche domain (e.g., geoscience, patents, clinical trials) and acquire a dataset of relevant textual documents. Curate a small set of documents for manual annotation.",
-        "Step 2: Develop a data annotation pipeline to label entities (e.g., 'mineral names', 'geological formations', 'chemical compounds') and relationships within the chosen documents. Consider using tools like Prodigy or Label Studio.",
-        "Step 3: Select or implement a 'micro-foundation model' architecture. This could be a small transformer model (e.g., using `transformers` library) fine-tuned on the annotated data for Named Entity Recognition (NER) or relation extraction, or a custom, simpler architecture inspired by `microgpt` for foundational understanding.",
-        "Step 4: Train and evaluate the model on the domain-specific dataset, focusing on metrics relevant to information extraction (e.g., F1-score for NER).",
-        "Step 5: Build a web interface using Streamlit or Gradio where users can upload new documents and the model provides extracted entities and relationships, potentially highlighting them in the text."
+        "Set up a Python environment with PyTorch and necessary computer vision libraries.",
+        "Integrate a pre-trained foundation model (e.g., SAM, DETR) for initial segmentation/detection capabilities.",
+        "Develop a UI for uploading custom image datasets and interactively annotating new categories (e.g., drawing bounding boxes or masks with smart assistance).",
+        "Implement a 'few-shot adaptation' module that fine-tunes or adapts the foundation model based on limited user annotations.",
+        "Create a review interface for users to validate, correct, or reject model predictions, feeding corrections back into the adaptation loop.",
+        "Add export functionality for trained models and analysis reports."
       ]
     },
     {
-      "title": "Context-Aware Developer Productivity 'Nudge' Agent",
-      "difficulty": "Easy",
-      "estimated_hours": 25,
-      "description": "This project proposes a desktop application or IDE plugin that acts as a subtle, non-intrusive 'nudge' agent to enhance developer productivity and well-being. Unlike overly chatty AI assistants, this agent uses local activity monitoring (e.g., IDE focus, keyboard/mouse inactivity, git commit frequency) to understand developer context. It proactively suggests short, mindful breaks (like a breathing exercise, inspired by 'Exhale') during deep work, or prompts for quick task updates/documentation when detecting context switching. The goal is to provide timely, relevant assistance without causing distraction, addressing the 'AI talks more than they work' sentiment by focusing on minimal, high-impact interventions.",
+      "title": "DevAgent Flow: Human-Guided AI Development Assistant",
+      "difficulty": "Hard",
+      "estimated_hours": 120,
+      "description": "Build an intelligent, local-first AI agent orchestrator designed to assist developers with complex coding tasks by breaking them down, assigning sub-tasks to specialized AI modules, and ensuring human oversight at critical junctures. Unlike general AI 'employees' that might 'talk more than they work,' this system emphasizes structured interaction. A developer inputs a high-level task (e.g., 'Implement user authentication with OAuth'), and the system generates a plan, delegates code generation, test writing, or documentation to specific AI components, and presents each step for human review and approval. This addresses the productivity challenges with unguided AI agents while maximizing the potential of AI for code generation, aligning with articles discussing AI code generation and the need for human context.",
       "tech_stack": [
-        "Python (backend logic, activity monitoring)",
-        "Electron, PyQt/PySide, or Rust with GUI library (for cross-platform desktop UI)",
-        "OS-specific APIs (for process monitoring, active window detection, input events)",
-        "Optional: Git hooks or IDE extension APIs (for more precise context, e.g., VS Code Extension API)",
-        "Simple sound/animation libraries for breathing exercise visualization."
+        "Python",
+        "LangChain / LlamaIndex (for agent orchestration)",
+        "Local LLMs (e.g., Llama 3 via Ollama) or OpenAI API",
+        "VS Code Extension API / Electron (for UI integration)",
+        "Git (for version control and diffing suggested changes)"
       ],
-      "source_inspiration": "'Exhale: A Breathing Guide That Reads Your Breath While Claude Code Works' (Dev.to), 'I Gave My Startup 6 AI Employees. They Talked More Than They Worked.' (Dev.to), 'Don't Write Markdown Files for Your Coding Agent. Write Scripts.' (Dev.to).",
+      "source_inspiration": "I Gave My Startup 6 AI Employees. They Talked More Than They Worked. (Dev.to), Kent C. Dodds Hasn't Looked at His Code All Year (Dev.to), Being, Doing, Having: Why 50 Years of Senior Craft Lives in Context, Not Code (Dev.to)",
       "steps": [
-        "Step 1: Develop a background service (e.g., a Python script running as a daemon) to monitor relevant developer activity: active window title (checking for IDEs), keyboard/mouse input dormancy, and potentially git repository activity.",
-        "Step 2: Implement heuristics to identify 'deep work' periods (e.g., 45 minutes of continuous IDE activity) and 'context switch' events (e.g., 15 minutes away from the IDE after a deep work session).",
-        "Step 3: Create a minimalist, non-blocking UI for notifications and prompts (e.g., a small pop-up window or system tray notification).",
-        "Step 4: Integrate a simple breathing exercise guide (e.g., a visual pulse or text instructions) that can be triggered during suggested breaks.",
-        "Step 5: Add a quick 'journaling' or 'task update' prompt feature that activates upon detected context switches, allowing the developer to quickly log what they were doing or what they're about to do, potentially saving to a local Markdown file or a simple API."
+        "Establish a backend service using Python to manage task states and agent interactions.",
+        "Integrate with a local or cloud-based LLM for task decomposition and initial planning.",
+        "Develop specialized 'sub-agents' (e.g., a 'Code Generator Agent', 'Test Writer Agent', 'Doc String Agent') that take specific instructions.",
+        "Create a front-end interface (e.g., VS Code extension or web UI) where users can input tasks, review generated plans, and approve/modify agent outputs.",
+        "Implement version control integration to apply AI-generated code snippets directly to the developer's codebase with clear diffs.",
+        "Add a feedback mechanism for developers to refine agent instructions or correct errors, improving future performance."
+      ]
+    },
+    {
+      "title": "Contextual Voice Avatar for Professional Communications",
+      "difficulty": "Medium",
+      "estimated_hours": 80,
+      "description": "Extend the concept of real-time voice changing into a sophisticated 'voice avatar' system for professional virtual communications. This project aims to not only modify a user's voice for clarity or privacy but dynamically adjust vocal characteristics (tone, pace, volume) based on the communication context, participant sentiment, or pre-defined professional personas. For instance, the 'avatar' could automatically moderate a user's tone during a tense discussion, ensure consistent professionalism even if the user is fatigued, or provide a consistent 'brand voice' for presentations. It would integrate with popular conferencing platforms, offering a unique blend of AI-powered voice transformation and intelligent communication assistance, building upon the real-time voice changer trend.",
+      "tech_stack": [
+        "Python",
+        "TensorFlow / PyTorch (for voice transformation models)",
+        "WebRTC / Audio Streaming libraries",
+        "Speech Recognition (e.g., Whisper API) for sentiment analysis",
+        "Socket.IO / WebSockets (for real-time communication)",
+        "Virtual Audio Cable integration (for system-wide audio processing)"
+      ],
+      "source_inspiration": "Voice-Changer (GitHub)",
+      "steps": [
+        "Research and select an appropriate real-time voice transformation/synthesis model (e.g., based on VITS, RVC).",
+        "Implement real-time audio input/output processing using Python and a virtual audio cable for system-wide integration.",
+        "Develop a module for real-time sentiment analysis or keyword detection from the user's speech.",
+        "Create a logic layer that dynamically adjusts voice parameters (pitch, tone, speaking rate) based on detected context or selected persona.",
+        "Design a user interface for creating and managing different 'voice avatars' or communication personas.",
+        "Explore integration options with popular conferencing software (e.g., as an audio input device, or a more direct API integration if available)."
       ]
     }
   ],
   "quick_actions": [
-    "Action 1: Dedicate 1-2 hours this week to experiment with running a local Large Language Model (LLM) on your machine. Utilize tools like 'llama.cpp' or 'ollama' to explore models like Llama 3 or Mistral for basic coding tasks, summarization, or creative text generation. This taps into the local AI trend and 'Apple's Mac app' news.",
-    "Action 2: Refine your interaction style with existing AI coding assistants (e.g., GitHub Copilot, ChatGPT). Instead of conversational prompts, practice crafting more 'script-like' instructions with clear inputs, desired outputs, and constraints, drawing inspiration from 'Don't Write Markdown Files for Your Coding Agent. Write Scripts.'.",
-    "Action 3: Explore a niche application of AI/ML outside of mainstream software development. Browse scientific journals or industry-specific tech blogs (e.g., in biotech, materials science, or finance, as seen with 'awesome-mineral-exploration' or 'FortunaVision') to identify how AI is used, expanding your understanding of foundation model adaptation.",
-    "Action 4: Implement a structured 'mindful break' habit into your daily coding routine. Use a simple timer (e.g., Pomodoro technique, or a custom script inspired by 'Exhale') to prompt yourself for a 5-minute break every hour or 90 minutes, focusing on conscious breathing or stretching away from your screen."
+    "Dedicate 30 minutes daily to analyzing system architecture or reviewing complex codebases beyond your immediate task. Prioritize understanding *why* decisions were made over just *what* code does, fostering 'senior craft' thinking.",
+    "Experiment with an AI coding agent (e.g., GitHub Copilot Chat, Cursor, local LLM via Ollama) for one non-critical coding task this week, focusing on prompting for structured outputs and critically refining its suggestions rather than just accepting first drafts.",
+    "Identify one repetitive task in your personal or professional workflow and explore existing open-source automation scripts or low-code/no-code AI tools that could handle it. Focus on adoption rather than building from scratch initially.",
+    "Implement a 'micro-break' reminder system (e.g., a browser extension, a simple script) that prompts you to stand up or take a few deep breaths every 60-90 minutes during focused work sessions, integrating well-being with productivity."
   ]
 }
