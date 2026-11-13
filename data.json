@@ -1,125 +1,135 @@
 {
-  "last_updated": "2026-11-12 14:09:20",
+  "last_updated": "2026-11-13 13:33:46",
   "scraped_sources": {
     "github": [
       {
         "name": "Awesome-AI-for-Astronomy",
         "owner": "Xin-YuXiao",
         "description": "A curated list of papers for AI in Astronomy & Astrophysics.",
-        "stars": 74,
+        "stars": 149,
         "url": "https://github.com/Xin-YuXiao/Awesome-AI-for-Astronomy",
         "category": "AI / ML"
       },
       {
-        "name": "ride-demand-forecaster",
-        "owner": "hexsyro",
-        "description": "Bike-share demand forecasting: RMSE compared across raw, encoded, scaled and engineered features.",
-        "stars": 36,
-        "url": "https://github.com/hexsyro/ride-demand-forecaster",
+        "name": "resp-fortuna-vision-public-preview",
+        "owner": "Turboheartblaze",
+        "description": "👁️ FortunaVision — chart-first market + treasury workstation, static, no keys: TradingView's open-source chart engine beside Fortuna's SVG engine, Auto Levels, regime, order flow, dealer gamma, drawings, indicator files, a command line, and a Treasury mode (chains, yields, stablecoins, holdings). Public preview of the private lane.",
+        "stars": 51,
+        "url": "https://github.com/Turboheartblaze/resp-fortuna-vision-public-preview",
         "category": "AI / ML"
       },
       {
         "name": "weight-space-programming",
         "owner": "conceptcountry",
         "description": "Gradient-free weight editing reduces overthinking in Qwen3.8-27B — analysis code and evaluation artifacts",
-        "stars": 25,
+        "stars": 27,
         "url": "https://github.com/conceptcountry/weight-space-programming",
         "category": "AI / ML"
       },
       {
-        "name": "Voice-Changer",
+        "name": "Voice-Changer-2026",
         "owner": "Pinnaclesys",
         "description": "AI-powered voice conversion and real-time voice changer. Transform your voice with neural models, custom presets, and low latency.",
-        "stars": 23,
-        "url": "https://github.com/Pinnaclesys/Voice-Changer",
+        "stars": 24,
+        "url": "https://github.com/Pinnaclesys/Voice-Changer-2026",
         "category": "AI / ML"
       },
       {
         "name": "ml4sci",
         "owner": "pjmbatman",
         "description": "Interactive lessons, graded Python labs and quizzes for researchers bringing machine learning into science, all in a learning desktop in your browser. 216 chapters · English · 한국어",
-        "stars": 14,
+        "stars": 18,
         "url": "https://github.com/pjmbatman/ml4sci",
         "category": "AI / ML"
       },
       {
-        "name": "secure-pdf-document-processor",
-        "owner": "mahmoudtawfik1998",
-        "description": "Adobe Acrobat Pro 2026: Secure Standalone PDF Document Processor for Desktop",
-        "stars": 1211,
-        "url": "https://github.com/mahmoudtawfik1998/secure-pdf-document-processor",
+        "name": "ableton-live-12",
+        "owner": "Omegaofidolize",
+        "description": "Ableton Live 12 pre-configured environment for professional audio workstation deployment in isolated local studio setup.",
+        "stars": 116,
+        "url": "https://github.com/Omegaofidolize/ableton-live-12",
         "category": "Automation / Productivity"
       },
       {
-        "name": "aida-64-extreme",
-        "owner": "hembramneeraj3-create",
-        "description": "Aida 64 Extreme 2026: Complete Standalone Desktop Setup with Full Feature Configuration",
-        "stars": 1207,
-        "url": "https://github.com/hembramneeraj3-create/aida-64-extreme",
+        "name": "video-kit",
+        "owner": "achun1107",
+        "description": "一条命令把 GitHub 仓库或抖音视频变成竖屏讲解视频",
+        "stars": 103,
+        "url": "https://github.com/achun1107/video-kit",
         "category": "Automation / Productivity"
       },
       {
-        "name": "adobe-substance-3d-studio",
-        "owner": "abdulmannanmalik13-wq",
-        "description": "Adobe Substance 3D Creative Studio 2026 - Secure Asset Pipeline Desktop Installer",
-        "stars": 1207,
-        "url": "https://github.com/abdulmannanmalik13-wq/adobe-substance-3d-studio",
+        "name": "image-smith",
+        "owner": "originaldeliquate-hub",
+        "description": "Image-Smith: Visual Batch Automation for Windows Workflows",
+        "stars": 102,
+        "url": "https://github.com/originaldeliquate-hub/image-smith",
         "category": "Automation / Productivity"
       },
       {
-        "name": "archicad-desktop-setup",
-        "owner": "AleRibeiro44",
-        "description": "Archicad 2026 complete standalone desktop setup with pre-configured ready-to-run installation build",
-        "stars": 1204,
-        "url": "https://github.com/AleRibeiro44/archicad-desktop-setup",
+        "name": "cifuse",
+        "owner": "brunnojob",
+        "description": "Turn noisy CI logs into grouped failures, exact evidence and investigation steps. Offline CLI, reusable GitHub Action and bilingual browser workbench. No API keys.",
+        "stars": 98,
+        "url": "https://github.com/brunnojob/cifuse",
         "category": "Automation / Productivity"
       },
       {
-        "name": "autodesk-inventor-desktop-config",
-        "owner": "PHISHER420",
-        "description": "Autodesk Inventor 2026 Professional Desktop Installer with Pre-Configured Full Feature Set",
-        "stars": 1203,
-        "url": "https://github.com/PHISHER420/autodesk-inventor-desktop-config",
+        "name": "bloxshade-for-roblox",
+        "owner": "Pointyodemolish",
+        "description": "Bloxshade For Roblox 2026 pre-configured environment for seamless desktop software utility deployment.",
+        "stars": 95,
+        "url": "https://github.com/Pointyodemolish/bloxshade-for-roblox",
         "category": "Automation / Productivity"
       }
     ],
     "hacker_news": [
       {
-        "title": "93% of paint splatters are valid Perl programs (2019)",
-        "url": "https://www.mcmillen.dev/sigbovik/",
-        "score": 501
+        "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+        "url": "https://status.claude.com/incidents/nn11wk485zfn",
+        "score": 301
       },
       {
-        "title": "Nvidia CEO Jensen Huang resigns after reports of second affair deepened scandal",
-        "url": "https://www.bbc.co.uk/news/live/c6zjry11v8w1t",
-        "score": 19
+        "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+        "url": "https://github.com/simpsoka/zigzag",
+        "score": 593
+      },
+      {
+        "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+        "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+        "score": 287
+      },
+      {
+        "title": "I'm making LLMs work on small and old devices",
+        "url": "https://github.com/hyperionaidev/smolmaxxing/",
+        "score": 406
       }
     ],
     "arxiv": [
       {
-        "title": "Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training",
-        "summary": "Foundation models pretrained on large natural-image collections are increasingly adapted for medical image segmentation, in the expectation that they will replace models trained for each task. Most co...",
-        "url": "http://arxiv.org/abs/2611.14519v1"
+        "title": "Unbundling Multimodal Vision Encoding",
+        "summary": "How multimodal language models should encode visual input remains up for debate. Most models use a pretrained vision encoder, while some recent recipes train the encoder from scratch with the language...",
+        "url": "http://arxiv.org/abs/2611.17334v1"
       },
       {
-        "title": "Toward Foundation Detection Models via Example-Based Grounding in EM-DETR",
-        "summary": "DeepLearning (DL)-based Computer-Aided Diagnostic (CAD) systems have shown great promise in supporting clinicians, but their performance heavily depends on the availability of large, well-annotated da...",
-        "url": "http://arxiv.org/abs/2611.14518v1"
+        "title": "ArchSpace: Recording, Reviewing, and Referencing LLM Architecture Research",
+        "summary": "Model architecture shapes the scaling behavior, training efficiency, and inference cost of LLMs, making it a central focus of both industry and academia. In industry, teams such as those behind DeepSe...",
+        "url": "http://arxiv.org/abs/2611.17332v1"
       },
       {
-        "title": "TorchCurves: Differentiable Parametric Curves",
-        "summary": "We present TorchCurves, a PyTorch library that treats vector-valued parametric curves as learnable primitives. Its central operation maps batches of scalar inputs to points on curves represented in B-...",
-        "url": "http://arxiv.org/abs/2611.14516v1"
+        "title": "Internalizing Investment Mandates: A Neurosymbolic RL Approach to Portfolio Allocation",
+        "summary": "Institutional portfolios operate under investment policy statements that specify asset allocation constraints, often conditioned on market regime information. Deep reinforcement learning has been show...",
+        "url": "http://arxiv.org/abs/2611.17329v1"
       },
       {
-        "title": "AutoScaffold: AI-Guided Scaffolding for Reinforcement Learning of Language Models",
-        "summary": "Reinforcement learning with verifiable rewards (RLVR) produces rich training experience, yet outcome rewards reduce each attempt to a single number and leave most of this information unused. Training-...",
-        "url": "http://arxiv.org/abs/2611.14515v1"
+        "title": "AgentSSL: Can MLE Agents Leverage Unlabeled Data?",
+        "summary": "Applying machine learning systems to new domains introduces bottlenecks in both labeled data acquisition and manual pipeline engineering. While recent MLE agents show promise in automating pipeline de...",
+        "url": "http://arxiv.org/abs/2611.17323v1"
       },
       {
-        "title": "Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations",
-        "summary": "LLM agents are increasingly used for open-ended, data-driven scientific discovery, yet most of them evaluate hypotheses pointwise, testing an empirical claim $h$ only against its complement $\\neg h$. ...",
-        "url": "http://arxiv.org/abs/2611.14514v1"
+        "title": "Learning When Diffusion Language Models Should Regenerate",
+        "summary": "Remasking allows diffusion language models to revisit generated text, but effective correction requires knowing when and what to revise. Our diagnosis on Sudoku reveals two gaps. Hidden states contain...",
+        "url": "http://arxiv.org/abs/2611.17320v1"
       }
     ],
     "devto": [
@@ -127,108 +137,107 @@
         "title": "How do you truly stand out in Tech?",
         "description": "I am not going to lie to you, the market has been rough out there. There are layoffs across different...",
         "url": "https://dev.to/francistrdev/how-do-you-truly-stand-out-in-tech-478a",
-        "reactions": 163
+        "reactions": 178
+      },
+      {
+        "title": "AI is getting better. Here is my plan to stay ahead.",
+        "description": "AI is getting better every day.  As a software engineer, this is a topic that is often top of mind,...",
+        "url": "https://dev.to/javz/ai-is-getting-better-here-is-my-plan-to-stay-ahead-2822",
+        "reactions": 35
       },
       {
         "title": "Being, Doing, Having: Why 50 Years of Senior Craft Lives in Context, Not Code",
         "description": "Why does standard AI code generation try to jump straight to 'Have' without the proper 'Be'? How ladder rungs, the 'Null-State' couch flash, and stand-up comedy explain what separates senior engineers from junior token streamers.",
         "url": "https://dev.to/gde/being-doing-having-why-50-years-of-senior-craft-lives-in-context-not-code-29dl",
-        "reactions": 26
+        "reactions": 27
+      },
+      {
+        "title": "Your MCP Servers Are Silently Draining Your Context Window: The Hidden Cost of Tool-Heavy AI Agents",
+        "description": "Why attaching dozens of Model Context Protocol (MCP) tools degrades LLM reasoning, inflates API bills, and how small, focused TypeScript micro-tools fix the problem.",
+        "url": "https://dev.to/necoz/your-mcp-servers-are-silently-draining-your-context-window-the-hidden-cost-of-tool-heavy-ai-agents-fkl",
+        "reactions": 42
       },
       {
         "title": "I Gave My Startup 6 AI Employees. They Talked More Than They Worked.",
         "description": "330 chat messages, 75 finished tasks, and one analyst who announced work she never did.",
         "url": "https://dev.to/elliot_brenya/i-gave-my-startup-6-ai-employees-they-talked-more-than-they-worked-480p",
         "reactions": 18
-      },
-      {
-        "title": "Kent C. Dodds Hasn't Looked at His Code All Year",
-        "description": "At the start of this year, Kent C. Dodds gave a coding agent a link to a GitHub issue he had been...",
-        "url": "https://dev.to/dailycontext/kent-c-dodds-hasnt-looked-at-his-code-all-year-gd5",
-        "reactions": 7
-      },
-      {
-        "title": "Exhale: A Breathing Guide That Reads Your Breath While Claude Code Works",
-        "description": "This is a submission for the Presage SmartSpectra SDK Challenge.  You hand Claude Code a task. It...",
-        "url": "https://dev.to/gabrielanhaia/exhale-a-breathing-guide-that-reads-your-breath-while-claude-code-works-244a",
-        "reactions": 25
       }
     ]
   },
-  "trends": "Today's tech landscape reveals a strong dual focus: the specialized application and refinement of AI, alongside a persistent demand for robust desktop automation and intelligent productivity solutions. In AI, there's a significant shift towards adapting large foundation models for niche scientific and medical domains, demonstrating value beyond general-purpose use. Concurrently, AI agents are evolving to tackle complex tasks, particularly in software development and scientific discovery, though current challenges highlight the need for more sophisticated prompting, structured outputs, and human-in-the-loop oversight to move from 'talking' to 'working' effectively. Productivity trends emphasize leveraging AI for workflow augmentation, not just replacement, with an increasing interest in integrated tools that enhance both efficiency and personal well-being. There's also a clear market desire for powerful, pre-configured desktop applications that streamline professional workflows, reflecting a demand for comprehensive local automation solutions.",
+  "trends": "The current technological landscape is heavily influenced by the practical application and optimization of Artificial Intelligence, with a strong emphasis on efficiency and accessibility. Key themes include making powerful AI models runnable on smaller, local devices ('smolmaxxing', Edge0-145B), and specializing AI for niche domains like astronomy, astrophysics, and financial markets. There's significant innovation in automation, ranging from personal workflow enhancements (media processing, developer tooling) to the deployment of pre-configured software environments. A critical underlying trend is the evolving understanding of agentic AI; while powerful, there's a growing awareness of challenges like context window drain and inefficient multi-agent communication. The developer community is increasingly valuing 'senior craft' – deep contextual understanding and problem-solving – over simplistic AI-generated code, pushing for more intelligent, modular, and focused AI integrations.",
   "ideas": [
     {
-      "title": "Adaptive Vision AI Workbench for Niche Image Analysis",
+      "title": "LocalAI Agent Orchestrator with Micro-Tools",
+      "difficulty": "Medium",
+      "estimated_hours": 40,
+      "description": "Develop a lightweight, local-first platform for orchestrating 'micro-agents' or highly specialized AI tools. Instead of relying on large, tool-heavy AI agents that consume vast context windows and incur high API costs, this system allows developers to define, containerize, and selectively invoke small, focused AI models (e.g., for specific data parsing, code linting, text summarization). The orchestrator would manage their execution, input/output routing, and allow for chained operations, addressing the performance and cost issues highlighted in the Dev.to article about 'tool-heavy AI agents draining context'. This makes powerful AI capabilities accessible and efficient on personal machines.",
+      "tech_stack": [
+        "Python",
+        "FastAPI",
+        "Docker",
+        "Ollama/Llama.cpp (for local LLMs)",
+        "SQLite"
+      ],
+      "source_inspiration": "Hacker News: 'I'm making LLMs work on small and old devices' (smolmaxxing), 'Edge0-145B: Frontier AI Capabilities on Your Own Computer'; Dev.to: 'Your MCP Servers Are Silently Draining Your Context Window: The Hidden Cost of Tool-Heavy AI Agents'",
+      "steps": [
+        "Task 1: Design a core API for agent registration, invocation, and status monitoring.",
+        "Task 2: Implement a basic agent wrapper in Python that can accept input, process with a small local AI model (e.g., fine-tuned BERT for specific classification, or a small LLM via Ollama), and return structured output.",
+        "Task 3: Develop a containerization strategy (e.g., Docker) for individual micro-agents to ensure isolation and easy deployment.",
+        "Task 4: Build a user interface (CLI or simple web app) to define agent workflows (sequential or conditional calls) and view execution logs.",
+        "Task 5: Implement a basic context management system to pass relevant information between chained micro-agents efficiently."
+      ]
+    },
+    {
+      "title": "AI-Enhanced Personal Media & Content Automation Studio",
       "difficulty": "Medium",
       "estimated_hours": 60,
-      "description": "Develop a user-friendly desktop application that simplifies the process of adapting pre-trained image foundation models (like Segment Anything Model or DETR) for highly specific image segmentation or object detection tasks using small, custom datasets. The workbench should provide interactive tools for rapid dataset annotation (e.g., few-shot learning for segmenting new categories), model fine-tuning or adaptation, and critical human-in-the-loop validation of results. This allows specialists in fields like manufacturing (defect detection), biology (species identification), or specialized medical imaging (unique pathology spotting) to leverage cutting-edge AI without deep ML expertise, bridging the gap between general AI and niche application. It directly addresses the need for specialized AI applications and foundation model adaptation observed in the arXiv papers and GitHub repos for scientific AI.",
+      "description": "Create an integrated desktop application that automates common media processing tasks for content creators, enhanced with AI. Users can upload raw video clips, images, and text. The studio would automate generating vertical video cuts for social media (inspired by 'video-kit'), applying consistent visual styles and watermarks across batches of images ('image-smith'), and offering AI-powered suggestions for background music or even generating custom voiceovers using local voice conversion models (leveraging concepts from 'Voice-Changer-2026'). This project empowers creators to produce high-quality content faster and more efficiently, mirroring the DIY spirit of 'Show HN: My $300 embroidery machine needed a subscription, so I built my own app'.",
       "tech_stack": [
         "Python",
-        "PyTorch / TensorFlow",
+        "FFmpeg (via ffmpeg-python)",
+        "Pillow",
         "OpenCV",
-        "Streamlit / Electron (for desktop UI)",
-        "Hugging Face Transformers / Segment Anything Model (SAM) API"
+        "Streamlit/Electron (for UI)",
+        "Potentially a local voice conversion library"
       ],
-      "source_inspiration": "Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training (arXiv), Toward Foundation Detection Models via Example-Based Grounding in EM-DETR (arXiv), Awesome-AI-for-Astronomy (GitHub), ml4sci (GitHub)",
+      "source_inspiration": "GitHub: 'video-kit' (vertical video automation), 'image-smith' (visual batch automation), 'Voice-Changer-2026' (AI voice conversion); Hacker News: 'Show HN: My $300 embroidery machine needed a subscription, so I built my own app'",
       "steps": [
-        "Set up a Python environment with PyTorch and necessary computer vision libraries.",
-        "Integrate a pre-trained foundation model (e.g., SAM, DETR) for initial segmentation/detection capabilities.",
-        "Develop a UI for uploading custom image datasets and interactively annotating new categories (e.g., drawing bounding boxes or masks with smart assistance).",
-        "Implement a 'few-shot adaptation' module that fine-tunes or adapts the foundation model based on limited user annotations.",
-        "Create a review interface for users to validate, correct, or reject model predictions, feeding corrections back into the adaptation loop.",
-        "Add export functionality for trained models and analysis reports."
+        "Task 1: Set up a desktop application framework (e.g., Electron with React/Vue or Python with Streamlit/PyQt).",
+        "Task 2: Integrate FFmpeg for video processing (trimming, scaling, format conversion, vertical reframing).",
+        "Task 3: Implement image batch processing capabilities using Pillow or OpenCV (resizing, watermarking, filtering).",
+        "Task 4: Explore and integrate a lightweight, local voice conversion model (or a text-to-speech API as a placeholder) for generating voiceovers.",
+        "Task 5: Develop a user-friendly interface for uploading media, configuring automation workflows, and previewing results."
       ]
     },
     {
-      "title": "DevAgent Flow: Human-Guided AI Development Assistant",
+      "title": "DomainSense: AI-Assisted Interactive Data Navigation Workbench",
       "difficulty": "Hard",
-      "estimated_hours": 120,
-      "description": "Build an intelligent, local-first AI agent orchestrator designed to assist developers with complex coding tasks by breaking them down, assigning sub-tasks to specialized AI modules, and ensuring human oversight at critical junctures. Unlike general AI 'employees' that might 'talk more than they work,' this system emphasizes structured interaction. A developer inputs a high-level task (e.g., 'Implement user authentication with OAuth'), and the system generates a plan, delegates code generation, test writing, or documentation to specific AI components, and presents each step for human review and approval. This addresses the productivity challenges with unguided AI agents while maximizing the potential of AI for code generation, aligning with articles discussing AI code generation and the need for human context.",
-      "tech_stack": [
-        "Python",
-        "LangChain / LlamaIndex (for agent orchestration)",
-        "Local LLMs (e.g., Llama 3 via Ollama) or OpenAI API",
-        "VS Code Extension API / Electron (for UI integration)",
-        "Git (for version control and diffing suggested changes)"
-      ],
-      "source_inspiration": "I Gave My Startup 6 AI Employees. They Talked More Than They Worked. (Dev.to), Kent C. Dodds Hasn't Looked at His Code All Year (Dev.to), Being, Doing, Having: Why 50 Years of Senior Craft Lives in Context, Not Code (Dev.to)",
-      "steps": [
-        "Establish a backend service using Python to manage task states and agent interactions.",
-        "Integrate with a local or cloud-based LLM for task decomposition and initial planning.",
-        "Develop specialized 'sub-agents' (e.g., a 'Code Generator Agent', 'Test Writer Agent', 'Doc String Agent') that take specific instructions.",
-        "Create a front-end interface (e.g., VS Code extension or web UI) where users can input tasks, review generated plans, and approve/modify agent outputs.",
-        "Implement version control integration to apply AI-generated code snippets directly to the developer's codebase with clear diffs.",
-        "Add a feedback mechanism for developers to refine agent instructions or correct errors, improving future performance."
-      ]
-    },
-    {
-      "title": "Contextual Voice Avatar for Professional Communications",
-      "difficulty": "Medium",
       "estimated_hours": 80,
-      "description": "Extend the concept of real-time voice changing into a sophisticated 'voice avatar' system for professional virtual communications. This project aims to not only modify a user's voice for clarity or privacy but dynamically adjust vocal characteristics (tone, pace, volume) based on the communication context, participant sentiment, or pre-defined professional personas. For instance, the 'avatar' could automatically moderate a user's tone during a tense discussion, ensure consistent professionalism even if the user is fatigued, or provide a consistent 'brand voice' for presentations. It would integrate with popular conferencing platforms, offering a unique blend of AI-powered voice transformation and intelligent communication assistance, building upon the real-time voice changer trend.",
+      "description": "Build an interactive, domain-agnostic data workbench that leverages ML/AI to assist users (e.g., scientists, analysts) in exploring complex datasets. Inspired by 'ml4sci' and 'FortunaVision', this tool would allow users to upload structured data and automatically: suggest relevant ML models based on data characteristics, identify anomalies or key patterns, generate interactive visualizations, and provide initial interpretive insights. For specialized fields, it could integrate contextual knowledge bases (like 'Awesome-AI-for-Astronomy') to enrich analysis, and offer 'what-if' scenario simulations, similar to the regime-conditioned insights in 'Internalizing Investment Mandates'. The goal is to democratize advanced data analysis and hypothesis generation.",
       "tech_stack": [
         "Python",
-        "TensorFlow / PyTorch (for voice transformation models)",
-        "WebRTC / Audio Streaming libraries",
-        "Speech Recognition (e.g., Whisper API) for sentiment analysis",
-        "Socket.IO / WebSockets (for real-time communication)",
-        "Virtual Audio Cable integration (for system-wide audio processing)"
+        "Pandas",
+        "Scikit-learn",
+        "TensorFlow/PyTorch (for specific models)",
+        "Plotly/Dash (for interactive visualization and UI)",
+        "Streamlit/Jupyter Widgets",
+        "Potentially a vector database for RAG-based domain knowledge"
       ],
-      "source_inspiration": "Voice-Changer (GitHub)",
+      "source_inspiration": "GitHub: 'Awesome-AI-for-Astronomy', 'ml4sci', 'resp-fortuna-vision-public-preview'; arXiv: 'Internalizing Investment Mandates: A Neurosymbolic RL Approach to Portfolio Allocation'",
       "steps": [
-        "Research and select an appropriate real-time voice transformation/synthesis model (e.g., based on VITS, RVC).",
-        "Implement real-time audio input/output processing using Python and a virtual audio cable for system-wide integration.",
-        "Develop a module for real-time sentiment analysis or keyword detection from the user's speech.",
-        "Create a logic layer that dynamically adjusts voice parameters (pitch, tone, speaking rate) based on detected context or selected persona.",
-        "Design a user interface for creating and managing different 'voice avatars' or communication personas.",
-        "Explore integration options with popular conferencing software (e.g., as an audio input device, or a more direct API integration if available)."
+        "Task 1: Develop a robust data ingestion and preprocessing module (CSV, JSON, SQL import) using Pandas.",
+        "Task 2: Implement automated data profiling and feature engineering suggestions based on data types and distributions.",
+        "Task 3: Integrate common ML algorithms (clustering, classification, regression) from Scikit-learn with automated model selection/hyperparameter tuning heuristics.",
+        "Task 4: Build an interactive web interface using Plotly/Dash or Streamlit for data visualization, model configuration, and insight display.",
+        "Task 5: Research and integrate a mechanism for injecting domain-specific knowledge (e.g., through RAG with a custom knowledge base) to provide richer, contextualized interpretations of ML outputs."
       ]
     }
   ],
   "quick_actions": [
-    "Dedicate 30 minutes daily to analyzing system architecture or reviewing complex codebases beyond your immediate task. Prioritize understanding *why* decisions were made over just *what* code does, fostering 'senior craft' thinking.",
-    "Experiment with an AI coding agent (e.g., GitHub Copilot Chat, Cursor, local LLM via Ollama) for one non-critical coding task this week, focusing on prompting for structured outputs and critically refining its suggestions rather than just accepting first drafts.",
-    "Identify one repetitive task in your personal or professional workflow and explore existing open-source automation scripts or low-code/no-code AI tools that could handle it. Focus on adoption rather than building from scratch initially.",
-    "Implement a 'micro-break' reminder system (e.g., a browser extension, a simple script) that prompts you to stand up or take a few deep breaths every 60-90 minutes during focused work sessions, integrating well-being with productivity."
+    "Action 1: Dedicate 15-30 minutes daily to read trending AI/ML research papers (e.g., arXiv) or industry blogs to stay current with advancements and potential applications.",
+    "Action 2: Identify one recurring manual task in your daily workflow (coding, system administration, content creation) and spend 1-2 hours automating it with a small script or focused tool this week.",
+    "Action 3: Before diving into any coding task, especially when using AI assistance, spend 10 minutes deeply understanding and articulating the problem's context and desired outcome in plain language.",
+    "Action 4: Review your current AI tool usage (e.g., Copilot, ChatGPT plugins) and critically evaluate if consolidating or specializing your tools could improve efficiency and reduce 'context window' overhead."
   ]
 }
