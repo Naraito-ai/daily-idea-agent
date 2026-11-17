@@ -1,20 +1,12 @@
 {
-  "last_updated": "2026-11-16 14:12:06",
+  "last_updated": "2026-11-17 15:06:32",
   "scraped_sources": {
     "github": [
-      {
-        "name": "Awesome-AI-for-Astronomy",
-        "owner": "Xin-YuXiao",
-        "description": "A curated list of papers for AI in Astronomy & Astrophysics.",
-        "stars": 271,
-        "url": "https://github.com/Xin-YuXiao/Awesome-AI-for-Astronomy",
-        "category": "AI / ML"
-      },
       {
         "name": "bayesian-modelling-notes",
         "owner": "Danuzco",
         "description": "Handwritten lecture notes and Jupyter notebooks for the Bayesian Modelling course of the Doctorado en Inteligencia Artificial (Chile): probability, conjugate models, Kalman filters, Gaussian processes, MCMC, variational inference, hierarchical models.",
-        "stars": 49,
+        "stars": 53,
         "url": "https://github.com/Danuzco/bayesian-modelling-notes",
         "category": "AI / ML"
       },
@@ -27,20 +19,36 @@
         "category": "AI / ML"
       },
       {
-        "name": "ml4sci",
-        "owner": "pjmbatman",
-        "description": "Interactive lessons, graded Python labs and quizzes for researchers bringing machine learning into science, all in a learning desktop in your browser. 216 chapters · English · 한국어",
-        "stars": 18,
-        "url": "https://github.com/pjmbatman/ml4sci",
-        "category": "AI / ML"
-      },
-      {
         "name": "ZehenSync",
         "owner": "Hamzaviour",
         "description": "ZehenSync: a multimodal screening-support platform for mental health, built for patients, psychologists and psychology students. It screens and never diagnoses — a licensed psychologist makes every call.",
         "stars": 13,
         "url": "https://github.com/Hamzaviour/ZehenSync",
         "category": "AI / ML"
+      },
+      {
+        "name": "gdg-uam-ml-contest-2026",
+        "owner": "DavidTorro",
+        "description": "1D CNN for 8-class multichannel time-series classification, optimized for CPU inference with ONNX Runtime and Numba.",
+        "stars": 7,
+        "url": "https://github.com/DavidTorro/gdg-uam-ml-contest-2026",
+        "category": "AI / ML"
+      },
+      {
+        "name": "animated-machine-learning-algorithm",
+        "owner": "di37",
+        "description": "Watch scikit-learn models learn and predict: live training and inference animations, narrated lessons and Manim videos for California Housing (regression) and Titanic (classification)",
+        "stars": 7,
+        "url": "https://github.com/di37/animated-machine-learning-algorithm",
+        "category": "AI / ML"
+      },
+      {
+        "name": "mdldm-maitian",
+        "owner": "CzzzzzzJ",
+        "description": "麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏",
+        "stars": 851,
+        "url": "https://github.com/CzzzzzzJ/mdldm-maitian",
+        "category": "Automation / Productivity"
       },
       {
         "name": "dxo-photolab-10-desktop",
@@ -73,132 +81,154 @@
         "stars": 360,
         "url": "https://github.com/ben-cook-42/kontakt-8-desktop",
         "category": "Automation / Productivity"
-      },
-      {
-        "name": "wondershare-recoverit-desktop",
-        "owner": "azuresail195",
-        "description": "Wondershare Recoverit 2026 desktop setup for recovering deleted files from disks, SD cards and USB drives, repairing corrupted video and photo files, and crashed-system recovery with bootable media on Windows 11",
-        "stars": 360,
-        "url": "https://github.com/azuresail195/wondershare-recoverit-desktop",
-        "category": "Automation / Productivity"
       }
     ],
     "hacker_news": [
       {
-        "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
-        "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
-        "score": 184
+        "title": "We don't need more apps. We need better open source",
+        "url": "https://jordankrueger.com/blog/better-open-source-not-more-apps/",
+        "score": 10
+      },
+      {
+        "title": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
+        "url": "https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns",
+        "score": 32
       }
     ],
-    "arxiv": [],
-    "devto": [
+    "arxiv": [
       {
-        "title": "How do you truly stand out in Tech?",
-        "description": "I am not going to lie to you, the market has been rough out there. There are layoffs across different...",
-        "url": "https://dev.to/francistrdev/how-do-you-truly-stand-out-in-tech-478a",
-        "reactions": 204
+        "title": "Latent Lattice Language Models",
+        "summary": "Language models typically increase per-token computation through deeper or looped layers and latent reasoning steps, while richer residual connections improve information flow across layers. We instea...",
+        "url": "http://arxiv.org/abs/2611.21608v1"
       },
+      {
+        "title": "ViRA: Toward Ultra-High-Resolution Visual Agents via Cross-Input Relative Policy Optimization",
+        "summary": "Visual agents answer questions about ultra-high-resolution photos by zooming into the relevant regions. However, existing agents often answer from common sense instead of reading the evidence. Reinfor...",
+        "url": "http://arxiv.org/abs/2611.21605v1"
+      },
+      {
+        "title": "Quantifying the added value of human forecaster discussions for tropical cyclone intensity prediction",
+        "summary": "The National Hurricane Center routinely releases Tropical Cyclone Discussions that offer insights into its tropical cyclone forecasts. This study examines the added value of these discussions for inte...",
+        "url": "http://arxiv.org/abs/2611.21602v1"
+      },
+      {
+        "title": "How VLMs Plan What's Next",
+        "summary": "When a vision-language model describes an image, it names one object at a time and it rarely repeats itself, yet how the model plans this order is far from obvious. We characterize the mechanism a VLM...",
+        "url": "http://arxiv.org/abs/2611.21600v1"
+      },
+      {
+        "title": "Hyperlyve: Parallelized Enumeration and Exact Lyapunov Stability Certification for Deep ReLU Networks",
+        "summary": "We introduce Hyperlyve (Hyperplane Partitioned Lyapunov Verification and Enumeration), a framework for proving the asymptotic stability of nonlinear dynamical systems, including those with neural netw...",
+        "url": "http://arxiv.org/abs/2611.21599v1"
+      }
+    ],
+    "devto": [
       {
         "title": "AI is getting better. Here is my plan to stay ahead.",
         "description": "AI is getting better every day.  As a software engineer, this is a topic that is often top of mind,...",
         "url": "https://dev.to/javz/ai-is-getting-better-here-is-my-plan-to-stay-ahead-2822",
-        "reactions": 43
-      },
-      {
-        "title": "Your MCP Servers Are Silently Draining Your Context Window: The Hidden Cost of Tool-Heavy AI Agents",
-        "description": "Why attaching dozens of Model Context Protocol (MCP) tools degrades LLM reasoning, inflates API bills, and how small, focused TypeScript micro-tools fix the problem.",
-        "url": "https://dev.to/necoz/your-mcp-servers-are-silently-draining-your-context-window-the-hidden-cost-of-tool-heavy-ai-agents-fkl",
-        "reactions": 55
+        "reactions": 50
       },
       {
         "title": "AI Avatar v28 (Security Support, Voxel Avatar)🛡️",
         "description": "Intro   AI Avatar is a free app where your VRoid (VRM) avatar cheers you with all its...",
         "url": "https://dev.to/webdeveloperhyper/ai-avatar-v28-security-support-voxel-avatar-2i5i",
-        "reactions": 19
+        "reactions": 51
       },
       {
-        "title": "I Gave My Startup 6 AI Employees. They Talked More Than They Worked.",
-        "description": "330 chat messages, 75 finished tasks, and one analyst who announced work she never did.",
-        "url": "https://dev.to/elliot_brenya/i-gave-my-startup-6-ai-employees-they-talked-more-than-they-worked-480p",
+        "title": "Your MCP Servers Are Silently Draining Your Context Window: The Hidden Cost of Tool-Heavy AI Agents",
+        "description": "Why attaching dozens of Model Context Protocol (MCP) tools degrades LLM reasoning, inflates API bills, and how small, focused TypeScript micro-tools fix the problem.",
+        "url": "https://dev.to/necoz/your-mcp-servers-are-silently-draining-your-context-window-the-hidden-cost-of-tool-heavy-ai-agents-fkl",
+        "reactions": 57
+      },
+      {
+        "title": "What are your goals for the week? #205",
+        "description": "I have an eye doctor appointment Tuesday. If my eyes are dilated, I can't use the the computer for...",
+        "url": "https://dev.to/jarvisscript/what-are-your-goals-for-the-week-205-22pg",
         "reactions": 18
+      },
+      {
+        "title": "Kent C. Dodds Hasn't Looked at His Code All Year",
+        "description": "At the start of this year, Kent C. Dodds gave a coding agent a link to a GitHub issue he had been...",
+        "url": "https://dev.to/dailycontext/kent-c-dodds-hasnt-looked-at-his-code-all-year-gd5",
+        "reactions": 8
       }
     ]
   },
-  "trends": "Today's tech landscape reveals a dual focus on refined AI application and robust system optimization. In AI, there's a strong drive towards practical implementation in scientific domains (astronomy, general research education) and specific business cases (churn prediction, mental health screening). Concurrently, a critical discussion on AI agent efficiency is prominent, advocating for focused 'micro-tools' over cumbersome, context-heavy multi-agent systems due to performance and cost concerns. On the automation and productivity front, there's significant demand for streamlined desktop application setups and system optimization, indicating a user need for efficient local environments for complex software. Underlying these trends is a clear developer sentiment around adapting to AI's rapid advancements and strategically upskilling to stay relevant in a competitive market.",
+  "trends": "The current technological landscape is characterized by significant advancements and practical applications in AI/ML, coupled with a strong emphasis on automation and productivity. Key AI/ML themes include the move towards interpretable and explainable models (e.g., animated learning, understanding VLM planning), specialized applications (mental health screening, churn prediction, time-series classification), and foundational research in areas like latent language models and neural network stability. Performance optimization, particularly for CPU inference, is also a notable sub-trend. In automation and productivity, the focus is on streamlined multi-platform content management, highly specialized desktop software (e.g., photo editing, audio production, system optimization), and the increasing integration of AI agents into workflows. However, there's a growing awareness of the potential pitfalls of AI hype, diminishing returns, and the performance overhead of 'tool-heavy' AI agents, leading to a call for more efficient, focused solutions and better open-source alternatives.",
   "ideas": [
     {
-      "title": "Micro-Agent Scientific Data Synthesizer & Summarizer",
+      "title": "Multimodal Agent Interpretability Sandbox",
       "difficulty": "Medium",
-      "estimated_hours": 30,
-      "description": "Inspired by the push for efficient, focused AI agents and the 'AI for Science' trend, this project involves building a specialized AI micro-agent system designed to synthesize and summarize research papers or datasets in a specific scientific domain (e.g., astrophysics, bioinformatics). Unlike a monolithic LLM agent, this system will employ several small, highly specialized agents: one for data extraction (e.g., from PDFs/APIs), another for numerical analysis (using scientific libraries), and a third for generating concise, domain-specific summaries or insights. The focus is on precision, efficiency, and reducing 'context window drain' by passing refined outputs between agents.",
-      "tech_stack": [
-        "Python",
-        "LLM API (e.g., OpenAI, Anthropic)",
-        "LangChain/LlamaIndex (for agent orchestration)",
-        "Pandas",
-        "NumPy",
-        "SciPy (or domain-specific libraries like Astropy)",
-        "Streamlit/Gradio (for simple UI)"
-      ],
-      "source_inspiration": "Your MCP Servers Are Silently Draining Your Context Window: The Hidden Cost of Tool-Heavy AI Agents, Awesome-AI-for-Astronomy, ml4sci",
-      "steps": [
-        "Task 1: Define a specific scientific subdomain and target data source (e.g., arXiv astronomy papers, a public biological dataset).",
-        "Task 2: Develop a 'Data Extraction Agent' using an LLM and appropriate tooling (e.g., PDF parsers, API wrappers) to pull relevant information into a structured format.",
-        "Task 3: Create a 'Numerical Analysis Agent' that takes structured data and performs pre-defined statistical or computational tasks using scientific Python libraries.",
-        "Task 4: Build a 'Summary & Insight Agent' that synthesizes the analyzed data and generates a concise, domain-specific summary or identifies key trends/anomalies.",
-        "Task 5: Implement an orchestration layer (e.g., using LangChain) to manage the flow of information between these micro-agents.",
-        "Task 6: Develop a simple web UI (Streamlit/Gradio) to allow users to input queries/data and view the synthesized results."
-      ]
-    },
-    {
-      "title": "Local System & App Resource Manager with AI Insights",
-      "difficulty": "Hard",
-      "estimated_hours": 50,
-      "description": "Drawing inspiration from the popularity of desktop optimization tools and the potential for AI in local productivity, this project is a desktop application that monitors resource usage (CPU, RAM, GPU, disk I/O) of specific applications (e.g., creative suites like DxO PhotoLab, Cubase, or development IDEs). It uses a local ML model (or rule-based system initially) to identify resource bottlenecks and suggest actionable optimization steps directly to the user. This could include recommending process prioritization, temporary file cleanup (like 'windows-optimizer-desktop'), or even suggesting alternative settings within monitored applications to improve performance, all while emphasizing local processing for privacy and speed.",
-      "tech_stack": [
-        "Python (with psutil for system monitoring)",
-        "Electron/PyQt/Tkinter (for desktop UI)",
-        "SQLite (for logging/history)",
-        "Scikit-learn (for simple local ML models if advanced insights are pursued)",
-        "Platform-specific APIs (Windows/macOS) for process control"
-      ],
-      "source_inspiration": "windows-optimizer-desktop, dxo-photolab-10-desktop, cubase-studio-desktop, kontakt-8-desktop",
-      "steps": [
-        "Task 1: Develop a background service/daemon in Python using `psutil` to continuously monitor system resources (CPU, RAM, Disk I/O) per application.",
-        "Task 2: Design and implement a user interface (using Electron or PyQt/Tkinter) to display real-time resource usage and a history of resource-intensive events.",
-        "Task 3: Implement a rule-based system or a simple local ML model to detect common performance bottlenecks (e.g., high CPU usage by a specific app for extended periods, excessive disk writes).",
-        "Task 4: Develop a module to generate actionable optimization suggestions, such as identifying large temporary files, suggesting background process termination, or prompting the user to adjust settings in specific applications (e.g., 'DxO PhotoLab is consuming high RAM, consider lowering export quality temporarily').",
-        "Task 5: Integrate basic system-level automation features, like one-click temporary file cleanup or process prioritization adjustments (with user permission).",
-        "Task 6: Ensure the application is cross-platform compatible for Windows and macOS (or focus on one initially) and bundle it as a standalone executable."
-      ]
-    },
-    {
-      "title": "AI-Powered Developer Skill Path Generator",
-      "difficulty": "Medium",
-      "estimated_hours": 25,
-      "description": "Addressing the developer concern about staying ahead in AI, this project is a web-based tool that takes a developer's current skill set and career goals (e.g., 'become a machine learning engineer', 'master MLOps') and generates a personalized learning roadmap. It will leverage LLMs to analyze trending GitHub repos (like 'bayesian-modelling-notes', 'ml4sci'), popular articles ('AI is getting better. Here is my plan to stay ahead.'), and industry job descriptions to recommend specific courses, projects, books, or open-source contributions. The roadmap would include links to relevant resources and suggest small, actionable coding challenges to reinforce learning.",
+      "estimated_hours": 24,
+      "description": "Develop an interactive web-based sandbox that allows users to upload an image and pose questions to a Vision-Language Model (VLM). The platform will not only provide answers but also visually demonstrate the VLM's 'reasoning process.' This involves highlighting specific regions of interest on the image as the model processes the question and visualizing the sequential 'plan' or thought steps the VLM takes to derive its answer. This project directly addresses the need for explainable AI by making complex VLM decisions transparent, helping developers and researchers understand model behavior and biases.",
       "tech_stack": [
         "Python (Flask/FastAPI)",
-        "LLM API (e.g., OpenAI, Cohere)",
-        "React/Vue/Svelte (for frontend UI)",
-        "Scrapy/BeautifulSoup (for web scraping if augmenting data sources)",
-        "PostgreSQL/MongoDB (for user profiles and roadmap storage)"
+        "Hugging Face Transformers (for VLM)",
+        "PyTorch/TensorFlow (for model loading)",
+        "OpenCV/Pillow (for image processing)",
+        "JavaScript (React/Vue.js)",
+        "HTML/CSS"
       ],
-      "source_inspiration": "AI is getting better. Here is my plan to stay ahead., How do you truly stand out in Tech?, ml4sci, bayesian-modelling-notes",
+      "source_inspiration": "How VLMs Plan What's Next (arXiv), ViRA: Toward Ultra-High-Resolution Visual Agents (arXiv), animated-machine-learning-algorithm (GitHub)",
       "steps": [
-        "Task 1: Design a user input form for capturing developer's current skills, experience level, and desired career path/learning goals.",
-        "Task 2: Implement a backend API (Flask/FastAPI) that interfaces with an LLM.",
-        "Task 3: Prompt the LLM with the user's input, instructing it to generate a structured learning roadmap with specific topics, resources, and mini-project ideas.",
-        "Task 4: Enhance LLM output by programmatically searching or embedding data from relevant trending GitHub repos and articles as concrete examples or resources.",
-        "Task 5: Develop a responsive frontend (React/Vue) to display the personalized roadmap, allowing users to track progress and save their paths.",
-        "Task 6: Implement a feature to periodically suggest new resources or adjust the roadmap based on newly trending tech data or the user's indicated progress."
+        "Set up a basic Flask or FastAPI backend to handle image uploads and VLM inference.",
+        "Integrate a pre-trained Vision-Language Model (e.g., LLaVA, BLIP-2) using Hugging Face Transformers.",
+        "Implement methods to extract or visualize VLM attention maps or intermediate activations that correspond to specific image regions or reasoning steps.",
+        "Develop a frontend application (React/Vue.js) to provide an intuitive user interface for image upload, question input, and interactive display of the VLM's answer and its visual/sequential explanation.",
+        "Enable users to experiment with various images and prompts to observe diverse VLM planning and decision-making processes.",
+        "Refine the visualization techniques to clearly illustrate the model's focus and reasoning path over time."
+      ]
+    },
+    {
+      "title": "Focused AI Micro-Agent for Developer Content Syndication",
+      "difficulty": "Medium",
+      "estimated_hours": 20,
+      "description": "Create a lightweight, specialized AI agent designed to automate the syndication of developer-focused content (e.g., blog posts, tutorials) across multiple online platforms (e.g., Dev.to, Medium, personal blog, social media). This micro-agent will parse content (primarily Markdown), perform platform-specific formatting adjustments, leverage an LLM to generate relevant tags/categories and optimized titles, and schedule publication. The emphasis is on a highly focused, efficient solution that avoids the 'context-window-draining' and overhead issues associated with overly generalized AI agents, ensuring practicality and cost-effectiveness for developers.",
+      "tech_stack": [
+        "Python (FastAPI/Flask)",
+        "Markdown parsing library (e.g., markdown-it-py)",
+        "OpenAI API (for LLM interactions)",
+        "Platform-specific APIs (Dev.to API, Medium API)",
+        "Scheduling library (e.g., APScheduler)"
+      ],
+      "source_inspiration": "mdldm-maitian (GitHub), Your MCP Servers Are Silently Draining Your Context Window (Dev.to), AI is getting better. Here is my plan to stay ahead. (Dev.to)",
+      "steps": [
+        "Design a core Python service that accepts a Markdown file, target platforms, and optional publication schedule.",
+        "Implement robust Markdown parsing and conversion logic to adapt content for different platform requirements (e.g., code block styling, image embedding).",
+        "Integrate with an LLM (e.g., GPT-3.5 via OpenAI API) to intelligently suggest relevant tags, categories, and potentially optimized titles/introductions based on the article's content.",
+        "Develop API clients for at least two target developer platforms (e.g., Dev.to, Medium) to handle automated content posting.",
+        "Add a scheduling feature to allow users to pre-plan content publication across various dates and times.",
+        "Create a simple command-line interface (CLI) or a lightweight local web UI for submitting articles, monitoring publication status, and managing scheduled posts."
+      ]
+    },
+    {
+      "title": "ML-Driven Proactive Desktop System Health Advisor",
+      "difficulty": "Hard",
+      "estimated_hours": 28,
+      "description": "Develop a desktop application that acts as a proactive system health advisor for Windows users. This tool will continuously monitor various system metrics (CPU, RAM, disk I/O, network activity, temporary file growth, startup process impact) as time-series data. Leveraging a lightweight machine learning model (e.g., a 1D Convolutional Neural Network or an anomaly detection algorithm like Isolation Forest), the advisor will learn normal system behavior and identify significant deviations or predict potential performance bottlenecks. Upon detection of an anomaly or a degrading trend, it will proactively notify the user with actionable recommendations (e.g., 'Consider disabling X startup program,' 'Clean Y GB of temporary files'), going beyond basic optimization to provide intelligent, predictive insights.",
+      "tech_stack": [
+        "Python (psutil, scikit-learn/TensorFlow Lite)",
+        "ONNX Runtime (for optimized inference)",
+        "SQLite (for local data storage)",
+        "PyQt/Electron (for desktop UI)",
+        "Matplotlib/Seaborn (for data visualization in UI)"
+      ],
+      "source_inspiration": "windows-optimizer-desktop (GitHub), gdg-uam-ml-contest-2026 (GitHub), churn-boosting-showdown (GitHub)",
+      "steps": [
+        "Implement a background Python service using `psutil` to periodically collect and log various system metrics (CPU, RAM, disk, network, process details) to a local SQLite database.",
+        "Develop data preprocessing pipelines to transform raw system metrics into features suitable for time-series analysis (e.g., moving averages, standard deviations).",
+        "Train a lightweight anomaly detection model (e.g., Isolation Forest, or a simplified 1D CNN for time series) on historical system data to establish a baseline of 'normal' operation.",
+        "Integrate the trained ML model for real-time inference on incoming system data, potentially converting the model to ONNX format for optimized CPU performance.",
+        "Design and implement a user-friendly desktop application (using PyQt or Electron) to display current system health, visualize trends, highlight detected anomalies, and present actionable recommendations.",
+        "Implement a notification system (e.g., system tray alerts) to inform the user proactively about critical issues or recommended optimizations."
       ]
     }
   ],
   "quick_actions": [
-    "Action 1: For any new AI-driven feature or project, prioritize building it with highly focused, single-purpose AI micro-tools rather than a single, multi-functional agent. Critically evaluate whether added complexity truly brings proportionate value.",
-    "Action 2: Spend 30 minutes this week optimizing your local development environment. Review startup programs, clean temporary files, and check resource usage of your most frequently used tools to identify bottlenecks.",
-    "Action 3: Dedicate time to understanding advanced AI agent architectures, specifically focusing on how to manage context windows and tool efficiency. Read the 'MCP Servers' article and similar discussions to inform your future AI development choices.",
-    "Action 4: Pick a trending AI/ML concept (e.g., Bayesian inference from 'bayesian-modelling-notes') and allocate a few hours to replicating a basic example or tutorial. This hands-on application will deepen your understanding and keep your skills sharp."
+    "Allocate dedicated time this week (e.g., 30-60 minutes daily) to actively experiment with an AI coding assistant (e.g., GitHub Copilot, Cursor, Code Llama) on your daily development tasks, trying to offload mundane coding, debugging, or documentation, inspired by AI's growing capabilities.",
+    "Actively engage with an open-source project by either submitting a small bug fix, improving documentation, or providing constructive feedback on an issue. This aligns with the call for 'better open source' and fosters a collaborative mindset.",
+    "Conduct a 'tool audit' of your personal productivity stack. Identify one area where you might be using an overly complex or 'context-window-draining' solution (e.g., a bloated general-purpose tool for a simple task) and brainstorm how to replace it with a more focused, lightweight micro-tool or script.",
+    "Dedicate 15 minutes each day to 'AI horizon scanning.' Browse new arXiv papers in AI/ML, trending AI/ML GitHub repos, or leading AI news feeds to stay updated on emerging techniques, tools, and discussions, ensuring you remain proactive in a rapidly evolving field."
   ]
 }
