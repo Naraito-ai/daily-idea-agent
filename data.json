@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-17 15:06:32",
+  "last_updated": "2026-11-18 14:43:32",
   "scraped_sources": {
     "github": [
       {
         "name": "bayesian-modelling-notes",
         "owner": "Danuzco",
         "description": "Handwritten lecture notes and Jupyter notebooks for the Bayesian Modelling course of the Doctorado en Inteligencia Artificial (Chile): probability, conjugate models, Kalman filters, Gaussian processes, MCMC, variational inference, hierarchical models.",
-        "stars": 53,
+        "stars": 54,
         "url": "https://github.com/Danuzco/bayesian-modelling-notes",
         "category": "AI / ML"
       },
@@ -19,34 +19,34 @@
         "category": "AI / ML"
       },
       {
+        "name": "animated-machine-learning-algorithm",
+        "owner": "di37",
+        "description": "Watch scikit-learn models learn and predict: live training and inference animations, narrated lessons and Manim videos for California Housing (regression) and Titanic (classification)",
+        "stars": 19,
+        "url": "https://github.com/di37/animated-machine-learning-algorithm",
+        "category": "AI / ML"
+      },
+      {
         "name": "ZehenSync",
         "owner": "Hamzaviour",
         "description": "ZehenSync: a multimodal screening-support platform for mental health, built for patients, psychologists and psychology students. It screens and never diagnoses — a licensed psychologist makes every call.",
-        "stars": 13,
+        "stars": 15,
         "url": "https://github.com/Hamzaviour/ZehenSync",
         "category": "AI / ML"
       },
       {
-        "name": "gdg-uam-ml-contest-2026",
-        "owner": "DavidTorro",
-        "description": "1D CNN for 8-class multichannel time-series classification, optimized for CPU inference with ONNX Runtime and Numba.",
-        "stars": 7,
-        "url": "https://github.com/DavidTorro/gdg-uam-ml-contest-2026",
-        "category": "AI / ML"
-      },
-      {
-        "name": "animated-machine-learning-algorithm",
-        "owner": "di37",
-        "description": "Watch scikit-learn models learn and predict: live training and inference animations, narrated lessons and Manim videos for California Housing (regression) and Titanic (classification)",
-        "stars": 7,
-        "url": "https://github.com/di37/animated-machine-learning-algorithm",
+        "name": "agromaster-ml",
+        "owner": "kaluarachchiteshan",
+        "description": "Seven-day-ahead price-decline risk classification",
+        "stars": 5,
+        "url": "https://github.com/kaluarachchiteshan/agromaster-ml",
         "category": "AI / ML"
       },
       {
         "name": "mdldm-maitian",
         "owner": "CzzzzzzJ",
         "description": "麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏",
-        "stars": 851,
+        "stars": 1248,
         "url": "https://github.com/CzzzzzzJ/mdldm-maitian",
         "category": "Automation / Productivity"
       },
@@ -54,7 +54,7 @@
         "name": "dxo-photolab-10-desktop",
         "owner": "ben-miller-23",
         "description": "DxO PhotoLab 10 2026 desktop setup with DeepPRIME XD denoising for clean high-ISO shots, optical corrections from measured lens profiles, and non-destructive RAW workflow with local adjustments on Windows 11",
-        "stars": 362,
+        "stars": 415,
         "url": "https://github.com/ben-miller-23/dxo-photolab-10-desktop",
         "category": "Automation / Productivity"
       },
@@ -62,64 +62,74 @@
         "name": "cubase-studio-desktop",
         "owner": "ariamitchell54",
         "description": "Cubase Studio 2026 desktop setup with full plugin suite and complete feature set",
-        "stars": 362,
+        "stars": 415,
         "url": "https://github.com/ariamitchell54/cubase-studio-desktop",
-        "category": "Automation / Productivity"
-      },
-      {
-        "name": "windows-optimizer-desktop",
-        "owner": "azure-teal-slope",
-        "description": "Windows Optimizer 2026 desktop setup with temporary file cleaner, startup manager with measured boot impact, and one-click tweaks for services and scheduled tasks on Windows 11",
-        "stars": 360,
-        "url": "https://github.com/azure-teal-slope/windows-optimizer-desktop",
         "category": "Automation / Productivity"
       },
       {
         "name": "kontakt-8-desktop",
         "owner": "ben-cook-42",
         "description": "Kontakt 8 2026 desktop setup with industry-standard sampler for virtual instruments, thousands of libraries and the Kontakt Factory, plus a scripting engine to build your own instruments on Windows 11",
-        "stars": 360,
+        "stars": 413,
         "url": "https://github.com/ben-cook-42/kontakt-8-desktop",
+        "category": "Automation / Productivity"
+      },
+      {
+        "name": "wondershare-recoverit-desktop",
+        "owner": "azuresail195",
+        "description": "Wondershare Recoverit 2026 desktop setup for recovering deleted files from disks, SD cards and USB drives, repairing corrupted video and photo files, and crashed-system recovery with bootable media on Windows 11",
+        "stars": 413,
+        "url": "https://github.com/azuresail195/wondershare-recoverit-desktop",
         "category": "Automation / Productivity"
       }
     ],
     "hacker_news": [
       {
-        "title": "We don't need more apps. We need better open source",
-        "url": "https://jordankrueger.com/blog/better-open-source-not-more-apps/",
-        "score": 10
+        "title": "Can Peer Review Survive AI-Generated Text? [pdf]",
+        "url": "https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf",
+        "score": 30
       },
       {
-        "title": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
-        "url": "https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns",
-        "score": 32
+        "title": "When AI Knows More Than It Can Offer",
+        "url": "https://medium.com/@smoking2man/when-ai-knows-more-than-it-can-offer-how-training-turns-an-intelligent-assistant-into-a-generator-7e700f05163e",
+        "score": 28
+      },
+      {
+        "title": "Google's AI answers reducing search traffic by 40%",
+        "url": "https://revscope.co/blog/search-seo-geo-2026/",
+        "score": 573
+      },
+      {
+        "title": "IPv6 delegation, an unusually subtle failure mode",
+        "url": "https://savyasacheejha.com/posts/why-odhcpd/",
+        "score": 34
       }
     ],
     "arxiv": [
       {
-        "title": "Latent Lattice Language Models",
-        "summary": "Language models typically increase per-token computation through deeper or looped layers and latent reasoning steps, while richer residual connections improve information flow across layers. We instea...",
-        "url": "http://arxiv.org/abs/2611.21608v1"
+        "title": "Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching",
+        "summary": "Collecting large-scale, diverse, and high-quality post-training datasets for autoregressive language models is challenging. Consequently, Supervised Fine-Tuning (SFT) is typically applied to datasets ...",
+        "url": "http://arxiv.org/abs/2611.23229v1"
       },
       {
-        "title": "ViRA: Toward Ultra-High-Resolution Visual Agents via Cross-Input Relative Policy Optimization",
-        "summary": "Visual agents answer questions about ultra-high-resolution photos by zooming into the relevant regions. However, existing agents often answer from common sense instead of reading the evidence. Reinfor...",
-        "url": "http://arxiv.org/abs/2611.21605v1"
+        "title": "Spool: Low-Latency Streaming Inference for Hybrid Vision-Language Models",
+        "summary": "Applications such as visual accessibility agents and robotics require answering questions about recent video content promptly, over a bounded window of past frames (e.g., the last two minutes). Hybrid...",
+        "url": "http://arxiv.org/abs/2611.23228v1"
       },
       {
-        "title": "Quantifying the added value of human forecaster discussions for tropical cyclone intensity prediction",
-        "summary": "The National Hurricane Center routinely releases Tropical Cyclone Discussions that offer insights into its tropical cyclone forecasts. This study examines the added value of these discussions for inte...",
-        "url": "http://arxiv.org/abs/2611.21602v1"
+        "title": "StringQFT: A Multiuse Textbook Resource for AI-Assisted Theoretical Physics",
+        "summary": "We present StringQFT as a textbook collection for string constructions of quantum field theory and as infrastructure for AI-assisted theoretical physics. The collection comprises 18 volumes, 190 chapt...",
+        "url": "http://arxiv.org/abs/2611.23225v1"
       },
       {
-        "title": "How VLMs Plan What's Next",
-        "summary": "When a vision-language model describes an image, it names one object at a time and it rarely repeats itself, yet how the model plans this order is far from obvious. We characterize the mechanism a VLM...",
-        "url": "http://arxiv.org/abs/2611.21600v1"
+        "title": "An inexact stochastic variance-reduced gradient method for constrained convex finite-sum optimization",
+        "summary": "In this paper, we study a class of constrained convex finite-sum optimization problems. In many practical applications, all or some of the constraints are hard constraints that represent imperative re...",
+        "url": "http://arxiv.org/abs/2611.23221v1"
       },
       {
-        "title": "Hyperlyve: Parallelized Enumeration and Exact Lyapunov Stability Certification for Deep ReLU Networks",
-        "summary": "We introduce Hyperlyve (Hyperplane Partitioned Lyapunov Verification and Enumeration), a framework for proving the asymptotic stability of nonlinear dynamical systems, including those with neural netw...",
-        "url": "http://arxiv.org/abs/2611.21599v1"
+        "title": "Do LLM Agents Still Need to Be Told How to Self-Improve?",
+        "summary": "LLM agents increasingly drive their own learning. Self-improvement methods delegate various components of model optimization to the models themselves. As models become more capable, this motivates a b...",
+        "url": "http://arxiv.org/abs/2611.23219v1"
       }
     ],
     "devto": [
@@ -127,108 +137,107 @@
         "title": "AI is getting better. Here is my plan to stay ahead.",
         "description": "AI is getting better every day.  As a software engineer, this is a topic that is often top of mind,...",
         "url": "https://dev.to/javz/ai-is-getting-better-here-is-my-plan-to-stay-ahead-2822",
-        "reactions": 50
+        "reactions": 57
+      },
+      {
+        "title": "Is Coding with AI Actually Faster and Cheaper?",
+        "description": "How has AI actually changed the way we work? Are coding agents really making us remarkably faster?...",
+        "url": "https://dev.to/sylwia-lask/is-coding-with-ai-actually-faster-and-cheaper-2810",
+        "reactions": 78
       },
       {
         "title": "AI Avatar v28 (Security Support, Voxel Avatar)🛡️",
         "description": "Intro   AI Avatar is a free app where your VRoid (VRM) avatar cheers you with all its...",
         "url": "https://dev.to/webdeveloperhyper/ai-avatar-v28-security-support-voxel-avatar-2i5i",
-        "reactions": 51
+        "reactions": 60
       },
       {
         "title": "Your MCP Servers Are Silently Draining Your Context Window: The Hidden Cost of Tool-Heavy AI Agents",
         "description": "Why attaching dozens of Model Context Protocol (MCP) tools degrades LLM reasoning, inflates API bills, and how small, focused TypeScript micro-tools fix the problem.",
         "url": "https://dev.to/necoz/your-mcp-servers-are-silently-draining-your-context-window-the-hidden-cost-of-tool-heavy-ai-agents-fkl",
-        "reactions": 57
+        "reactions": 59
       },
       {
         "title": "What are your goals for the week? #205",
         "description": "I have an eye doctor appointment Tuesday. If my eyes are dilated, I can't use the the computer for...",
         "url": "https://dev.to/jarvisscript/what-are-your-goals-for-the-week-205-22pg",
-        "reactions": 18
-      },
-      {
-        "title": "Kent C. Dodds Hasn't Looked at His Code All Year",
-        "description": "At the start of this year, Kent C. Dodds gave a coding agent a link to a GitHub issue he had been...",
-        "url": "https://dev.to/dailycontext/kent-c-dodds-hasnt-looked-at-his-code-all-year-gd5",
-        "reactions": 8
+        "reactions": 26
       }
     ]
   },
-  "trends": "The current technological landscape is characterized by significant advancements and practical applications in AI/ML, coupled with a strong emphasis on automation and productivity. Key AI/ML themes include the move towards interpretable and explainable models (e.g., animated learning, understanding VLM planning), specialized applications (mental health screening, churn prediction, time-series classification), and foundational research in areas like latent language models and neural network stability. Performance optimization, particularly for CPU inference, is also a notable sub-trend. In automation and productivity, the focus is on streamlined multi-platform content management, highly specialized desktop software (e.g., photo editing, audio production, system optimization), and the increasing integration of AI agents into workflows. However, there's a growing awareness of the potential pitfalls of AI hype, diminishing returns, and the performance overhead of 'tool-heavy' AI agents, leading to a call for more efficient, focused solutions and better open-source alternatives.",
+  "trends": "Today's tech landscape is dominated by the rapid evolution and practical application of AI, with a strong focus on efficiency, explainability, and integration into existing workflows. Key themes include the drive for more data-efficient and low-latency AI models (especially for multimodal and streaming inference), addressing the practical challenges of AI agent performance (e.g., context window management and cost), and the increasing use of AI for specialized tasks from mental health screening to agricultural risk prediction. Concurrently, there's a significant demand for automation tools that streamline complex professional workflows and content publishing across multiple platforms. Developers are actively evaluating how AI impacts their productivity, seeking strategies to stay ahead, and exploring critical questions around AI-generated content, its ethical implications (e.g., peer review), and its commercial impact (e.g., search traffic reduction). The emphasis is on building smarter, leaner, and more integrated AI solutions, while also making complex AI concepts more accessible through educational tools.",
   "ideas": [
     {
-      "title": "Multimodal Agent Interpretability Sandbox",
+      "title": "Context-Aware Micro-Agent Orchestration Framework",
       "difficulty": "Medium",
-      "estimated_hours": 24,
-      "description": "Develop an interactive web-based sandbox that allows users to upload an image and pose questions to a Vision-Language Model (VLM). The platform will not only provide answers but also visually demonstrate the VLM's 'reasoning process.' This involves highlighting specific regions of interest on the image as the model processes the question and visualizing the sequential 'plan' or thought steps the VLM takes to derive its answer. This project directly addresses the need for explainable AI by making complex VLM decisions transparent, helping developers and researchers understand model behavior and biases.",
-      "tech_stack": [
-        "Python (Flask/FastAPI)",
-        "Hugging Face Transformers (for VLM)",
-        "PyTorch/TensorFlow (for model loading)",
-        "OpenCV/Pillow (for image processing)",
-        "JavaScript (React/Vue.js)",
-        "HTML/CSS"
-      ],
-      "source_inspiration": "How VLMs Plan What's Next (arXiv), ViRA: Toward Ultra-High-Resolution Visual Agents (arXiv), animated-machine-learning-algorithm (GitHub)",
-      "steps": [
-        "Set up a basic Flask or FastAPI backend to handle image uploads and VLM inference.",
-        "Integrate a pre-trained Vision-Language Model (e.g., LLaVA, BLIP-2) using Hugging Face Transformers.",
-        "Implement methods to extract or visualize VLM attention maps or intermediate activations that correspond to specific image regions or reasoning steps.",
-        "Develop a frontend application (React/Vue.js) to provide an intuitive user interface for image upload, question input, and interactive display of the VLM's answer and its visual/sequential explanation.",
-        "Enable users to experiment with various images and prompts to observe diverse VLM planning and decision-making processes.",
-        "Refine the visualization techniques to clearly illustrate the model's focus and reasoning path over time."
-      ]
-    },
-    {
-      "title": "Focused AI Micro-Agent for Developer Content Syndication",
-      "difficulty": "Medium",
-      "estimated_hours": 20,
-      "description": "Create a lightweight, specialized AI agent designed to automate the syndication of developer-focused content (e.g., blog posts, tutorials) across multiple online platforms (e.g., Dev.to, Medium, personal blog, social media). This micro-agent will parse content (primarily Markdown), perform platform-specific formatting adjustments, leverage an LLM to generate relevant tags/categories and optimized titles, and schedule publication. The emphasis is on a highly focused, efficient solution that avoids the 'context-window-draining' and overhead issues associated with overly generalized AI agents, ensuring practicality and cost-effectiveness for developers.",
+      "estimated_hours": 30,
+      "description": "Inspired by the challenges of 'tool-heavy AI agents' and the need for efficient LLM usage, this project aims to build a framework that intelligently orchestrates specialized, small AI agents (micro-tools). Instead of giving a single large LLM access to dozens of tools, this system would preprocess user requests to identify the most relevant 1-3 micro-agents or direct API calls required, minimizing context window usage, API costs, and latency. It could include a dynamic prompt optimization layer and a registry for various 'micro-skills' (e.g., a simple calculator, a specific data lookup, a focused summarizer). This addresses the developer's pain point of inefficient AI agent interactions.",
       "tech_stack": [
         "Python (FastAPI/Flask)",
-        "Markdown parsing library (e.g., markdown-it-py)",
-        "OpenAI API (for LLM interactions)",
-        "Platform-specific APIs (Dev.to API, Medium API)",
-        "Scheduling library (e.g., APScheduler)"
+        "LLM APIs (OpenAI/Anthropic)",
+        "Vector Database (e.g., Pinecone, ChromaDB for tool descriptions)",
+        "LangChain/LlamaIndex (for agent concepts, but custom orchestration logic will be key)",
+        "Docker (for containerizing micro-agents)"
       ],
-      "source_inspiration": "mdldm-maitian (GitHub), Your MCP Servers Are Silently Draining Your Context Window (Dev.to), AI is getting better. Here is my plan to stay ahead. (Dev.to)",
+      "source_inspiration": "Dev.to: 'Your MCP Servers Are Silently Draining Your Context Window: The Hidden Cost of Tool-Heavy AI Agents'; arXiv: 'Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching'; arXiv: 'Do LLM Agents Still Need to Be Told How to Self-Improve?'",
       "steps": [
-        "Design a core Python service that accepts a Markdown file, target platforms, and optional publication schedule.",
-        "Implement robust Markdown parsing and conversion logic to adapt content for different platform requirements (e.g., code block styling, image embedding).",
-        "Integrate with an LLM (e.g., GPT-3.5 via OpenAI API) to intelligently suggest relevant tags, categories, and potentially optimized titles/introductions based on the article's content.",
-        "Develop API clients for at least two target developer platforms (e.g., Dev.to, Medium) to handle automated content posting.",
-        "Add a scheduling feature to allow users to pre-plan content publication across various dates and times.",
-        "Create a simple command-line interface (CLI) or a lightweight local web UI for submitting articles, monitoring publication status, and managing scheduled posts."
+        "Task 1: Design and implement a 'Micro-Agent Registry' that stores descriptions, input schemas, and execution logic for small, single-purpose AI tools.",
+        "Task 2: Develop a 'Request Router' module that uses an LLM (or a simpler classifier) to analyze incoming user queries and select the optimal micro-agents or direct API calls from the registry.",
+        "Task 3: Implement a 'Context Optimizer' that dynamically constructs prompts for the selected micro-agents, ensuring minimal tokens are used while maintaining task clarity.",
+        "Task 4: Build a simple API gateway and user interface (e.g., a chat interface) to demonstrate the framework's ability to handle complex queries by orchestrating multiple small agents efficiently.",
+        "Task 5: Add basic logging and cost tracking to visualize the efficiency improvements over a 'monolithic' agent approach."
       ]
     },
     {
-      "title": "ML-Driven Proactive Desktop System Health Advisor",
+      "title": "AI-Powered Multimodal Content Adaptation & Distribution Hub",
       "difficulty": "Hard",
-      "estimated_hours": 28,
-      "description": "Develop a desktop application that acts as a proactive system health advisor for Windows users. This tool will continuously monitor various system metrics (CPU, RAM, disk I/O, network activity, temporary file growth, startup process impact) as time-series data. Leveraging a lightweight machine learning model (e.g., a 1D Convolutional Neural Network or an anomaly detection algorithm like Isolation Forest), the advisor will learn normal system behavior and identify significant deviations or predict potential performance bottlenecks. Upon detection of an anomaly or a degrading trend, it will proactively notify the user with actionable recommendations (e.g., 'Consider disabling X startup program,' 'Clean Y GB of temporary files'), going beyond basic optimization to provide intelligent, predictive insights.",
+      "estimated_hours": 60,
+      "description": "Leveraging the trend of multi-platform content publishing ('mdldm-maitian') and the emergence of hybrid vision-language models ('Spool'), this project creates a central hub for content creators. Users can upload a primary piece of content (e.g., a video, a long blog post). The system, powered by AI, automatically adapts and generates variations suitable for different platforms (e.g., short text summaries for X, LinkedIn posts, video descriptions for YouTube, image captions). It would then facilitate scheduled distribution across these platforms and provide a unified dashboard for tracking engagement metrics. This addresses the significant time sink for creators in manually reformatting and posting content.",
       "tech_stack": [
-        "Python (psutil, scikit-learn/TensorFlow Lite)",
-        "ONNX Runtime (for optimized inference)",
-        "SQLite (for local data storage)",
-        "PyQt/Electron (for desktop UI)",
-        "Matplotlib/Seaborn (for data visualization in UI)"
+        "Frontend (React/Vue.js)",
+        "Backend (Node.js/Python FastAPI)",
+        "Database (PostgreSQL/MongoDB)",
+        "LLM APIs (for text summarization, tone adaptation)",
+        "Vision-Language Model APIs (e.g., GPT-4V, LLaVA for video/image analysis)",
+        "Social Media APIs (X API, LinkedIn API, YouTube Data API, etc.)",
+        "Cloud Storage (AWS S3, Google Cloud Storage)"
       ],
-      "source_inspiration": "windows-optimizer-desktop (GitHub), gdg-uam-ml-contest-2026 (GitHub), churn-boosting-showdown (GitHub)",
+      "source_inspiration": "GitHub: 'mdldm-maitian' (multi-platform publishing); arXiv: 'Spool: Low-Latency Streaming Inference for Hybrid Vision-Language Models'; Dev.to: 'AI is getting better. Here is my plan to stay ahead.'",
       "steps": [
-        "Implement a background Python service using `psutil` to periodically collect and log various system metrics (CPU, RAM, disk, network, process details) to a local SQLite database.",
-        "Develop data preprocessing pipelines to transform raw system metrics into features suitable for time-series analysis (e.g., moving averages, standard deviations).",
-        "Train a lightweight anomaly detection model (e.g., Isolation Forest, or a simplified 1D CNN for time series) on historical system data to establish a baseline of 'normal' operation.",
-        "Integrate the trained ML model for real-time inference on incoming system data, potentially converting the model to ONNX format for optimized CPU performance.",
-        "Design and implement a user-friendly desktop application (using PyQt or Electron) to display current system health, visualize trends, highlight detected anomalies, and present actionable recommendations.",
-        "Implement a notification system (e.g., system tray alerts) to inform the user proactively about critical issues or recommended optimizations."
+        "Task 1: Develop a web interface for users to upload various content types (text, video links, images) and connect their social media accounts.",
+        "Task 2: Integrate LLM APIs to generate platform-specific content variants (e.g., tweet, LinkedIn post, YouTube description) from a main input.",
+        "Task 3: Integrate Vision-Language Model capabilities to extract key themes or generate captions/summaries from uploaded video/image content.",
+        "Task 4: Implement a scheduling and publishing module that uses social media APIs to post adapted content at user-defined times.",
+        "Task 5: Build a dashboard to display engagement metrics (likes, comments, shares) aggregated from connected platforms for each piece of content.",
+        "Task 6: Add a feedback loop where AI can suggest improvements for future content based on past performance metrics."
+      ]
+    },
+    {
+      "title": "Interactive Bayesian Modeling Learning Environment",
+      "difficulty": "Medium",
+      "estimated_hours": 25,
+      "description": "Inspired by the educational focus of 'bayesian-modelling-notes' and 'animated-machine-learning-algorithm,' this project aims to build an interactive web application that demystifies Bayesian concepts. It will allow users to define simple probabilistic models (e.g., coin flip, linear regression), adjust priors, observe likelihoods, and visualize how the posterior distribution changes in real-time as new data points are introduced. Key features would include animated MCMC sampling, interactive parameter tuning, and clear visual explanations of core Bayesian principles. This project directly contributes to making complex ML/AI topics more accessible and intuitive.",
+      "tech_stack": [
+        "Frontend (React/Vue.js with D3.js or Plotly.js for visualizations)",
+        "Backend (Python Flask/FastAPI)",
+        "Bayesian Modeling Libraries (PyMC3, Stan, or custom NumPy/SciPy implementations for simpler models)",
+        "WebSockets (for real-time updates from the backend)"
+      ],
+      "source_inspiration": "GitHub: 'bayesian-modelling-notes'; GitHub: 'animated-machine-learning-algorithm'; arXiv: 'StringQFT: A Multiuse Textbook Resource for AI-Assisted Theoretical Physics' (general idea of AI-assisted learning resources).",
+      "steps": [
+        "Task 1: Set up a frontend application capable of rendering interactive charts and user input forms.",
+        "Task 2: Develop a backend API that can run simple Bayesian inference (e.g., for binomial distribution, simple linear regression) using libraries like PyMC3 or custom implementations.",
+        "Task 3: Implement an interactive interface for users to define model parameters (e.g., prior distributions, number of data points) and observe real-time updates.",
+        "Task 4: Create visualizations for prior, likelihood, and posterior distributions, updating dynamically as users add data or change parameters.",
+        "Task 5: Add an animation feature to visually demonstrate Markov Chain Monte Carlo (MCMC) sampling, showing how samples converge to the posterior distribution.",
+        "Task 6: Incorporate clear, concise textual explanations alongside the visualizations for each concept being demonstrated."
       ]
     }
   ],
   "quick_actions": [
-    "Allocate dedicated time this week (e.g., 30-60 minutes daily) to actively experiment with an AI coding assistant (e.g., GitHub Copilot, Cursor, Code Llama) on your daily development tasks, trying to offload mundane coding, debugging, or documentation, inspired by AI's growing capabilities.",
-    "Actively engage with an open-source project by either submitting a small bug fix, improving documentation, or providing constructive feedback on an issue. This aligns with the call for 'better open source' and fosters a collaborative mindset.",
-    "Conduct a 'tool audit' of your personal productivity stack. Identify one area where you might be using an overly complex or 'context-window-draining' solution (e.g., a bloated general-purpose tool for a simple task) and brainstorm how to replace it with a more focused, lightweight micro-tool or script.",
-    "Dedicate 15 minutes each day to 'AI horizon scanning.' Browse new arXiv papers in AI/ML, trending AI/ML GitHub repos, or leading AI news feeds to stay updated on emerging techniques, tools, and discussions, ensuring you remain proactive in a rapidly evolving field."
+    "Action 1: Dedicate 1-2 hours this week to experimenting with various LLM prompt engineering techniques, specifically focusing on how to guide models towards concise, tool-specific responses, inspired by 'Your MCP Servers Are Silently Draining Your Context Window'.",
+    "Action 2: Research and implement one new automation script in your personal development workflow this week, aiming to reduce a repetitive task (e.g., build process, deployment step, data fetching), drawing inspiration from the general trend of 'Automation / Productivity' repos.",
+    "Action 3: Spend 30 minutes reading the abstracts and conclusions of the latest arXiv papers on 'Ambient LLMs' and 'Spool' to understand the cutting-edge approaches to data efficiency and low-latency inference in LLMs and VLMs.",
+    "Action 4: Reflect on how AI tools are currently affecting your coding speed and quality. Set a personal goal to critically evaluate one AI coding assistant (e.g., GitHub Copilot, Cursor) for a specific project and document its impact, inspired by 'Is Coding with AI Actually Faster and Cheaper?'"
   ]
 }
