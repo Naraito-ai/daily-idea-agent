@@ -1,13 +1,37 @@
 {
-  "last_updated": "2026-11-19 14:50:47",
+  "last_updated": "2026-11-20 14:31:47",
   "scraped_sources": {
     "github": [
+      {
+        "name": "vectorbt-avoria-analysis",
+        "owner": "hasan6969macho-bit",
+        "description": "Vectorbt research code for Avoria analysis, built for reproducible strategy experiments.",
+        "stars": 120,
+        "url": "https://github.com/hasan6969macho-bit/vectorbt-avoria-analysis",
+        "category": "AI / ML"
+      },
+      {
+        "name": "openbb-calvona-market-research",
+        "owner": "pgmergulhao75-dot",
+        "description": "Openbb Calvona Market Research delivers structured market data analysis and research workflows.",
+        "stars": 93,
+        "url": "https://github.com/pgmergulhao75-dot/openbb-calvona-market-research",
+        "category": "AI / ML"
+      },
       {
         "name": "bayesian-modelling-notes",
         "owner": "Danuzco",
         "description": "Handwritten lecture notes and Jupyter notebooks for the Bayesian Modelling course of the Doctorado en Inteligencia Artificial (Chile): probability, conjugate models, Kalman filters, Gaussian processes, MCMC, variational inference, hierarchical models.",
         "stars": 54,
         "url": "https://github.com/Danuzco/bayesian-modelling-notes",
+        "category": "AI / ML"
+      },
+      {
+        "name": "kaggle-dress-rehearsal",
+        "owner": "hexsyro",
+        "description": "Validation discipline for Kaggle: stratified CV, Grid vs Random vs Optuna, and a public/private leaderboard simulation.",
+        "stars": 46,
+        "url": "https://github.com/hexsyro/kaggle-dress-rehearsal",
         "category": "AI / ML"
       },
       {
@@ -19,102 +43,98 @@
         "category": "AI / ML"
       },
       {
-        "name": "animated-machine-learning-algorithm",
-        "owner": "di37",
-        "description": "Watch scikit-learn models learn and predict: live training and inference animations, narrated lessons and Manim videos for California Housing (regression) and Titanic (classification)",
-        "stars": 20,
-        "url": "https://github.com/di37/animated-machine-learning-algorithm",
-        "category": "AI / ML"
-      },
-      {
-        "name": "solarcast-belgium",
-        "owner": "Junaid-Bashir",
-        "description": "Python toolkit for benchmarking energy forecasting models, starting with Belgian day-ahead solar PV.",
-        "stars": 5,
-        "url": "https://github.com/Junaid-Bashir/solarcast-belgium",
-        "category": "AI / ML"
-      },
-      {
-        "name": "agromaster-ml",
-        "owner": "kaluarachchiteshan",
-        "description": "Seven-day-ahead price-decline risk classification",
-        "stars": 5,
-        "url": "https://github.com/kaluarachchiteshan/agromaster-ml",
-        "category": "AI / ML"
-      },
-      {
         "name": "mdldm-maitian",
         "owner": "CzzzzzzJ",
         "description": "麦田：自媒体多平台发布中控与数据监控（B站/抖音/小红书/视频号/YouTube/X），飞书卡片通知 + 数据大屏",
-        "stars": 1553,
+        "stars": 1692,
         "url": "https://github.com/CzzzzzzJ/mdldm-maitian",
-        "category": "Automation / Productivity"
-      },
-      {
-        "name": "xianyu-auto-listing",
-        "owner": "achun1107",
-        "description": "闲鱼自动化上架工具：输一句「城市 明星」自动出图、算标题/分类/规格并发布到闲鱼店铺（Xianyu / Goofish auto listing for proxy-bidding & ticketing）",
-        "stars": 355,
-        "url": "https://github.com/achun1107/xianyu-auto-listing",
         "category": "Automation / Productivity"
       },
       {
         "name": "RegisterHub",
         "owner": "waw666waw666",
         "description": "万能注册机模板 | Universal Auto-Registration Template",
-        "stars": 313,
+        "stars": 329,
         "url": "https://github.com/waw666waw666/RegisterHub",
         "category": "Automation / Productivity"
       },
       {
-        "name": "dxo-photolab-10-desktop",
-        "owner": "ben-miller-23",
-        "description": "DxO PhotoLab 10 2026 desktop setup with DeepPRIME XD denoising for clean high-ISO shots, optical corrections from measured lens profiles, and non-destructive RAW workflow with local adjustments on Windows 11",
-        "stars": 307,
-        "url": "https://github.com/ben-miller-23/dxo-photolab-10-desktop",
+        "name": "adobe-acrobat-pdf-desktop",
+        "owner": "briskember13",
+        "description": "Adobe Acrobat PDF 2026 desktop setup with text and image editing directly inside any PDF, conversion to and from Word, Excel and images, plus fill, sign and merge documents with an AI assistant for Windows 11",
+        "stars": 304,
+        "url": "https://github.com/briskember13/adobe-acrobat-pdf-desktop",
         "category": "Automation / Productivity"
       },
       {
-        "name": "cubase-studio-desktop",
-        "owner": "ariamitchell54",
-        "description": "Cubase Studio 2026 desktop setup with full plugin suite and complete feature set",
-        "stars": 307,
-        "url": "https://github.com/ariamitchell54/cubase-studio-desktop",
+        "name": "microsoft-office-pro-desktop",
+        "owner": "angela-frost",
+        "description": "Microsoft Office Pro 2026 desktop setup with document authoring, spreadsheet engine and presentation assembly bundled into one offline x64 package for Windows 11.",
+        "stars": 210,
+        "url": "https://github.com/angela-frost/microsoft-office-pro-desktop",
+        "category": "Automation / Productivity"
+      },
+      {
+        "name": "microsoft-office-desktop",
+        "owner": "cam-gardner",
+        "description": "Microsoft Office 2026 desktop setup with document authoring, spreadsheet engine, presentation module and bundled multilingual interface for Windows 11",
+        "stars": 210,
+        "url": "https://github.com/cam-gardner/microsoft-office-desktop",
         "category": "Automation / Productivity"
       }
     ],
     "hacker_news": [
       {
-        "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
-        "url": "https://verialabs.com/ruby2shell/",
-        "score": 259
+        "title": "If you can't explain something in simple terms, you don't understand it (2017)",
+        "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
+        "score": 224
+      },
+      {
+        "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+        "url": "https://architectlabs.com/blog/frostbite",
+        "score": 322
+      },
+      {
+        "title": "Show HN: I made an audio-to-MIDI model 60x more efficient",
+        "url": "https://kobi.music/research/dettato",
+        "score": 35
+      },
+      {
+        "title": "Llms.txt and MCP didn't move the needle",
+        "url": "https://backpackforlaravel.com/articles/opinions/llms-txt-and-mcp-didn-t-move-the-needle-for-us-here-s-what-did",
+        "score": 9
+      },
+      {
+        "title": "What people are building, discovered through new domains",
+        "url": "https://startups.novumsignals.com/",
+        "score": 84
       }
     ],
     "arxiv": [
       {
-        "title": "Jailbreak Detection on Large Language Models via Contrastive Prototype Structures",
-        "summary": "Jailbreak attempts and harmful prompts remain a challenge for the safe deployment of large language models. We study whether contrastively learned representations can support safety detection without ...",
-        "url": "http://arxiv.org/abs/2611.24936v1"
+        "title": "RL Post-Training in Diffusion Transformers Is Activation Steering",
+        "summary": "Reinforcement learning (RL) post-training substantially improves the visual quality, text rendering, and compositional accuracy of diffusion transformers. Because capabilities such as rendering reques...",
+        "url": "http://arxiv.org/abs/2611.26627v1"
       },
       {
-        "title": "Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Systems",
-        "summary": "When a capable model and a human reviewer cooperate on the same decision, which human still adds value? We argue this is a question about a single cognitive trait, metacognitive calibration: the align...",
-        "url": "http://arxiv.org/abs/2611.24932v1"
+        "title": "PlayCraft: Designing Engaging Games from Agent Play Experience",
+        "summary": "Recent AI agents can generate playable games, but these games are not necessarily engaging. Mastery is a key source of engagement, yet designing for it requires extensive human play and tuning. We pro...",
+        "url": "http://arxiv.org/abs/2611.26624v1"
       },
       {
-        "title": "Mapping the AI Supply Chain: Dependencies, Vulnerabilities, and Market Concentration in the AI Ecosystem",
-        "summary": "AI systems are built across many organizations that contribute models, data, compute, capital, talent, and other assets. While the layers of the AI stack are relatively well understood, the relationsh...",
-        "url": "http://arxiv.org/abs/2611.24927v1"
+        "title": "TideCache: Efficient Hybrid LLM Serving with Transparent Cache Management and Layer-Wise Streaming",
+        "summary": "Hybrid architectures have become mainstream among open-weight language models. Their global-attention and bounded-state layers maintain heterogeneous caches whose demands vary with context length and ...",
+        "url": "http://arxiv.org/abs/2611.26619v1"
       },
       {
-        "title": "Agentic Harness Engineering Beta: Requirement-Centered Evolution of Agent Harnesses",
-        "summary": "Real-world harness engineering is driven by explicit and implicit user requirements, which guide development and validation. However, existing harness evolution methods often overlook implicit require...",
-        "url": "http://arxiv.org/abs/2611.24924v1"
+        "title": "One Prior, Two Dynamics: Repurposing Video Diffusion Transformers for Self-Supervised Latent Action Learning",
+        "summary": "Videos reveal how the world changes, but rarely the actions that cause those changes. Latent action learning recovers such supervision from visual transitions, yet often learns the underlying dynamics...",
+        "url": "http://arxiv.org/abs/2611.26617v1"
       },
       {
-        "title": "Decomposing SGD Dynamics in Neural Networks: Teacher-Induced Spikes and Variance Inflation",
-        "summary": "We study two-layer neural networks trained by stochastic gradient descent (SGD) on a multi-index teacher model, focusing on how first-layer parameters orthogonal to the teacher subspace affect general...",
-        "url": "http://arxiv.org/abs/2611.24908v1"
+        "title": "AgentRoboCritic: Understanding the Capability of Frontier Agents on Direct Robot Control",
+        "summary": "Frontier multimodal language agents such as GPT-6 Astra have demonstrated strong capabilities in controlling robots directly via low-level numerical actions without high-level primitives. However, exi...",
+        "url": "http://arxiv.org/abs/2611.26613v1"
       }
     ],
     "devto": [
@@ -122,113 +142,117 @@
         "title": "Is Coding with AI Actually Faster and Cheaper?",
         "description": "How has AI actually changed the way we work? Are coding agents really making us remarkably faster?...",
         "url": "https://dev.to/sylwia-lask/is-coding-with-ai-actually-faster-and-cheaper-2810",
-        "reactions": 150
-      },
-      {
-        "title": "AI is getting better. Here is my plan to stay ahead.",
-        "description": "AI is getting better every day.  As a software engineer, this is a topic that is often top of mind,...",
-        "url": "https://dev.to/javz/ai-is-getting-better-here-is-my-plan-to-stay-ahead-2822",
-        "reactions": 58
+        "reactions": 188
       },
       {
         "title": "AI Avatar v28 (Security Support, Voxel Avatar)🛡️",
         "description": "Intro   AI Avatar is a free app where your VRoid (VRM) avatar cheers you with all its...",
         "url": "https://dev.to/webdeveloperhyper/ai-avatar-v28-security-support-voxel-avatar-2i5i",
-        "reactions": 69
-      },
-      {
-        "title": "What are your goals for the week? #205",
-        "description": "I have an eye doctor appointment Tuesday. If my eyes are dilated, I can't use the the computer for...",
-        "url": "https://dev.to/jarvisscript/what-are-your-goals-for-the-week-205-22pg",
-        "reactions": 33
+        "reactions": 76
       },
       {
         "title": "I built a VS Code start page for my Git repositories",
         "description": "Why I built Repo Board, how it shows local Git status and linked worktrees, and how to make it your VS Code start page.",
         "url": "https://dev.to/playfulprogramming/i-built-a-vs-code-start-page-for-my-git-repositories-5c6",
-        "reactions": 27
+        "reactions": 30
+      },
+      {
+        "title": "What are your goals for the week? #205",
+        "description": "I have an eye doctor appointment Tuesday. If my eyes are dilated, I can't use the the computer for...",
+        "url": "https://dev.to/jarvisscript/what-are-your-goals-for-the-week-205-22pg",
+        "reactions": 40
+      },
+      {
+        "title": "What team-wide AI adoption actually takes",
+        "description": "I've tried nearly every way to make AI practical at work: new models, routers, agent frameworks,...",
+        "url": "https://dev.to/peter/what-team-wide-ai-adoption-actually-takes-1gbh",
+        "reactions": 41
       }
     ]
   },
-  "trends": "Today's tech landscape is marked by a dual focus on advanced AI/ML applications and pragmatic automation, with an increasing emphasis on agentic systems. In AI/ML, trends include the practical implementation of models for prediction (e.g., churn, energy, agriculture), a strong push towards model explainability and benchmarking (animated learning, head-to-head comparisons), and critical research into LLM safety (jailbreak detection, agentic harness engineering). A significant theme is human-AI collaboration, focusing on how humans add value in AI-augmented workflows. Concurrently, automation is evolving beyond simple scripting into sophisticated, multi-platform content orchestration and specialized e-commerce tools. Developer productivity is heavily influenced by AI, prompting a critical evaluation of AI's impact on coding speed and the necessity for continuous learning to stay ahead.",
+  "trends": "Today's tech trends reveal a strong convergence of advanced AI/ML capabilities with practical automation and productivity enhancements. In AI/ML, the focus is on achieving higher efficiency and deeper understanding through techniques like RL post-training for diffusion models, optimized LLM serving (hybrid architectures, transparent caching), and agentic AI capable of designing complex systems (CPU architectures, engaging games) and direct robot control. There's significant interest in robust, reproducible data-driven strategies for areas like financial analysis and churn prediction, leveraging sophisticated validation and ensemble methods. Concurrently, automation and productivity are seeing an explosion in tools for multi-platform content management, universal registration, and desktop application streamlining. Developers are actively seeking to integrate AI into their workflows for faster coding, better explanation, and enhanced personal/team efficiency, while also building custom tools to optimize their development environments. The emphasis is squarely on making cutting-edge AI more practical, efficient, and integrated into everyday tasks and complex problem-solving.",
   "ideas": [
     {
-      "title": "AI-Powered Multi-Platform Content Orchestrator",
-      "difficulty": "Medium",
-      "estimated_hours": 80,
-      "description": "A web application that streamlines and automates the entire content lifecycle for individual creators or small businesses. Users input a high-level topic or initial draft, and the system leverages an LLM to generate optimized content variations for different platforms (e.g., a concise tweet, a detailed LinkedIn post, a blog summary for Dev.to, a video script outline for YouTube). It then schedules and automatically publishes this content through respective platform APIs, providing a central dashboard for analytics and content performance monitoring. This addresses the challenge of consistent multi-platform presence and content tailored to each audience, significantly boosting productivity.",
-      "tech_stack": [
-        "Python (FastAPI/Flask)",
-        "LLM APIs (e.g., OpenAI, Anthropic, or an open-source model via Hugging Face)",
-        "OAuth2/API integrations (Twitter, LinkedIn, Dev.to, Medium API)",
-        "PostgreSQL/MongoDB",
-        "React/Vue.js"
-      ],
-      "source_inspiration": "mdldm-maitian (Multi-platform publishing), 'Is Coding with AI Actually Faster and Cheaper?' (AI for content), 'Agentic Harness Engineering Beta' (agentic systems).",
-      "steps": [
-        "Design database schema for content, platforms, schedules, and analytics.",
-        "Implement user authentication and platform OAuth integrations for social media/blogging APIs.",
-        "Develop API endpoints for content creation, scheduling, and publishing.",
-        "Integrate with LLM API for content generation and optimization based on platform-specific prompts and audience characteristics.",
-        "Build a responsive frontend dashboard for content management, scheduling, and analytics visualization.",
-        "Implement background workers (e.g., Celery) for reliable scheduled publishing tasks."
-      ]
-    },
-    {
-      "title": "Interactive ML Model Explainer & Benchmarking Dashboard",
+      "title": "AI-Powered Cross-Platform Content Orchestrator with Analytics",
       "difficulty": "Medium",
       "estimated_hours": 60,
-      "description": "A web-based platform allowing data scientists and developers to interactively upload their own tabular datasets (or select from pre-loaded examples), train and compare multiple popular machine learning models (e.g., XGBoost, LightGBM, CatBoost for classification/regression), and visualize their internal workings. The platform would feature live training animations (inspired by 'animated-machine-learning-algorithm'), feature importance explanations, partial dependence plots, and head-to-head performance metrics. This tool aims to demystify 'black-box' models, aiding in model selection, understanding, and debugging by providing clear, interactive insights into their decision-making processes.",
+      "description": "Building on the concept of 'mdldm-maitian', this project involves creating a web application that allows users to draft, schedule, and publish content across multiple social media platforms (e.g., X, LinkedIn, Dev.to, YouTube). The 'AI-Powered' aspect comes from integrating an LLM to assist with content generation (e.g., suggesting alternative titles, summarizing long-form content for different platforms, or generating short video descriptions), and predictive analytics to suggest optimal posting times based on historical engagement data. A key differentiator would be a centralized dashboard displaying engagement metrics from all linked platforms, providing insights into content performance and audience reach.",
       "tech_stack": [
-        "Python (Flask/FastAPI)",
-        "Scikit-learn",
-        "XGBoost",
-        "LightGBM",
-        "CatBoost",
-        "Pandas",
-        "NumPy",
-        "JavaScript (React/Vue.js)",
-        "D3.js/Plotly.js",
-        "Docker"
+        "Python (FastAPI/Django)",
+        "PostgreSQL",
+        "OAuth for platform APIs (X API, LinkedIn API, YouTube Data API)",
+        "React/Vue.js for frontend",
+        "Celery/Redis for task scheduling",
+        "LLM API (e.g., OpenAI, Anthropic, or local Hugging Face model)",
+        "Pandas for data analysis"
       ],
-      "source_inspiration": "animated-machine-learning-algorithm (animations), churn-boosting-showdown (model comparison).",
+      "source_inspiration": "mdldm-maitian (GitHub), 'Is Coding with AI Actually Faster and Cheaper?' (Dev.to), 'What team-wide AI adoption actually takes' (Dev.to)",
       "steps": [
-        "Set up a Python backend with endpoints for secure data upload (CSV/Excel) and model training execution.",
-        "Implement robust data preprocessing and validation logic to handle various tabular datasets.",
-        "Integrate popular ML libraries (Scikit-learn, XGBoost, LightGBM, CatBoost) for training and prediction functionalities.",
-        "Develop methods for extracting and calculating model explanations (e.g., feature importance, SHAP/LIME values, partial dependence plots).",
-        "Build a rich, interactive frontend UI for dataset management, model selection, training initiation, and dynamic display of visualizations and performance metrics.",
-        "Create a real-time visualization layer using D3.js/Plotly.js to animate model learning progress and prediction outcomes."
+        "Set up a FastAPI/Django backend with a PostgreSQL database.",
+        "Implement OAuth authentication flows for X, LinkedIn, YouTube, and Dev.to APIs.",
+        "Develop content drafting and scheduling functionalities with a user-friendly UI.",
+        "Integrate an LLM API to provide content generation and optimization suggestions (e.g., 'rewrite for X', 'summarize for LinkedIn').",
+        "Build a data ingestion pipeline using Celery to pull engagement metrics from integrated platforms.",
+        "Design an analytics dashboard to visualize content performance across platforms (e.g., reach, likes, comments, shares).",
+        "Add a feature to suggest optimal posting times based on past performance and audience activity."
       ]
     },
     {
-      "title": "Proactive LLM Safety & Bias Monitor with Human-in-the-Loop",
+      "title": "Intelligent Algorithmic Trading Strategy Backtester with Explainable AI",
       "difficulty": "Hard",
-      "estimated_hours": 100,
-      "description": "A plug-and-play middleware service designed for applications utilizing Large Language Models (LLMs). This system intercepts user prompts before they reach the LLM and proactively scans them for potential 'jailbreak' attempts, harmful content, or implicit biases using techniques like contrastive prototype structures or fine-tuned classification models. If a prompt is flagged with high confidence, it's either automatically rejected/modified or routed to a human review dashboard. The human review system would intelligently route complex or ambiguous cases to reviewers with demonstrated expertise (leveraging 'metacognitive calibration' concepts), providing tools for moderation, prompt refinement, and feedback, thus continuously improving the automated detection system and ensuring safer LLM deployments.",
+      "estimated_hours": 120,
+      "description": "Inspired by 'vectorbt-avoria-analysis' and 'openbb-calvona-market-research', this project focuses on a robust, GUI-based platform for backtesting algorithmic trading strategies. Beyond standard backtesting, it would integrate Bayesian modeling ('bayesian-modelling-notes') and advanced ML models (like those in 'churn-boosting-showdown') for predictive analytics within strategies. The 'Intelligent' aspect comes from using Optuna ('kaggle-dress-rehearsal') for hyperparameter optimization and incorporating Explainable AI (XAI) techniques (e.g., SHAP, LIME) to help users understand *why* a particular strategy or model made certain decisions. This moves beyond 'black box' solutions, providing valuable insights for strategy refinement.",
       "tech_stack": [
-        "Python (Flask/FastAPI)",
-        "Hugging Face Transformers",
-        "Sentence-BERT/other NLP libraries",
-        "PostgreSQL/MongoDB",
-        "React/Vue.js",
-        "Docker"
+        "Python (Vectorbt, Pandas, NumPy, scikit-learn, LightGBM/XGBoost)",
+        "Optuna for hyperparameter optimization",
+        "Streamlit/Dash for interactive UI",
+        "Financial data APIs (e.g., Yahoo Finance, Alpaca)",
+        "PyMC3/ArviZ for Bayesian modeling components",
+        "SHAP/LIME for Explainable AI",
+        "Docker for environment consistency"
       ],
-      "source_inspiration": "'Jailbreak Detection on Large Language Models via Contrastive Prototype Structures', 'Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Systems', 'Agentic Harness Engineering Beta'.",
+      "source_inspiration": "vectorbt-avoria-analysis (GitHub), openbb-calvona-market-research (GitHub), bayesian-modelling-notes (GitHub), kaggle-dress-rehearsal (GitHub), churn-boosting-showdown (GitHub)",
       "steps": [
-        "Develop a Python microservice to act as a prompt proxy/interceptor for LLM API calls within an application.",
-        "Implement a prompt classification model (e.g., fine-tuned BERT or a contrastive learning approach) for jailbreak, harmful content, and bias detection.",
-        "Design and implement a human review queue and a web-based dashboard for manual prompt moderation and feedback.",
-        "Develop a 'reviewer value' scoring or intelligent routing mechanism to assign flagged tasks to the most suitable human reviewers.",
-        "Create a clear API for application developers to easily integrate the safety monitor into their LLM-powered applications.",
-        "Set up data collection and retraining pipelines to continuously improve the automated detection model based on human feedback and new threat vectors."
+        "Set up a Python environment with necessary libraries (Vectorbt, Pandas, ML frameworks).",
+        "Integrate with financial data APIs to fetch historical market data.",
+        "Develop a modular framework for defining and applying various trading strategies (e.g., moving averages, RSI).",
+        "Implement a backtesting engine using Vectorbt to simulate strategy performance.",
+        "Integrate Optuna for automated hyperparameter tuning of strategy parameters.",
+        "Add advanced ML models (e.g., LightGBM) to generate predictive signals within strategies.",
+        "Incorporate XAI techniques (SHAP/LIME) to provide explanations for model decisions.",
+        "Build an interactive Streamlit/Dash UI for users to define strategies, run backtests, view results, and interpret XAI outputs."
+      ]
+    },
+    {
+      "title": "Context-Aware VS Code Assistant for Code Explanation & Refactoring",
+      "difficulty": "Medium",
+      "estimated_hours": 80,
+      "description": "Inspired by the interest in developer productivity tools ('I built a VS Code start page') and the efficiency of AI in coding ('Is Coding with AI Actually Faster and Cheaper?'), this project aims to create a VS Code extension that acts as an intelligent assistant. Leveraging local LLMs (or efficient API calls), the assistant would provide real-time, context-aware explanations of code snippets (including unfamiliar APIs, complex algorithms), suggest refactoring improvements based on best practices, and even help simplify explanations of complex system designs ('If you can't explain something in simple terms, you don't understand it'). It would be trained to understand the current project's codebase to provide more relevant suggestions, acting as a 'team-wide AI adoption' tool for individual developers.",
+      "tech_stack": [
+        "TypeScript/JavaScript for VS Code Extension Development",
+        "VS Code Extension API",
+        "Local LLM integration (e.g., Llama.cpp, Ollama, or local fine-tuned model)",
+        "Optionally, external LLM API (e.g., OpenAI, Anthropic) for more powerful models",
+        "Git integration for repository context awareness",
+        "Tree-sitter or similar for code parsing"
+      ],
+      "source_inspiration": "I built a VS Code start page for my Git repositories (Dev.to), Is Coding with AI Actually Faster and Cheaper? (Dev.to), If you can't explain something in simple terms, you don't understand it (Hacker News), What team-wide AI adoption actually takes (Dev.to)",
+      "steps": [
+        "Set up a basic VS Code extension project.",
+        "Learn the VS Code Extension API for text selection, document analysis, and UI interactions.",
+        "Integrate a local LLM or an LLM API for natural language processing.",
+        "Develop functionality to send selected code snippets to the LLM for explanation and receive the response in the editor or a sidebar.",
+        "Implement a refactoring suggestion feature that analyzes code context and proposes improvements (e.g., 'extract function', 'simplify conditional').",
+        "Add a command to 'Explain this concept simply' based on an input or selected code, adhering to the Feynman technique principle.",
+        "Incorporate Git awareness to understand which files are part of the current repository for better contextual suggestions.",
+        "Add configuration options for users to switch between local LLMs and external APIs, and to fine-tune explanation styles."
       ]
     }
   ],
   "quick_actions": [
-    "This week, integrate an AI coding assistant (e.g., GitHub Copilot, Cursor, or an OSS alternative) into your daily workflow for at least two hours to directly assess its impact on code generation speed and problem-solving efficiency, focusing on a specific task or feature.",
-    "Starting today, dedicate 15-30 minutes each morning to reading an AI/ML research paper from arXiv or a trending article from Dev.to that explores AI's impact on software engineering, to proactively understand and adapt to evolving trends.",
-    "Identify one recurring, manual digital task in your personal or work routine (e.g., organizing downloads, sending routine emails, scraping simple data) and spend 1-2 hours scripting a basic automation solution using Python, a shell script, or a no-code tool, inspired by recent automation tools.",
-    "Implement a structured weekly goal-setting and daily review habit. For example, use a dedicated markdown file, a simple Trello board, or even a custom VS Code start page to define your top 3-5 goals for the week and briefly check off progress each evening, fostering a proactive approach to productivity."
+    "Dedicate 15 minutes daily to using an AI coding assistant (like GitHub Copilot or a local LLM in your IDE) for tasks like generating boilerplate, writing tests, or refactoring existing code, and critically evaluate its efficiency and output.",
+    "Identify one repetitive, manual task in your daily workflow (e.g., logging activity, organizing files, sending routine emails) and spend 30 minutes researching or scripting a simple automation solution for it.",
+    "Spend 20 minutes exploring a trending GitHub repository related to ML engineering (e.g., 'TideCache' concepts or 'vectorbt-avoria-analysis') to understand how efficiency or advanced modeling is being applied, then summarize its core idea in your own words.",
+    "As suggested by the 'VS Code start page' trend, take 10 minutes to review your development environment's startup routine and frequently used tools; identify one small friction point and brainstorm a simple script or configuration change to improve it this week."
   ]
 }
