@@ -1,28 +1,28 @@
 {
-  "last_updated": "2026-11-21 13:50:32",
+  "last_updated": "2026-11-22 13:43:37",
   "scraped_sources": {
     "github": [
-      {
-        "name": "vectorbt-avoria-analysis",
-        "owner": "hasan6969macho-bit",
-        "description": "Vectorbt research code for Avoria analysis, built for reproducible strategy experiments.",
-        "stars": 152,
-        "url": "https://github.com/hasan6969macho-bit/vectorbt-avoria-analysis",
-        "category": "AI / ML"
-      },
       {
         "name": "openbb-calvona-market-research",
         "owner": "pgmergulhao75-dot",
         "description": "Openbb Calvona Market Research delivers structured market data analysis and research workflows.",
-        "stars": 152,
+        "stars": 150,
         "url": "https://github.com/pgmergulhao75-dot/openbb-calvona-market-research",
+        "category": "AI / ML"
+      },
+      {
+        "name": "vectorbt-avoria-analysis",
+        "owner": "hasan6969macho-bit",
+        "description": "Vectorbt research code for Avoria analysis, built for reproducible strategy experiments.",
+        "stars": 150,
+        "url": "https://github.com/hasan6969macho-bit/vectorbt-avoria-analysis",
         "category": "AI / ML"
       },
       {
         "name": "kaggle-dress-rehearsal",
         "owner": "hexsyro",
         "description": "Validation discipline for Kaggle: stratified CV, Grid vs Random vs Optuna, and a public/private leaderboard simulation.",
-        "stars": 47,
+        "stars": 46,
         "url": "https://github.com/hexsyro/kaggle-dress-rehearsal",
         "category": "AI / ML"
       },
@@ -30,7 +30,7 @@
         "name": "animated-machine-learning-algorithm",
         "owner": "di37",
         "description": "Watch scikit-learn models learn and predict: live training and inference animations, narrated lessons and Manim videos for California Housing (regression) and Titanic (classification)",
-        "stars": 28,
+        "stars": 29,
         "url": "https://github.com/di37/animated-machine-learning-algorithm",
         "category": "AI / ML"
       },
@@ -38,7 +38,7 @@
         "name": "genesis-potency-dataset",
         "owner": "Genesis-Molecular-AI",
         "description": "GenesisPotency is a large public dataset of potency measurements for use in training and evaluating potency prediction models.",
-        "stars": 10,
+        "stars": 12,
         "url": "https://github.com/Genesis-Molecular-AI/genesis-potency-dataset",
         "category": "AI / ML"
       },
@@ -46,68 +46,48 @@
         "name": "RegisterHub",
         "owner": "waw666waw666",
         "description": "万能注册机模板 | Universal Auto-Registration Template",
-        "stars": 337,
+        "stars": 339,
         "url": "https://github.com/waw666waw666/RegisterHub",
         "category": "Automation / Productivity"
       },
       {
-        "name": "opencode-project-workbench",
-        "owner": "wozniakalan323-bit",
-        "description": "Opencode Project Workbench structures opencode project tasks, files, and workflow state.",
-        "stars": 153,
-        "url": "https://github.com/wozniakalan323-bit/opencode-project-workbench",
+        "name": "autodesk-cfd",
+        "owner": "dillithdillith4-cell",
+        "description": "Autodesk CFD Desktop Setup: Full Computational Fluid Dynamics Toolkit",
+        "stars": 339,
+        "url": "https://github.com/dillithdillith4-cell/autodesk-cfd",
         "category": "Automation / Productivity"
       },
       {
-        "name": "craft-cards",
-        "owner": "menakhaled3112008-commits",
-        "description": "Craft Cards: Multiplayer Card Battles with Nine-Grid Tables and Item Chips",
-        "stars": 153,
-        "url": "https://github.com/menakhaled3112008-commits/craft-cards",
+        "name": "better-discord-client",
+        "owner": "juniordroid",
+        "description": "Better Discord Client: Remastered Desktop Experience for Modders",
+        "stars": 339,
+        "url": "https://github.com/juniordroid/better-discord-client",
         "category": "Automation / Productivity"
       },
       {
-        "name": "openclaw-personal-workspace",
-        "owner": "prajwaljeevan50-web",
-        "description": "A friendly, feature-rich workspace built with and for its community.",
-        "stars": 153,
-        "url": "https://github.com/prajwaljeevan50-web/openclaw-personal-workspace",
+        "name": "cellebrite-ufed",
+        "owner": "Dhruv2710-hub",
+        "description": "Cellebrite UFED: Complete Forensic Suite with Full Toolset, Ready to Run",
+        "stars": 339,
+        "url": "https://github.com/Dhruv2710-hub/cellebrite-ufed",
         "category": "Automation / Productivity"
       },
       {
-        "name": "powertoys-focused-workspace",
-        "owner": "PasumarthiMohith",
-        "description": "Concentrate active windows into a focused workspace - switch context with fewer moving parts.",
-        "stars": 153,
-        "url": "https://github.com/PasumarthiMohith/powertoys-focused-workspace",
+        "name": "auto-withdraw-bot",
+        "owner": "zainzedan1111-commits",
+        "description": "Auto Withdraw Bot: community-built desktop assistant with rich and friendly support",
+        "stars": 339,
+        "url": "https://github.com/zainzedan1111-commits/auto-withdraw-bot",
         "category": "Automation / Productivity"
       }
     ],
     "hacker_news": [
       {
-        "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
-        "url": "https://alpo.ge/remark.pdf",
-        "score": 2733
-      },
-      {
-        "title": "ClawDOS – An AI coding agent for DOS",
-        "url": "http://ricapar.net/ClawDOS/",
-        "score": 111
-      },
-      {
-        "title": "We promoted developers into architects without informing them",
-        "url": "https://manidoraisamy.com/developer-to-architect.html",
-        "score": 488
-      },
-      {
-        "title": "NINLIVE: The Nine Inch Nails live archive",
-        "url": "https://ninlive.com/",
-        "score": 298
-      },
-      {
-        "title": "Surprisingly Adorable Insect Portraits",
-        "url": "https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/",
-        "score": 80
+        "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+        "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+        "score": 1131
       }
     ],
     "arxiv": [
@@ -142,7 +122,7 @@
         "title": "Is Coding with AI Actually Faster and Cheaper?",
         "description": "How has AI actually changed the way we work? Are coding agents really making us remarkably faster?...",
         "url": "https://dev.to/sylwia-lask/is-coding-with-ai-actually-faster-and-cheaper-2810",
-        "reactions": 217
+        "reactions": 235
       },
       {
         "title": "AI Avatar v28 (Security Support, Voxel Avatar)🛡️",
@@ -160,7 +140,7 @@
         "title": "I built a VS Code start page for my Git repositories",
         "description": "Why I built Repo Board, how it shows local Git status and linked worktrees, and how to make it your VS Code start page.",
         "url": "https://dev.to/playfulprogramming/i-built-a-vs-code-start-page-for-my-git-repositories-5c6",
-        "reactions": 36
+        "reactions": 43
       },
       {
         "title": "What are your goals for the week? #205",
@@ -170,77 +150,87 @@
       }
     ]
   },
-  "trends": "Today's tech landscape is significantly shaped by the practical application and integration of AI/ML, moving beyond theoretical models to domain-specific solutions in finance, competitive ML, and even molecular science. A key emerging theme is 'agentic AI,' with increasing discussions and implementations of AI agents for automating development workflows, generating code, and controlling complex systems like robots or games. Concurrently, there's a strong emphasis on developer productivity and experience (DevEx), highlighted by tools for structured project management, focused workspaces, and personalized development environments. The trends also show a drive towards reproducibility in ML experiments, efficient deployment of large language models (LLMs), and an overall push for intelligent automation to enhance efficiency across professional tasks.",
+  "trends": "Today's tech landscape is defined by a dual focus: advancing sophisticated AI/ML applications and enhancing developer productivity through automation. In AI/ML, there's a strong drive towards domain-specific intelligence, particularly in finance and life sciences, emphasizing robust ML engineering, model validation, and interpretability. Concurrently, generative AI models (like Diffusion Transformers and LLMs) are being refined for quality and efficiency, with an emerging interest in 'agentic' AI for tasks like game design and direct robot control, often requiring human feedback. On the productivity front, the trend is towards comprehensive, customizable, and often community-driven automation tools for desktop and web, alongside a critical assessment of AI's practical impact on developer workflows and team-wide adoption strategies. Personal developer tooling and optimizing daily routines also remain key themes.",
   "ideas": [
     {
-      "title": "AI-Driven Reproducible Strategy Experiment Workbench",
+      "title": "AI-Powered Financial Strategy & Backtesting Assistant",
       "difficulty": "Medium",
-      "estimated_hours": 40,
-      "description": "Build a web-based or desktop application that enables users to define, execute, and analyze reproducible strategies, particularly in quantitative finance, market research, or scientific experimentation. It should allow users to upload datasets (e.g., financial time series, molecular properties), select from a suite of pre-built ML/statistical models, configure parameters, and automatically log all experiment details for reproducibility. Key features would include robust data versioning, comprehensive result visualization, and potentially an integrated LLM to help interpret findings or suggest next steps.",
+      "estimated_hours": 60,
+      "description": "Develop a desktop application that empowers financial analysts or quantitative traders to rapidly prototype, backtest, and optimize trading strategies. The core idea is to integrate advanced ML libraries (e.g., OpenBB, VectorBT) for market research and strategy analysis, providing a user-friendly GUI. Users should be able to define strategy parameters, market conditions, and evaluate performance metrics through interactive visualizations. A key feature could be a natural language interface where users describe a strategy (e.g., 'buy when RSI is below 30, sell when above 70') and the system translates it into executable code for backtesting, with visual feedback on the strategy's historical performance and risk factors. This moves beyond raw code to an intuitive, insight-driven tool.",
       "tech_stack": [
-        "Python (Pandas, Scikit-learn, Matplotlib)",
-        "Flask/Django or Electron (for desktop)",
-        "SQLAlchemy/PostgreSQL (for experiment logging)",
-        "Streamlit/Dash (for UI/dashboarding)",
-        "Docker (for reproducible environments)",
-        "Potentially Hugging Face Transformers (for LLM integration)"
+        "Python",
+        "OpenBB",
+        "VectorBT",
+        "Pandas",
+        "Streamlit / Dash / Panel (for GUI)",
+        "NLTK / SpaCy (for natural language parsing)",
+        "Matplotlib / Plotly (for visualizations)"
       ],
-      "source_inspiration": "vectorbt-avoria-analysis, openbb-calvona-market-research, kaggle-dress-rehearsal, opencode-project-workbench, genesis-potency-dataset",
+      "source_inspiration": "openbb-calvona-market-research, vectorbt-avoria-analysis, kaggle-dress-rehearsal",
       "steps": [
-        "Task 1: Design and implement a data ingestion module supporting various structured formats (CSV, Parquet).",
-        "Task 2: Develop a core experiment runner that can execute user-defined strategies/ML models with configurable parameters.",
-        "Task 3: Implement an experiment logging system to track data versions, model parameters, results, and environment configurations.",
-        "Task 4: Create interactive dashboards and visualizations for comparing experiment outcomes.",
-        "Task 5: (Optional) Integrate a local LLM or API for natural language querying of results or strategy suggestions."
+        "1. Set up a Python environment with necessary financial and data analysis libraries (OpenBB, VectorBT, Pandas).",
+        "2. Design a user interface (e.g., using Streamlit or Dash) for inputting market data, strategy parameters, and displaying results.",
+        "3. Implement core logic for integrating OpenBB/VectorBT for data acquisition and strategy backtesting.",
+        "4. Develop a natural language processing (NLP) module using NLTK or SpaCy to parse user-defined strategy descriptions into executable Python code for VectorBT.",
+        "5. Create interactive visualizations for backtesting results, including equity curves, drawdowns, and key performance indicators.",
+        "6. Add a feature for parameter optimization (e.g., using Grid Search or Optuna) to fine-tune strategy performance."
       ]
     },
     {
-      "title": "Agentic Universal Developer Registration/Setup Assistant",
-      "difficulty": "Medium",
-      "estimated_hours": 24,
-      "description": "Develop a CLI-based or IDE-integrated agent that automates common, repetitive developer setup and registration tasks. This agent would take natural language or structured input to automatically generate project boilerplate, configure local development environments (e.g., setting up virtual environments, installing dependencies, configuring linters), or even handle multi-step registrations for cloud services or APIs based on predefined templates. It could learn user preferences and streamline onboarding for new projects or team members.",
+      "title": "Adaptive Desktop Automation Agent (ADAA)",
+      "difficulty": "Hard",
+      "estimated_hours": 100,
+      "description": "Build an intelligent desktop automation agent that learns from user interactions and feedback. Unlike traditional macro recorders, ADAA should be able to generalize recorded actions and adapt to minor UI changes. Users can record a sequence of desktop actions (e.g., opening an application, navigating a website, filling a form), and the agent learns the 'intent' behind these actions. If an automation fails (e.g., a button moves), the user can provide feedback, and the agent attempts to update its understanding of the task. This project aims to create more resilient and 'smart' automation, reducing the need for constant re-recording. It could integrate with a simple local LLM or a custom ML model for 'intent mapping' and UI element recognition.",
       "tech_stack": [
-        "Python (Click/Typer for CLI)",
-        "Inquirer.js (for interactive prompts)",
-        "Jinja2 (for template generation)",
-        "Selenium/Playwright (for web automation/registration)",
-        "OpenAI API/local LLM (for natural language understanding)"
+        "Python",
+        "PyAutoGUI",
+        "Selenium / Playwright (for web interactions)",
+        "OpenCV (for image recognition of UI elements)",
+        "SQLite (for storing learned automation patterns and feedback)",
+        "PyQt / Electron (for desktop GUI)",
+        "Scikit-learn / Small fine-tuned transformer (for learning generalization)"
       ],
-      "source_inspiration": "RegisterHub, ClawDOS – An AI coding agent for DOS, Is Coding with AI Actually Faster and Cheaper?, opencode-project-workbench",
+      "source_inspiration": "RegisterHub, auto-withdraw-bot, AgentRoboCritic, What team-wide AI adoption actually takes",
       "steps": [
-        "Task 1: Design a template system for common project types (e.g., Python Flask, Node.js Express).",
-        "Task 2: Implement a CLI interface for users to initiate project setup or automation tasks.",
-        "Task 3: Develop a module for web automation (e.g., using Playwright) to handle simple registration or configuration flows for public services.",
-        "Task 4: Integrate a basic natural language processor (or LLM call) to parse user intent for generating boilerplate or specific configurations.",
-        "Task 5: Allow users to create and share their own automation 'recipes' or templates."
+        "1. Develop a recording module using PyAutoGUI to capture mouse clicks, keyboard inputs, and application window states.",
+        "2. Implement a graphical user interface (GUI) using PyQt or Electron for starting/stopping recordings, playing back automations, and providing feedback.",
+        "3. Design a data structure to store recorded actions and associated context (e.g., window titles, element text/coordinates).",
+        "4. Build a 'generalization' module that uses machine learning (e.g., clustering on UI elements, rule-based inference, or a small local transformer model) to identify common patterns and abstract specific coordinates.",
+        "5. Create a feedback mechanism within the GUI where users can mark successful/failed automation steps and correct misplaced actions.",
+        "6. Integrate a learning loop where the ML model updates its patterns based on user feedback to improve future automation reliability."
       ]
     },
     {
-      "title": "AI-Enhanced Context-Aware Focused Workspace Manager",
+      "title": "Interactive ML Model Explainer & Visualizer",
       "difficulty": "Medium",
-      "estimated_hours": 32,
-      "description": "Create a desktop application that intelligently manages developer workspaces to minimize context switching. The tool would use AI to detect the current project context (e.g., based on open files, active applications, calendar events) and automatically apply predefined 'focus modes.' This could involve intelligently arranging windows, muting notifications from non-essential apps, opening relevant project documentation, and providing quick access to context-specific resources. Over time, it learns user habits and project associations to suggest optimal workspace configurations.",
+      "estimated_hours": 75,
+      "description": "Create a web-based interactive sandbox where users can explore and understand the inner workings of various machine learning models. The application would allow users to upload small datasets (or use built-in examples), select different ML algorithms (e.g., Linear Regression, Decision Trees, K-Means, simple Neural Networks), and visualize their training process, decision boundaries, and feature importances in real-time. Key interactive elements would include sliders for hyperparameters, step-by-step animations of algorithm execution (e.g., gradient descent, tree splitting), and dynamic updates of interpretability techniques like SHAP or LIME. This tool would serve as an educational aid and a rapid prototyping environment for ML model exploration.",
       "tech_stack": [
-        "Python (Tkinter/PyQt for UI, psutil for process monitoring)",
-        "JavaScript/Electron (for cross-platform desktop app)",
-        "OS-level APIs (for window management, notification control)",
-        "Local ML model (e.g., simple classifier for context detection)",
-        "SQLite (for storing user preferences and context data)"
+        "Python",
+        "FastAPI / Flask (for backend API)",
+        "scikit-learn",
+        "Pandas",
+        "NumPy",
+        "Matplotlib / Plotly / Bokeh (for generating visualizations)",
+        "SHAP / LIME (for interpretability)",
+        "JavaScript / HTML / CSS (for frontend)",
+        "D3.js / React (for interactive frontend visualizations)"
       ],
-      "source_inspiration": "powertoys-focused-workspace, openclaw-personal-workspace, I built a VS Code start page for my Git repositories",
+      "source_inspiration": "animated-machine-learning-algorithm, kaggle-dress-rehearsal",
       "steps": [
-        "Task 1: Develop a system to monitor active applications and window titles to infer project context.",
-        "Task 2: Implement a UI for users to define 'focus profiles' (e.g., 'Coding Profile', 'Meeting Profile') with associated app sets and notification rules.",
-        "Task 3: Integrate OS-level controls for window arrangement, opening applications, and muting notifications.",
-        "Task 4: Build a simple rule-based or machine learning model to automatically suggest or switch focus profiles based on detected context.",
-        "Task 5: Create a dashboard that acts as a central hub for context switching, quick notes, and relevant project links."
+        "1. Set up a Python backend with FastAPI or Flask to handle dataset uploads, model training, and data processing.",
+        "2. Implement a frontend using HTML, CSS, and JavaScript (e.g., with React or a simple vanilla JS setup) to provide the user interface.",
+        "3. Integrate scikit-learn for training various classification and regression models.",
+        "4. Develop visualization components using libraries like Plotly or Bokeh (sent from Python to JS) or D3.js (rendered directly in JS) to display decision boundaries, feature importances, and model metrics.",
+        "5. Add interactive controls (sliders, buttons) to the frontend for adjusting hyperparameters and stepping through model training animations.",
+        "6. Incorporate explainability libraries like SHAP or LIME to provide insights into model predictions for selected data points, dynamically updating as model parameters change."
       ]
     }
   ],
   "quick_actions": [
-    "Action 1: Dedicate 1-2 hours this week to using an AI coding assistant (e.g., GitHub Copilot, Cursor) for a specific coding task, actively evaluating its effectiveness and learning new prompts.",
-    "Action 2: Identify one repetitive personal development task (e.g., creating a new project structure, setting up a database, pushing common changes) and spend an hour scripting a simple automation for it.",
-    "Action 3: Spend 30 minutes setting up a personalized start page or dashboard within your IDE (like VS Code) or browser that consolidates your current project's critical information, active tasks, and frequently used links to reduce context switching.",
-    "Action 4: Choose one niche AI/ML application (e.g., financial prediction, game agent design, LLM serving efficiency) from the trending data and read an introductory article or tutorial on it to understand its practical implications and current challenges."
+    "1. Experiment with an AI coding assistant (e.g., GitHub Copilot, Cursor, Code Llama) for 1 hour this week on a new feature or bug fix, consciously noting speed and quality improvements.",
+    "2. Identify one small, repetitive task in your daily developer workflow (e.g., git commit message generation, build script execution, data fetching) and write a short script or alias to automate it.",
+    "3. Spend 30 minutes customizing your IDE (VS Code, IntelliJ, etc.) with a new extension, theme, or keyboard shortcut that aligns with a productivity habit you want to build (e.g., a personalized Git status board).",
+    "4. Dedicate 15 minutes each day this week to reviewing a top-trending arXiv paper summary or GitHub repository in AI/ML to stay abreast of new techniques and practical applications."
   ]
 }
