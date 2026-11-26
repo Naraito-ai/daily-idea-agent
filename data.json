@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-11-25 16:22:23",
+  "last_updated": "2026-11-26 15:56:47",
   "scraped_sources": {
     "github": [
       {
-        "name": "kaggle-dress-rehearsal",
-        "owner": "hexsyro",
-        "description": "Validation discipline for Kaggle: stratified CV, Grid vs Random vs Optuna, and a public/private leaderboard simulation.",
-        "stars": 44,
-        "url": "https://github.com/hexsyro/kaggle-dress-rehearsal",
+        "name": "llm.asm",
+        "owner": "alesha-pro",
+        "description": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.",
+        "stars": 1182,
+        "url": "https://github.com/alesha-pro/llm.asm",
         "category": "AI / ML"
       },
       {
         "name": "first-line-to-first-paper",
         "owner": "sharukh01621",
         "description": "From First Line to First Paper: 860-page open textbook + 182 Google Colab notebooks mastering Python, Biostatistics, ML, and PyTorch Deep Learning.",
-        "stars": 34,
+        "stars": 35,
         "url": "https://github.com/sharukh01621/first-line-to-first-paper",
         "category": "AI / ML"
       },
@@ -22,7 +22,7 @@
         "name": "fishid-studio",
         "owner": "viniciusscience",
         "description": "Open-source Computer Vision & Deep Learning platform for Marine Fish Identification, Fisheries Electronic Monitoring (EM), Video Tracking (ByteTrack + SAM 2) & Biometry | Visão Computacional e Monitoramento Pesqueiro",
-        "stars": 26,
+        "stars": 32,
         "url": "https://github.com/viniciusscience/fishid-studio",
         "category": "AI / ML"
       },
@@ -30,23 +30,23 @@
         "name": "Geo-ML",
         "owner": "limi124",
         "description": "Geo-ML｜地理人的机器学习课：多源栅格对齐、空间分块验证、树模型与 SHAP 解释（8 章 Jupyter Notebook 实战教程）",
-        "stars": 19,
+        "stars": 22,
         "url": "https://github.com/limi124/Geo-ML",
         "category": "AI / ML"
       },
       {
-        "name": "llm.asm",
-        "owner": "alesha-pro",
-        "description": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.",
-        "stars": 13,
-        "url": "https://github.com/alesha-pro/llm.asm",
+        "name": "Flash-SoftDTW",
+        "owner": "lifeiteng",
+        "description": "⚡ Fast, memory-lean, exact soft-DTW for PyTorch — CUDA & CPU, dense & banded, forward & backward. Up to 365× faster, no length cap.",
+        "stars": 11,
+        "url": "https://github.com/lifeiteng/Flash-SoftDTW",
         "category": "AI / ML"
       },
       {
         "name": "universal-game-mod-manager",
         "owner": "Indigo-0167",
         "description": "Free Windows game mod manager to discover, install, update and manage universal Unity and Unreal Engine mods.",
-        "stars": 1300,
+        "stars": 1301,
         "url": "https://github.com/Indigo-0167/universal-game-mod-manager",
         "category": "Automation / Productivity"
       },
@@ -54,7 +54,7 @@
         "name": "steam-game-idler",
         "owner": "Basil0879",
         "description": "Free Steam idler for trading card farming, achievement management, playtime boosting and multi-account automation on Windows.",
-        "stars": 682,
+        "stars": 681,
         "url": "https://github.com/Basil0879/steam-game-idler",
         "category": "Automation / Productivity"
       },
@@ -62,7 +62,7 @@
         "name": "PiBot",
         "owner": "w01fb0ss",
         "description": "Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi.",
-        "stars": 583,
+        "stars": 646,
         "url": "https://github.com/w01fb0ss/PiBot",
         "category": "Automation / Productivity"
       },
@@ -85,51 +85,36 @@
     ],
     "hacker_news": [
       {
-        "title": "Porting Rockbox to an Undocumented $9 Aliexpress 'YP3' MP3 Player with LLMs",
-        "url": "https://jayd.ml/2026/11/14/rockbox-on-yp3.html",
-        "score": 25
-      },
-      {
-        "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
-        "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
-        "score": 368
-      },
-      {
-        "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
-        "url": "https://gpu-demo-gallery.pages.dev/",
-        "score": 262
-      },
-      {
-        "title": "Getting old Java phones online again",
-        "url": "https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html",
-        "score": 130
+        "title": "The New York Times warns photographers not to update Photoshop over AI features",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+        "score": 516
       }
     ],
     "arxiv": [
       {
-        "title": "OmniAct: One Policy, One Million Embodiments",
-        "summary": "A single policy that controls diverse robots must not only transfer task knowledge across embodiments, but also adapt its behavior to each robot's capabilities. Existing approaches facilitate transfer...",
-        "url": "http://arxiv.org/abs/2611.33158v1"
+        "title": "Spectrum Adaptation of AI-Native Autoencoder Communications with Transfer Learning",
+        "summary": "End-to-end physical-layer learning replaces separate modulation, coding, and detection operations with an autoencoder (AE) that consists of a jointly trained encoder-decoder pair at the transmitter an...",
+        "url": "http://arxiv.org/abs/2611.34942v1"
       },
       {
-        "title": "DiaCap: Jointly Learning Who Speaks When for Audiovisual Dialogue Captioning",
-        "summary": "We present DiaCap, an audiovisual LLM for comprehensive dialogue captioning, which produces the transcript, timestamps, and a visual description of the speaker for every utterance in a video. Consider...",
-        "url": "http://arxiv.org/abs/2611.33153v1"
+        "title": "Tokenisation is not in APX",
+        "summary": "In this paper, we prove that, unless P=NP, no polynomial-time algorithm can find a tokeniser whose objective is within any constant factor of the optimum, meaning that tokenisation is not in the APX c...",
+        "url": "http://arxiv.org/abs/2611.34938v1"
       },
       {
-        "title": "BioLoom: Scaling Biomedical Vision-Language Models by Learning from the Structure of Scientific Articles",
-        "summary": "The development of biomedical vision-language models (VLMs) with contrastive image-text pretraining has been driven by scaling to increasingly large and diverse image-text datasets. Beyond scaling, fu...",
-        "url": "http://arxiv.org/abs/2611.33151v1"
+        "title": "Can image generation help visual reasoning? An empirical study",
+        "summary": "Language models think in words; then multimodal models might think in images. We test whether a generated helper improves the answer to a visual question. A model describes the helper it needs and the...",
+        "url": "http://arxiv.org/abs/2611.34935v1"
       },
       {
-        "title": "CoT-Proxy: Cross-Format Transfer for Distilling Long-Horizon Policies",
-        "summary": "Reasoning models become long-horizon agents through reinforcement learning or, more cheaply, through fine-tuning on a stronger teacher's trajectories, which contain the teacher's chain-of-thought as w...",
-        "url": "http://arxiv.org/abs/2611.33148v1"
+        "title": "Attack Policy Selection can Mislead Monitor Evaluators",
+        "summary": "AI monitors, classifiers that flag dangerous behaviour by AI agents, are often evaluated against transcripts generated by attack policies acting as proxies for dangerous behaviour in deployment. We ev...",
+        "url": "http://arxiv.org/abs/2611.34934v1"
       },
       {
-        "title": "iWAM: Efficient Action Prediction from World Models without Explicit Future Prediction",
-        "summary": "World-action models (WAMs) build policies on pretrained video-generation models, on the premise that predicting how a scene evolves helps determine how to act. However, generating future scenes is exp...",
-        "url": "http://arxiv.org/abs/2611.33141v1"
+        "title": "A gene informed benchmark for BioScoring of pathology foundation models",
+        "summary": "Pathology foundation models are usually compared by their performance on downstream tasks such as classification and retrieval. While such benchmarks measure how useful a model is, they provide no ins...",
+        "url": "http://arxiv.org/abs/2611.34930v1"
       }
     ],
     "devto": [
@@ -140,101 +125,106 @@
         "reactions": 56
       },
       {
+        "title": "Nostalgia and the AI Productivity Paradox",
+        "description": "There is something strangely nostalgic about November 2026.  GTA VI has finally arrived after 13...",
+        "url": "https://dev.to/gramli/nostalgia-and-the-ai-productivity-paradox-4f33",
+        "reactions": 57
+      },
+      {
+        "title": "Home Office Nightmare",
+        "description": "I Constantly Try to Survive Reality  Maybe that's why I built an entire universe, including a...",
+        "url": "https://dev.to/thethirdcup/home-office-nightmare-2ja0",
+        "reactions": 55
+      },
+      {
         "title": "I Made My RAG Safer. It Got Worse Under Load",
         "description": "RAG isn't dead, but unverified RAG should be. Here's what checking every sentence actually cost me on...",
         "url": "https://dev.to/ayush_singh321/i-made-my-rag-safer-it-got-worse-under-load-3olm",
-        "reactions": 66
-      },
-      {
-        "title": "Rent the Job. Own the Life.",
-        "description": "I own a house. I've also rented a lot of apartments. I treated them very differently. In my...",
-        "url": "https://dev.to/aws-heroes/rent-the-job-own-the-life-12g3",
-        "reactions": 11
+        "reactions": 74
       },
       {
         "title": "8 Best MCP Gateways",
         "description": "Connecting one agent to one MCP server is easy. You paste a URL, approve a prompt, and the agent...",
         "url": "https://dev.to/varshithvhegde/8-best-mcp-gateways-4ddf",
-        "reactions": 40
-      },
-      {
-        "title": "A VS Code extension to turn any free chatbot in your browser into an AI agent",
-        "description": "If you've ever pasted ten files into ChatGPT, asked for a fix, then manually copied the result back...",
-        "url": "https://dev.to/effessdev/a-vs-code-extension-to-turn-any-free-chatbot-website-into-an-ai-agent-kind-of-1n21",
-        "reactions": 52
+        "reactions": 41
       }
     ]
   },
-  "trends": "Today's tech landscape is marked by a strong push towards specialized, practical AI applications and sophisticated automation. We're seeing a dual focus: on one hand, efforts to make AI systems (especially LLMs) more efficient, robust, and reliable through bare-metal optimization, advanced validation, and secure RAG implementations. On the other hand, there's a surge in agentic AI development, moving towards local-first, multi-modal, and deeply integrated intelligent agents that enhance productivity, personalize user experiences, and automate complex workflows across desktop environments and specialized domains (like bio-medicine or geospatial analysis). Concurrently, a niche but engaging trend involves leveraging modern AI and web technologies to revive, understand, and interact with retro hardware and software, bridging the past and future of technology.",
+  "trends": "Today's tech landscape is characterized by a dual focus on pushing the boundaries of AI efficiency and tackling the practical challenges of its widespread adoption. There's a significant drive towards developing ultra-efficient, even bare-metal, AI models (especially LLMs) to run on minimal resources, alongside optimizing existing deep learning algorithms for speed and memory. Concurrently, AI is seeing increasingly specialized, domain-specific applications, particularly in computer vision and geospatial analysis. The rise of local-first, multi-agent AI systems for desktop automation and personalized productivity is a strong theme, emphasizing user control and practical utility. However, this growth is met with critical scrutiny regarding AI's ethical implications, safety, reliability (as seen in RAG systems under load), and its societal impact on creative industries. Developers are seeking accessible educational resources and robust tools to navigate these complex, rapidly evolving trends and integrate AI effectively.",
   "ideas": [
     {
-      "title": "Local AI Workflow Co-Pilot",
+      "title": "Local-First Desktop AI Agent Orchestrator with Approval Flow",
       "difficulty": "Medium",
-      "estimated_hours": 20,
-      "description": "Build a desktop application or VS Code extension that functions as a personal AI agent, automating multi-application workflows based on natural language commands or predefined triggers. The core differentiator is its reliance on a local-first, open-source LLM (e.g., via Ollama or Jan) for privacy, speed, and cost efficiency. Users could define routines like 'Summarize my morning emails from Project X and draft a status update request, then add a reminder to my calendar.' This project aligns with the trend of intelligent desktop automation and local-first AI agents, as seen in projects like PiBot and discussions around turning chatbots into agents.",
+      "estimated_hours": 40,
+      "description": "Build a cross-platform desktop application that empowers users to automate complex local tasks using natural language. This system would orchestrate a team of local AI agents (e.g., a small LLM for task planning, specialized scripts for execution) to interact with local files, applications, and browser instances. Crucially, it incorporates a 'human-in-the-loop' approval mechanism for sensitive or irreversible actions, allowing the user to review and confirm agent steps before execution. The system would learn from user corrections, improving its automation accuracy over time and ensuring user control. This project addresses the practical integration challenges of AI by making it local, controllable, and adaptable.",
       "tech_stack": [
         "Python",
-        "Electron / Tauri (for UI) or VS Code Extension API",
-        "Ollama / Jan / Llama.cpp",
-        "OS-level automation libraries (e.g., pyautogui)"
+        "Electron (for cross-platform GUI) or PyQt",
+        "Local LLM library (e.g., Llama.cpp with Python bindings for task planning)",
+        "OS automation libraries (e.g., pyautogui, applescript integration for macOS, win32com for Windows)",
+        "SQLite (for storing user preferences and learned automation patterns)"
       ],
-      "source_inspiration": "PiBot (GitHub), A VS Code extension to turn any free chatbot in your browser into an AI agent (Dev.to)",
+      "source_inspiration": "PiBot (GitHub), What team-wide AI adoption actually takes (Dev.to), 8 Best MCP Gateways (Dev.to), universal-game-mod-manager (GitHub)",
       "steps": [
-        "Task 1: Set up a local LLM inference environment using Ollama or Jan and integrate it with a Python backend.",
-        "Task 2: Develop a core Python agent logic that parses natural language commands using the local LLM to determine intent and required actions.",
-        "Task 3: Implement modular functions for basic OS/application interaction (e.g., reading/writing files, simulating keyboard/mouse input, interacting with a mail client API).",
-        "Task 4: Build a basic user interface (desktop app or VS Code chat panel) for command input and displaying agent responses/progress.",
-        "Task 5: Create a mechanism for users to define and store simple multi-step workflows or 'routines' that the agent can execute on demand."
+        "1. Set up a basic Electron/PyQt application structure with a clean UI for inputting natural language tasks.",
+        "2. Integrate a local LLM (e.g., via `llama-cpp-python`) to interpret user requests and break them down into actionable sub-tasks.",
+        "3. Develop a 'Task Executor' module that translates sub-tasks into OS-level commands and scripts using `pyautogui` or platform-specific libraries.",
+        "4. Implement a 'Human-in-the-Loop' UI element: before executing sensitive steps, display the proposed action and require explicit user approval.",
+        "5. Add a feedback loop where users can correct or refine agent actions, storing these corrections to improve future task planning (e.g., using a simple reinforcement learning or rule-based system).",
+        "6. Package the application for macOS, Windows, and Linux."
       ]
     },
     {
-      "title": "Intelligent Data Preparation & Validation Suite",
+      "title": "Domain-Specific AI Model Performance & Anomaly Monitor",
       "difficulty": "Medium",
-      "estimated_hours": 30,
-      "description": "Develop a tool that assists data scientists and ML engineers in the laborious stages of data preparation, cleaning, and robust validation. This suite would integrate advanced validation techniques like stratified cross-validation and potentially spatial blocking (for geospatial data). It would leverage machine learning to suggest optimal preprocessing steps, automatically identify data quality issues (outliers, inconsistencies, missing values), and provide interpretability insights (e.g., via SHAP) for prepared datasets. The goal is to build more trustworthy and reliable ML pipelines by improving data foundation, reflecting the 'validation discipline' and 'RAG safety' trends.",
+      "estimated_hours": 60,
+      "description": "Create a monitoring dashboard and toolkit tailored for developers deploying domain-specific AI models, particularly in computer vision (e.g., identifying marine species, medical image analysis). This tool will track real-time model performance metrics, detect data drift, identify anomalies in inference results, and pinpoint potential biases against specific sub-categories within the domain. It would visualize explainability insights (e.g., using Grad-CAM or LIME for CV models) for misclassified instances and alert developers to performance degradation or shifts in data distribution, allowing for proactive model retraining or intervention. This addresses the critical need for robust evaluation and monitoring of specialized AI in production.",
       "tech_stack": [
         "Python",
-        "Pandas",
-        "Scikit-learn",
-        "Optuna (for hyperparameter search)",
-        "SHAP (for interpretability)",
-        "Streamlit / Dash (for UI)",
-        "GeoPandas (optional, for geo-data)"
+        "Streamlit or Dash (for interactive dashboards)",
+        "TensorFlow/PyTorch (for integrating with existing models)",
+        "OpenCV (for image processing and visualization)",
+        "Scikit-learn (for drift detection algorithms)",
+        "Explainability libraries (e.g., Captum, SHAP, LIME for CV)",
+        "MongoDB or PostgreSQL (for storing monitoring data)"
       ],
-      "source_inspiration": "kaggle-dress-rehearsal (GitHub), Geo-ML (GitHub), I Made My RAG Safer. It Got Worse Under Load (Dev.to)",
+      "source_inspiration": "fishid-studio (GitHub), A gene informed benchmark for BioScoring (arXiv), Attack Policy Selection can Mislead Monitor Evaluators (arXiv), I Made My RAG Safer. It Got Worse Under Load (Dev.to)",
       "steps": [
-        "Task 1: Implement data loading for common formats (CSV, Parquet) and an initial data profiling module to report statistics, missing values, and data types.",
-        "Task 2: Develop automated suggestions for data cleaning and preprocessing steps (e.g., imputation methods, outlier detection) using heuristics or a small, fine-tuned model.",
-        "Task 3: Build functions for generating robust validation splits, including stratified cross-validation and, optionally, spatial blocking for geographical datasets.",
-        "Task 4: Integrate a library like SHAP to provide interpretability for simple baseline models trained on the preprocessed data, explaining feature importance.",
-        "Task 5: Create an interactive web interface (using Streamlit or Dash) where users can upload data, apply suggested transformations, configure validation schemes, and visualize results and interpretations."
+        "1. Develop a data ingestion pipeline to capture inference requests and responses from a deployed CV model, along with ground truth (if available).",
+        "2. Build a backend service (e.g., using Flask or FastAPI) to process and store performance metrics (accuracy, precision, recall) and input/output data.",
+        "3. Implement data drift detection mechanisms (e.g., using statistical tests like KS-test or ADWIN) to identify changes in input data distribution.",
+        "4. Integrate explainability methods (e.g., Grad-CAM) to generate visual explanations for model predictions, especially for misclassified or low-confidence outputs.",
+        "5. Design and implement a Streamlit/Dash dashboard to visualize overall performance, drift alerts, anomaly detections, and provide interactive explainability views.",
+        "6. Add a reporting feature that summarizes model health and potential issues weekly or monthly."
       ]
     },
     {
-      "title": "AI-Enhanced Retro Software/Hardware Museum",
+      "title": "Ultra-Efficient LLM Experimentation Playground",
       "difficulty": "Medium",
-      "estimated_hours": 25,
-      "description": "Create a web-based interactive 'museum' featuring a chosen piece of retro software (e.g., an old operating system, a classic game) or hardware (like a vintage MP3 player). This platform will embed a browser-compatible emulator (similar to the 'Old Nvidia and ATI tech demos' on Hacker News) and augment it with an AI assistant. The AI would provide historical context, explain features, guide users through the retro environment, and even generate era-appropriate content (e.g., text adventure prompts, pixel art descriptions). This project taps into the growing interest in reviving and interacting with legacy tech through modern means, utilizing AI for contextual understanding and interaction.",
+      "estimated_hours": 50,
+      "description": "Create a sandbox environment, accessible via a web interface or a local desktop application, for experimenting with extremely small and quantized Large Language Models (LLMs) or custom, highly optimized inference routines. The goal is to highlight the potential of running capable AI models on resource-constrained hardware. Users can load different small models (e.g., 1-bit, 4-bit quantized versions, or specially trained 'tiny' LLMs), interact with them via text input, and observe real-time resource consumption (CPU, RAM). This project will educate developers on the trade-offs between model size, performance, and resource usage, encouraging exploration into cutting-edge efficiency techniques.",
       "tech_stack": [
-        "HTML/CSS/JavaScript",
-        "WebAssembly (for emulator, e.g., js-dos)",
-        "Python / Node.js (backend for AI API)",
-        "LLM API (e.g., OpenAI, Anthropic, or local Ollama)"
+        "Python (Flask/FastAPI for backend, potentially llama-cpp-python bindings)",
+        "JavaScript/HTML/CSS (for frontend, possibly Vue.js or React)",
+        "WebAssembly (for client-side model inference if desired, e.g., using ONNX Runtime Web)",
+        "Docker (for easy setup and dependency management)",
+        "Libraries for system monitoring (e.g., psutil)"
       ],
-      "source_inspiration": "Porting Rockbox to an Undocumented $9 Aliexpress 'YP3' MP3 Player with LLMs (Hacker News), Show HN: Old Nvidia and ATI tech demos, running again in the browser (Hacker News)",
+      "source_inspiration": "llm.asm (GitHub), Flash-SoftDTW (GitHub), Spectrum Adaptation of AI-Native Autoencoder Communications (arXiv)",
       "steps": [
-        "Task 1: Select a specific retro software or hardware to feature (e.g., a classic DOS game, a specific console ROM) and identify a suitable WebAssembly-based emulator.",
-        "Task 2: Embed the chosen emulator into a simple web page, ensuring it runs interactively in the browser.",
-        "Task 3: Develop a basic chat interface alongside the emulator for user interaction with the AI assistant.",
-        "Task 4: Set up a backend service (Python/Node.js) to relay user queries from the chat interface to an LLM API (or a local Ollama instance).",
-        "Task 5: Design a robust prompt for the LLM that instructs it to act as an expert on the specific retro subject, providing contextual information, usage guidance, and potentially generating creative content relevant to the era."
+        "1. Set up a backend server (Flask/FastAPI) to handle model loading and inference requests.",
+        "2. Integrate a framework like `llama-cpp-python` to load and run various quantized or small open-source LLMs locally.",
+        "3. Develop a minimalist web frontend (HTML/CSS/JS) for user input, displaying LLM output, and visualizing real-time resource usage (CPU/RAM) using `psutil` on the backend.",
+        "4. Implement a mechanism to easily switch between different small LLM models (e.g., different quantization levels or model architectures) from a pre-defined list.",
+        "5. Include clear documentation on how to acquire and integrate additional tiny/quantized models into the playground.",
+        "6. Containerize the application using Docker for simplified deployment and environment consistency."
       ]
     }
   ],
   "quick_actions": [
-    "Action 1: Set up Ollama or Jan on your local machine and run a small open-source LLM (e.g., Llama 3). Experiment with using it to generate short code snippets or automate a simple text manipulation task in your terminal.",
-    "Action 2: For your next coding task, dedicate 1-2 hours specifically to implementing more rigorous data validation, input sanitization, or error handling routines beyond basic checks, aiming to prevent unexpected failures under load.",
-    "Action 3: Spend 30 minutes researching one specific multimodal AI application mentioned in the arXiv papers (e.g., DiaCap or BioLoom) to understand how different data types (vision, audio, text) are combined and what problems they solve.",
-    "Action 4: Choose a performance-critical component in one of your current projects. Research potential optimizations or lower-level alternatives (e.g., Rust FFI for a Python bottleneck, using C/C++ libraries) to understand how efficiency gains are achieved."
+    "1. This week, dedicate 30 minutes to exploring a local-first AI agent framework (e.g., review PiBot's documentation or another similar tool) to understand its capabilities for desktop automation.",
+    "2. Review your personal or team's current development workflow and identify one repetitive task that could potentially be simplified or automated with a small AI-powered script; try to implement a basic version.",
+    "3. Spend an hour researching the ethical guidelines or best practices for AI model deployment in your domain, focusing on data privacy, bias detection, or transparent decision-making.",
+    "4. Choose one AI efficiency technique (e.g., quantization, sparse models, efficient attention mechanisms) and spend 1 hour reading an introductory paper or tutorial to grasp its core concept and potential benefits."
   ]
 }
