@@ -1,103 +1,113 @@
 {
-  "last_updated": "2026-11-27 15:45:34",
+  "last_updated": "2026-11-28 14:41:29",
   "scraped_sources": {
     "github": [
       {
         "name": "llm.asm",
         "owner": "alesha-pro",
         "description": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.",
-        "stars": 1923,
+        "stars": 2581,
         "url": "https://github.com/alesha-pro/llm.asm",
         "category": "AI / ML"
       },
       {
-        "name": "first-line-to-first-paper",
-        "owner": "sharukh01621",
-        "description": "From First Line to First Paper: 860-page open textbook + 182 Google Colab notebooks mastering Python, Biostatistics, ML, and PyTorch Deep Learning.",
-        "stars": 37,
-        "url": "https://github.com/sharukh01621/first-line-to-first-paper",
+        "name": "waifu2x-image-upscaler-windows",
+        "owner": "Red2076-arch",
+        "description": "Free AI image upscaler and photo denoiser for Windows powered by Vulkan GPU acceleration and ncnn neural networks.",
+        "stars": 1117,
+        "url": "https://github.com/Red2076-arch/waifu2x-image-upscaler-windows",
         "category": "AI / ML"
       },
       {
         "name": "fishid-studio",
         "owner": "viniciusscience",
         "description": "Open-source Computer Vision & Deep Learning platform for Marine Fish Identification, Fisheries Electronic Monitoring (EM), Video Tracking (ByteTrack + SAM 2) & Biometry | Visão Computacional e Monitoramento Pesqueiro",
-        "stars": 34,
+        "stars": 36,
         "url": "https://github.com/viniciusscience/fishid-studio",
-        "category": "AI / ML"
-      },
-      {
-        "name": "Geo-ML",
-        "owner": "limi124",
-        "description": "Geo-ML｜地理人的机器学习课：多源栅格对齐、空间分块验证、树模型与 SHAP 解释（8 章 Jupyter Notebook 实战教程）",
-        "stars": 24,
-        "url": "https://github.com/limi124/Geo-ML",
         "category": "AI / ML"
       },
       {
         "name": "agentdream",
         "owner": "mvplab-ai",
         "description": "Open-source 'dreaming' for any AI agent: sleep-time memory consolidation that merges duplicates, fixes stale or wrong notes with transcript evidence, and surfaces insights. Any model, local-first.",
-        "stars": 17,
+        "stars": 19,
         "url": "https://github.com/mvplab-ai/agentdream",
+        "category": "AI / ML"
+      },
+      {
+        "name": "MotionIQ-Squat-analysis",
+        "owner": "Aashritha-2005",
+        "description": "Real-time squat rep counting and form feedback from pose keypoints (YOLO11-pose + LSTM)",
+        "stars": 16,
+        "url": "https://github.com/Aashritha-2005/MotionIQ-Squat-analysis",
         "category": "AI / ML"
       },
       {
         "name": "universal-game-mod-manager",
         "owner": "Indigo-0167",
         "description": "Free Windows game mod manager to discover, install, update and manage universal Unity and Unreal Engine mods.",
-        "stars": 1300,
+        "stars": 1373,
         "url": "https://github.com/Indigo-0167/universal-game-mod-manager",
+        "category": "Automation / Productivity"
+      },
+      {
+        "name": "windows-keyboard-manager",
+        "owner": "hollow-445",
+        "description": "Free open-source keyboard remapping software for Windows with custom layouts, programmable keys, layers and tap-hold actions.",
+        "stars": 1365,
+        "url": "https://github.com/hollow-445/windows-keyboard-manager",
         "category": "Automation / Productivity"
       },
       {
         "name": "steam-game-idler",
         "owner": "Basil0879",
         "description": "Free Steam idler for trading card farming, achievement management, playtime boosting and multi-account automation on Windows.",
-        "stars": 680,
+        "stars": 1224,
         "url": "https://github.com/Basil0879/steam-game-idler",
         "category": "Automation / Productivity"
       },
       {
-        "name": "PiBot",
-        "owner": "w01fb0ss",
-        "description": "Open-source, local-first AI agent team for your desktop: multi-agent group chats, computer use, browser, MCP, routines and approvals. macOS, Windows, Linux + Android. Built on pi.",
-        "stars": 668,
-        "url": "https://github.com/w01fb0ss/PiBot",
+        "name": "craft-cards-mod",
+        "owner": "abdelhameedkhaled55-droid",
+        "description": "Craft Cards Mod: Multiplayer Card Games for Minecraft 1.21.1 NeoForge",
+        "stars": 198,
+        "url": "https://github.com/abdelhameedkhaled55-droid/craft-cards-mod",
         "category": "Automation / Productivity"
       },
       {
-        "name": "studioonepro7-release",
-        "owner": "Adabi0304",
-        "description": "Studioonepro7 Release: Complete Desktop Suite with All Features Included",
-        "stars": 340,
-        "url": "https://github.com/Adabi0304/studioonepro7-release",
-        "category": "Automation / Productivity"
-      },
-      {
-        "name": "better-discord-client",
-        "owner": "juniordroid",
-        "description": "Better Discord Client: Remastered Desktop Experience for Modders",
-        "stars": 339,
-        "url": "https://github.com/juniordroid/better-discord-client",
+        "name": "turbotap",
+        "owner": "Maxteabag",
+        "description": "Fast, headless CLI & multi-step flow runner for physical iPhones over Wi-Fi",
+        "stars": 86,
+        "url": "https://github.com/Maxteabag/turbotap",
         "category": "Automation / Productivity"
       }
     ],
     "hacker_news": [
       {
-        "title": "The group chat where your AI talks behind your back",
-        "url": "https://construct22.com/",
-        "score": 502
+        "title": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+        "url": "https://malspark.com/blog/malicious-gguf-models-hugging-face/",
+        "score": 53
       },
       {
-        "title": "AI made self-hosting fun again",
-        "url": "https://janlukas.blog/posts/ai-self-hosting",
-        "score": 917
+        "title": "Loom seamlessly combines weaving, knitting and braiding",
+        "url": "https://news.cornell.edu/stories/2026/11/loom-seamlessly-combines-weaving-knitting-and-braiding",
+        "score": 199
       },
       {
-        "title": "US Air Force's cloud computing platform hacked",
-        "url": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
-        "score": 122
+        "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+        "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+        "score": 493
+      },
+      {
+        "title": "Why stop at Emacs? Native apps you or an AI reprogram in Clojure while they run",
+        "url": "https://github.com/RiccardoSottini/AffrescoUI",
+        "score": 3
+      },
+      {
+        "title": "The AI-designed USB-C LTE Modem is built, and it makes calls",
+        "url": "https://koppar.ai/blog/lte-modem-bring-up/",
+        "score": 3
       }
     ],
     "arxiv": [
@@ -132,13 +142,13 @@
         "title": "Nostalgia and the AI Productivity Paradox",
         "description": "There is something strangely nostalgic about November 2026.  GTA VI has finally arrived after 13...",
         "url": "https://dev.to/gramli/nostalgia-and-the-ai-productivity-paradox-4f33",
-        "reactions": 75
+        "reactions": 96
       },
       {
         "title": "Home Office Nightmare",
         "description": "I Constantly Try to Survive Reality  Maybe that's why I built an entire universe, including a...",
         "url": "https://dev.to/thethirdcup/home-office-nightmare-2ja0",
-        "reactions": 56
+        "reactions": 57
       },
       {
         "title": "I Made My RAG Safer. It Got Worse Under Load",
@@ -150,91 +160,94 @@
         "title": "8 Best MCP Gateways",
         "description": "Connecting one agent to one MCP server is easy. You paste a URL, approve a prompt, and the agent...",
         "url": "https://dev.to/varshithvhegde/8-best-mcp-gateways-4ddf",
-        "reactions": 45
+        "reactions": 50
       },
       {
-        "title": "Rent the Job. Own the Life.",
-        "description": "I own a house. I've also rented a lot of apartments. I treated them very differently. In my...",
-        "url": "https://dev.to/aws-heroes/rent-the-job-own-the-life-12g3",
-        "reactions": 13
+        "title": "I Opened My Diary to Solve His Problem. He Didn't Expect What He Saw.",
+        "description": "\"We write to taste life twice, in the moment and in retrospect.\" — Anaïs Nin   I was wondering...",
+        "url": "https://dev.to/thethirdcup/i-opened-my-diary-to-solve-his-problem-he-didnt-expect-what-he-saw-4ici",
+        "reactions": 49
       }
     ]
   },
-  "trends": "Today's tech landscape is marked by a strong push towards highly optimized, local-first AI solutions, driven by privacy, cost, and control, often involving bare-metal efficiency and self-hosting. Concurrently, there's a significant rise in sophisticated multi-agent AI systems, capable of complex collaborative tasks and self-improvement through mechanisms like memory consolidation, with a growing emphasis on inter-agent communication protocols (MCPs). Applied AI is making substantial strides in niche, real-world domains through specialized computer vision and machine learning applications. Underlying these advancements is a pervasive theme of developer-driven automation and platform enhancement to boost productivity, personalize digital experiences, and streamline workflows. Finally, there's an increasing focus on AI robustness, safety, interpretability, particularly for RAG systems, alongside a continuous demand for accessible educational resources in this rapidly evolving field.",
+  "trends": "Today's tech trends reveal a strong push towards hyper-efficient, local-first AI solutions, exemplified by bare-metal LLM implementations and GPU-accelerated image processing. There's a significant focus on domain-specific AI, particularly in Computer Vision for niche applications like marine identification, fitness analysis, and pathology. The agentic AI paradigm is gaining traction, with an emphasis on intelligent memory consolidation and robust inter-agent communication protocols. Simultaneously, concerns about AI model security, reliability under load (e.g., RAG systems), and adversarial attacks are becoming critical. In productivity and automation, there's a drive for highly personalized and adaptive tools, ranging from advanced keyboard remappers and game managers to headless mobile device automation, with a nascent interest in dynamic, AI-reprogrammable software at runtime. This indicates a convergence of AI capabilities with practical, often resource-constrained, real-world applications and developer tooling.",
   "ideas": [
     {
-      "title": "Local-Agent Desktop Orchestrator",
+      "title": "Bare-Metal AI Code Review & Learning Agent",
       "difficulty": "Medium",
-      "estimated_hours": 40,
-      "description": "Build a framework that allows users to run and manage multiple local-first AI agents on their desktop. This orchestrator would enable agents to communicate with each other (e.g., via a simple in-memory message queue or an MCP-like interface), access sandboxed desktop resources (browser, file system, specific applications via plugins), and perform coordinated tasks. Key features would include a user interface for defining agent roles and goals, monitoring agent interactions, and a basic 'memory consolidation' module for agents to refine their understanding and observations overnight. This empowers users with private, autonomous AI assistance without cloud dependencies.",
+      "estimated_hours": 80,
+      "description": "Inspired by the extreme efficiency of 'llm.asm' and the agentic memory consolidation of 'agentdream', this project involves building a local-first AI agent focused on developer productivity. The agent would perform static code analysis, offer context-aware refactoring suggestions, identify common code smells, and even propose learning resources based on the developer's local codebase. The emphasis is on running efficiently on modest hardware, ensuring privacy by keeping data local, and continuously learning from the developer's accepted/rejected suggestions to refine its advice over time, addressing the 'AI Productivity Paradox' by providing focused, reliable assistance.",
       "tech_stack": [
         "Python",
-        "Ollama/llama-cpp-python (for local LLMs)",
-        "Electron/React (for desktop UI)",
-        "SQLite (for local memory/state)"
+        "Rust (for performance-critical components)",
+        "llama-cpp-python (for local LLM inference)",
+        "Tree-sitter (for code parsing)",
+        "LangChain/LlamaIndex (for RAG and memory management)",
+        "SQLite (for local knowledge base)",
+        "Small GGUF LLM (e.g., TinyLlama, Phi-3-mini)"
       ],
-      "source_inspiration": "`PiBot`, `agentdream`, \"AI made self-hosting fun again\", \"The group chat where your AI talks behind your back\", \"8 Best MCP Gateways\"",
+      "source_inspiration": "llm.asm (extreme efficiency, local-first), agentdream (AI agent memory consolidation), 'I Made My RAG Safer. It Got Worse Under Load' (reliability, security), 'Why stop at Emacs? Native apps you or an AI reprogram in Clojure while they run' (dynamic adaptation).",
       "steps": [
-        "Set up a Python environment with an interface to a local LLM (e.g., integrate `ollama-python` or `llama-cpp-python`).",
-        "Develop a core `Agent` class that can receive prompts, interact with the LLM, and output structured actions.",
-        "Implement an `Orchestrator` module to instantiate and manage multiple `Agent` instances.",
-        "Design a simple, in-memory communication mechanism or a basic Message Passing Interface (MPI) between agents.",
-        "Build a desktop GUI (e.g., with Electron) to define agent roles, display their 'thoughts' and 'conversations', and trigger tasks.",
-        "Integrate a sandboxed plugin system allowing agents to perform limited desktop actions (e.g., open a URL, read a local file).",
-        "Develop a scheduled 'dream' or 'memory consolidation' routine where agents review past interactions and refine their internal knowledge base."
+        "Research and select a suitable small, local-inference LLM (e.g., a GGUF model) for code-related tasks.",
+        "Set up a local LLM inference environment using `llama-cpp-python` or similar.",
+        "Integrate a robust code parsing library (e.g., Tree-sitter) to create an Abstract Syntax Tree (AST) for various programming languages.",
+        "Develop a Retrieval Augmented Generation (RAG) system to feed relevant code snippets and documentation to the LLM for specific queries (refactoring, explanation).",
+        "Implement a 'memory' component (like `agentdream`) to store learned patterns, common developer preferences, and accepted suggestions in a local database.",
+        "Build a CLI tool or a basic VS Code extension to integrate the agent into the developer's workflow, allowing for on-demand analysis and feedback."
       ]
     },
     {
-      "title": "Niche-AI Micro-Trainer & Deployer",
+      "title": "MotionIQ: AI-Powered Home Gym Coach",
       "difficulty": "Medium",
       "estimated_hours": 60,
-      "description": "Create a specialized toolkit that allows developers to efficiently train and deploy highly optimized, small AI models for specific, narrow domains. This could focus on fine-tuning small language models (like those inspiring `llm.asm`'s efficiency) or vision models (like `fishid-studio`'s domain focus) on constrained, domain-specific datasets. The toolkit would emphasize data preparation, efficient training techniques (e.g., QLoRA, distillation, pruning), and robust deployment to edge devices or highly resource-constrained environments. The value lies in creating powerful, accurate AI for specific tasks without the overhead of massive general-purpose models.",
+      "description": "Expanding on 'MotionIQ-Squat-analysis', this project aims to create a comprehensive, local-first AI coach for various home exercises. Using a standard webcam, the system will perform real-time pose estimation to count reps, analyze exercise form (e.g., depth of squat, elbow position in push-ups), and provide immediate visual (overlays) and audio feedback. It will track progress over time, offering insights into form consistency and improvements. The privacy-aware design means all data processing occurs locally, making it a trusted personal assistant for fitness.",
       "tech_stack": [
         "Python",
-        "PyTorch/TensorFlow (for training)",
-        "Hugging Face Transformers/Timm (for model architectures)",
-        "ONNX/TensorRT/TFLite (for deployment optimization)",
-        "Docker (for packaging)"
+        "OpenCV (for camera access and display)",
+        "MediaPipe Pose (for real-time pose estimation)",
+        "TensorFlow Lite / ONNX Runtime (for optimized model inference)",
+        "NumPy (for pose calculations)",
+        "PyQt / Streamlit (for simple GUI)",
+        "SQLite (for exercise tracking data)"
       ],
-      "source_inspiration": "`llm.asm`, `fishid-studio`, `Geo-ML`, arXiv papers on autoencoders and foundation models.",
+      "source_inspiration": "MotionIQ-Squat-analysis (direct inspiration for real-time pose analysis), waifu2x-image-upscaler-windows (local AI, GPU acceleration for CV), fishid-studio (domain-specific CV, real-time tracking).",
       "steps": [
-        "Select a target 'micro-model' architecture (e.g., a small Vision Transformer for image classification or a distilled BERT for text classification).",
-        "Implement a flexible data loading and preprocessing pipeline for a chosen niche dataset (e.g., specific image types, specialized text documents).",
-        "Develop a training script incorporating efficiency techniques like mixed-precision training, gradient accumulation, or QLoRA for LLMs.",
-        "Add model optimization tools for quantization (e.g., INT8) and pruning to significantly reduce model size and inference cost.",
-        "Implement a robust deployment pipeline to export the optimized model for local inference (e.g., ONNX Runtime, TFLite).",
-        "Create a simple API or command-line interface for performing inference with the deployed, optimized model.",
-        "Provide documentation and examples demonstrating how to adapt the toolkit for different niche domains."
+        "Set up real-time webcam video stream capture using OpenCV.",
+        "Integrate a pre-trained pose estimation model (e.g., MediaPipe Pose or a custom YOLO-pose model) to detect human keypoints in real-time.",
+        "Develop exercise-specific logic to identify the start/end of reps and analyze form based on changes in keypoint positions and angles (e.g., knee angle for squats).",
+        "Implement a feedback system, including visual overlays on the video feed to highlight incorrect form and audio cues for corrections.",
+        "Design a user interface (e.g., with PyQt or Streamlit) to display real-time feedback, rep counts, and allow users to select exercises.",
+        "Add functionality to save workout data, including rep counts and form scores, to a local database and visualize progress over time."
       ]
     },
     {
-      "title": "Adaptive RAG Sentinel for Safety & Load",
-      "difficulty": "Medium",
-      "estimated_hours": 30,
-      "description": "Build a tool that helps developers evaluate the safety, accuracy, and performance of RAG (Retrieval Augmented Generation) systems under various loads and potential 'attack policies'. This tool would integrate with existing RAG implementations, allowing users to define 'ground truth' or 'safety' metrics for generated content, simulate diverse user queries (including adversarial ones designed to mislead or break the RAG), and measure the system's accuracy, latency, and resource consumption under increasing load. It aims to identify where a RAG system becomes 'unsafe', inaccurate, or unreliable, providing actionable insights for robust development, similar to how AI monitors are evaluated against attack policies.",
+      "title": "Contextual Workflow Assistant with Learning Automation",
+      "difficulty": "Hard",
+      "estimated_hours": 70,
+      "description": "Inspired by 'windows-keyboard-manager' and 'turbotap', this project focuses on creating an intelligent desktop automation tool that passively learns user habits and proactively suggests or executes automations. It observes common sequences of application usage, text manipulation, and repetitive tasks. For example, if it notices a user frequently opens specific tools together or copies data from one app, modifies it, and pastes into another, it can suggest or automatically perform these actions. The system emphasizes local learning, privacy, and adaptive behavior, moving towards a dynamically reconfigurable environment as suggested by the Clojure 'native apps' article.",
       "tech_stack": [
         "Python",
-        "FastAPI/Flask (for an evaluation API)",
-        "LangChain/LlamaIndex (for RAG integration)",
-        "Locust/JMeter (for load generation)",
-        "Prometheus/Grafana (for monitoring & visualization)"
+        "PyAutoGUI / AutoHotkey (for OS interaction)",
+        "Pynput / PyHook (for keyboard/mouse event listening)",
+        "Scikit-learn / TensorFlow.js (for local pattern recognition)",
+        "SQLite (for storing learned patterns and user history)",
+        "Electron / PyQt (for a cross-platform user interface)"
       ],
-      "source_inspiration": "\"I Made My RAG Safer. It Got Worse Under Load\", \"Attack Policy Selection can Mislead Monitor Evaluators\"",
+      "source_inspiration": "windows-keyboard-manager (OS-level automation), turbotap (headless automation, physical device control), 'Why stop at Emacs? Native apps you or an AI reprogram in Clojure while they run' (dynamic adaptation), 'universal-game-mod-manager' (managing specific application behaviors).",
       "steps": [
-        "Develop a Python module to programmatically interact with a target RAG system (send queries, parse responses, access retrieval context).",
-        "Implement a load generation engine that can simulate concurrent user queries to the RAG system.",
-        "Create a framework for defining 'ground truth' assertions or 'safety checks' for RAG outputs (e.g., keyword presence/absence, semantic similarity to trusted facts).",
-        "Implement metrics collection for accuracy, hallucination rate, latency, and resource usage during load and adversarial testing.",
-        "Develop a 'policy' generator for adversarial queries to test RAG robustness against misleading or out-of-distribution inputs.",
-        "Build a reporting mechanism (e.g., JSON, CSV, or a simple web dashboard) to visualize performance and safety metrics over time and under load.",
-        "Provide integration points for popular RAG frameworks (e.g., LlamaIndex, LangChain) to simplify testing for common setups."
+        "Implement system-level event listeners to capture keyboard, mouse, and active application focus changes (using libraries like `pynput` or `pyhook`).",
+        "Develop a mechanism to log sequences of user actions along with contextual metadata (active application, timestamp, clipboard content).",
+        "Implement a pattern recognition engine (e.g., using sequence mining algorithms or simple neural networks) to identify recurring workflows and user habits.",
+        "Design a user interface that can passively suggest potential automations based on learned patterns and allow users to approve, refine, or dismiss them.",
+        "Integrate with OS automation tools (e.g., `PyAutoGUI`) to execute approved workflows, including launching applications, typing text, and manipulating windows.",
+        "Implement a feedback loop where the system's learning models are continuously updated and refined based on user interactions with suggested automations."
       ]
     }
   ],
   "quick_actions": [
-    "Experiment with a local-first AI agent (e.g., using Ollama/Llama.cpp with a simple script) to automate a personal desktop task, focusing on reducing reliance on cloud AI services.",
-    "Dedicate 30 minutes this week to review and clean up old project files, unused dependencies, or deprecated code in personal projects, leveraging simple automation scripts where possible to streamline this 'memory consolidation' for your dev environment.",
-    "Investigate and experiment with a basic Multi-Agent Communication Protocol (MCP) framework or concept. Try building a tiny proof-of-concept where two local Python scripts exchange structured messages to solve a simple collaborative problem.",
-    "Proactively explore domain-specific AI applications in one of your personal interests or hobbies. Identify a small problem (e.g., classifying specific images, summarizing niche articles) that could be solved with a highly optimized, small ML model, and begin gathering a relevant dataset."
+    "When integrating any pre-trained AI model or component, actively seek out and review its provenance, security audits, and known vulnerabilities, and consider implementing local verification steps for data outputs.",
+    "Dedicate a few hours this week to experimenting with a local-first LLM (e.g., a GGUF model via `llama-cpp-python`) or a local Computer Vision model on your machine to understand their capabilities and limitations.",
+    "Identify one repetitive manual task in your daily developer workflow (e.g., setting up a new project, managing dependencies) and spend 30-60 minutes scripting a basic automation for it.",
+    "Read an introductory article or watch a tutorial on building simple AI agents or understanding agentic architecture patterns (e.g., memory, planning, tool use) to grasp the emerging paradigm."
   ]
 }
